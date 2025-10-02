@@ -8,6 +8,18 @@ import { getRecommendedFeed, FEED_PRESETS } from '@/lib/feedAlgorithm'
 
 export const runtime = 'nodejs'
 
+// Increase body size limit to 100MB for video uploads
+export const config = {
+  api: {
+    bodyParser: {
+      sizeLimit: '100mb',
+    },
+  },
+}
+
+// For Next.js 13+ App Router
+export const maxDuration = 300 // 5 minutes timeout
+
 async function saveFile(file: File, directory: string, id: string) {
   const arrayBuffer = await file.arrayBuffer()
   const buffer = Buffer.from(arrayBuffer)
