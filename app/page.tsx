@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState, useEffect, useRef, useMemo } from "react"
+import React, { useState, useEffect, useRef, useMemo, Suspense } from "react"
 import Link from "next/link"
 import { useSearchParams, useRouter } from 'next/navigation'
 import { ChevronLeft, ChevronRight, Home, Search, User, Play, Upload, Sun, Moon, Settings, LogOut, HelpCircle, Globe, Keyboard, DollarSign, FileText, UserCircle, X } from "lucide-react"
@@ -55,7 +55,7 @@ function shuffle<T>(array: T[]): T[] {
   return newArray
 }
 
-export default function Lootube() {
+function LootubeContent() {
   const { theme, setTheme } = useTheme()
   const router = useRouter()
   const searchParams = useSearchParams()
@@ -748,6 +748,18 @@ function EmptyState({ onClear }: { onClear: () => void }) {
       </p>
       <Button onClick={onClear} className="rounded-full">Clear search</Button>
     </div>
+  )
+}
+
+export default function Lootube() {
+  return (
+    <Suspense fallback={
+      <div className="flex min-h-screen items-center justify-center">
+        <div className="h-8 w-8 animate-spin rounded-full border-4 border-gray-300 border-t-gray-900 dark:border-gray-600 dark:border-t-gray-100" />
+      </div>
+    }>
+      <LootubeContent />
+    </Suspense>
   )
 }
 
