@@ -119,94 +119,51 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'Video file is required' }, { status: 400 })
     }
 
-    const title = (formData.get('title') as string) || 'Untitled upload'
-    const description = (formData.get('description') as string) || ''
-    const category = (formData.get('category') as string) || 'General'
-    const tagsRaw = (formData.get('tags') as string) || '[]'
-    const tags = JSON.parse(tagsRaw) as string[]
-    const visibility = (formData.get('visibility') as string) || 'public'
-    const durationSeconds = parseNumber(formData.get('durationSeconds'), 0)
-    const rawType = (formData.get('type') as string) || 'video'
-    const type = rawType === 'short' ? 'short' : 'video'
-    const id = createUploadId(type)
+    // Use WordPress API for uploads
+    const wordpressApiUrl = process.env.NEXT_PUBLIC_WORDPRESS_API || 'http://localhost/wordpress/wp-json/loottube/v1'
 
-    const filePath = await saveFile(file, UPLOAD_DIR, id)
-    let thumbnailPath: string | null = null
+    // Forward the upload to WordPress
+    const wpFormData = new FormData()
+    wpFormData.append('file', file)
+
     const thumbnail = formData.get('thumbnail')
     if (thumbnail instanceof File && thumbnail.size > 0) {
-      thumbnailPath = await saveFile(thumbnail, THUMBNAIL_DIR, id)
+      wpFormData.append('thumbnail', thumbnail)
     }
 
-    const createdAt = new Date().toISOString()
-    const ownerId = (formData.get('userId') as string) || undefined
-    const channelId = (formData.get('channelId') as string) || undefined
-    const channelName = (formData.get('channelName') as string) || undefined
-    const region = (formData.get('region') as string) || undefined // Creator's region
+    // Add metadata
+    wpFormData.append('title', formData.get('title') as string || 'Untitled upload')
+    wpFormData.append('description', formData.get('description') as string || '')
+    wpFormData.append('category', formData.get('category') as string || 'General')
+    wpFormData.append('tags', formData.get('tags') as string || '[]')
+    wpFormData.append('visibility', formData.get('visibility') as string || 'public')
+    wpFormData.append('durationSeconds', formData.get('durationSeconds') as string || '0')
+    wpFormData.append('type', formData.get('type') as string || 'video')
 
-    const storedRecord: StoredUpload = {
-      id,
-      title,
-      description,
-      category,
-      tags,
-      visibility: visibility as 'public' | 'unlisted' | 'private',
-      filePath,
-      thumbnailPath,
-      durationSeconds,
-      type,
-      createdAt,
-      viewCount: 0,
-      likeCount: 0,
-      dislikeCount: 0,
-      commentCount: 0,
-      ownerId,
-      channelId,
-      region,
+    // Pass user/channel info
+    if (formData.get('userId')) wpFormData.append('userId', formData.get('userId') as string)
+    if (formData.get('channelId')) wpFormData.append('channelId', formData.get('channelId') as string)
+    if (formData.get('channelName')) wpFormData.append('channelName', formData.get('channelName') as string)
+    if (formData.get('region')) wpFormData.append('region', formData.get('region') as string)
+
+    const uploadResponse = await fetch(`${wordpressApiUrl}/upload`, {
+      method: 'POST',
+      body: wpFormData,
+      // Note: No auth for now, WordPress handles it via is_user_logged_in
+    })
+
+    if (!uploadResponse.ok) {
+      const errorData = await uploadResponse.json().catch(() => ({}))
+      throw new Error(errorData.message || 'WordPress upload failed')
     }
 
-    const record = await addUpload(storedRecord)
+    const wpData = await uploadResponse.json()
 
-    // Get channel info from form data or use default
-    let channelInfo
-    if (channelId && channelName) {
-      channelInfo = {
-        id: channelId,
-        title: channelName,
-        avatar: '/placeholder.svg',
-      }
-    } else {
-      const profile = await getStoredChannelProfile()
-      channelInfo = {
-        id: profile.id,
-        title: profile.title,
-        avatar: profile.avatar,
-      }
-    }
-
-    if (!channelInfo.id && channelId) {
-      channelInfo.id = channelId
-    }
-
-    if (ownerId && channelName && !(await hasStoredChannelProfile(ownerId))) {
-      const sanitizedName = channelName.toLowerCase().replace(/[^a-z0-9._-]/g, '')
-      await updateStoredChannelProfile(
-        {
-          id: channelId || `channel_${ownerId}`,
-          title: channelName,
-          handle: `@${sanitizedName || ownerId}`,
-          ownerId,
-        },
-        ownerId
-      )
-    }
-
-    const normalized = mapStoredUploadToVideo(record, channelInfo)
-
-    return NextResponse.json({ record: normalized })
+    return NextResponse.json({ record: wpData })
   } catch (error) {
     console.error('Upload error:', error)
     return NextResponse.json(
-      { error: 'Failed to store upload' },
+      { error: error instanceof Error ? error.message : 'Failed to store upload' },
       { status: 500 }
     )
   }
