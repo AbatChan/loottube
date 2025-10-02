@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80">
+  <rect width="400" height="80" rx="8" ry="8" fill="#2563EB" />
+  <text x="20" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="white">Lootube</text>
+  <circle cx="350" cy="40" r="25" fill="rgba(255,255,255,0.1)" />
+  <polygon points="340,30 340,50 360,40" fill="white" />
+</svg>

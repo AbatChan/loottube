@@ -1,0 +1,3787 @@
+{
+  "timestamp": 1758120896430,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "9H6ZG_GXLN2aM0QSVzZ4Kv7K1Dk",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "l47oc46UB4OG1StRR5P9-TBZbKA",
+        "id": "tqT9jTAP-dA",
+        "snippet": {
+          "publishedAt": "2025-03-29T15:52:42Z",
+          "channelId": "UCwN6WZLeXWu37N8y-2w35mA",
+          "title": "Joe Rogan Reacts To Trump’s Hilarious Rant",
+          "description": "Joe Rogan Reacts To Trump’s Hilarious Rant\n\nhttps://www.instagram.com/_mind.lab/\n\n#joerogan #shorts #trump",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tqT9jTAP-dA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tqT9jTAP-dA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tqT9jTAP-dA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tqT9jTAP-dA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tqT9jTAP-dA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mindlab",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Joe Rogan Reacts To Trump’s Hilarious Rant",
+            "description": "Joe Rogan Reacts To Trump’s Hilarious Rant\n\nhttps://www.instagram.com/_mind.lab/\n\n#joerogan #shorts #trump"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8632187",
+          "likeCount": "319782",
+          "favoriteCount": "0",
+          "commentCount": "3435"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0ZQGOY-J57Nb1cDS1ncrqbybZ3I",
+        "id": "6pfmmv9Kzmo",
+        "snippet": {
+          "publishedAt": "2022-09-12T13:15:00Z",
+          "channelId": "UCbV60AGIHKz2xIGvbk0LLvg",
+          "title": "Happiness shouldn’t depend on this 💯 #shorts",
+          "description": "This clip is from my brand new podcast with Kendall Jenner! Check out our full talk right here 👉 https://apple.co/3RTT9X5",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6pfmmv9Kzmo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6pfmmv9Kzmo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6pfmmv9Kzmo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6pfmmv9Kzmo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Jay Shetty",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Happiness shouldn’t depend on this 💯 #shorts",
+            "description": "This clip is from my brand new podcast with Kendall Jenner! Check out our full talk right here 👉 https://apple.co/3RTT9X5"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3333216",
+          "likeCount": "121221",
+          "favoriteCount": "0",
+          "commentCount": "902"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Wxve6soXD_ihfipbWIS2kAUwkII",
+        "id": "wtibdEh7VfY",
+        "snippet": {
+          "publishedAt": "2023-03-30T19:00:31Z",
+          "channelId": "UC9dbJfyzwduvCb0AFafPPkw",
+          "title": "Joe Rogan Scared by Podcast Guest",
+          "description": "#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wtibdEh7VfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rogan Shorts",
+          "tags": [
+            "joe rogan",
+            "jre",
+            "podcast",
+            "joe rogan podcast",
+            "jre podcast",
+            "joey diaz",
+            "theo von",
+            "andrew schulz",
+            "joey diaz joe rogan",
+            "joe rogan joey diaz",
+            "joe rogan experience",
+            "neil degrasse",
+            "neil degrasse tyson",
+            "david goggins",
+            "ben shapiro",
+            "theo von joe rogan",
+            "brendan schaub",
+            "ufc",
+            "dana white",
+            "mma",
+            "joe rogan ufc",
+            "andrew schulz podcast",
+            "elon musk",
+            "joe rogan elon musk",
+            "liver king",
+            "trump",
+            "donald trump",
+            "joe biden",
+            "joe rogan shorts",
+            "jre shorts",
+            "rogan shorts",
+            "rogan",
+            "rogan podcast",
+            "shorts",
+            "comedy"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Joe Rogan Scared by Podcast Guest",
+            "description": "#shorts"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "21954716",
+          "likeCount": "766595",
+          "favoriteCount": "0",
+          "commentCount": "24275"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hk0A6Yr_kDz6R8NAaVNZzYMsaBM",
+        "id": "43Fm3GX_iGg",
+        "snippet": {
+          "publishedAt": "2022-07-14T20:00:01Z",
+          "channelId": "UCkLUQ2TIUuuaRfNP3VwHR5A",
+          "title": "The Way Students Talk to Teachers is SHOCKING #shorts #teacher #podcast #classroom #boredteachers",
+          "description": "Listen to the podcast anywhere you stream your favorite shows:\n﻿Spotify: ﻿https://open.spotify.com/show/3hHNybdOJb7BOwe0eNE7z6?si=5832dfff5c1e417e﻿\n﻿Apple: ﻿https://podcasts.apple.com/us/podcast/teachers-off-duty/id1602160612﻿﻿﻿\n \nSubscribe to our newsletter: https://www.beacons.ai/teachersoffdutypod\n \nBecome a Patreon member to access exclusive bonus content with hilarious games: https://www.patreon.com/teachersoffdutypodcast",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/43Fm3GX_iGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/43Fm3GX_iGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/43Fm3GX_iGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/43Fm3GX_iGg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/43Fm3GX_iGg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Teachers Off Duty Podcast",
+          "tags": [
+            "Teachers off duty",
+            "teacher podcast",
+            "honest teacher vibes",
+            "rrogers",
+            "mrs wooley in 5th",
+            "mr thomas english",
+            "funny",
+            "teacher",
+            "teacher humor",
+            "bored teachers",
+            "teacher life",
+            "student life",
+            "student stories",
+            "classroom stories",
+            "real classrooms",
+            "teacher stories",
+            "parents",
+            "parent teacher",
+            "types of parenting",
+            "parenting",
+            "summer vacation",
+            "summer break",
+            "summer",
+            "teachers off duty"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Way Students Talk to Teachers is SHOCKING #shorts #teacher #podcast #classroom #boredteachers",
+            "description": "Listen to the podcast anywhere you stream your favorite shows:\n﻿Spotify: ﻿https://open.spotify.com/show/3hHNybdOJb7BOwe0eNE7z6?si=5832dfff5c1e417e﻿\n﻿Apple: ﻿https://podcasts.apple.com/us/podcast/teachers-off-duty/id1602160612﻿﻿﻿\n \nSubscribe to our newsletter: https://www.beacons.ai/teachersoffdutypod\n \nBecome a Patreon member to access exclusive bonus content with hilarious games: https://www.patreon.com/teachersoffdutypodcast"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4753324",
+          "likeCount": "340013",
+          "favoriteCount": "0",
+          "commentCount": "6471"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "t6x7MeUdFbeFRWpvljLnL3n5Bhc",
+        "id": "1fZcUR9j-eA",
+        "snippet": {
+          "publishedAt": "2023-05-29T17:13:41Z",
+          "channelId": "UCGo0VEAAJW0o0FZdQ-wmTmQ",
+          "title": "Ep.39 THE COLOR BLUE CONSPIRACY! #ninjasarebutterflies #podcast #sundaycool #comedy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1fZcUR9j-eA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1fZcUR9j-eA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1fZcUR9j-eA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1fZcUR9j-eA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1fZcUR9j-eA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sunday Cool",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ep.39 THE COLOR BLUE CONSPIRACY! #ninjasarebutterflies #podcast #sundaycool #comedy",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4215805",
+          "likeCount": "178688",
+          "favoriteCount": "0",
+          "commentCount": "4796"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "1DQ9_K5eXKDb-U76UIYzpUJa6a0",
+        "id": "LGIZtPsafSs",
+        "snippet": {
+          "publishedAt": "2024-07-17T22:24:56Z",
+          "channelId": "UCWTF8SjOYofMMU8I8s20lUw",
+          "title": "Joe Rogan - The Donald Trump Incident 😲",
+          "description": "Clip taken from Joe Rogan Experience #2176 - Chad Daniels.\n\nJoe discusses the failed shooting of President Trump\n\n#donaldtrump \n#joerogan\n#news",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LGIZtPsafSs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LGIZtPsafSs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LGIZtPsafSs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LGIZtPsafSs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LGIZtPsafSs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Joe Rogan Shorts",
+          "tags": [
+            "Joe Rogan experience",
+            "podcast",
+            "#podcast",
+            "trump",
+            "president",
+            "tiktok",
+            "Joe rogan shorts",
+            "#shorts",
+            "New",
+            "news",
+            "clips",
+            "shot",
+            "shooting",
+            "rogan recut",
+            "jre",
+            "#jre"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Joe Rogan - The Donald Trump Incident 😲",
+            "description": "Clip taken from Joe Rogan Experience #2176 - Chad Daniels.\n\nJoe discusses the failed shooting of President Trump\n\n#donaldtrump \n#joerogan\n#news"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10404420",
+          "likeCount": "380285",
+          "favoriteCount": "0",
+          "commentCount": "11087"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kODn6vZiFfBkr9rx9mDAadPPPwY",
+        "id": "_7BV_5i3St0",
+        "snippet": {
+          "publishedAt": "2024-12-20T04:28:02Z",
+          "channelId": "UCQn8BbvXo93U94m7efTsQJQ",
+          "title": "Mr. Beast monthly income 😀#shorts #podcast #mrbeastshorts #mrbeast #income #money",
+          "description": "Mr. Beast monthly income 😀#shorts #podcast #mrbeastshorts #mrbeast #income #money #mrbeast\n#mrbeastincome\n#mrbeastfans\n#mrbeastyt\n#mrbeastmerch\n#mrbeastchallenge\n#success\n#entrepreneur\n#millionaire\n\nCredit:-@rajshamani \n\nFollow me for more such content 💕😁 \n\n\nmr beast\nmr beast income\nmr beast net worth\nmr beast challenge\nmr beast videos\npodcast\ntop podcasts\npodcast episodes\npodcast recommendations\nbest podcasts\nMrBeast Income:\nmr beast earnings\nmr beast revenue\nhow much does mr beast make\nmr beast ad revenue\nmr beast monthly income",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_7BV_5i3St0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_7BV_5i3St0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_7BV_5i3St0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_7BV_5i3St0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_7BV_5i3St0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "US clips shorts",
+          "tags": [
+            "shorts",
+            "shorts feed",
+            "podcast",
+            "podcast shorts",
+            "podcast hindi",
+            "podcast english",
+            "Mr beast",
+            "Mr beast income",
+            "Mr beast revenue",
+            "Mr beast net worth",
+            "Mr beast challenge video",
+            "Mr beast video",
+            "top podcast",
+            "best podcast",
+            "podcast episode",
+            "Mr beast earning",
+            "Mr beast monthly income",
+            "how much does mr beast make",
+            "Mr beast ad revenue",
+            "money",
+            "money power"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mr. Beast monthly income 😀#shorts #podcast #mrbeastshorts #mrbeast #income #money",
+            "description": "Mr. Beast monthly income 😀#shorts #podcast #mrbeastshorts #mrbeast #income #money #mrbeast\n#mrbeastincome\n#mrbeastfans\n#mrbeastyt\n#mrbeastmerch\n#mrbeastchallenge\n#success\n#entrepreneur\n#millionaire\n\nCredit:-@rajshamani \n\nFollow me for more such content 💕😁 \n\n\nmr beast\nmr beast income\nmr beast net worth\nmr beast challenge\nmr beast videos\npodcast\ntop podcasts\npodcast episodes\npodcast recommendations\nbest podcasts\nMrBeast Income:\nmr beast earnings\nmr beast revenue\nhow much does mr beast make\nmr beast ad revenue\nmr beast monthly income"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7115083",
+          "likeCount": "133301",
+          "favoriteCount": "0",
+          "commentCount": "157"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Df38gJseadlRRr_bNBFZybKyOMQ",
+        "id": "ymC61gFBReE",
+        "snippet": {
+          "publishedAt": "2023-12-29T02:56:40Z",
+          "channelId": "UCIjlDLyhbDDqz8RwATzNerg",
+          "title": "Influencer gets K*lled by the Cartel!!!😱😰 Jumpers Jump Podcast EP:108 #jumpersjump #podcast #shorts",
+          "description": "Influencer gets K*lled by the Cartel!!!😱😰\nJumpers Jump Podcast EP:108\n#jumpersjump #podcast #mystery #foryou #trending #viral #scary #shorts #shortsfeed #shortsviral #influencer",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ymC61gFBReE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ymC61gFBReE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ymC61gFBReE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ymC61gFBReE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ymC61gFBReE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "JumpersJumps Shorts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Influencer gets K*lled by the Cartel!!!😱😰 Jumpers Jump Podcast EP:108 #jumpersjump #podcast #shorts",
+            "description": "Influencer gets K*lled by the Cartel!!!😱😰\nJumpers Jump Podcast EP:108\n#jumpersjump #podcast #mystery #foryou #trending #viral #scary #shorts #shortsfeed #shortsviral #influencer"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13710109",
+          "likeCount": "470232",
+          "favoriteCount": "0",
+          "commentCount": "2691"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Gdc9ZwcGhGNeZlsykcTQifQ1crw",
+        "id": "dgqSPA-MrKA",
+        "snippet": {
+          "publishedAt": "2024-05-19T14:57:00Z",
+          "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+          "title": "Stay Away From These People | Raj Shamani #Shorts",
+          "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dgqSPA-MrKA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dgqSPA-MrKA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dgqSPA-MrKA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dgqSPA-MrKA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dgqSPA-MrKA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani",
+          "tags": [
+            "raj shamani",
+            "shamani industries",
+            "figuring out with raj shamani",
+            "inspirational",
+            "india",
+            "figuring out",
+            "raj shamani podcast",
+            "hindi podcast",
+            "indian podcast",
+            "english podcast",
+            "motivation",
+            "indian startups",
+            "success",
+            "podcast",
+            "figuring out podcast",
+            "latest podcast",
+            "trending podcast",
+            "health",
+            "wealth",
+            "relationship"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stay Away From These People | Raj Shamani #Shorts",
+            "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2127613",
+          "likeCount": "53038",
+          "favoriteCount": "0",
+          "commentCount": "384"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EFD7v5Uz_cZnwLrHRUKYT4e-KGU",
+        "id": "HGyitdOwwws",
+        "snippet": {
+          "publishedAt": "2025-06-05T14:30:11Z",
+          "channelId": "UCqnnUiMQb_PD5vb5vVo3leg",
+          "title": "Podcast Editing into Engaging Reels 🔥 #shorts #aftereffects #edit",
+          "description": "Podcast Editing into Engaging Reels 🔥 #shorts #aftereffects #edit\n\n\ninstagram reels,video editing,capcut video editing,video editing tutorial,video editing in capcut,podcast editing,instagram reels editing,how to edit reels,podcast,best reels editing apps,instagram reels video editing,reels editing,capcut video editing tutorial,aesthetic reels editing,reels editing tips,editing reels 2025,aesthetic reels editing in premiere pro,reels audio editing,reels editing guide,viral reels editing,viral reels video editing",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HGyitdOwwws/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HGyitdOwwws/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HGyitdOwwws/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HGyitdOwwws/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HGyitdOwwws/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Creative Dibakar ",
+          "tags": [
+            "viral reels",
+            "podcast edit",
+            "amir khan",
+            "after effects",
+            "capcut",
+            "premiere pro",
+            "shorts feed",
+            "edit",
+            "freelance",
+            "freelancing",
+            "before after reels",
+            "video edit"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Podcast Editing into Engaging Reels 🔥 #shorts #aftereffects #edit",
+            "description": "Podcast Editing into Engaging Reels 🔥 #shorts #aftereffects #edit\n\n\ninstagram reels,video editing,capcut video editing,video editing tutorial,video editing in capcut,podcast editing,instagram reels editing,how to edit reels,podcast,best reels editing apps,instagram reels video editing,reels editing,capcut video editing tutorial,aesthetic reels editing,reels editing tips,editing reels 2025,aesthetic reels editing in premiere pro,reels audio editing,reels editing guide,viral reels editing,viral reels video editing"
+          },
+          "defaultAudioLanguage": "hi-Latn"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "359281",
+          "likeCount": "7038",
+          "favoriteCount": "0",
+          "commentCount": "160"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XdQq2lnAdR1b7Dc7sdcn7j01xz8",
+        "id": "tVI8d2H4SMU",
+        "snippet": {
+          "publishedAt": "2025-09-16T16:44:04Z",
+          "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+          "title": "Why is France protesting? #TheTake #Shorts #Podcast",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tVI8d2H4SMU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tVI8d2H4SMU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tVI8d2H4SMU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tVI8d2H4SMU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tVI8d2H4SMU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Al Jazeera English",
+          "tags": [
+            "al jazeera live",
+            "al jazeera english",
+            "al jazeera",
+            "Al Jazeera English",
+            "Al Jazeera",
+            "aljazeera English",
+            "aljazeera live",
+            "aljazeera live news",
+            "aljazeera latest",
+            "latest news",
+            "news headlines",
+            "al jazeera video",
+            "aljazeera live tv news english",
+            "France debt crisis",
+            "Macron government collapse",
+            "Sébastien Lecornu",
+            "France strikes",
+            "French economy",
+            "French politics",
+            "France unrest",
+            "France government news",
+            "French elections 2026",
+            "France protests",
+            "the take",
+            "ajepodcasts",
+            "podcast"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Why is France protesting? #TheTake #Shorts #Podcast",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16755",
+          "likeCount": "568",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QJkh6rdWJeIzHrMqMxlJJIkns-g",
+        "id": "9a4lm6yBZlA",
+        "snippet": {
+          "publishedAt": "2024-09-09T06:23:00Z",
+          "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+          "title": "I Hated Compliments On My Beauty | Raj Shamani #Shorts",
+          "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9a4lm6yBZlA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9a4lm6yBZlA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9a4lm6yBZlA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9a4lm6yBZlA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9a4lm6yBZlA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani",
+          "tags": [
+            "raj shamani",
+            "shamani industries",
+            "figuring out with raj shamani",
+            "inspirational",
+            "india",
+            "figuring out",
+            "raj shamani podcast",
+            "hindi podcast",
+            "indian podcast",
+            "english podcast",
+            "motivation",
+            "indian startups",
+            "success",
+            "podcast",
+            "figuring out podcast",
+            "latest podcast",
+            "trending podcast",
+            "health",
+            "wealth",
+            "relationship"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I Hated Compliments On My Beauty | Raj Shamani #Shorts",
+            "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2606086",
+          "likeCount": "90530",
+          "favoriteCount": "0",
+          "commentCount": "1353"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CGVpBvke6ihnNZC2AjMlKgJoq9s",
+        "id": "5QBkK11ED9Q",
+        "snippet": {
+          "publishedAt": "2025-06-27T10:01:52Z",
+          "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+          "title": "Change Your Mindset To Become Successful | Raj Shamani #Shorts #podcast #rajshamani #motivation",
+          "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5QBkK11ED9Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5QBkK11ED9Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5QBkK11ED9Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5QBkK11ED9Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5QBkK11ED9Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani",
+          "tags": [
+            "raj shamani",
+            "shamani industries",
+            "figuring out with raj shamani",
+            "inspirational",
+            "india",
+            "figuring out",
+            "raj shamani podcast",
+            "hindi podcast",
+            "indian podcast",
+            "english podcast",
+            "motivation",
+            "indian startups",
+            "success",
+            "podcast",
+            "figuring out podcast",
+            "latest podcast",
+            "trending podcast",
+            "health",
+            "wealth",
+            "relationship"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Change Your Mindset To Become Successful | Raj Shamani #Shorts #podcast #rajshamani #motivation",
+            "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3118781",
+          "likeCount": "142841",
+          "favoriteCount": "0",
+          "commentCount": "374"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "H1sGGzi6h9SOMai5yQs9eEJm80s",
+        "id": "l_nf9Lco1NM",
+        "snippet": {
+          "publishedAt": "2025-05-17T04:12:01Z",
+          "channelId": "UCIlLtqQMSi_6baSX2xgidSg",
+          "title": "Discipline and consistency 💯🔥 podcast knowledge | #motivation #moneyminds #shorts",
+          "description": "Discipline and consistency 💯🔥 podcast knowledge | motivational shorts | \n\n#motivation #inspiration #success #knowledge #discipline #consistency #foryou #fypyoutube",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l_nf9Lco1NM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l_nf9Lco1NM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l_nf9Lco1NM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l_nf9Lco1NM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l_nf9Lco1NM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Success growth ",
+          "tags": [
+            "motivational shorts",
+            "inspirational shorts",
+            "success motivation",
+            "success",
+            "discipline",
+            "consistency",
+            "neeraj walia",
+            "podcast knowledge"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Discipline and consistency 💯🔥 podcast knowledge | #motivation #moneyminds #shorts",
+            "description": "Discipline and consistency 💯🔥 podcast knowledge | motivational shorts | \n\n#motivation #inspiration #success #knowledge #discipline #consistency #foryou #fypyoutube"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "367046",
+          "likeCount": "11854",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7zBiu2lxqaLVTinEttbJMrPsEM0",
+        "id": "V3XkiRzyIZI",
+        "snippet": {
+          "publishedAt": "2024-08-31T11:06:39Z",
+          "channelId": "UCwhORPesqAAwY0nkGj_EV9w",
+          "title": "How to edit podcast video । Podcast short kaise bnaye #videoediting #shorts #editing #reels",
+          "description": "How to edit podcast video । Podcast short kaise bnaye #videoediting #shorts #editing #reels\n\n\n\nPodcast reels kaise bnaye\nPodcast editing \nPodcast Shorts Kaise banaye \nShorts editing tutorial\nHow to edit podcast Video\nbasic to advance video editing\nbecome a professional video editor\n\n\nVideo editing \nVideo editing in mobile \nMake money with video editing \nAdvance video editing \nVideo editing kaise karein\nVideo editing for Beginners",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V3XkiRzyIZI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V3XkiRzyIZI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V3XkiRzyIZI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V3XkiRzyIZI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V3XkiRzyIZI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Become_0tohero",
+          "tags": [
+            "video editing",
+            "video editing tutorial",
+            "video editing in mobile",
+            "podcast short kaise bnaye",
+            "podcast shorts",
+            "podcast reels",
+            "video editor",
+            "photo editing",
+            "make money online",
+            "edit shorts",
+            "edit podcast"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How to edit podcast video । Podcast short kaise bnaye #videoediting #shorts #editing #reels",
+            "description": "How to edit podcast video । Podcast short kaise bnaye #videoediting #shorts #editing #reels\n\n\n\nPodcast reels kaise bnaye\nPodcast editing \nPodcast Shorts Kaise banaye \nShorts editing tutorial\nHow to edit podcast Video\nbasic to advance video editing\nbecome a professional video editor\n\n\nVideo editing \nVideo editing in mobile \nMake money with video editing \nAdvance video editing \nVideo editing kaise karein\nVideo editing for Beginners"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "344926",
+          "likeCount": "4308",
+          "favoriteCount": "0",
+          "commentCount": "98"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9i5x3lZF-7wvSGQDPG57tP6CaYk",
+        "id": "E7J5cEvu6kI",
+        "snippet": {
+          "publishedAt": "2025-04-07T04:26:16Z",
+          "channelId": "UCIlLtqQMSi_6baSX2xgidSg",
+          "title": "Top 0.01% achievers mindset 🧠📈 #success #achievement #motivation #shorts",
+          "description": "Top 0.01% achievers mindset 🧠raj shamani podcast | motivational shorts | podcast knowledge | \n\ncredit -@rajshamani \n\n#achievement #goals #focus #motivational #inspiration #fypyoutube",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E7J5cEvu6kI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E7J5cEvu6kI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E7J5cEvu6kI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E7J5cEvu6kI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Success growth ",
+          "tags": [
+            "raj shamani podcast",
+            "raj shamani new podcast",
+            "raj shamani",
+            "motivational shorts",
+            "inspirational shorts",
+            "podcast knowledge",
+            "top 1% mindset"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Top 0.01% achievers mindset 🧠📈 #success #achievement #motivation #shorts",
+            "description": "Top 0.01% achievers mindset 🧠raj shamani podcast | motivational shorts | podcast knowledge | \n\ncredit -@rajshamani \n\n#achievement #goals #focus #motivational #inspiration #fypyoutube"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3020949",
+          "likeCount": "120783",
+          "favoriteCount": "0",
+          "commentCount": "312"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "S-jbqfxmwYs5yC-r-81-Tm3j8is",
+        "id": "mKtLclKoA24",
+        "snippet": {
+          "publishedAt": "2024-12-18T14:57:00Z",
+          "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+          "title": "USA vs India YouTube Earnings - @MrBeast | Raj Shamani #Shorts",
+          "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mKtLclKoA24/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mKtLclKoA24/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mKtLclKoA24/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mKtLclKoA24/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mKtLclKoA24/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani",
+          "tags": [
+            "raj shamani",
+            "shamani industries",
+            "figuring out with raj shamani",
+            "inspirational",
+            "india",
+            "figuring out",
+            "raj shamani podcast",
+            "hindi podcast",
+            "indian podcast",
+            "english podcast",
+            "motivation",
+            "indian startups",
+            "success",
+            "podcast",
+            "figuring out podcast",
+            "latest podcast",
+            "trending podcast",
+            "health",
+            "wealth",
+            "relationship"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "USA vs India YouTube Earnings - @MrBeast | Raj Shamani #Shorts",
+            "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "373904",
+          "likeCount": "11024",
+          "favoriteCount": "0",
+          "commentCount": "79"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DqRMmi_hkd1iVu_HePiVOoXs3Sk",
+        "id": "SVbgVpigmAg",
+        "snippet": {
+          "publishedAt": "2024-11-27T03:30:10Z",
+          "channelId": "UCGen0VdtskXYv0ldQlM7ryg",
+          "title": "The Desi Side Of Ananya Panday - Favorite Food | Raj Shamani #shorts",
+          "description": "☑️ Subscribe To Our Primary/Podcast Channel:\nhttps://www.youtube.com/@rajshamani\n\n☑️ Subscribe To Our Clips Channel: \nhttps://www.youtube.com/@rajshamaniclips\n\n🎧 Listen To Figuring Out Episodes On Spotify:\nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4 \n\nBecome A Part Of The Community,\nBy Following Us On ⤵︎\n\nInstagram @FiguringOut.Co\nhttps://www.instagram.com/figuringout.co/\n\n\n•   •   •\n\nAbout Raj Shamani\nRaj Shamani is the Founder Of Figuring Out Media and House of X. He's an Entrepreneur, Content Creator, Investor, and a Renowned Keynote Speaker. Raj has emerged as one of the Youngest Influencers in the Indian creator economy.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://in.linkedin.com/in/rajshamani\n\n•   •   •\n\n#FiguringOut #RajShamani #Podcast\n\nAbout Figuring Out Clips\nFiguring Out Clips is your destination to find the highlights of the best Business & Entrepreneurship Podcast - Figuring Out. So in order to become the best version of yourself,\nyou just NEED TO #KeepFiguringOut",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SVbgVpigmAg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SVbgVpigmAg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SVbgVpigmAg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SVbgVpigmAg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SVbgVpigmAg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani Shorts",
+          "tags": [
+            "figuring out",
+            "raj shamani",
+            "figuring out with raj shamani",
+            "figuring out shorts",
+            "raj shamani shorts",
+            "podcast shorts",
+            "figuring out podcast",
+            "raj shamani podcast",
+            "hindi podcast",
+            "latest short",
+            "new short",
+            "indian podcast",
+            "english podcast",
+            "shorts",
+            "The Desi Side Of Ananya Panday",
+            "Ananya Panday",
+            "Favorite Food",
+            "Ananya Panday Favorite Food",
+            "chilli paneer",
+            "Indian Food",
+            "Chines Food"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Desi Side Of Ananya Panday - Favorite Food | Raj Shamani #shorts",
+            "description": "☑️ Subscribe To Our Primary/Podcast Channel:\nhttps://www.youtube.com/@rajshamani\n\n☑️ Subscribe To Our Clips Channel: \nhttps://www.youtube.com/@rajshamaniclips\n\n🎧 Listen To Figuring Out Episodes On Spotify:\nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4 \n\nBecome A Part Of The Community,\nBy Following Us On ⤵︎\n\nInstagram @FiguringOut.Co\nhttps://www.instagram.com/figuringout.co/\n\n\n•   •   •\n\nAbout Raj Shamani\nRaj Shamani is the Founder Of Figuring Out Media and House of X. He's an Entrepreneur, Content Creator, Investor, and a Renowned Keynote Speaker. Raj has emerged as one of the Youngest Influencers in the Indian creator economy.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://in.linkedin.com/in/rajshamani\n\n•   •   •\n\n#FiguringOut #RajShamani #Podcast\n\nAbout Figuring Out Clips\nFiguring Out Clips is your destination to find the highlights of the best Business & Entrepreneurship Podcast - Figuring Out. So in order to become the best version of yourself,\nyou just NEED TO #KeepFiguringOut"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4458720",
+          "likeCount": "128615",
+          "favoriteCount": "0",
+          "commentCount": "374"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ibVJHYyVZYCcd5PWS8E9pGx5EXU",
+        "id": "6ikbW5f10_M",
+        "snippet": {
+          "publishedAt": "2023-12-23T03:06:49Z",
+          "channelId": "UCIjlDLyhbDDqz8RwATzNerg",
+          "title": "The Story Of Bunny The Dog!!!😰😱 Jumpers Jump Podcast EP:160 #jumpersjump #podcast #mystery",
+          "description": "The Story Of Bunny The Dog!!!😰😱\nJumpers Jump Podcast EP:160 \n#jumpersjump #podcast #mystery #foryou #trending #viral #scary #theory #shortsfeed #shortsviral #shorts #christmas",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6ikbW5f10_M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6ikbW5f10_M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6ikbW5f10_M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6ikbW5f10_M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6ikbW5f10_M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "JumpersJumps Shorts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Story Of Bunny The Dog!!!😰😱 Jumpers Jump Podcast EP:160 #jumpersjump #podcast #mystery",
+            "description": "The Story Of Bunny The Dog!!!😰😱\nJumpers Jump Podcast EP:160 \n#jumpersjump #podcast #mystery #foryou #trending #viral #scary #theory #shortsfeed #shortsviral #shorts #christmas"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16662980",
+          "likeCount": "804855",
+          "favoriteCount": "0",
+          "commentCount": "9893"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ld5RGqzEbgHpBq7DMy0FR5lVwls",
+        "id": "sFm2hrXlu4k",
+        "snippet": {
+          "publishedAt": "2024-05-26T14:57:00Z",
+          "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+          "title": "Sell These 5 things To Become Rich | Raj Shamani #Shorts",
+          "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sFm2hrXlu4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sFm2hrXlu4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sFm2hrXlu4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sFm2hrXlu4k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sFm2hrXlu4k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani",
+          "tags": [
+            "raj shamani",
+            "shamani industries",
+            "figuring out with raj shamani",
+            "inspirational",
+            "india",
+            "figuring out",
+            "raj shamani podcast",
+            "hindi podcast",
+            "indian podcast",
+            "english podcast",
+            "motivation",
+            "indian startups",
+            "success",
+            "podcast",
+            "figuring out podcast",
+            "latest podcast",
+            "trending podcast",
+            "health",
+            "wealth",
+            "relationship"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sell These 5 things To Become Rich | Raj Shamani #Shorts",
+            "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10255203",
+          "likeCount": "477553",
+          "favoriteCount": "0",
+          "commentCount": "1715"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Rd-BSIKlzYkFGSiE63DwnSt8l5c",
+        "id": "VARMVLu8yzI",
+        "snippet": {
+          "publishedAt": "2025-04-16T14:00:56Z",
+          "channelId": "UCKa8qwPD0VcSGkEjF0SOuEw",
+          "title": "||Relationship Issue🌼❤️|| |podcast| |podcast clips| |sahid kapoor| #shorts #youtubeshorts",
+          "description": "||Relationship Issue🌼❤️|| |podcast| |podcast clips| |sahid kapoor|\n\nCredit:- @rajshamani \n\nOriginal video link:- https://youtu.be/3BgIqFB09Ec?si=PWpp6xXpJ1R0KVu4\n\nDISCLAIMER :-\nCopyright Disclaimer - Under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research.\nFair use is a use permitted by copyright statues that might otherwise be infringing.\nNon-Profit, educational or personal use tips the balance in favour of FAIR USE.\n\nRelated topics:- \n\nShahid Kapoor\nShahid Kapoor podcast \nShahid Kapoor podcast clips\nShahid Kapoor movies\nLove \nRelationship \nSelf respect \nBreakup \nSad\nTrue \nWords \nPodcast \nPodcast clips \nquickcast02\n\n#shorts #youtubeshorts #sahidkapoor #relationship #love #breakup #sad #podcast #podcasts #rajshamani  #selfrespect #rajshamaniclips #quickcast02",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VARMVLu8yzI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VARMVLu8yzI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VARMVLu8yzI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VARMVLu8yzI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VARMVLu8yzI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "quickcast02",
+          "tags": [
+            "Shahid Kapoor",
+            "Shahid Kapoor podcast",
+            "Shahid Kapoor podcast clips",
+            "Shahid Kapoor movies",
+            "Love",
+            "Relationship",
+            "Self respect",
+            "Breakup",
+            "Sad",
+            "True",
+            "Words",
+            "Podcast",
+            "Podcast clips",
+            "quickcast02"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "||Relationship Issue🌼❤️|| |podcast| |podcast clips| |sahid kapoor| #shorts #youtubeshorts",
+            "description": "||Relationship Issue🌼❤️|| |podcast| |podcast clips| |sahid kapoor|\n\nCredit:- @rajshamani \n\nOriginal video link:- https://youtu.be/3BgIqFB09Ec?si=PWpp6xXpJ1R0KVu4\n\nDISCLAIMER :-\nCopyright Disclaimer - Under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research.\nFair use is a use permitted by copyright statues that might otherwise be infringing.\nNon-Profit, educational or personal use tips the balance in favour of FAIR USE.\n\nRelated topics:- \n\nShahid Kapoor\nShahid Kapoor podcast \nShahid Kapoor podcast clips\nShahid Kapoor movies\nLove \nRelationship \nSelf respect \nBreakup \nSad\nTrue \nWords \nPodcast \nPodcast clips \nquickcast02\n\n#shorts #youtubeshorts #sahidkapoor #relationship #love #breakup #sad #podcast #podcasts #rajshamani  #selfrespect #rajshamaniclips #quickcast02"
+          },
+          "defaultAudioLanguage": "hi-Latn"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9195535",
+          "likeCount": "206404",
+          "favoriteCount": "0",
+          "commentCount": "678"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Jg6xpakrSG3TruVWPyCGt3jgrjg",
+        "id": "uT_au_jbruM",
+        "snippet": {
+          "publishedAt": "2025-09-16T13:30:56Z",
+          "channelId": "UCcbhpngcGDw-LemvWaEaT0Q",
+          "title": "3 Podcasts to add to your playlist right now ❤️ #shorts",
+          "description": "Want to become a part of inner circle of Chalchitra Talks? Become a community member and buy our Yearly subscription here : https://www.chalchitratalks.com/memberships\n\nHere are the benefits of becoming a member :\nYou get access to all 12 of our exclusive WhatsApp groups - Movie Club, Book Club, Music & Podcasting Club, Science Club, Sports Club, Quizzing Club, Food Club and Godfathers Club.\nMonthly calls with the founders\nWeekly Band Darwaaza Sessions and much more :)\n\nIf you like our work you can contribute to us on YouTube Community/Patreon. The higher tiers will also give you access to our exclusive WhatsApp Groups - Chalchitra Movie Club, Chalchitra Book Club, Chalchitra Music Club, Chalchitra Sports Club, and Chalchitra Science Club (Godfathers will get  access to all the groups) . \n\nYouTube Community \nhttps://www.youtube.com/channel/UCcbhpngcGDw-LemvWaEaT0Q/join\n\nPatreon \nhttps://www.patreon.com/chalchitratalks\n\nAs soon as you become a Patron/YouTube Member, please send us an email at :\nvaibhav@chalchitratalks.com, so that we can give you access to our exclusive perks. :)\n\nMerch : https://kadakmerch.com/collections/chalchitra-talks \nWebsite : https://www.chalchitratalks.com\nInstagram : https://www.instagram.com/chalchitratalks\nDiscord : https://discord.gg/gF65mm2\nTelegram : https://t.me/chalchitratalks\nWhatsapp : https://chat.whatsapp.com/EXGqiAWdTNuLxEAj7fUsma\nNokio : https://app.nokioapp.com/profile/2944\n\nCheck out our Podcast channel : \nhttps://www.youtube.com/channel/UC11tLVEKrzNx8BAUU0e6imw\n\nAbout Chalchitra Talks : Chalchitra Talks is India's biggest platform for recommendations of movies, books, TV Shows, podcasts, poetry by experts and celebrities. We also make video essays and fictional content. We also do nightly streams where we do quizzes and fun conversations! \n\nChannel run by : \nVaibhav Munjal https://www.instagram.com/vaibhavmunjal25/\nSorabh Munjal https://www.instagram.com/sorabhmunjal/\n\n\n#podcast  #bestpodcast #learning",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uT_au_jbruM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uT_au_jbruM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uT_au_jbruM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uT_au_jbruM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uT_au_jbruM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chalchitra Talks",
+          "tags": [
+            "Recommended",
+            "films",
+            "movies",
+            "books",
+            "recommendations",
+            "mustwatch",
+            "OTT",
+            "podcast",
+            "cinema",
+            "music",
+            "Chalchitra",
+            "Chalchitra talks",
+            "Chalchitra movies",
+            "Chalchitra recommendatios",
+            "shorts",
+            "chalchitra shorts",
+            "best movies",
+            "Netflix",
+            "Podcast",
+            "Past lives",
+            "Best podcast",
+            "Best podcasts",
+            "Past lives movie",
+            "Materialists",
+            "3 Podcasts to add to your playlist right now ❤️ #shorts"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3 Podcasts to add to your playlist right now ❤️ #shorts",
+            "description": "Want to become a part of inner circle of Chalchitra Talks? Become a community member and buy our Yearly subscription here : https://www.chalchitratalks.com/memberships\n\nHere are the benefits of becoming a member :\nYou get access to all 12 of our exclusive WhatsApp groups - Movie Club, Book Club, Music & Podcasting Club, Science Club, Sports Club, Quizzing Club, Food Club and Godfathers Club.\nMonthly calls with the founders\nWeekly Band Darwaaza Sessions and much more :)\n\nIf you like our work you can contribute to us on YouTube Community/Patreon. The higher tiers will also give you access to our exclusive WhatsApp Groups - Chalchitra Movie Club, Chalchitra Book Club, Chalchitra Music Club, Chalchitra Sports Club, and Chalchitra Science Club (Godfathers will get  access to all the groups) . \n\nYouTube Community \nhttps://www.youtube.com/channel/UCcbhpngcGDw-LemvWaEaT0Q/join\n\nPatreon \nhttps://www.patreon.com/chalchitratalks\n\nAs soon as you become a Patron/YouTube Member, please send us an email at :\nvaibhav@chalchitratalks.com, so that we can give you access to our exclusive perks. :)\n\nMerch : https://kadakmerch.com/collections/chalchitra-talks \nWebsite : https://www.chalchitratalks.com\nInstagram : https://www.instagram.com/chalchitratalks\nDiscord : https://discord.gg/gF65mm2\nTelegram : https://t.me/chalchitratalks\nWhatsapp : https://chat.whatsapp.com/EXGqiAWdTNuLxEAj7fUsma\nNokio : https://app.nokioapp.com/profile/2944\n\nCheck out our Podcast channel : \nhttps://www.youtube.com/channel/UC11tLVEKrzNx8BAUU0e6imw\n\nAbout Chalchitra Talks : Chalchitra Talks is India's biggest platform for recommendations of movies, books, TV Shows, podcasts, poetry by experts and celebrities. We also make video essays and fictional content. We also do nightly streams where we do quizzes and fun conversations! \n\nChannel run by : \nVaibhav Munjal https://www.instagram.com/vaibhavmunjal25/\nSorabh Munjal https://www.instagram.com/sorabhmunjal/\n\n\n#podcast  #bestpodcast #learning"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "28100",
+          "likeCount": "1988",
+          "favoriteCount": "0",
+          "commentCount": "29"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_IQEg7YWYXWy0v3t_Yopg1RdzB4",
+        "id": "MyL5aXP7Iiw",
+        "snippet": {
+          "publishedAt": "2025-09-13T17:31:36Z",
+          "channelId": "UC_j4yg5ewKv4r94VqqmaRHQ",
+          "title": "How Theo Von Met Mike Rowe 🤣🤣 #comedy #podcast #shorts #reels",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MyL5aXP7Iiw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MyL5aXP7Iiw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MyL5aXP7Iiw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MyL5aXP7Iiw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MyL5aXP7Iiw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DOG SQUAD COMEDY",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How Theo Von Met Mike Rowe 🤣🤣 #comedy #podcast #shorts #reels",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "45727",
+          "likeCount": "856",
+          "favoriteCount": "0",
+          "commentCount": "3"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3QpxEbr4Hw1B5F4sHXPUn94MmvU",
+        "id": "_ftZKK45n9U",
+        "snippet": {
+          "publishedAt": "2024-11-24T12:47:34Z",
+          "channelId": "UC2tYewwC4wq3aPbDkwqtZkQ",
+          "title": "What Makes the U.S. Army Unbeatable #shorts #military #podcast #yt_shorts",
+          "description": "What Makes the U.S. Army Unbeatable #shorts #military #podcast #yt_shorts\n\n\n\n\n\n\n\n\n#shorts #trending #podcast #armylife #yt_shorts #shortsindia #shortsfeed #military #interview #viralshorts \n\n\n\n\nCredits:- @rajshamani",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_ftZKK45n9U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_ftZKK45n9U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_ftZKK45n9U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_ftZKK45n9U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_ftZKK45n9U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "scroll with romeo",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What Makes the U.S. Army Unbeatable #shorts #military #podcast #yt_shorts",
+            "description": "What Makes the U.S. Army Unbeatable #shorts #military #podcast #yt_shorts\n\n\n\n\n\n\n\n\n#shorts #trending #podcast #armylife #yt_shorts #shortsindia #shortsfeed #military #interview #viralshorts \n\n\n\n\nCredits:- @rajshamani"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23267097",
+          "favoriteCount": "0",
+          "commentCount": "1741"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_WnnutL8si8GHV6VVMayzxnIUgE",
+        "id": "u63NZBGlp1I",
+        "snippet": {
+          "publishedAt": "2025-07-08T16:19:44Z",
+          "channelId": "UCo7iXS0CJjQhZTm4ZD_-Oiw",
+          "title": "Overnight Viral in Thailand😱🤯 || Vibhu Varshney Podcast #shorts #podcast #trending #viral",
+          "description": "Overnight Viral in Thailand😱🤯 || Vibhu Varshney Podcast #shorts #podcast #trending #viral \n\n#shortvideo \n#viralshorts \n#ytshorts \n#youtubeshorts \nCredit-‎ ⁨@realtalkclipp⁩ ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u63NZBGlp1I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u63NZBGlp1I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u63NZBGlp1I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u63NZBGlp1I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/u63NZBGlp1I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PodcastXz",
+          "tags": [
+            "Vibhu Varshney",
+            "Thailand Trip story",
+            "viral overnight",
+            "overnight viral",
+            "Thailand viral video",
+            "TikTok viral story",
+            "viral moment",
+            "tiktok Thailand",
+            "short podcast viral",
+            "girl pickup",
+            "5feet girl",
+            "travel gone viral",
+            "unexpected fame",
+            "funny travel story",
+            "podcast",
+            "podcast shorts",
+            "shorts",
+            "yt shorts",
+            "YouTube shorts",
+            "viral shorts",
+            "shorts podcast",
+            "viral",
+            "trending",
+            "viral video"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Overnight Viral in Thailand😱🤯 || Vibhu Varshney Podcast #shorts #podcast #trending #viral",
+            "description": "Overnight Viral in Thailand😱🤯 || Vibhu Varshney Podcast #shorts #podcast #trending #viral \n\n#shortvideo \n#viralshorts \n#ytshorts \n#youtubeshorts \nCredit-‎ ⁨@realtalkclipp⁩ "
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8402891",
+          "likeCount": "133572",
+          "favoriteCount": "0",
+          "commentCount": "79"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "K3inIKJXhCs2ELXXOnynLLaP-84",
+        "id": "uQGVPgzohqo",
+        "snippet": {
+          "publishedAt": "2024-09-03T15:33:14Z",
+          "channelId": "UCH8JQxrwGesbH2FzkC9UMKQ",
+          "title": "Sejal’s Dark Humour😱 #SocialMediaInfluencer #FoodContent #weirdfoods #podcast #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uQGVPgzohqo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uQGVPgzohqo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uQGVPgzohqo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uQGVPgzohqo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uQGVPgzohqo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Suraj Talkz",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Sejal’s Dark Humour😱 #SocialMediaInfluencer #FoodContent #weirdfoods #podcast #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "977583",
+          "likeCount": "16922",
+          "favoriteCount": "0",
+          "commentCount": "168"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FMzADG1Qp541bbPX2TFuR9wh5UM",
+        "id": "TdY3GEQ0cLs",
+        "snippet": {
+          "publishedAt": "2025-09-11T23:09:06Z",
+          "channelId": "UCoSQ73BVK0_JvOOujxY2NOQ",
+          "title": "He offed himself on Facebook live… #shorts #story #podcast #facebook",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TdY3GEQ0cLs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TdY3GEQ0cLs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TdY3GEQ0cLs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TdY3GEQ0cLs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TdY3GEQ0cLs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TB4Y Clips",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "He offed himself on Facebook live… #shorts #story #podcast #facebook",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "685366",
+          "likeCount": "22579",
+          "favoriteCount": "0",
+          "commentCount": "1450"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "D7fexEuTT6IHMFKQXzPDh-1dP7U",
+        "id": "6sQMQLzwwdo",
+        "snippet": {
+          "publishedAt": "2025-08-19T16:25:00Z",
+          "channelId": "UCGen0VdtskXYv0ldQlM7ryg",
+          "title": "What’s So Special About Harsh? - Bharti Singh @LifeOfLimbachiyaas | Raj Shamani #shorts",
+          "description": "Bharti Singh On What’s So Special About Harsh?\n☑️ Subscribe To Our Primary/Podcast Channel:\nhttps://www.youtube.com/@rajshamani\n\n☑️ Subscribe To Our Clips Channel: \nhttps://www.youtube.com/@rajshamaniclips\n\n🎧 Listen To Figuring Out Episodes On Spotify:\nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4 \n\nBecome A Part Of The Community,\nBy Following Us On ⤵︎\n\nInstagram @FiguringOut.Co\nhttps://www.instagram.com/figuringout.co/\n\n\n•   •   •\n\nAbout Raj Shamani\nRaj Shamani is the Founder Of Figuring Out Media and House of X. He's an Entrepreneur, Content Creator, Investor, and a Renowned Keynote Speaker. Raj has emerged as one of the Youngest Influencers in the Indian creator economy.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://in.linkedin.com/in/rajshamani\n\n•   •   •\n\n#FiguringOut #RajShamani #Podcast\n\nAbout Figuring Out Clips\nFiguring Out Clips is your destination to find the highlights of the best Business & Entrepreneurship Podcast - Figuring Out. So in order to become the best version of yourself,\nyou just NEED TO #KeepFiguringOut",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6sQMQLzwwdo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6sQMQLzwwdo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6sQMQLzwwdo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6sQMQLzwwdo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6sQMQLzwwdo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani Shorts",
+          "tags": [
+            "figuring out",
+            "raj shamani",
+            "figuring out with raj shamani",
+            "figuring out shorts",
+            "raj shamani shorts",
+            "podcast shorts",
+            "figuring out podcast",
+            "raj shamani podcast",
+            "hindi podcast",
+            "latest short",
+            "new short",
+            "indian podcast",
+            "english podcast",
+            "shorts",
+            "Bharti Singh On What’s So Special About Harsh?",
+            "bharti singh",
+            "harsh limbachiya",
+            "love"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What’s So Special About Harsh? - Bharti Singh @LifeOfLimbachiyaas | Raj Shamani #shorts",
+            "description": "Bharti Singh On What’s So Special About Harsh?\n☑️ Subscribe To Our Primary/Podcast Channel:\nhttps://www.youtube.com/@rajshamani\n\n☑️ Subscribe To Our Clips Channel: \nhttps://www.youtube.com/@rajshamaniclips\n\n🎧 Listen To Figuring Out Episodes On Spotify:\nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4 \n\nBecome A Part Of The Community,\nBy Following Us On ⤵︎\n\nInstagram @FiguringOut.Co\nhttps://www.instagram.com/figuringout.co/\n\n\n•   •   •\n\nAbout Raj Shamani\nRaj Shamani is the Founder Of Figuring Out Media and House of X. He's an Entrepreneur, Content Creator, Investor, and a Renowned Keynote Speaker. Raj has emerged as one of the Youngest Influencers in the Indian creator economy.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://in.linkedin.com/in/rajshamani\n\n•   •   •\n\n#FiguringOut #RajShamani #Podcast\n\nAbout Figuring Out Clips\nFiguring Out Clips is your destination to find the highlights of the best Business & Entrepreneurship Podcast - Figuring Out. So in order to become the best version of yourself,\nyou just NEED TO #KeepFiguringOut"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25310919",
+          "likeCount": "857760",
+          "favoriteCount": "0",
+          "commentCount": "1504"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9PqUvu2EnbdQeYO7cMrInatO8OM",
+        "id": "vn57TKRdmFk",
+        "snippet": {
+          "publishedAt": "2025-06-06T02:40:01Z",
+          "channelId": "UC5i7y04DS3Sa22krXffjA2A",
+          "title": "Vijay Mallya Unexpected Podcast 😱🤯 Ft. @rajshamani #shorts #vijaymallya #podcast #trendingshorts",
+          "description": "Vijay Mallya Podcast.\nRaj shamani Podcast With Vijay Mallya.\nVijay Mallya Interview.\nVijay Mallya Unexpected Podcast.\n\n\n\n\n\n\n#shorts #podcast  #vijaymallya #rajshamani #trendingshorts \n\n\n\n\n\n\nCredit:- Raj Shamani\n\nFull Video Link :- https://youtu.be/MdeQMVBuGgY?si=SIQ9JXMctVTbU2SZ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vn57TKRdmFk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vn57TKRdmFk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vn57TKRdmFk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vn57TKRdmFk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vn57TKRdmFk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SHIBO EDIT",
+          "tags": [
+            "raj shamani podcast,figuring out with raj shamani,raj shamani,hindi podcast,indian podcast,figuring out podcast,vijay mallya podcast,english podcast,raj shamani vijay mallya,raj shamani shorts,podcast shorts,vijay mallya,raj shamani podcast clips,vijay mallya story,podcast,vijay mallya interview,vijay mallya house,latest podcast,trending podcast,raj shamani clips,business podcast,indian podcast clips,figuring out podcast clips"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Vijay Mallya Unexpected Podcast 😱🤯 Ft. @rajshamani #shorts #vijaymallya #podcast #trendingshorts",
+            "description": "Vijay Mallya Podcast.\nRaj shamani Podcast With Vijay Mallya.\nVijay Mallya Interview.\nVijay Mallya Unexpected Podcast.\n\n\n\n\n\n\n#shorts #podcast  #vijaymallya #rajshamani #trendingshorts \n\n\n\n\n\n\nCredit:- Raj Shamani\n\nFull Video Link :- https://youtu.be/MdeQMVBuGgY?si=SIQ9JXMctVTbU2SZ"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8770972",
+          "likeCount": "189490",
+          "favoriteCount": "0",
+          "commentCount": "637"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DnnL_Ba_O21gbnI219KU_I3OUz4",
+        "id": "uiH6epRxGOI",
+        "snippet": {
+          "publishedAt": "2024-09-30T04:00:49Z",
+          "channelId": "UCaiPyNztZQ5wnsdR8OFwWHg",
+          "title": "How Much Does A content Creator Make? 🤔  #shorts #podcast",
+          "description": "How Much Does A content Creator Make? 🤔  #shorts #podcast\n\n\n\nCREDIT\n‎@riyaupreti  \nFlaticon\nFreepik\nImage search man\nDafont\nShutterstock \nVecteezy\n\n\nCopyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.\n\n\n#contentcreator #contentcreation #viralvideo #creatoreconomy #influencer #influencermarketing #trendingnow #shortformvideo #videoeditorlife #reelsinspiration #podcastclips #linkedin \n#linkedincreators \n\n\nRelated tags\nContent creation tips and tricks\nVideo editing for beginners\nSocial media content strategy\nBehind the scenes of content creation\nPodcast highlights and edits\nOne minute video editing\nLinkedIn video marketing strategy\nViral short form video content\nFree Lance video editor life",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uiH6epRxGOI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uiH6epRxGOI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uiH6epRxGOI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uiH6epRxGOI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uiH6epRxGOI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lakshya Edits",
+          "tags": [
+            "shorts",
+            "yt shorts",
+            "youtube shorts",
+            "podcast",
+            "raj shamani",
+            "riya upreti",
+            "content creation tips and tricks",
+            "video editing for beginners",
+            "social media content strategy",
+            "behind the scenes of content creation",
+            "podcast highlights and edits",
+            "one minute video content",
+            "LinkedIn video marketing strategy",
+            "viral short form video content",
+            "freelance video editor life",
+            "How Much Does A content Creator Make? 🤔  #shorts #podcast",
+            "content Creator income Revealed"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How Much Does A content Creator Make? 🤔  #shorts #podcast",
+            "description": "How Much Does A content Creator Make? 🤔  #shorts #podcast\n\n\n\nCREDIT\n‎@riyaupreti  \nFlaticon\nFreepik\nImage search man\nDafont\nShutterstock \nVecteezy\n\n\nCopyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.\n\n\n#contentcreator #contentcreation #viralvideo #creatoreconomy #influencer #influencermarketing #trendingnow #shortformvideo #videoeditorlife #reelsinspiration #podcastclips #linkedin \n#linkedincreators \n\n\nRelated tags\nContent creation tips and tricks\nVideo editing for beginners\nSocial media content strategy\nBehind the scenes of content creation\nPodcast highlights and edits\nOne minute video editing\nLinkedIn video marketing strategy\nViral short form video content\nFree Lance video editor life"
+          },
+          "defaultAudioLanguage": "hi-Latn"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "449427",
+          "likeCount": "7857",
+          "favoriteCount": "0",
+          "commentCount": "24"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "feaWcKCFkLxud8207ZV7iLABGyQ",
+        "id": "Ghc5_-CYxik",
+        "snippet": {
+          "publishedAt": "2025-07-30T11:43:47Z",
+          "channelId": "UCiEAXkdjI9_qiaKYys94mvQ",
+          "title": "Jaya Kishori Controversy Reply😤😱 || Jaya Kishori Podcast ||#podcast #shorts #viral #trending",
+          "description": "Jaya Kishori Controversy Reply😤😱 || Jaya Kishori Podcast ||#podcast #shorts #viral #trending\n#trendingshorts \n#viralvideo \n#ytshorts \n#ytshort \n#interview \n@JayaKishoriMotivation \n@Ryadav9181 \n@AbraaKaDabraShow",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ghc5_-CYxik/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ghc5_-CYxik/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ghc5_-CYxik/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ghc5_-CYxik/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ghc5_-CYxik/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PodcastX7",
+          "tags": [
+            "jaya kishori",
+            "jaya kishori podcast",
+            "jaya kishori interview",
+            "jaya kishori controversy",
+            "jaya kishori on controversy",
+            "jaya kishori ji bhajan",
+            "jaya kishori motivational speech",
+            "jaya kishori ji",
+            "jaya kishori pravachan",
+            "podcast",
+            "podcast shorts",
+            "podcast clips",
+            "hindi podcast",
+            "yt shorts",
+            "youtube shorts",
+            "interview",
+            "jaya kishori songs",
+            "jaya kishori controversy bag",
+            "jaya kishori christian dior bag",
+            "jaya kishori bag price",
+            "jaya kishori bag controversy",
+            "jaya kishori expensive bag"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jaya Kishori Controversy Reply😤😱 || Jaya Kishori Podcast ||#podcast #shorts #viral #trending",
+            "description": "Jaya Kishori Controversy Reply😤😱 || Jaya Kishori Podcast ||#podcast #shorts #viral #trending\n#trendingshorts \n#viralvideo \n#ytshorts \n#ytshort \n#interview \n@JayaKishoriMotivation \n@Ryadav9181 \n@AbraaKaDabraShow"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9831962",
+          "likeCount": "144503",
+          "favoriteCount": "0",
+          "commentCount": "592"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aEtzSICAZ8gEPI1n-tqQ6_v6t9Q",
+        "id": "JngHwdD8h7c",
+        "snippet": {
+          "publishedAt": "2024-03-29T12:30:16Z",
+          "channelId": "UCHm-aqTKp8SGaBGATkW1JpA",
+          "title": "Can You Earn Money With Podcast Shorts?",
+          "description": "Can You Earn Money With Podcast Shorts?\n\n#shorts #podcastshorts #socialsunil #trending #earning",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JngHwdD8h7c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JngHwdD8h7c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JngHwdD8h7c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JngHwdD8h7c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JngHwdD8h7c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Social Sunil",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Can You Earn Money With Podcast Shorts?",
+            "description": "Can You Earn Money With Podcast Shorts?\n\n#shorts #podcastshorts #socialsunil #trending #earning"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "323545",
+          "favoriteCount": "0",
+          "commentCount": "54"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JToCaDaYXTBSFkr2V80Lbp675t0",
+        "id": "4WdfbzC0nV8",
+        "snippet": {
+          "publishedAt": "2025-04-12T03:46:07Z",
+          "channelId": "UCfzJ8csF8Uco9CV6n-1cL0w",
+          "title": "Elvish And Sherlyn Chopra Dark Conversation 💀 #podcast #shorts #elvishyadav #sherlynchopra",
+          "description": "Elvish Yadav and Sherlyn Chopra dive into a brutally honest and dark conversation you won't believe! From shocking truths to savage comments – this podcast moment went next level.\n\n#podcast \n#ElvishYadav #SherlynChopra #PodcastShorts #TrendingShorts #ViralPodcast #ElvishShorts #DramaAlert #UnfilteredTalks\n\n#shotskivibe \n\n@Shotskivibe",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4WdfbzC0nV8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4WdfbzC0nV8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4WdfbzC0nV8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4WdfbzC0nV8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4WdfbzC0nV8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Shots Ki Vibe ",
+          "tags": [
+            "elvish yadav",
+            "podcast",
+            "viral shorts",
+            "podcast clips",
+            "shots ki vibe",
+            "Sherlyn Chopra",
+            "hot video",
+            "dark conversation",
+            "dark comedy",
+            "trending short",
+            "trending feed"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Elvish And Sherlyn Chopra Dark Conversation 💀 #podcast #shorts #elvishyadav #sherlynchopra",
+            "description": "Elvish Yadav and Sherlyn Chopra dive into a brutally honest and dark conversation you won't believe! From shocking truths to savage comments – this podcast moment went next level.\n\n#podcast \n#ElvishYadav #SherlynChopra #PodcastShorts #TrendingShorts #ViralPodcast #ElvishShorts #DramaAlert #UnfilteredTalks\n\n#shotskivibe \n\n@Shotskivibe"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5089250",
+          "likeCount": "68920",
+          "favoriteCount": "0",
+          "commentCount": "421"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JXnV9jBOBgWA8eWHlB8FDGQDsQU",
+        "id": "nr-p9gkk8UU",
+        "snippet": {
+          "publishedAt": "2025-07-04T16:38:25Z",
+          "channelId": "UCbA2kLH8VWjG6Et3KenPwdg",
+          "title": "Reality Behind Ravan Dahan #podcast #ramayan #shorts",
+          "description": "#podcasts #ravan #ram #ramayan #hanuman #reality #story #explorepage #virałreels #trending #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nr-p9gkk8UU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nr-p9gkk8UU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nr-p9gkk8UU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nr-p9gkk8UU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nr-p9gkk8UU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Podcast With VK ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Reality Behind Ravan Dahan #podcast #ramayan #shorts",
+            "description": "#podcasts #ravan #ram #ramayan #hanuman #reality #story #explorepage #virałreels #trending #shorts"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16270940",
+          "likeCount": "548535",
+          "favoriteCount": "0",
+          "commentCount": "3997"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o2abE3olGc_m9oGFQbPtQFDIi0Q",
+        "id": "rVL3mO68LOU",
+        "snippet": {
+          "publishedAt": "2025-03-25T17:01:29Z",
+          "channelId": "UCGT_BYcMHygJYqYWZjGx68A",
+          "title": "ADHD Explained in 60 SECONDS.",
+          "description": "Your brain isn’t broken. It’s doing what it learned to survive.\n\nSpeaker: Gabor Maté\n\n#adhdawareness #neurodiversity #healingtrauma",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rVL3mO68LOU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rVL3mO68LOU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rVL3mO68LOU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rVL3mO68LOU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rVL3mO68LOU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GROWTH™",
+          "categoryId": "2",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ADHD Explained in 60 SECONDS.",
+            "description": "Your brain isn’t broken. It’s doing what it learned to survive.\n\nSpeaker: Gabor Maté\n\n#adhdawareness #neurodiversity #healingtrauma"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "18600362",
+          "likeCount": "491241",
+          "favoriteCount": "0",
+          "commentCount": "9172"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "D8R_WXZdRMw1WxE4xOhfyjfza0g",
+        "id": "dMDO2PJq5I8",
+        "snippet": {
+          "publishedAt": "2025-04-12T15:48:25Z",
+          "channelId": "UC_TkUBm_RuB_yHBa9WWYNVg",
+          "title": "Bhale untadhi kadha😂😂😂 | Telugu Podcast | #shorts",
+          "description": ".\nDisclaimer: This video is for educational purposes only. The opinions expressed by the guests are their personal views and do not reflect our stance. We have no intention of defaming or harming any individual, brand, product, country, or profession mentioned in this video. Our aim is to provide information to help the audience make informed decisions.\n\n~\nOur filming gear- \n\nCamera 1 - https://amzn.to/4gS3IGv \nCamera 2 - https://amzn.to/4gN6Kf1 \nWireless collor mic -https://amzn.to/4k4dEPX \nDynamic microphone - https://amzn.to/3QqWBdd \nAudio mixer - https://amzn.to/4hHByiD\n~\n.\n#telugupodcast #rawtalks #rawtalkswithvk #podcastreacts #besttelugupodcast\n`\nWhy a Telugu Podcast?\n\nRaw Talks with VK is the 1st Telugu podcast channel dedicated to Building an Intellectual Telugu community.\n\nOur goal through these podcasts is to give a deeper understanding and exposure to various topics that can be beneficial to everyone.\n\nThrough Raw Talks, I intend to bring conversations on business, marketing, finance, psychology, and more. I aim to empower Telugu audiences with the same level of information as global communities.\n\nWe believe knowledge is power, and this platform aims to ensure that our Telugu-speaking community continues to grow personally and professionally.\n\nJoin us on this journey of learning and empowerment. Subscribe to Raw Talks with VK, and let’s grow together!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dMDO2PJq5I8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dMDO2PJq5I8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dMDO2PJq5I8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dMDO2PJq5I8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dMDO2PJq5I8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Podcastsreact - Raw Talks with VK",
+          "tags": [
+            "rawtalks",
+            "rawtalkswithvk",
+            "podcastreacts",
+            "podcatsreacts",
+            "telugu",
+            "telugu videos",
+            "film reacts",
+            "podcasts",
+            "content creators",
+            "vamshi kurapati",
+            "vamshi",
+            "vk",
+            "movie interviews",
+            "interviews",
+            "telugu podcast",
+            "humour",
+            "podcastclips",
+            "entrepreneurship",
+            "motivation",
+            "BUSINESS",
+            "business podcast",
+            "Inspiration",
+            "tollywood",
+            "best of raw talks",
+            "raw talks",
+            "raw talks with vk",
+            "best telugu podcast",
+            "podcast in telugu",
+            "best podcast in telugu",
+            "raw talks telugu podcast",
+            "podcast",
+            "rtvk",
+            "telugu podcast raw talks",
+            "telugu podcast raw"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "te",
+          "localized": {
+            "title": "Bhale untadhi kadha😂😂😂 | Telugu Podcast | #shorts",
+            "description": ".\nDisclaimer: This video is for educational purposes only. The opinions expressed by the guests are their personal views and do not reflect our stance. We have no intention of defaming or harming any individual, brand, product, country, or profession mentioned in this video. Our aim is to provide information to help the audience make informed decisions.\n\n~\nOur filming gear- \n\nCamera 1 - https://amzn.to/4gS3IGv \nCamera 2 - https://amzn.to/4gN6Kf1 \nWireless collor mic -https://amzn.to/4k4dEPX \nDynamic microphone - https://amzn.to/3QqWBdd \nAudio mixer - https://amzn.to/4hHByiD\n~\n.\n#telugupodcast #rawtalks #rawtalkswithvk #podcastreacts #besttelugupodcast\n`\nWhy a Telugu Podcast?\n\nRaw Talks with VK is the 1st Telugu podcast channel dedicated to Building an Intellectual Telugu community.\n\nOur goal through these podcasts is to give a deeper understanding and exposure to various topics that can be beneficial to everyone.\n\nThrough Raw Talks, I intend to bring conversations on business, marketing, finance, psychology, and more. I aim to empower Telugu audiences with the same level of information as global communities.\n\nWe believe knowledge is power, and this platform aims to ensure that our Telugu-speaking community continues to grow personally and professionally.\n\nJoin us on this journey of learning and empowerment. Subscribe to Raw Talks with VK, and let’s grow together!"
+          },
+          "defaultAudioLanguage": "te"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3578371",
+          "likeCount": "67473",
+          "favoriteCount": "0",
+          "commentCount": "366"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "g8__FixYlBet7CxBBRG3H7UMfo0",
+        "id": "WclWWvAwAeM",
+        "snippet": {
+          "publishedAt": "2024-11-29T14:11:18Z",
+          "channelId": "UCvc7CqqGdpqg2vZn0bHPG_Q",
+          "title": "HARD TRUTH #nofugazee #cooley #dating #shorts @nofugazeepodcast",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WclWWvAwAeM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WclWWvAwAeM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WclWWvAwAeM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WclWWvAwAeM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WclWWvAwAeM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "No Fugazee Podcast",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HARD TRUTH #nofugazee #cooley #dating #shorts @nofugazeepodcast",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2032313",
+          "likeCount": "110786",
+          "favoriteCount": "0",
+          "commentCount": "8038"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "U7nVC2kOKVFVC9Jgb2FFRPoWgxg",
+        "id": "aA1vpcAJEug",
+        "snippet": {
+          "publishedAt": "2024-12-23T06:23:00Z",
+          "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+          "title": "India Will Never Grow Like China - Palki Sharma | Raj Shamani #Shorts",
+          "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aA1vpcAJEug/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aA1vpcAJEug/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aA1vpcAJEug/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aA1vpcAJEug/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aA1vpcAJEug/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani",
+          "tags": [
+            "raj shamani",
+            "shamani industries",
+            "figuring out with raj shamani",
+            "inspirational",
+            "india",
+            "figuring out",
+            "raj shamani podcast",
+            "hindi podcast",
+            "indian podcast",
+            "english podcast",
+            "motivation",
+            "indian startups",
+            "success",
+            "podcast",
+            "figuring out podcast",
+            "latest podcast",
+            "trending podcast",
+            "health",
+            "wealth",
+            "relationship"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "India Will Never Grow Like China - Palki Sharma | Raj Shamani #Shorts",
+            "description": "Order 'Build, Don't Talk' (in English) here: https://amzn.eu/d/eCfijRu\nOrder 'Build Don't Talk' (in Hindi) here: https://amzn.eu/d/4wZISO0\n\n--------------\n\nSubscribe To Our Other YouTube Channels:-\n\nhttps://www.youtube.com/@rajshamaniclips\n\nhttps://www.youtube.com/@RajShamani.Shorts\n\n🎧 Stream Figuring Out episodes on Spotify: \nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4\n\n📺 Watch Figuring Out episodes on YouTube:\nhttps://youtube.com/playlist?list=PLE0Jo6NF_JYO5-phess8GKafKMtPv3tfZ\n\n---------------\n\nMy gear for shooting this video: \n\nCanon EOS 200D II 24.1MP DSLR Camera: https://amzn.to/3GuiPFK\nCanon EF50MM F/1.8 STM Lens: https://amzn.to/3WZOSoi\nCanon EF-S 18-55mm f/3.5-5.6: https://amzn.to/3ZpKBMy\nYunteng Aluminium Tripod (Vct-690, Black): https://amzn.to/3ItEzV0\nZoom H6 All Black (2020 Version): https://amzn.to/3irUCIf\nShure SM7B Cardioid Vocal Dynamic Microphone: https://amzn.to/3GPimiM\nShure MV7 USB Podcast Microphone: https://amzn.to/3Xjy63d\nGODOX SL150II 150W LED Video Light: https://amzn.to/3XeN0aL\n\n------------------\n\nAbout Raj Shamani\nRaj Shamani is an Entrepreneur at heart that explains his expertise in Business Content Creation & Public Speaking. He has delivered 200+ speeches in 26+ countries. Besides that, Raj is also an Angel Investor interested in crazy minds who are creating a sensation in the Fintech, FMCG, & passion economy space.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani/\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://www.linkedin.com/in/rajshamani/\n\n•   •   •\n\n#Podcast #FiguringOut #RajShamani\n\nAbout Figuring Out\nFiguring Out Podcast is a Candid Conversations University where Raj Shamani brings raw conversations with the Top 1% in India."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1666265",
+          "likeCount": "87311",
+          "favoriteCount": "0",
+          "commentCount": "1920"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-Cni_mh5dkxXuV9du0BbDxPWOfE",
+        "id": "6fLBO_6ga1k",
+        "snippet": {
+          "publishedAt": "2025-01-12T12:29:49Z",
+          "channelId": "UCV3xygdBGWEpD8I9lT36aVQ",
+          "title": "Aditi blushes over Elvish's questions | #shorts #podcast",
+          "description": "Credit :- @TheLittleAddaCompany \nOriginal Video Link :- https://youtu.be/bJ1g3OKtnYo?si=GbGi3Ls6NkZzVUMZ\n\n\nDISCLAIMER :\n\nCopyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favour of FAIR USE.\n\n#podcast #elvishyadav #4kresolution",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6fLBO_6ga1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6fLBO_6ga1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6fLBO_6ga1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6fLBO_6ga1k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6fLBO_6ga1k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Shaitan_Ovi",
+          "tags": [
+            "elvish",
+            "elvishyadav",
+            "elvisharmy",
+            "elvishandaditimistry",
+            "aditi",
+            "aditimistry",
+            "aditiinelvishpodcast",
+            "phodcast",
+            "channa",
+            "elvishhumour",
+            "elvishoneliners",
+            "elvishcomedy",
+            "elvishroasting",
+            "aditimistryandsahilkhan",
+            "aditiinpodcastwithelvish",
+            "biggboss",
+            "biggboss18",
+            "biggbosscontestant",
+            "biggbosscontestants",
+            "darkhumour"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Aditi blushes over Elvish's questions | #shorts #podcast",
+            "description": "Credit :- @TheLittleAddaCompany \nOriginal Video Link :- https://youtu.be/bJ1g3OKtnYo?si=GbGi3Ls6NkZzVUMZ\n\n\nDISCLAIMER :\n\nCopyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favour of FAIR USE.\n\n#podcast #elvishyadav #4kresolution"
+          },
+          "defaultAudioLanguage": "zxx"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5751676",
+          "favoriteCount": "0",
+          "commentCount": "439"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cLHZqS1jidinj5KlXP9elN-uFto",
+        "id": "XkaDMvC3JkQ",
+        "snippet": {
+          "publishedAt": "2025-01-19T09:30:12Z",
+          "channelId": "UCGen0VdtskXYv0ldQlM7ryg",
+          "title": "The Power Of Conviction - @dr.tanujain9500 | Raj Shamani #shorts",
+          "description": "☑️ Subscribe To Our Primary/Podcast Channel:\nhttps://www.youtube.com/@rajshamani\n\n☑️ Subscribe To Our Clips Channel: \nhttps://www.youtube.com/@rajshamaniclips\n\n🎧 Listen To Figuring Out Episodes On Spotify:\nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4 \n\nBecome A Part Of The Community,\nBy Following Us On ⤵︎\n\nInstagram @FiguringOut.Co\nhttps://www.instagram.com/figuringout.co/\n\n\n•   •   •\n\nAbout Raj Shamani\nRaj Shamani is the Founder Of Figuring Out Media and House of X. He's an Entrepreneur, Content Creator, Investor, and a Renowned Keynote Speaker. Raj has emerged as one of the Youngest Influencers in the Indian creator economy.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://in.linkedin.com/in/rajshamani\n\n•   •   •\n\n#FiguringOut #RajShamani #Podcast\n\nAbout Figuring Out Clips\nFiguring Out Clips is your destination to find the highlights of the best Business & Entrepreneurship Podcast - Figuring Out. So in order to become the best version of yourself,\nyou just NEED TO #KeepFiguringOut",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XkaDMvC3JkQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XkaDMvC3JkQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XkaDMvC3JkQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XkaDMvC3JkQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XkaDMvC3JkQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Raj Shamani Shorts",
+          "tags": [
+            "figuring out",
+            "raj shamani",
+            "figuring out with raj shamani",
+            "figuring out shorts",
+            "raj shamani shorts",
+            "podcast shorts",
+            "figuring out podcast",
+            "raj shamani podcast",
+            "hindi podcast",
+            "latest short",
+            "new short",
+            "indian podcast",
+            "english podcast",
+            "shorts",
+            "Power of Conviction",
+            "How UPSC Select You",
+            "ow UPSC Selects You",
+            "upsc interview",
+            "UPSc interview",
+            "The Power Of Conviction"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Power Of Conviction - @dr.tanujain9500 | Raj Shamani #shorts",
+            "description": "☑️ Subscribe To Our Primary/Podcast Channel:\nhttps://www.youtube.com/@rajshamani\n\n☑️ Subscribe To Our Clips Channel: \nhttps://www.youtube.com/@rajshamaniclips\n\n🎧 Listen To Figuring Out Episodes On Spotify:\nhttps://open.spotify.com/show/736rhmW7vilNgkFFo8aDz4 \n\nBecome A Part Of The Community,\nBy Following Us On ⤵︎\n\nInstagram @FiguringOut.Co\nhttps://www.instagram.com/figuringout.co/\n\n\n•   •   •\n\nAbout Raj Shamani\nRaj Shamani is the Founder Of Figuring Out Media and House of X. He's an Entrepreneur, Content Creator, Investor, and a Renowned Keynote Speaker. Raj has emerged as one of the Youngest Influencers in the Indian creator economy.\n\nTo Know More,\nFollow Raj Shamani On ⤵︎\n\nInstagram @RajShamani\nhttps://www.instagram.com/rajshamani\n\nTwitter @RajShamani\nhttps://twitter.com/rajshamani\n\nFacebook @ShamaniRaj\nhttps://www.facebook.com/shamaniraj\n\nLinkedIn - Raj Shamani\nhttps://in.linkedin.com/in/rajshamani\n\n•   •   •\n\n#FiguringOut #RajShamani #Podcast\n\nAbout Figuring Out Clips\nFiguring Out Clips is your destination to find the highlights of the best Business & Entrepreneurship Podcast - Figuring Out. So in order to become the best version of yourself,\nyou just NEED TO #KeepFiguringOut"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6900330",
+          "likeCount": "433980",
+          "favoriteCount": "0",
+          "commentCount": "565"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BjKd4OvRJ_YMBySAHiVXuR13Oaw",
+        "id": "oMs_dEENOJk",
+        "snippet": {
+          "publishedAt": "2025-08-31T10:40:03Z",
+          "channelId": "UC4alTWCTl6y_jt2_jgmxPZQ",
+          "title": "Mouli timing😂😂 | Telugu Podcast | #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oMs_dEENOJk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oMs_dEENOJk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oMs_dEENOJk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oMs_dEENOJk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oMs_dEENOJk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Telugu Connects - Growth Podcast ",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mouli timing😂😂 | Telugu Podcast | #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "te"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "248820",
+          "likeCount": "10885",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TXAgh2wuOrepeBGCrt1NbKF1XEs",
+        "id": "0nvIcyON0p0",
+        "snippet": {
+          "publishedAt": "2023-06-28T19:00:00Z",
+          "channelId": "UCk2U-Oqn7RXf-ydPqfSxG5g",
+          "title": "The Let Them Theory  Will Change Your Life | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory 👉 https://melrob.co/let-them-theory 👈 The #1 Best Selling Book of 2025 🔥 Discover how much power you truly have. It all begins with two simple words. Let Them.\n—\n\nStop wasting energy on trying to get other people to meet YOUR expectations.\n\nInstead, try using the “Let Them Theory.”\n\nIf they don't invite you to their plans, let them.\nIf they aren't interested in a committed relationship, let them.\nIf they don't want to hang out with you, let them.\n\nThe \"Let Them Theory\" reveals who people truly are, and when you see them for their true colors, YOU then get to choose what you do next.\n\nBOOM! 💥\n\nThe first time I spoke about this theory on social media, the video got over 15 million views. So of course I had to record a podcast episode so we could explore this “Let Them Theory” together and learn how to surrender control to create more peace and ease in our lives.\n\nListen now on the #melrobbinspodcast!! “The “Let Them Theory”: A Life Changing Mindset Hack That 15 Million People Can’t Stop Talking About” \n\nhttps://link.chtbl.com/DAinFkFf?sid=shorts\n\n\n\n\n\nFacebook: https://www.facebook.com/melrobbins\nWebsite: http://melrobbins.com\n—\nSign up for my weekly newsletter at https://www.melrobbins.com/newsletter\n—\nLooking for my books on Amazon? Here they are!\n\nHigh 5 Habit: https://amzn.to/3fMvfPQ\nThe 5 Second Rule: https://amzn.to/3372Rl9",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0nvIcyON0p0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0nvIcyON0p0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0nvIcyON0p0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0nvIcyON0p0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0nvIcyON0p0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mel Robbins",
+          "tags": [
+            "Mel Robbins",
+            "Mel Robbins Motivation",
+            "Mel Robbins Advice",
+            "inspiration"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Let Them Theory  Will Change Your Life | Mel Robbins #Shorts",
+            "description": "Order your copy of The Let Them Theory 👉 https://melrob.co/let-them-theory 👈 The #1 Best Selling Book of 2025 🔥 Discover how much power you truly have. It all begins with two simple words. Let Them.\n—\n\nStop wasting energy on trying to get other people to meet YOUR expectations.\n\nInstead, try using the “Let Them Theory.”\n\nIf they don't invite you to their plans, let them.\nIf they aren't interested in a committed relationship, let them.\nIf they don't want to hang out with you, let them.\n\nThe \"Let Them Theory\" reveals who people truly are, and when you see them for their true colors, YOU then get to choose what you do next.\n\nBOOM! 💥\n\nThe first time I spoke about this theory on social media, the video got over 15 million views. So of course I had to record a podcast episode so we could explore this “Let Them Theory” together and learn how to surrender control to create more peace and ease in our lives.\n\nListen now on the #melrobbinspodcast!! “The “Let Them Theory”: A Life Changing Mindset Hack That 15 Million People Can’t Stop Talking About” \n\nhttps://link.chtbl.com/DAinFkFf?sid=shorts\n\n\n\n\n\nFacebook: https://www.facebook.com/melrobbins\nWebsite: http://melrobbins.com\n—\nSign up for my weekly newsletter at https://www.melrobbins.com/newsletter\n—\nLooking for my books on Amazon? Here they are!\n\nHigh 5 Habit: https://amzn.to/3fMvfPQ\nThe 5 Second Rule: https://amzn.to/3372Rl9"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "714668",
+          "likeCount": "58117",
+          "favoriteCount": "0",
+          "commentCount": "852"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "nKpsxG-ftUWWHgECRRFF1upZadQ",
+        "id": "pMB-0CQA1r4",
+        "snippet": {
+          "publishedAt": "2024-09-04T06:00:37Z",
+          "channelId": "UC0xGl2t64UoCFdw6jhc-eKw",
+          "title": "Got to Harsh Gujral Threat 💯💯 #harshgujral #prakharkepravachan #podcast #shorts",
+          "description": "#samayraina #standupcomedy #clip #funny #podcastclips #interview #harshgujralcomedy #theart \n\n\nCredit - (@ThePrakharGuptaXperience )",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pMB-0CQA1r4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pMB-0CQA1r4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pMB-0CQA1r4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pMB-0CQA1r4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pMB-0CQA1r4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "It's Mines",
+          "tags": [
+            "Harsh Gujral",
+            "Harsh Gujral Roast",
+            "Harsh Gujral podcast",
+            "Harsh Gujral podcast clip",
+            "Harsh Gujral shorts",
+            "Harsh Gujral podcast shorts",
+            "Harsh Gujral Roast shorts",
+            "Harsh Gujral podcast clips",
+            "prakhar ke pravachan",
+            "prakhar ke pravachan Harsh Gujral",
+            "prakhar gupta Harsh Gujral",
+            "shorts feed",
+            "shorts",
+            "podcast",
+            "podcast shorts",
+            "podcast clips",
+            "podcast clip",
+            "Harsh Gujral interview"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Got to Harsh Gujral Threat 💯💯 #harshgujral #prakharkepravachan #podcast #shorts",
+            "description": "#samayraina #standupcomedy #clip #funny #podcastclips #interview #harshgujralcomedy #theart \n\n\nCredit - (@ThePrakharGuptaXperience )"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12826402",
+          "likeCount": "388291",
+          "favoriteCount": "0",
+          "commentCount": "1081"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6OD1gt6AxlnCntp8VW5YY07078w",
+        "id": "yhvgem1Jfv4",
+        "snippet": {
+          "publishedAt": "2025-08-03T12:40:02Z",
+          "channelId": "UC5i7y04DS3Sa22krXffjA2A",
+          "title": "Tammana Cooked Himself ☠️🤯 Ft. @TheLallantop #shorts #podcast #tammanabhatia",
+          "description": "Tammana Bhatia Podcast.\nTammana Bhatia Interview.\nTammana Bhatia On His Song.\nTammana Bhatia On His Song Aaj Ke Raat.\n\n\n\n\n\n\n\n\n#shorts #podcast #tammanabhatia #salmankhan #thelallantop \n\n\n\n\n\n\n\n\nAll Credit Goes To :- The Lallantop \n\nFull Video Link :- https://youtu.be/12ImOKOjbq0?si=CkU-b57QvIefNlad",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yhvgem1Jfv4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yhvgem1Jfv4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yhvgem1Jfv4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yhvgem1Jfv4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yhvgem1Jfv4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SHIBO EDIT",
+          "tags": [
+            "tammana bhatia podcast, tamanna bhatia podcast, tammana bhatia, tamnna bhatia motivation podcast video, tamanna bhatia, tamanna bhatia shorts, tamanna bhatia 2023, tamanna bhatia dance, tamanna bhatia movies, tamana bhatia new movie, tamanna bhatia short video, tamanna bhatia best movies, tamanna bhatia kiss prabhas, tamanna bhatia shorts video, tamanna bhatia interview, tamanna bhatia motivation video"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tammana Cooked Himself ☠️🤯 Ft. @TheLallantop #shorts #podcast #tammanabhatia",
+            "description": "Tammana Bhatia Podcast.\nTammana Bhatia Interview.\nTammana Bhatia On His Song.\nTammana Bhatia On His Song Aaj Ke Raat.\n\n\n\n\n\n\n\n\n#shorts #podcast #tammanabhatia #salmankhan #thelallantop \n\n\n\n\n\n\n\n\nAll Credit Goes To :- The Lallantop \n\nFull Video Link :- https://youtu.be/12ImOKOjbq0?si=CkU-b57QvIefNlad"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11234113",
+          "likeCount": "192271",
+          "favoriteCount": "0",
+          "commentCount": "525"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cq_4rltejeO0RHuJ_BL8Nq--hgQ",
+        "id": "SFeiY_ho_AU",
+        "snippet": {
+          "publishedAt": "2022-08-09T14:20:24Z",
+          "channelId": "UC3gBHrJ4TV-nrJ6WosfQA4Q",
+          "title": "PASSA O BECK BOLSONARO KKK #shorts #podcast #flowpodcast #igor3k #bolsonaro",
+          "description": "#shorts #podcast #flowpodcast #bolsonaro #igor3k",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SFeiY_ho_AU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SFeiY_ho_AU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SFeiY_ho_AU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SFeiY_ho_AU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SFeiY_ho_AU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tubarão Cortes Podcast",
+          "tags": [
+            "cortes",
+            "cortes podcast",
+            "podpah",
+            "flow",
+            "clipadas",
+            "melhores cortes"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "pt-BR",
+          "localized": {
+            "title": "PASSA O BECK BOLSONARO KKK #shorts #podcast #flowpodcast #igor3k #bolsonaro",
+            "description": "#shorts #podcast #flowpodcast #bolsonaro #igor3k"
+          },
+          "defaultAudioLanguage": "pt-BR"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1081557",
+          "likeCount": "98467",
+          "favoriteCount": "0",
+          "commentCount": "1594"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "w4LKO16a2kAORx3zpDaGsV_SgrY",
+        "id": "62oOsCFq6dc",
+        "snippet": {
+          "publishedAt": "2025-05-02T15:34:51Z",
+          "channelId": "UCAUXc79IV_ntB_h-Y94qRhA",
+          "title": "SELF-DEFENSE CLASS WITH TRIXIE & KATYA #trixiemattel #katya #katyazamolodchikova #podcast #shorts",
+          "description": "@welovekatya @trixie @trixiekatya9323 #trixieandkatya #trixiemattel #katyazamolodchikova #katya #katyazamo #unhhhh #unhhhhmoments #podcast #live #shorts #clips #dragrace #dragqueen #rupaulsdragrace #funnymoments #bestmoments #highlights #cocoandgreg #trending #viralvideo #viralshorts #netflix #iliketowatch #thebaldandthebeautiful",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/62oOsCFq6dc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/62oOsCFq6dc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/62oOsCFq6dc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/62oOsCFq6dc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/62oOsCFq6dc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Coco and Greg",
+          "tags": [
+            "Trixie",
+            "Mattel",
+            "Katya",
+            "Zamo",
+            "Zamolodchikova",
+            "RuPaul",
+            "Drag",
+            "Race",
+            "UNHhhh",
+            "moments",
+            "clips",
+            "shorts",
+            "best",
+            "funny",
+            "funniest",
+            "highlights",
+            "viral",
+            "trending",
+            "bald",
+            "beautiful",
+            "podcast",
+            "netflix",
+            "like",
+            "watch"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "SELF-DEFENSE CLASS WITH TRIXIE & KATYA #trixiemattel #katya #katyazamolodchikova #podcast #shorts",
+            "description": "@welovekatya @trixie @trixiekatya9323 #trixieandkatya #trixiemattel #katyazamolodchikova #katya #katyazamo #unhhhh #unhhhhmoments #podcast #live #shorts #clips #dragrace #dragqueen #rupaulsdragrace #funnymoments #bestmoments #highlights #cocoandgreg #trending #viralvideo #viralshorts #netflix #iliketowatch #thebaldandthebeautiful"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1028821",
+          "favoriteCount": "0",
+          "commentCount": "314"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BlfUgQiDy9IFRSdp6OLrHeu2GB8",
+        "id": "0CaHUBHLg8E",
+        "snippet": {
+          "publishedAt": "2024-12-19T12:42:06Z",
+          "channelId": "UCVBJKcFbLymk5HVG4VD7w8A",
+          "title": "How to Make Ai Generated Podcast Clips from YouTube⚡🦾 #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0CaHUBHLg8E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0CaHUBHLg8E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0CaHUBHLg8E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0CaHUBHLg8E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0CaHUBHLg8E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ecom Streetboy",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How to Make Ai Generated Podcast Clips from YouTube⚡🦾 #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "225684",
+          "likeCount": "5443",
+          "favoriteCount": "0",
+          "commentCount": "30"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UNvuEpl-gRN59LEw761e74ERBt4",
+        "id": "zfoqo2TZ8OQ",
+        "snippet": {
+          "publishedAt": "2022-10-19T23:05:02Z",
+          "channelId": "UCqQkMuCnMaReoP_kzgDFmiA",
+          "title": "How To Smoke In Hotels  - Danny Brown Show Clips #shorts #podcast #funny",
+          "description": "Please SUBSCRIBE for more daily uploads! 💚👅💚\n\nHave you checked out Danny Brown's FUNNIEST MOMENTS? 🖖👽🖖\n\nhttps://youtu.be/GSHAMN_pAeo\n\n^ ^ ^ TRY NOT TO LAUGH! ^ ^ ^\n\nYou can support the channel here! ⚡️🚀\nhttps://linktr.ee/dannybrownclips\n\nxxx\n\nI do not own any of the media posted.\n\nClip sourced from Ep. 3 of The Danny Brown Show.\n\nWatch the Danny Brown Show on YMH Studios!\nhttps://youtube.com/playlist?list=PL-i3EV1v5hLdX0_D9nHfx42JtF5ZgRoIy\n\nFor copyright issues please contact dannybrownclips@gmail.com\n\n#dannybrown #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zfoqo2TZ8OQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zfoqo2TZ8OQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zfoqo2TZ8OQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zfoqo2TZ8OQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zfoqo2TZ8OQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Danny Brown Clips",
+          "tags": [
+            "#brown",
+            "#comedy",
+            "#culture",
+            "#danny",
+            "#dannybrown",
+            "#entertainment",
+            "#foryou",
+            "#foryoupage #foryou #viral #fyp",
+            "#funny",
+            "#fyp",
+            "#instagram",
+            "#memes",
+            "#newvideo",
+            "#podcast",
+            "#shorts",
+            "#standupcomedy",
+            "#story",
+            "#subscribers",
+            "#tiktok",
+            "#tomsegura",
+            "#trending",
+            "#twitter",
+            "#viral",
+            "#ymh",
+            "#yourmomshouse",
+            "#youtube",
+            "#youtubeshorts"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How To Smoke In Hotels  - Danny Brown Show Clips #shorts #podcast #funny",
+            "description": "Please SUBSCRIBE for more daily uploads! 💚👅💚\n\nHave you checked out Danny Brown's FUNNIEST MOMENTS? 🖖👽🖖\n\nhttps://youtu.be/GSHAMN_pAeo\n\n^ ^ ^ TRY NOT TO LAUGH! ^ ^ ^\n\nYou can support the channel here! ⚡️🚀\nhttps://linktr.ee/dannybrownclips\n\nxxx\n\nI do not own any of the media posted.\n\nClip sourced from Ep. 3 of The Danny Brown Show.\n\nWatch the Danny Brown Show on YMH Studios!\nhttps://youtube.com/playlist?list=PL-i3EV1v5hLdX0_D9nHfx42JtF5ZgRoIy\n\nFor copyright issues please contact dannybrownclips@gmail.com\n\n#dannybrown #shorts"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9256557",
+          "likeCount": "725965",
+          "favoriteCount": "0",
+          "commentCount": "18685"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7S1dD1AMsJs-3GtmWiaqXG0q6L0",
+        "id": "AENicGPs7dw",
+        "snippet": {
+          "publishedAt": "2025-08-29T01:30:11Z",
+          "channelId": "UCtoxNYqZLysBtJPc8M1NEXQ",
+          "title": "UNFILTERED \"Ravi Gupta\"💀@raviguptacomedy #podcast #funny #standupcomedy #youtubeshorts #shorts",
+          "description": "Credit:Prime Video India\nOriginal video link:https://youtu.be/jAU65_M517A?si=APXSj2dnMcf4XBZm                               Copyright Disclaimer Under section 107 of the copyright Act 1976, allowance is made for 'Fare Use' for Purposes such as criticism , news reporting ,teaching, scholarship ,and research,                                                                                Fair Use is a permitted by copyright statute that might otherwise be infringing , Non-profit, educational or personal use tips the balance in favor of fair",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AENicGPs7dw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AENicGPs7dw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AENicGPs7dw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AENicGPs7dw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AENicGPs7dw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "PodVisions",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "UNFILTERED \"Ravi Gupta\"💀@raviguptacomedy #podcast #funny #standupcomedy #youtubeshorts #shorts",
+            "description": "Credit:Prime Video India\nOriginal video link:https://youtu.be/jAU65_M517A?si=APXSj2dnMcf4XBZm                               Copyright Disclaimer Under section 107 of the copyright Act 1976, allowance is made for 'Fare Use' for Purposes such as criticism , news reporting ,teaching, scholarship ,and research,                                                                                Fair Use is a permitted by copyright statute that might otherwise be infringing , Non-profit, educational or personal use tips the balance in favor of fair"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2023402",
+          "favoriteCount": "0",
+          "commentCount": "87"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "O2hayFAT0BvP087c8vxuPmRDhVk",
+        "id": "R8YgKpZ3gXM",
+        "snippet": {
+          "publishedAt": "2024-12-02T04:45:15Z",
+          "channelId": "UC4YD-0FAgozpQwaxfhPCWPw",
+          "title": "Real hit podcast night talks🤯👀 #shorts #youtubeshorts #shortsfeed #viralshorts #shortvideos",
+          "description": "Real hit podcast night talks🤯👀 #shorts #youtubeshorts #shortsfeed #shortvideos #love #podcast #trendingshorts #realtalk \n\n\n\nSource-https://youtu.be/Bxd5GSAAhSk?si=vrzcZ1KZiw3SBHrd\n\n\nCredits-Realtalk Clips\n\n@realtalkclipp \n\n\n\n\n\n\nCopyright Disclaimer: Copyright Disclaimer under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use\n\n\n\n\n\nshorts\nhindi podcast\nviral podcast\npodcast highlights\nhit podcast\npodcast clips\njoe rogan\npodcast moments\npodcast reviews\nfunny podcasts\ntrending podcast\nviral clips\ntop podcasts\npodcast snippets\nhindi shows\nshorts content\npodcast\nfunny shorts\ntrending shorts\nbest podcast\nthe ranveer show\nfiguring out podcast\ncomedy podcasts\ntop highlights\nfiguring out with raj shamani\nviral highlights\ntrending clips\nhindi comedy\nshort podcast\npodcast funny\n\n\n\n#shorts \n#youtubeshorts \n#shortsfeed \n#shortvideos \n#viralshorts \n#trending \n#trendingshorts \n#podcast \n#realtalk \n#love \n#subscribe \n#like",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R8YgKpZ3gXM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R8YgKpZ3gXM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R8YgKpZ3gXM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/R8YgKpZ3gXM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/R8YgKpZ3gXM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Binny Shorts",
+          "tags": [
+            "best podcast",
+            "comedy podcasts",
+            "figuring out podcast",
+            "figuring out with raj shamani",
+            "funny podcasts",
+            "funny shorts",
+            "hindi comedy",
+            "hindi podcast",
+            "hindi shows",
+            "hit podcast",
+            "joe rogan",
+            "podcast",
+            "podcast clips",
+            "podcast funny",
+            "podcast highlights",
+            "podcast moments",
+            "podcast reviews",
+            "podcast snippets",
+            "short podcast",
+            "shorts",
+            "shorts content",
+            "the ranveer show",
+            "top highlights",
+            "top podcasts",
+            "trending clips",
+            "trending podcast",
+            "trending shorts",
+            "viral clips",
+            "viral highlights",
+            "viral podcast"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Real hit podcast night talks🤯👀 #shorts #youtubeshorts #shortsfeed #viralshorts #shortvideos",
+            "description": "Real hit podcast night talks🤯👀 #shorts #youtubeshorts #shortsfeed #shortvideos #love #podcast #trendingshorts #realtalk \n\n\n\nSource-https://youtu.be/Bxd5GSAAhSk?si=vrzcZ1KZiw3SBHrd\n\n\nCredits-Realtalk Clips\n\n@realtalkclipp \n\n\n\n\n\n\nCopyright Disclaimer: Copyright Disclaimer under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use\n\n\n\n\n\nshorts\nhindi podcast\nviral podcast\npodcast highlights\nhit podcast\npodcast clips\njoe rogan\npodcast moments\npodcast reviews\nfunny podcasts\ntrending podcast\nviral clips\ntop podcasts\npodcast snippets\nhindi shows\nshorts content\npodcast\nfunny shorts\ntrending shorts\nbest podcast\nthe ranveer show\nfiguring out podcast\ncomedy podcasts\ntop highlights\nfiguring out with raj shamani\nviral highlights\ntrending clips\nhindi comedy\nshort podcast\npodcast funny\n\n\n\n#shorts \n#youtubeshorts \n#shortsfeed \n#shortvideos \n#viralshorts \n#trending \n#trendingshorts \n#podcast \n#realtalk \n#love \n#subscribe \n#like"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "15159506",
+          "favoriteCount": "0",
+          "commentCount": "1486"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

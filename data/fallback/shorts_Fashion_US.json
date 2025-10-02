@@ -1,0 +1,3459 @@
+{
+  "timestamp": 1758122578789,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "o2_ojquR-o9nqzKZN0jCJk882eU",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "0ksittSbFp5YDl60FKaLu_YhrVw",
+        "id": "OCS5WrOPaC0",
+        "snippet": {
+          "publishedAt": "2023-06-12T13:36:22Z",
+          "channelId": "UCo9RMALE8ELFhnHnDg7eA_w",
+          "title": "JORTS (jeans shorts) are IN this season! 😱 What do you think? 💖 Daily #shorts about #fashionhacks",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OCS5WrOPaC0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OCS5WrOPaC0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OCS5WrOPaC0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OCS5WrOPaC0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OCS5WrOPaC0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BO BROWN",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "JORTS (jeans shorts) are IN this season! 😱 What do you think? 💖 Daily #shorts about #fashionhacks",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9300551",
+          "likeCount": "35603",
+          "favoriteCount": "0",
+          "commentCount": "499"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I37L4_DZXjzHiztB743PHU90Pmo",
+        "id": "HhgxUnlhG4M",
+        "snippet": {
+          "publishedAt": "2025-03-04T17:49:33Z",
+          "channelId": "UCLwrBGJ88I4te5_J1z9amxQ",
+          "title": "This or That: Styling the shortest shorts in the world",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HhgxUnlhG4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HhgxUnlhG4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HhgxUnlhG4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HhgxUnlhG4M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HhgxUnlhG4M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "IamSimplyMorgan",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This or That: Styling the shortest shorts in the world",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12595904",
+          "likeCount": "212646",
+          "favoriteCount": "0",
+          "commentCount": "1046"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lnYD4sQZZSyHuvWkDMqIOMQ3EYU",
+        "id": "DSi46udefaI",
+        "snippet": {
+          "publishedAt": "2021-11-02T12:45:01Z",
+          "channelId": "UCWyAtgAFXdklCvIvfyfpjIg",
+          "title": "Plus Size Fashion - Maui Beaches Skirt Set #plussizefashion #shorts",
+          "description": "Welcome to Purpose Plus Size where we talk all about plus size fashion and give you the latest updates on what's in and trending!\n\nGet your groove on with the latest and greatest in plus size fashion. I'm the head of a team of curators that scour the web for all of the most up-to-date and on-trend clothing, shoes, and accessories for women sizes 14+. We also cover sizes 16+, 18+, and 20+. Our goal is to keep you looking good while",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DSi46udefaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DSi46udefaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DSi46udefaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DSi46udefaI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DSi46udefaI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Purpose Plus Size",
+          "tags": [
+            "plus size",
+            "plus size fashion",
+            "plus size haul",
+            "plus size model",
+            "plus size haul 2021",
+            "plus size curvy outfit ideas",
+            "plus size clothing",
+            "plus size value fashion",
+            "plus size fashion style",
+            "plus size lookbook",
+            "plus size outfit ideas",
+            "plus size curvy fashion",
+            "plus size curvy models",
+            "plus size curvy haul",
+            "plus size curvy fashion nova",
+            "plus size curvy fashion show",
+            "plus size curvy try haul",
+            "plus size curvy fashion model",
+            "molde plus size",
+            "affordable plus size clothes"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Plus Size Fashion - Maui Beaches Skirt Set #plussizefashion #shorts",
+            "description": "Welcome to Purpose Plus Size where we talk all about plus size fashion and give you the latest updates on what's in and trending!\n\nGet your groove on with the latest and greatest in plus size fashion. I'm the head of a team of curators that scour the web for all of the most up-to-date and on-trend clothing, shoes, and accessories for women sizes 14+. We also cover sizes 16+, 18+, and 20+. Our goal is to keep you looking good while"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12053635",
+          "likeCount": "82392",
+          "favoriteCount": "0",
+          "commentCount": "717"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iq76l4-69RPZO7T9CvEdj7rA2ww",
+        "id": "-1_XnSYvKPY",
+        "snippet": {
+          "publishedAt": "2024-08-07T17:45:09Z",
+          "channelId": "UCMyvAwiQAJtEDejYJMEz05g",
+          "title": "Short dress latest fashion trends #whitedress #fashiontrends",
+          "description": "Looking for short dresses to go out partying? 🎉 In just a few seconds, we'll show you beautiful short dresses perfect for a weekend night out. The elegance always shines with a gorgeous short dress that lets us show off our figure without being overly tight. 👗✨\n\nA stunning short dress in black, pink, blue, or gold—the best styles in short dresses for girls. 💃 We’ll tag some similar products so you can compare and purchase the perfect short dress for your weekend. 🛍️\n\nIf you enjoyed this content, I’d appreciate it if you could help by sharing it, and of course, a comment always helps us create new videos. 😊 Thank you, and see you in the next short video! \n\n#fashion #shorts #dress",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-1_XnSYvKPY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-1_XnSYvKPY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-1_XnSYvKPY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-1_XnSYvKPY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-1_XnSYvKPY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MI MODA",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Short dress latest fashion trends #whitedress #fashiontrends",
+            "description": "Looking for short dresses to go out partying? 🎉 In just a few seconds, we'll show you beautiful short dresses perfect for a weekend night out. The elegance always shines with a gorgeous short dress that lets us show off our figure without being overly tight. 👗✨\n\nA stunning short dress in black, pink, blue, or gold—the best styles in short dresses for girls. 💃 We’ll tag some similar products so you can compare and purchase the perfect short dress for your weekend. 🛍️\n\nIf you enjoyed this content, I’d appreciate it if you could help by sharing it, and of course, a comment always helps us create new videos. 😊 Thank you, and see you in the next short video! \n\n#fashion #shorts #dress"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2390553",
+          "likeCount": "49960",
+          "favoriteCount": "0",
+          "commentCount": "480"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zo5_HtbtZKgKW9FJ1MqzJ9Hp1Fc",
+        "id": "DJUI4pYHGFI",
+        "snippet": {
+          "publishedAt": "2024-11-08T15:04:50Z",
+          "channelId": "UCMyvAwiQAJtEDejYJMEz05g",
+          "title": "Short dress latest fashion style to dance this weekend #fashion #shorts  #dress",
+          "description": "Weekend-ready: Rock The Latest Short Dress Fashion Style On The Dance Floor!\n\n\n\n\n@mimoda.\n\n#short #shortdress",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DJUI4pYHGFI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DJUI4pYHGFI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DJUI4pYHGFI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DJUI4pYHGFI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DJUI4pYHGFI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MI MODA",
+          "tags": [
+            "fashion model",
+            "fashion trend",
+            "shor dress",
+            "fashion dress",
+            "party dress for girls",
+            "party dress design",
+            "party dress haul",
+            "party dress to impress",
+            "party dresses for women",
+            "short dress girl",
+            "short dress",
+            "short dress design",
+            "short dress dance",
+            "clothing styles",
+            "fashion trends 2025",
+            "Latest Short Dress Fashion Style",
+            "Short dress latest fashion style",
+            "beautiful outfit",
+            "stunning girl outfits",
+            "short dress haul",
+            "short dress haul try on",
+            "fashion dress to impress"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Short dress latest fashion style to dance this weekend #fashion #shorts  #dress",
+            "description": "Weekend-ready: Rock The Latest Short Dress Fashion Style On The Dance Floor!\n\n\n\n\n@mimoda.\n\n#short #shortdress"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1596172",
+          "likeCount": "67385",
+          "favoriteCount": "0",
+          "commentCount": "977"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YRk_PiSKJhW9BS4QhSbVGO2bMPs",
+        "id": "RSgGbOYnA_s",
+        "snippet": {
+          "publishedAt": "2025-05-13T04:45:02Z",
+          "channelId": "UCIfZZD1MBExqmZ3oB7dsZ6Q",
+          "title": "The Perfect🥀 Our FREYA Mini Dress in Burgundy💖 #fashion #model #beauty #style #outfit #shorts",
+          "description": "The Perfect🥀 Our FREYA Mini Dress in Burgundy💖 #fashion #model #beauty #style #outfit #shorts\n\nHello My LOVES so you don't miss out on New updates SUBSCRIBE to the CHANNEL ACTIVATE THE NOTIFICATION BELL Leave your LIKE COMMENTS AND SHARE with your friends✨😍\n\nRate this #ootd from 1-10✨💫\n\nTAG someone who would love this & don't forget to save the video to refer back to when styling.\n#outfit #fashion #styling #linanoory #VictoriaXavier #fashionnova\n#Allgoodthingsnetwork #maxfashion\n#BESTOUTFIT #OfficialLizSanchez #Bestmodelss\n#mimoda. \n\nKeywords:\nshorts, viral, trending, glamour, model, fashion, youtubeshorts, grwm, ootd, outfitideas, outfitinspo, tutorial  style, styling, styletips, fashionstyle, todayslook, todaysoutfit, eveninglook, eveninggowns, \nytshort,\n\nThank you so much to everyone that has been tagging people in the comments, saving, liking, & sharing the videos! Your support means everything to me..😘💕💞",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RSgGbOYnA_s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RSgGbOYnA_s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RSgGbOYnA_s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RSgGbOYnA_s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RSgGbOYnA_s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Estila Boutique",
+          "tags": [
+            "The Perfect🥀 Our FREYA Mini Dress in Burgundy💖 #fashion #model #beauty #style #outfit #shorts",
+            "estila boutique",
+            "fashion brand",
+            "try on haul",
+            "clothing try on haul",
+            "beautiful",
+            "model try on",
+            "gorgeous",
+            "ytshort",
+            "shorts",
+            "YouTube shorts",
+            "viral",
+            "YouTube",
+            "trending",
+            "reel",
+            "fashion",
+            "fashion trend"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "The Perfect🥀 Our FREYA Mini Dress in Burgundy💖 #fashion #model #beauty #style #outfit #shorts",
+            "description": "The Perfect🥀 Our FREYA Mini Dress in Burgundy💖 #fashion #model #beauty #style #outfit #shorts\n\nHello My LOVES so you don't miss out on New updates SUBSCRIBE to the CHANNEL ACTIVATE THE NOTIFICATION BELL Leave your LIKE COMMENTS AND SHARE with your friends✨😍\n\nRate this #ootd from 1-10✨💫\n\nTAG someone who would love this & don't forget to save the video to refer back to when styling.\n#outfit #fashion #styling #linanoory #VictoriaXavier #fashionnova\n#Allgoodthingsnetwork #maxfashion\n#BESTOUTFIT #OfficialLizSanchez #Bestmodelss\n#mimoda. \n\nKeywords:\nshorts, viral, trending, glamour, model, fashion, youtubeshorts, grwm, ootd, outfitideas, outfitinspo, tutorial  style, styling, styletips, fashionstyle, todayslook, todaysoutfit, eveninglook, eveninggowns, \nytshort,\n\nThank you so much to everyone that has been tagging people in the comments, saving, liking, & sharing the videos! Your support means everything to me..😘💕💞"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5851327",
+          "favoriteCount": "0",
+          "commentCount": "1042"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dft-lmUeSiMjXRGjtZ8tHJJvboY",
+        "id": "us1_764MCOc",
+        "snippet": {
+          "publishedAt": "2024-11-27T00:07:26Z",
+          "channelId": "UCfKpFeS3Zc_GVYnMfZhmgBw",
+          "title": "My favorite maxi dress #dress #maxidress #yellowdress #shorts #shortsvideo #shortsfeed",
+          "description": "IG: TheAllieRae |\nMy favorite maxi dress #dress #maxidress #yellowdress #BlondeModel #CurvyModel #WalkingVideos #FitnessLifestyle #StylishOutfits #LeggingsAndHeels #FYP #Viral #Trending #JeansAndHeels #LevisStyle #OOTDShorts #ootd #LeggingsLove #ShortsFeed #YouTubeShorts #ExplorePage #ShortsViral\n\nWalking in Heels, Leggings Model, Fitness Fashion, Casual Glam Look, Everyday Fashion, Leggings and Style, Fit and Curvy Women, Model Off-Duty Looks, Walking for Views, Stylish Street Walks, Jeans Model Content, Walking in Levis, Fitness and Fashion Vlogs, Trending Walking Videos, Shorts Walking Viral, Confidence in Heels, Stylish Walking Outfits.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/us1_764MCOc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/us1_764MCOc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/us1_764MCOc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/us1_764MCOc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/us1_764MCOc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Allie Rae",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My favorite maxi dress #dress #maxidress #yellowdress #shorts #shortsvideo #shortsfeed",
+            "description": "IG: TheAllieRae |\nMy favorite maxi dress #dress #maxidress #yellowdress #BlondeModel #CurvyModel #WalkingVideos #FitnessLifestyle #StylishOutfits #LeggingsAndHeels #FYP #Viral #Trending #JeansAndHeels #LevisStyle #OOTDShorts #ootd #LeggingsLove #ShortsFeed #YouTubeShorts #ExplorePage #ShortsViral\n\nWalking in Heels, Leggings Model, Fitness Fashion, Casual Glam Look, Everyday Fashion, Leggings and Style, Fit and Curvy Women, Model Off-Duty Looks, Walking for Views, Stylish Street Walks, Jeans Model Content, Walking in Levis, Fitness and Fashion Vlogs, Trending Walking Videos, Shorts Walking Viral, Confidence in Heels, Stylish Walking Outfits."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9168947",
+          "likeCount": "115723",
+          "favoriteCount": "0",
+          "commentCount": "3083"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WUjMK3TjgLoumAfntndz40HZfsI",
+        "id": "bho9BnVPtQs",
+        "snippet": {
+          "publishedAt": "2025-05-07T08:28:07Z",
+          "channelId": "UCxoMhs2w3v09EEUPwyykNgg",
+          "title": "womens new knitedd black formal tshirt #trendingfashion #fashion #shorts",
+          "description": "womens new knitedd black formal tshirt #trendingfashion #fashion #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bho9BnVPtQs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bho9BnVPtQs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bho9BnVPtQs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bho9BnVPtQs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Fashion point",
+          "tags": [
+            "shorts",
+            "fashion",
+            "fashionbrand"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "womens new knitedd black formal tshirt #trendingfashion #fashion #shorts",
+            "description": "womens new knitedd black formal tshirt #trendingfashion #fashion #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "15128046",
+          "likeCount": "183470",
+          "favoriteCount": "0",
+          "commentCount": "355"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "x6vNv86rfVWB_5mTqxJvhJP5B9k",
+        "id": "uyRsjwnTYVs",
+        "snippet": {
+          "publishedAt": "2024-09-27T12:59:35Z",
+          "channelId": "UC0y-s7J2xKu0iGWu0iup6aw",
+          "title": "Style Denim Shorts in 6 ways 🤔😍",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uyRsjwnTYVs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uyRsjwnTYVs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uyRsjwnTYVs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uyRsjwnTYVs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uyRsjwnTYVs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Leepika Arora",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Style Denim Shorts in 6 ways 🤔😍",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1077681",
+          "likeCount": "10124",
+          "favoriteCount": "0",
+          "commentCount": "82"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_LM7NZqxgDDssDTkbTzatV1VB6A",
+        "id": "GTUwshxDNs8",
+        "snippet": {
+          "publishedAt": "2023-05-01T20:44:57Z",
+          "channelId": "UCjctn-w_v-7JoHolEUjF5_g",
+          "title": "My 4 Current Favorite Body Chains ✨ #fashion #grwm #ootd #outfit #style #shorts #tutorial #short",
+          "description": "Direct link to shop the outfit:\nhttps://liketk.it/48eoi\n\nWhich piece 1-4 is your favorite!? ✨ the 4th one is an actual top, but you can also style it under other pieces as well 🤍\n\nToday’s affirmation:\n“I let go of things that no longer serve me to make space for new beginnings” 🤍\n\nMemo: I’m styling them under a deep open-front jumpsuit so you can get a full look of the pieces, but feel free to style under more covered tops.  Love styling these pieces under button ups, and some of the pieces even over bralettes and tops! \n\nThe right body chain can absolutely elevate your entire look! Here’s part III of different body chains I’ve been wearing recently, and you can see how each piece uniquely styles the deep v blazer in different ways.  My favorite way to style this pieces is with a more classic outfit, making it the perfect amount of sexy & classy!\n\nTAG someone who would love this & don’t forget to save the video to refer back to when styling • #outfitindpo #fashion #styletips #outfitideas #grwm #fashionstyle #styling #todaysoutfit #todayslook",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GTUwshxDNs8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lina Noory",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My 4 Current Favorite Body Chains ✨ #fashion #grwm #ootd #outfit #style #shorts #tutorial #short",
+            "description": "Direct link to shop the outfit:\nhttps://liketk.it/48eoi\n\nWhich piece 1-4 is your favorite!? ✨ the 4th one is an actual top, but you can also style it under other pieces as well 🤍\n\nToday’s affirmation:\n“I let go of things that no longer serve me to make space for new beginnings” 🤍\n\nMemo: I’m styling them under a deep open-front jumpsuit so you can get a full look of the pieces, but feel free to style under more covered tops.  Love styling these pieces under button ups, and some of the pieces even over bralettes and tops! \n\nThe right body chain can absolutely elevate your entire look! Here’s part III of different body chains I’ve been wearing recently, and you can see how each piece uniquely styles the deep v blazer in different ways.  My favorite way to style this pieces is with a more classic outfit, making it the perfect amount of sexy & classy!\n\nTAG someone who would love this & don’t forget to save the video to refer back to when styling • #outfitindpo #fashion #styletips #outfitideas #grwm #fashionstyle #styling #todaysoutfit #todayslook"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27018824",
+          "likeCount": "403480",
+          "favoriteCount": "0",
+          "commentCount": "2071"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I2uvOF7mmHcgtiuYgR1IUnSlulU",
+        "id": "3xyUr287Ddo",
+        "snippet": {
+          "publishedAt": "2025-09-11T22:28:05Z",
+          "channelId": "UCMyvAwiQAJtEDejYJMEz05g",
+          "title": "Like my Mini Dress in Plum Brown #fashion #shorts #dress",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3xyUr287Ddo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3xyUr287Ddo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3xyUr287Ddo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3xyUr287Ddo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3xyUr287Ddo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MI MODA",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Like my Mini Dress in Plum Brown #fashion #shorts #dress",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "121983",
+          "likeCount": "3218",
+          "favoriteCount": "0",
+          "commentCount": "65"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "x95yCrDsYWOdylZRDF2Oi-6UQyk",
+        "id": "XYnhI3xpUYI",
+        "snippet": {
+          "publishedAt": "2023-04-27T18:19:03Z",
+          "channelId": "UCU69ROL7juUiTZVs5PsN55Q",
+          "title": "How LAZY can be STYLISH 👑 #shorts",
+          "description": "My bio link: https://bio.link/andreasfashiongalaxy\n\nYou asked me for more lazy but stylish outfits so here we go. #letsgetdressed #grwm #ootd #fashion #getreadywithme #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XYnhI3xpUYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XYnhI3xpUYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XYnhI3xpUYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XYnhI3xpUYI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XYnhI3xpUYI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "andrea's fashion galaxy",
+          "tags": [
+            "shorts",
+            "letsgetdressed",
+            "ootd",
+            "grwm",
+            "getreadywithme",
+            "fashion",
+            "styling"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "How LAZY can be STYLISH 👑 #shorts",
+            "description": "My bio link: https://bio.link/andreasfashiongalaxy\n\nYou asked me for more lazy but stylish outfits so here we go. #letsgetdressed #grwm #ootd #fashion #getreadywithme #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5566977",
+          "likeCount": "483537",
+          "favoriteCount": "0",
+          "commentCount": "2148"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I1xDifkrjYCfqV8tjksO7MmrKW8",
+        "id": "JTxbW8Te7mM",
+        "snippet": {
+          "publishedAt": "2025-09-16T22:32:23Z",
+          "channelId": "UCjctn-w_v-7JoHolEUjF5_g",
+          "title": "2 Fashion Hacks For Bodysuits ✨ #grwm #ootd #fashion #styling #shorts #outfit #outfitideas #style",
+          "description": "2 Fashion Hacks For Bodysuits✨ #grwm \n\nWhich #fashionhack 1-2 was your favorite!?\n\nHere’s two of my favorite hacks for when you want to crop your bodysuit, or add a stylish gold detail to turn it into a halter-neck top 💫\n\nTAG someone who would love this, & comment down below if you want to see more #style hacks!  Don’t forget to save this video to refer back to when you’re ready to get dressed up xo • #ootd #styletips #outfitideas #fashionhacks #grwm #todaysoutfit #todayslook #womensfashion #style #outfit #stylish \n\nTodays affirmation:\n“I love who I am, and who I am becoming” 💫",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JTxbW8Te7mM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JTxbW8Te7mM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JTxbW8Te7mM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JTxbW8Te7mM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JTxbW8Te7mM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lina Noory",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2 Fashion Hacks For Bodysuits ✨ #grwm #ootd #fashion #styling #shorts #outfit #outfitideas #style",
+            "description": "2 Fashion Hacks For Bodysuits✨ #grwm \n\nWhich #fashionhack 1-2 was your favorite!?\n\nHere’s two of my favorite hacks for when you want to crop your bodysuit, or add a stylish gold detail to turn it into a halter-neck top 💫\n\nTAG someone who would love this, & comment down below if you want to see more #style hacks!  Don’t forget to save this video to refer back to when you’re ready to get dressed up xo • #ootd #styletips #outfitideas #fashionhacks #grwm #todaysoutfit #todayslook #womensfashion #style #outfit #stylish \n\nTodays affirmation:\n“I love who I am, and who I am becoming” 💫"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "166370",
+          "likeCount": "3174",
+          "favoriteCount": "0",
+          "commentCount": "31"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sSBslXUWarxZjPCB3p86GwPyqWE",
+        "id": "TjhqoJ6LW7M",
+        "snippet": {
+          "publishedAt": "2025-05-19T04:50:03Z",
+          "channelId": "UCn16aShSFn3tq_YFaFmNTmA",
+          "title": "Little black dresses from FashionNova 😎 #style #fashion #clothes #outfit #shorts #cindyprado",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TjhqoJ6LW7M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TjhqoJ6LW7M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TjhqoJ6LW7M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TjhqoJ6LW7M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TjhqoJ6LW7M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cindy Prado",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Little black dresses from FashionNova 😎 #style #fashion #clothes #outfit #shorts #cindyprado",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "565105",
+          "likeCount": "8311",
+          "favoriteCount": "0",
+          "commentCount": "79"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "D0tykqKz_A1ybXiUmpw6W54rxZY",
+        "id": "qwhLqnISVnM",
+        "snippet": {
+          "publishedAt": "2023-03-16T22:33:57Z",
+          "channelId": "UCsKOhbPHgBGDWRaSbolBvXg",
+          "title": "beach outfits #spring #shorts #fashion",
+          "description": "shop my outfits:https://www.shopltk.com/explore/KellyDoan\n\nYesstyle Code: KELLYDOAN \nPrincessPolly Code: 20KELLYD\nLaitCollection Code: KELLY15\n\n\nCONNECT WITH ME \nInstagram: kellyydoan: https://www.instagram.com/kellyydoan/\nTikTok: kellyydoann : https://www.tiktok.com/@kellyydoann",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qwhLqnISVnM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qwhLqnISVnM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qwhLqnISVnM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qwhLqnISVnM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qwhLqnISVnM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kelly Doan",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "beach outfits #spring #shorts #fashion",
+            "description": "shop my outfits:https://www.shopltk.com/explore/KellyDoan\n\nYesstyle Code: KELLYDOAN \nPrincessPolly Code: 20KELLYD\nLaitCollection Code: KELLY15\n\n\nCONNECT WITH ME \nInstagram: kellyydoan: https://www.instagram.com/kellyydoan/\nTikTok: kellyydoann : https://www.tiktok.com/@kellyydoann"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "456724",
+          "likeCount": "6112",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "j6c7pjmcFR4XtWtPF1ZXlw4S_L4",
+        "id": "-ysWzgBvOf8",
+        "snippet": {
+          "publishedAt": "2025-04-15T18:33:00Z",
+          "channelId": "UCU69ROL7juUiTZVs5PsN55Q",
+          "title": "How to style this mesh skirt as a Coachella dress #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-ysWzgBvOf8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-ysWzgBvOf8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-ysWzgBvOf8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-ysWzgBvOf8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-ysWzgBvOf8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "andrea's fashion galaxy",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "How to style this mesh skirt as a Coachella dress #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10237064",
+          "likeCount": "373335",
+          "favoriteCount": "0",
+          "commentCount": "2241"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KbdFUdCxmuOIesZfn0IhOewLQPo",
+        "id": "4WayEnVDcVc",
+        "snippet": {
+          "publishedAt": "2023-12-11T15:50:07Z",
+          "channelId": "UC8B1sNPsg-VSCq6hkZdt9qw",
+          "title": "Kawaii 🐇🎀🤍 vs. Grunge 🥀🕷️🧛🏻‍♀️ which one is YOUR FAVORITE?? 👀… #shorts #fashion #ROMWE",
+          "description": "I can't help it when my two personalities fall in love 🥰... All Items are up to 90% off on ROMWE and \"Search \"Mystery Box\" to dig up your exclusive Cyber Monday deal!! 😉 let me know which aesthetics is your fav? 💕\n#ROMWE #ROMWEmysterybox, #ROMWEcybermonday #ROMWEpartner\n\nItems featured in the video: (search IDs)\n\nKawaii:\n\nKawaii Lace Up Front Ruffle Trim Skirt: 2948910\n\nKawaii Off Shoulder Lace Trim Bow Front Tee: 2941267\n\nKawaii Rabbit Ear Decor Fluffy Hat: 2956126\n\nGrunge:\n\nGrunge Punk Heart & Chain Decor Harness Belt: 2956542\n\nGrunge Punk Plaid Pleated Skirt With Cross Charm: 2948027\n\nGrunge Punk Contrast Lace Bow Front Cami Top: 2932657",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4WayEnVDcVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4WayEnVDcVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4WayEnVDcVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4WayEnVDcVc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4WayEnVDcVc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Clara Dao",
+          "tags": [
+            "dressing up as two personalities",
+            "kawaii fashion",
+            "grunge fashion",
+            "oppsite outfit",
+            "opposite aesthetics"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Kawaii 🐇🎀🤍 vs. Grunge 🥀🕷️🧛🏻‍♀️ which one is YOUR FAVORITE?? 👀… #shorts #fashion #ROMWE",
+            "description": "I can't help it when my two personalities fall in love 🥰... All Items are up to 90% off on ROMWE and \"Search \"Mystery Box\" to dig up your exclusive Cyber Monday deal!! 😉 let me know which aesthetics is your fav? 💕\n#ROMWE #ROMWEmysterybox, #ROMWEcybermonday #ROMWEpartner\n\nItems featured in the video: (search IDs)\n\nKawaii:\n\nKawaii Lace Up Front Ruffle Trim Skirt: 2948910\n\nKawaii Off Shoulder Lace Trim Bow Front Tee: 2941267\n\nKawaii Rabbit Ear Decor Fluffy Hat: 2956126\n\nGrunge:\n\nGrunge Punk Heart & Chain Decor Harness Belt: 2956542\n\nGrunge Punk Plaid Pleated Skirt With Cross Charm: 2948027\n\nGrunge Punk Contrast Lace Bow Front Cami Top: 2932657"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8081451",
+          "likeCount": "500666",
+          "favoriteCount": "0",
+          "commentCount": "5046"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yQqWm04N8EoHlQPX2wK-Dh8VcpY",
+        "id": "xxqBm0CR3-M",
+        "snippet": {
+          "publishedAt": "2024-09-15T06:05:00Z",
+          "channelId": "UC76VCFfXkAe_hWDNQGAL8mA",
+          "title": "Same dress, different vibe🥀 Our DALARY Maxi Dress🖤 #shorts #fashion #youtubeshorts #fashiontrends",
+          "description": "Same dress, different vibe🥀 Our DALARY Maxi Dress🖤 #shorts #fashion #youtubeshorts #fashiontrends\n\nHello My LOVES so you don't miss out on New updates SUBSCRIBE to the CHANNEL ACTIVATE THE NOTIFICATION BELL Leave your LIKE COMMENTS AND SHARE with your friends✨😍\n\nRate this #ootd from 1-10✨💫\n\nTAG someone who would love this & don't forget to save the video to refer back to when styling.\n#outfit #fashion #styling #linanoory #VictoriaXavier #fashionnova\n#Allgoodthingsnetwork #maxfashion\n#BESTOUTFIT #OfficialLizSanchez #Bestmodelss\n#mimoda. \n\nKeywords:\nshorts, viral, trending, glamour, model, fashion, youtubeshorts, grwm, ootd, outfitideas, outfitinspo, tutorial  style, styling, styletips, fashionstyle, todayslook, todaysoutfit, eveninglook, eveninggowns, \nytshort,\n\nThank you so much to everyone that has been tagging people in the comments, saving, liking, & sharing the videos! Your support means everything to me..😘💕💞",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xxqBm0CR3-M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xxqBm0CR3-M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xxqBm0CR3-M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xxqBm0CR3-M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xxqBm0CR3-M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jambo Fashion Store",
+          "tags": [
+            "Same dress different vibe🥀 Our DALARY Maxi Dress🖤 #shorts #fashion #youtubeshorts #fashiontrends",
+            "fashion brand",
+            "try on haul",
+            "clothing try on haul",
+            "beautiful",
+            "model try on",
+            "gorgeous",
+            "ytshort",
+            "short",
+            "YouTube short",
+            "viral",
+            "YouTube",
+            "trending",
+            "reel",
+            "fashion"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Same dress, different vibe🥀 Our DALARY Maxi Dress🖤 #shorts #fashion #youtubeshorts #fashiontrends",
+            "description": "Same dress, different vibe🥀 Our DALARY Maxi Dress🖤 #shorts #fashion #youtubeshorts #fashiontrends\n\nHello My LOVES so you don't miss out on New updates SUBSCRIBE to the CHANNEL ACTIVATE THE NOTIFICATION BELL Leave your LIKE COMMENTS AND SHARE with your friends✨😍\n\nRate this #ootd from 1-10✨💫\n\nTAG someone who would love this & don't forget to save the video to refer back to when styling.\n#outfit #fashion #styling #linanoory #VictoriaXavier #fashionnova\n#Allgoodthingsnetwork #maxfashion\n#BESTOUTFIT #OfficialLizSanchez #Bestmodelss\n#mimoda. \n\nKeywords:\nshorts, viral, trending, glamour, model, fashion, youtubeshorts, grwm, ootd, outfitideas, outfitinspo, tutorial  style, styling, styletips, fashionstyle, todayslook, todaysoutfit, eveninglook, eveninggowns, \nytshort,\n\nThank you so much to everyone that has been tagging people in the comments, saving, liking, & sharing the videos! Your support means everything to me..😘💕💞"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "47418985",
+          "favoriteCount": "0",
+          "commentCount": "5754"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "G1pt-H1UVCxPkEv77_DM-r3DQSk",
+        "id": "S-zauu_ITF0",
+        "snippet": {
+          "publishedAt": "2023-07-22T19:03:51Z",
+          "channelId": "UCDjpp9fOeGLy754KJvRl10w",
+          "title": "How To Style Shorts!",
+          "description": "Outfit Links Here - https://liketk.it/4et6t",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S-zauu_ITF0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S-zauu_ITF0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S-zauu_ITF0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/S-zauu_ITF0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/S-zauu_ITF0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brandon Balfour",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How To Style Shorts!",
+            "description": "Outfit Links Here - https://liketk.it/4et6t"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "709345",
+          "likeCount": "25663",
+          "favoriteCount": "0",
+          "commentCount": "126"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y795n3DPv9k1TTr1bBEpremRQUw",
+        "id": "ggWtXhztrsc",
+        "snippet": {
+          "publishedAt": "2025-08-30T06:20:01Z",
+          "channelId": "UCR_sJNZFY-k9KEaMBxCfnaQ",
+          "title": "Stylish Ways to Rock Denim Shorts This Summer! #fashion #shorts #dress",
+          "description": "Stylish Ways to Rock Denim Shorts This Summer! #fashion #shorts #dress\n\n🔥 Stay trendy this season with the most stylish ways to rock denim shorts this summer! From casual streetwear vibes to chic and classy looks, discover outfit inspiration that’s perfect for beach days, brunch, and everyday style. Denim shorts are a timeless summer staple, and I’ll show you how to style them effortlessly for any occasion. 🌸👖✨\n\n👉 Don’t forget to like, share & subscribe for more fashion tips and outfit inspo!\n\ndenim shorts outfit ideas, stylish summer outfits 2025, how to style denim shorts, denim shorts street style, casual summer looks, chic summer fashion, trending summer outfits, fashion tips for summer, best summer shorts outfits, denim fashion style\n\n\n#fashion #shorts #dress #denimshorts #summerstyle #summeroutfits2025 #outfitideas #streetstyle #fashiontrends #ootd #chicstyle #styleinspo #summerfashion\n\ndenim shorts, summer outfit ideas, trendy fashion 2025, street style, chic denim look, casual outfits, denim shorts fashion, summer vibes, cute summer outfits, outfit inspiration, style tips",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ggWtXhztrsc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ggWtXhztrsc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ggWtXhztrsc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ggWtXhztrsc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ggWtXhztrsc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Street Outfit ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stylish Ways to Rock Denim Shorts This Summer! #fashion #shorts #dress",
+            "description": "Stylish Ways to Rock Denim Shorts This Summer! #fashion #shorts #dress\n\n🔥 Stay trendy this season with the most stylish ways to rock denim shorts this summer! From casual streetwear vibes to chic and classy looks, discover outfit inspiration that’s perfect for beach days, brunch, and everyday style. Denim shorts are a timeless summer staple, and I’ll show you how to style them effortlessly for any occasion. 🌸👖✨\n\n👉 Don’t forget to like, share & subscribe for more fashion tips and outfit inspo!\n\ndenim shorts outfit ideas, stylish summer outfits 2025, how to style denim shorts, denim shorts street style, casual summer looks, chic summer fashion, trending summer outfits, fashion tips for summer, best summer shorts outfits, denim fashion style\n\n\n#fashion #shorts #dress #denimshorts #summerstyle #summeroutfits2025 #outfitideas #streetstyle #fashiontrends #ootd #chicstyle #styleinspo #summerfashion\n\ndenim shorts, summer outfit ideas, trendy fashion 2025, street style, chic denim look, casual outfits, denim shorts fashion, summer vibes, cute summer outfits, outfit inspiration, style tips"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4521511",
+          "likeCount": "33367",
+          "favoriteCount": "0",
+          "commentCount": "371"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2vFPSSzqx-Es7RAUHGqI3ACafWw",
+        "id": "rqDgyfgdO5o",
+        "snippet": {
+          "publishedAt": "2023-04-07T17:30:06Z",
+          "channelId": "UCV_iJIrN0bwkUtRvUeYp8Cw",
+          "title": "The designer versus the designs pt.3 | #shorts #short #fashion",
+          "description": "Get 30% off and a $100 coupon: https://voila.love/vectorias\n\nUse Code: fav35609\n\nCC: sheeoo\n\nwatch the pt.1: https://www.youtube.com/shorts/s-V_zicOuqo\nwatch the pt.2 :  https://youtube.com/shorts/Ndfa7ktu89\n\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rqDgyfgdO5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rqDgyfgdO5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rqDgyfgdO5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rqDgyfgdO5o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rqDgyfgdO5o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vectorias",
+          "tags": [
+            "shorts",
+            "short",
+            "fashion",
+            "outfit",
+            "outfit inspo",
+            "winter outfit inspo",
+            "autumn outfit inspo",
+            "summer outfit inspo",
+            "GRWM",
+            "zara",
+            "amazon inspo",
+            "shien haul",
+            "zara haul",
+            "amazon haul",
+            "dress tryon haul",
+            "massive haul",
+            "downtown girl aesthetic",
+            "bloxburg outfit codes",
+            "outfit ideas",
+            "spring wedding outfit ideas",
+            "spring outfit",
+            "summer outfit",
+            "tiktok outfit inspo",
+            "tiktok outfit",
+            "zara haul 2023",
+            "capsule wardrobe",
+            "spring fashion 2023",
+            "old money aesthetic",
+            "temu",
+            "temu haul"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "The designer versus the designs pt.3 | #shorts #short #fashion",
+            "description": "Get 30% off and a $100 coupon: https://voila.love/vectorias\n\nUse Code: fav35609\n\nCC: sheeoo\n\nwatch the pt.1: https://www.youtube.com/shorts/s-V_zicOuqo\nwatch the pt.2 :  https://youtube.com/shorts/Ndfa7ktu89\n\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "15486515",
+          "likeCount": "989354",
+          "favoriteCount": "0",
+          "commentCount": "2250"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YjuD5B2ppGCfZdWp1GqinVatpZM",
+        "id": "jH6hKSF4SRk",
+        "snippet": {
+          "publishedAt": "2023-01-03T21:00:29Z",
+          "channelId": "UCmf6XOv4in6_6eyDYCpWy0Q",
+          "title": "Men's Shorts Fashion Advice (Alex Costa)",
+          "description": "In this video, we're going to talk about the best shorts for men and why you should wear them! We'll also talk about why leg day is so important and why you should never skip it.\nIf you're a man and you're looking for stylish shorts that will look good with anything, then this video is for you! We'll discuss the different types of shorts and which ones are the best for men. We'll also give you some fashion advice that you need to know if you want to look good in any situation!\n#shorts #legday #legworkout #legs #fitness #workout #gym #fashion #mensfashion",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jH6hKSF4SRk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jH6hKSF4SRk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jH6hKSF4SRk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jH6hKSF4SRk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jH6hKSF4SRk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mario Rios",
+          "tags": [
+            "mens fashion",
+            "style tips for men",
+            "how to look good",
+            "men's style",
+            "alex costa hair",
+            "mens fashion trends",
+            "how to be attractive",
+            "don't skip leg day",
+            "leg workout",
+            "best men's shorts 2022",
+            "best men's shorts",
+            "fitness",
+            "men's fitness",
+            "alex costa",
+            "alex",
+            "costa",
+            "gym",
+            "bodybuilding",
+            "leg day",
+            "squats",
+            "leg workout for men",
+            "fitness model",
+            "mens lifestyle",
+            "Men's shorts fashion advice"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Men's Shorts Fashion Advice (Alex Costa)",
+            "description": "In this video, we're going to talk about the best shorts for men and why you should wear them! We'll also talk about why leg day is so important and why you should never skip it.\nIf you're a man and you're looking for stylish shorts that will look good with anything, then this video is for you! We'll discuss the different types of shorts and which ones are the best for men. We'll also give you some fashion advice that you need to know if you want to look good in any situation!\n#shorts #legday #legworkout #legs #fitness #workout #gym #fashion #mensfashion"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1999919",
+          "likeCount": "59890",
+          "favoriteCount": "0",
+          "commentCount": "719"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gQSL-IrzGaO4AhopX7PGyaXplwo",
+        "id": "ruaQlqqaSj8",
+        "snippet": {
+          "publishedAt": "2023-07-15T15:30:55Z",
+          "channelId": "UCo9RMALE8ELFhnHnDg7eA_w",
+          "title": "VIRAL T-SHIRT HACKS! 🤍👚 Daily #shorts about #fashionhacks and #fashioninspo #fashion #stylingtips",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ruaQlqqaSj8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ruaQlqqaSj8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ruaQlqqaSj8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ruaQlqqaSj8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ruaQlqqaSj8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BO BROWN",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "VIRAL T-SHIRT HACKS! 🤍👚 Daily #shorts about #fashionhacks and #fashioninspo #fashion #stylingtips",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "18044027",
+          "likeCount": "299468",
+          "favoriteCount": "0",
+          "commentCount": "744"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CENysRAPIr5w6y_wcGE0nmLj4J4",
+        "id": "KsFSoypcCa4",
+        "snippet": {
+          "publishedAt": "2024-06-02T04:35:38Z",
+          "channelId": "UC_K5m92ZA91vi110PQjmjMA",
+          "title": "Long T-shirt short sleeve light pink top for girls summer short #youtubeshorts #shorts@ZoeStyle1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KsFSoypcCa4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KsFSoypcCa4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KsFSoypcCa4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KsFSoypcCa4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KsFSoypcCa4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ZoeStyle1",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Long T-shirt short sleeve light pink top for girls summer short #youtubeshorts #shorts@ZoeStyle1",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1474163",
+          "favoriteCount": "0",
+          "commentCount": "62"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "nBR_bgvvrtlcopHbpTvvrz7ZUYs",
+        "id": "69E89pKaTbE",
+        "snippet": {
+          "publishedAt": "2025-02-18T08:18:10Z",
+          "channelId": "UC7MSCZQXZuJdmUVJZjD3AHQ",
+          "title": "Zara V/s myntra ❤️🫶#mensfashion #fashion #style #stylish #trending #shorts #outfit #lovesong #song",
+          "description": "Old money \nBest cot pant 2025 dress for men\nformal dress\nhow to wear formal dress for men\nbest formal outfits for men\nformal outfits for men\nblazer for men wedding\ncoat pant\nformal dress for men in wedding\nformals for men\nformal dress for men colour combinations\nblack formal dress men\nwedding dress for men\nformal pant\nbest formal dress combination for male\nwedding formal dress for men\nblazer\nlycra pants and shirt\n\nshirt pant combination for men\nwedding dress for boys\nwhite shirt black pant formal dress\nwhite shirt outfits\nformal dress for Women\ninshirt tips for men\npant shirt combination\nbest t shirts for men\nblack coat pant shirt combination\nblue pant matching shirt\ndressing sense for men\nformal suits for men\nformal kapde\noffice dress for men\nbest blazers for men\nblack shirt\ninterview dress for men\n\nformal\nformal combination for men\nformal pants for men\nblazer for men\nwedding outfits for men\nformal shoes for men\nIycra pants\nsemi formal outfit men\nmens formal dress style\nformal dress combination for men\nformal dressing style for men\nblezer for man new style\nformal shirts for men\nformal shirt\nformal dress for boys\nformals\nformal outfit for men\nformal wear for men\nformal pant shirt\nformal look for men\nblack blazer outfit ideas men\nformal outfit\nformal clothes for men\nwhite shirt black pant\nformal blazer for men\nformal dressing\nmen formal dress\nblue blazer combination\nformal pant fitting\nwedding dress\nengagement dresses for men\nformal shoes\nbest formal shoes for men\nblack shirt combination\n\nwhite blazer combination\nbest dressing style for men\nblack blazer combination\nblack shirt matching pant\ncoat pant design\nformal attire for men\nformal dress for men with blazer\nformal dress for wedding\nbest formal pants for men\nbest formal shirts for men\nboys dressing style tips\nboys formal dressing style\ndress style for men\nformal dress for men tamil\nformal wear\nhow to tuck in a shirt properly men\nlycra shirts\n\nformal clothes\nmen formal outfit\nblack formal\nformal dresses\nsuits for men\nformal dressing for men\nwedding suit for men\nwhite shirt\nbest formal dress\nblack blazer\noutfits for men\nbest blazer colour combination\nbest outfit for boys\nformal dress for interview male\nformal dress with blazer\nmatching dress for men\nbest dress combination for boys\n\nbest formal dress for men\nbest shirt pant combination for men\nbest wedding dress for men in india\ncasual dress for men\nfarewell outfit for boys\nformal dress combination\nformal shirt pant colour combination\nlycra pant\noffice wear for men\nshirts for men\nblack formal pant\nblazers for men\nformal dress men\nformal outfits\nformal jeans\nmen fashion\nmens formal dress colour combination\n\nmens formal dress style\nwedding formal dress for men\nboys formal dressing style\nformal outfit\nblack formal dress men\nformal dressing\nboys dress combination\nformal dress combination\nmatching dress for men\nformals\ncasual dress for men\nformal pant shirt combination\nhow to wear formal dress for men\nwedding dress for men\ndress matching for men\nformal look for men\nmens formal dress colour combination\n\nformal dress for men\nformal dress\nhow to wear formal dress for men\nbest formal outfits for men\nformal outfits for men\nformal dress for men in wedding\nformal dress for men colour combinations\nformals for men\nblazer for men wedding\nblack formal dress men\nwedding formal dress for men\nbest formal dress combination for male\nCoat pant\nblazer\nwedding dress for men\n\nbest formal pants for men\nformal dress for wedding\ndressing style for men\nformal combination\nformal shirt for men\noffice formal dress for men\nbest clothes for men\nbest color combination for men's clothing\ncasual formal outfits men\nbest dress combination for men\nbest dress for men\nclothes combination for men\nformal dress for men tamil\nwedding outfits for men\nformal shirt\nbest wedding outfits for men\n\nblack blazer outfit ideas men\nblazer outfit ideas\nblazer\nblezer for man new style\ncasual blazers for men\nblazer for men wedding\nformal dress for men\nblazer with t shirt\nblazer style for men\nblazer for men\nblazer outfit ideas men\nsmart casual for men\ncasual blazer\nblazer style\nbest blazers for men\ncasual dress for men\n\nformal dress for men\nbest formal outfits for men\nformal outfits for men\nformal dress for men colour combinations\nbest dress combination for boys\nformal dress\nbest formal dress combination for male\nformal shirts for men\nbest combination dress for men\nformals for men\nformal\nformal combination for men\nformal dress for boys\ndress combination for boys\ndress combination for men\nKurta pajama design \nStylish outfit #music #coversong #tseries #mensfashion #mensstyles #formalattire #fashion #menstyle",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/69E89pKaTbE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/69E89pKaTbE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/69E89pKaTbE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/69E89pKaTbE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/69E89pKaTbE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "KPM designer",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Zara V/s myntra ❤️🫶#mensfashion #fashion #style #stylish #trending #shorts #outfit #lovesong #song",
+            "description": "Old money \nBest cot pant 2025 dress for men\nformal dress\nhow to wear formal dress for men\nbest formal outfits for men\nformal outfits for men\nblazer for men wedding\ncoat pant\nformal dress for men in wedding\nformals for men\nformal dress for men colour combinations\nblack formal dress men\nwedding dress for men\nformal pant\nbest formal dress combination for male\nwedding formal dress for men\nblazer\nlycra pants and shirt\n\nshirt pant combination for men\nwedding dress for boys\nwhite shirt black pant formal dress\nwhite shirt outfits\nformal dress for Women\ninshirt tips for men\npant shirt combination\nbest t shirts for men\nblack coat pant shirt combination\nblue pant matching shirt\ndressing sense for men\nformal suits for men\nformal kapde\noffice dress for men\nbest blazers for men\nblack shirt\ninterview dress for men\n\nformal\nformal combination for men\nformal pants for men\nblazer for men\nwedding outfits for men\nformal shoes for men\nIycra pants\nsemi formal outfit men\nmens formal dress style\nformal dress combination for men\nformal dressing style for men\nblezer for man new style\nformal shirts for men\nformal shirt\nformal dress for boys\nformals\nformal outfit for men\nformal wear for men\nformal pant shirt\nformal look for men\nblack blazer outfit ideas men\nformal outfit\nformal clothes for men\nwhite shirt black pant\nformal blazer for men\nformal dressing\nmen formal dress\nblue blazer combination\nformal pant fitting\nwedding dress\nengagement dresses for men\nformal shoes\nbest formal shoes for men\nblack shirt combination\n\nwhite blazer combination\nbest dressing style for men\nblack blazer combination\nblack shirt matching pant\ncoat pant design\nformal attire for men\nformal dress for men with blazer\nformal dress for wedding\nbest formal pants for men\nbest formal shirts for men\nboys dressing style tips\nboys formal dressing style\ndress style for men\nformal dress for men tamil\nformal wear\nhow to tuck in a shirt properly men\nlycra shirts\n\nformal clothes\nmen formal outfit\nblack formal\nformal dresses\nsuits for men\nformal dressing for men\nwedding suit for men\nwhite shirt\nbest formal dress\nblack blazer\noutfits for men\nbest blazer colour combination\nbest outfit for boys\nformal dress for interview male\nformal dress with blazer\nmatching dress for men\nbest dress combination for boys\n\nbest formal dress for men\nbest shirt pant combination for men\nbest wedding dress for men in india\ncasual dress for men\nfarewell outfit for boys\nformal dress combination\nformal shirt pant colour combination\nlycra pant\noffice wear for men\nshirts for men\nblack formal pant\nblazers for men\nformal dress men\nformal outfits\nformal jeans\nmen fashion\nmens formal dress colour combination\n\nmens formal dress style\nwedding formal dress for men\nboys formal dressing style\nformal outfit\nblack formal dress men\nformal dressing\nboys dress combination\nformal dress combination\nmatching dress for men\nformals\ncasual dress for men\nformal pant shirt combination\nhow to wear formal dress for men\nwedding dress for men\ndress matching for men\nformal look for men\nmens formal dress colour combination\n\nformal dress for men\nformal dress\nhow to wear formal dress for men\nbest formal outfits for men\nformal outfits for men\nformal dress for men in wedding\nformal dress for men colour combinations\nformals for men\nblazer for men wedding\nblack formal dress men\nwedding formal dress for men\nbest formal dress combination for male\nCoat pant\nblazer\nwedding dress for men\n\nbest formal pants for men\nformal dress for wedding\ndressing style for men\nformal combination\nformal shirt for men\noffice formal dress for men\nbest clothes for men\nbest color combination for men's clothing\ncasual formal outfits men\nbest dress combination for men\nbest dress for men\nclothes combination for men\nformal dress for men tamil\nwedding outfits for men\nformal shirt\nbest wedding outfits for men\n\nblack blazer outfit ideas men\nblazer outfit ideas\nblazer\nblezer for man new style\ncasual blazers for men\nblazer for men wedding\nformal dress for men\nblazer with t shirt\nblazer style for men\nblazer for men\nblazer outfit ideas men\nsmart casual for men\ncasual blazer\nblazer style\nbest blazers for men\ncasual dress for men\n\nformal dress for men\nbest formal outfits for men\nformal outfits for men\nformal dress for men colour combinations\nbest dress combination for boys\nformal dress\nbest formal dress combination for male\nformal shirts for men\nbest combination dress for men\nformals for men\nformal\nformal combination for men\nformal dress for boys\ndress combination for boys\ndress combination for men\nKurta pajama design \nStylish outfit #music #coversong #tseries #mensfashion #mensstyles #formalattire #fashion #menstyle"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "783932",
+          "likeCount": "4178",
+          "favoriteCount": "0",
+          "commentCount": "50"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NN5R0HUDNaHT796f1UwnOKYz7mM",
+        "id": "aibgllliNOY",
+        "snippet": {
+          "publishedAt": "2025-08-05T13:18:00Z",
+          "channelId": "UCTqgYnpEv0QaWhOwSBsRLRQ",
+          "title": "Fall 2025 fashion trends that are ✅ IN vs out ❌ #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aibgllliNOY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aibgllliNOY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aibgllliNOY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aibgllliNOY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aibgllliNOY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Billie Newland",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Fall 2025 fashion trends that are ✅ IN vs out ❌ #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "115103",
+          "likeCount": "1258",
+          "favoriteCount": "0",
+          "commentCount": "28"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8rwWUKVDNDdX-8bhQXZiYK9ltME",
+        "id": "mXbWkLOOMpA",
+        "snippet": {
+          "publishedAt": "2025-04-17T06:05:21Z",
+          "channelId": "UCUlLCLUr0fXbZPZWZM0C7ZA",
+          "title": "Summer Outfits ✨❤️#fashion #formal #short",
+          "description": "For link \n\nhttps://www.wishlink.com/fashioncollection3415/post/1600911\n\n\nOtherwise join Telegram Group  for link🎉\n\n\nfollow meghnash gupta ❤",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mXbWkLOOMpA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mXbWkLOOMpA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mXbWkLOOMpA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mXbWkLOOMpA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mXbWkLOOMpA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FASHION COLLECTION",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Summer Outfits ✨❤️#fashion #formal #short",
+            "description": "For link \n\nhttps://www.wishlink.com/fashioncollection3415/post/1600911\n\n\nOtherwise join Telegram Group  for link🎉\n\n\nfollow meghnash gupta ❤"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2538714",
+          "likeCount": "35942",
+          "favoriteCount": "0",
+          "commentCount": "167"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "J5Kodw6YvZ2SZTq3mjWsJOJKQGI",
+        "id": "qVzJQtsCsik",
+        "snippet": {
+          "publishedAt": "2025-08-08T19:45:17Z",
+          "channelId": "UCc0T4JJVptej0csWN6bMPDA",
+          "title": "KATSEYE Concert Outfits! ⭐️ #katseye #shorts #kpop #fashion",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qVzJQtsCsik/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qVzJQtsCsik/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qVzJQtsCsik/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qVzJQtsCsik/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qVzJQtsCsik/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "rin seraphina",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "KATSEYE Concert Outfits! ⭐️ #katseye #shorts #kpop #fashion",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2596841",
+          "likeCount": "103442",
+          "favoriteCount": "0",
+          "commentCount": "319"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "b4dISn0eFpuzBVogfXTZvwq0CCc",
+        "id": "egJf9OfCudk",
+        "snippet": {
+          "publishedAt": "2025-08-23T16:30:28Z",
+          "channelId": "UCLW1GSbdSqrJlx-rGDeapLg",
+          "title": "Elegance in Motion levels up Women Over 50 💃 #shorts #fashion #design #style #beauty #aifashion #ai",
+          "description": "Elegance in Motion levels up Women Over 50 💃 #shorts #fashion #design #style #beauty #aifashion #ai #vibewalk #over50 #4050 #5060",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/egJf9OfCudk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/egJf9OfCudk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/egJf9OfCudk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/egJf9OfCudk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/egJf9OfCudk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Vibe Walk",
+          "tags": [
+            "shorts",
+            "vibe walk",
+            "fashion",
+            "design",
+            "style",
+            "beauty",
+            "ai fashion",
+            "ai",
+            "over 50",
+            "4050",
+            "5060"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Elegance in Motion levels up Women Over 50 💃 #shorts #fashion #design #style #beauty #aifashion #ai",
+            "description": "Elegance in Motion levels up Women Over 50 💃 #shorts #fashion #design #style #beauty #aifashion #ai #vibewalk #over50 #4050 #5060"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "275335",
+          "favoriteCount": "0",
+          "commentCount": "35"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zojhhNqRST1g6ER33qmWfPdumWs",
+        "id": "tmv5SiafDv4",
+        "snippet": {
+          "publishedAt": "2024-07-19T06:00:21Z",
+          "channelId": "UC-R0HWQuLcvKMBiJNS-uFjw",
+          "title": "Korean Outfits Inspiration #koreanstyle #koreanoutfits #kfashionstyle #ytstudio #shorts #share",
+          "description": "Korean fashion collection outfits\n\nCredit and Owner @tinahouse.2021\n\n\n #koreanstyle #skoreanstyle #koreanfashion #kfashionstyle #kfashion #koreanoutfits #koreanoutfitideas #ilovekorea #ytstudio #fashion #koreanoutfit #fashiontrends #stylekoreanglobal #shorts #share #shortsoutfit #summeroutfits #subscribemychannel #subscribe #subscribers #please_subscribe #pleaselikeandsubscribe #please_subscribe_my_channel #thanksforwatching #thankyouyoutube #thankyousubscribers #youtubecreator",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tmv5SiafDv4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tmv5SiafDv4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tmv5SiafDv4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tmv5SiafDv4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tmv5SiafDv4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Fashion Creators",
+          "tags": [
+            "Korean fashion",
+            "Korean outfits",
+            "outfits",
+            "outfits ideas",
+            "stylist",
+            "style",
+            "fashion",
+            "fashion outfits",
+            "short",
+            "shorts",
+            "yt studio",
+            "yt shorts",
+            "subscribe",
+            "subscribe to my channel",
+            "please like and share",
+            "please like and subscribe",
+            "YouTube creators",
+            "YouTube channel",
+            "YouTube is the best",
+            "YouTube is easy to explore"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Korean Outfits Inspiration #koreanstyle #koreanoutfits #kfashionstyle #ytstudio #shorts #share",
+            "description": "Korean fashion collection outfits\n\nCredit and Owner @tinahouse.2021\n\n\n #koreanstyle #skoreanstyle #koreanfashion #kfashionstyle #kfashion #koreanoutfits #koreanoutfitideas #ilovekorea #ytstudio #fashion #koreanoutfit #fashiontrends #stylekoreanglobal #shorts #share #shortsoutfit #summeroutfits #subscribemychannel #subscribe #subscribers #please_subscribe #pleaselikeandsubscribe #please_subscribe_my_channel #thanksforwatching #thankyouyoutube #thankyousubscribers #youtubecreator"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4669433",
+          "likeCount": "48234",
+          "favoriteCount": "0",
+          "commentCount": "62"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9Shsqnr-c3Y2IJ4plVt8-65Nbc4",
+        "id": "h7qcoR-8PGE",
+        "snippet": {
+          "publishedAt": "2025-08-27T15:01:14Z",
+          "channelId": "UCc2ypH0qHFpLgLHtuL4OnAA",
+          "title": "100 years of #women ‘s stylish #musthaves #foryou #youtubeshort #shorts #fashion",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h7qcoR-8PGE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h7qcoR-8PGE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h7qcoR-8PGE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h7qcoR-8PGE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h7qcoR-8PGE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Murphy2024",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "100 years of #women ‘s stylish #musthaves #foryou #youtubeshort #shorts #fashion",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5395732",
+          "likeCount": "211772",
+          "favoriteCount": "0",
+          "commentCount": "320"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zJdsa5nZcE-vokJV-vtXnaiZsIM",
+        "id": "6Jpoz_bLrWs",
+        "snippet": {
+          "publishedAt": "2025-04-25T08:27:23Z",
+          "channelId": "UCwOgg6nlb6fzzwXTIUqGhWQ",
+          "title": "#fashion #style #dress #outfit #short #ootd",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6Jpoz_bLrWs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6Jpoz_bLrWs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6Jpoz_bLrWs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6Jpoz_bLrWs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6Jpoz_bLrWs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Isabella Jing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "#fashion #style #dress #outfit #short #ootd",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6733298",
+          "favoriteCount": "0",
+          "commentCount": "49"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vKvVNu5lr4BOH5jeEKi96WQfiNU",
+        "id": "ZpQgfiNYj_Q",
+        "snippet": {
+          "publishedAt": "2025-08-13T17:16:10Z",
+          "channelId": "UCEXtDSSMjSWw9g4VxN3Gi8A",
+          "title": "PONCHO YES or NO??  😱🤯 #fashion #shopping #shorts",
+          "description": "#britainnoelle #britainlee #baylaanoelle #bayalaarose #shortsvideo #shortsfeed #shortsviral #familyfun #sisters #britainandbaylaa \n\nNisha and fam | Nishaandfam | Nisha Noelle | Nisha Noelle fam | Britain and Baylaa | Britain Noelle | Baylaa Noelle | Britainlee | Baylaarose | TikTok trend | big family | relatable | funny trend | Sephora kids | Sephora | outfit ideas | outfit INSPO | affordable style | preppy outfits | tween mom | tween style | tweens | coordinating outfits | mom and daughter style | ootd | outfit of the day | shopping vlog | ulta | Britain Baylaa and Boston | Britain and Baylaa singing | Britain and Baylaa Youtube | Britain and Baylaa shorts | Britain and Baylaa Tiktok  | Britain Baylaa and Boston",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZpQgfiNYj_Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZpQgfiNYj_Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZpQgfiNYj_Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZpQgfiNYj_Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZpQgfiNYj_Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nisha Noelle",
+          "tags": [
+            "fashion",
+            "style",
+            "shopping",
+            "nisha and fam",
+            "nishaandfam",
+            "britain and bayla",
+            "britain and baylaa",
+            "britain and baylaa singing",
+            "Britain and Baylaa age",
+            "Britain and Bayla age",
+            "Britain nishaandfam",
+            "grwm",
+            "singing",
+            "shorts",
+            "tiktok",
+            "trends",
+            "get ready with me",
+            "nisha and fam tiktok",
+            "nisha and fam youtube",
+            "nisha noelle",
+            "big family",
+            "sephora kids",
+            "outfit ideas",
+            "Britain Baylaa and Boston",
+            "baylaa noelle",
+            "britain noelle",
+            "baylaa rose",
+            "britain lee",
+            "tween",
+            "tweens",
+            "mila and emma",
+            "garza crew"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "PONCHO YES or NO??  😱🤯 #fashion #shopping #shorts",
+            "description": "#britainnoelle #britainlee #baylaanoelle #bayalaarose #shortsvideo #shortsfeed #shortsviral #familyfun #sisters #britainandbaylaa \n\nNisha and fam | Nishaandfam | Nisha Noelle | Nisha Noelle fam | Britain and Baylaa | Britain Noelle | Baylaa Noelle | Britainlee | Baylaarose | TikTok trend | big family | relatable | funny trend | Sephora kids | Sephora | outfit ideas | outfit INSPO | affordable style | preppy outfits | tween mom | tween style | tweens | coordinating outfits | mom and daughter style | ootd | outfit of the day | shopping vlog | ulta | Britain Baylaa and Boston | Britain and Baylaa singing | Britain and Baylaa Youtube | Britain and Baylaa shorts | Britain and Baylaa Tiktok  | Britain Baylaa and Boston"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "977453",
+          "likeCount": "10817",
+          "favoriteCount": "0",
+          "commentCount": "131"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_TvetsUq7tcuK5GIJiE0FR4aP9o",
+        "id": "VAUSzD2GG70",
+        "snippet": {
+          "publishedAt": "2025-05-10T14:46:01Z",
+          "channelId": "UCFDxLsBfDVynv9KIVv1o_Qg",
+          "title": "Latest punjabi suit design 💞💞💞#trending #fashion #suit #shorts #ytshorts @Roopfashion45",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VAUSzD2GG70/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VAUSzD2GG70/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VAUSzD2GG70/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VAUSzD2GG70/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VAUSzD2GG70/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Roop Fashion ",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Latest punjabi suit design 💞💞💞#trending #fashion #suit #shorts #ytshorts @Roopfashion45",
+            "description": ""
+          },
+          "defaultAudioLanguage": "pa"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1500732",
+          "likeCount": "22445",
+          "favoriteCount": "0",
+          "commentCount": "52"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "duKLmIdHrkqGzPkClkR0NkVUVeI",
+        "id": "QpQDPHb4HD4",
+        "snippet": {
+          "publishedAt": "2025-06-24T13:00:55Z",
+          "channelId": "UCkRpiQe3pzaGXqKB6EGv0Yw",
+          "title": "#shortvideo #subscribe #trending #challenge #fashion #shorts #style #viralvideo #vs",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QpQDPHb4HD4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QpQDPHb4HD4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QpQDPHb4HD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QpQDPHb4HD4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QpQDPHb4HD4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "My option",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "#shortvideo #subscribe #trending #challenge #fashion #shorts #style #viralvideo #vs",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "236103",
+          "likeCount": "5087",
+          "favoriteCount": "0",
+          "commentCount": "36"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "i2w4SYpfPYW-eJRTWLngoCKJgdk",
+        "id": "doZraR3JDg4",
+        "snippet": {
+          "publishedAt": "2025-01-19T08:39:44Z",
+          "channelId": "UC7MSCZQXZuJdmUVJZjD3AHQ",
+          "title": "2017 V/s 2023 comment your favourite outfit ❤️🫶🫵#mensfashion #fashion #menswear #kurta #shorts",
+          "description": "Party Wear Kurta Pajama With Jacket For Men ? boys | Ethnic Wear / Indo Western 2025 Latest Punjabi Kurta Pajama For Boys / Mens | Color\n\nCombination of Punjabi Kurta Pajama | Party Wear Latest kurta pajama design for men | Kurta pajama design 2025 Wedding Clothes For Men | Men's Fashion New Punjabi Kurta Pajama For Boys / Kurta/ Kurta\n\nkurta design photos for man/designer kurta images 2025\n\nmen's WEDDING OUTFITS SAVE MONEY INDIAN WEDDING\n\nMENI ETHNIC WEAR\n\nPajama / Color Combination of Punjabi Kurta Pajama Latest Men's dress design 2024 | Men kurta pajama design | Gents kurta design | Special suit dress\n\nभारतीय कपड़ों का Fashion | Top Indian Traditional Clothes\n\nWedding Clothes For Men | Men's Fashion\n\nWedding Clothes For Men | Men's Fashion WEDDING OUTFITS SAVE MONEY INDIAN WEDDING\n\nMENI ETHNIC WEARISHERWANI INDO WESTERNI SUIT men kurta men kurta design\n\nmen kurta pajama\n\nmen kurta pajama design gents kurta gents kurta design.\n\nmen party wear\n\nmen party wear designs\n\nmens casual outfits latest kurta pajama design\n\nboys kurta pajama design kurta pajama design forboye\n\nkurta pajama design for men kurta pajama new style\n\n2025 kurta pajama design\n\nstylish kurta pajama\n\nstylish kurta pajama 2024 stylish kurta pajama for boys\n\nlatest kurta pajama style\n\nkurta pajama ideas\n\nkurta pajama picture\n\nnew kurta pajama design\n\nkurta pajama\n\nkurta pajama pics\n\nkurta pajama design\n\nkurta pajama for boys\n\nLatest Mens dress design 2025\n\nMen kurta pajama design\n\nGents kurta design\n\nSpecial suit dress\n\nkurta design\n\nsalwar kameez\n\nkurta pajama Gents suit design 2025\n\nNew Kurta Design 2024\n\nMens Kurta Design 2024\n\nMens Kurta Designs Latest 2024 Mens Shalwar Kameez design 2024\n\nGents Kurta Designs Pakistani Gents Kurta Design images\n\nGents Shalwar Kameez Design 2024 Gents Kurta Design 2025\n\nशादी में क्या पहनें\n\nhow to dress for wedding men\n\nhow to dress up for indian wedding shaadi mein kya pehne\n\nshaadi mein kya pehna chahiye wedding essentials\n\nwhat to wear for wedding indian wedding fashion\n\ntraditional wear for men\n\nbest wedding outfits men best dress for shaadi\n\nशादी में कौन से कपड़े पहनने चाहिए\n\nfashion shadi clothes\n\nshaadi fashion\n\nfashion 2024\n\nshaadi fashion clothes\n\nbest wedding outfits 2025 traditional wear\n\ntraditional dress for men\n\ndiwali\n\nrakshabandhan\n\ntraditional clothes\n\nindian\n\nindian clothes\n\ntraditional\n\nindian dressing men men\n\nindian dress for\n\nindian wear\n\nkurta pajama\n\nkurta pajama\n\nkurta men style\n\nmen's dressing\n\nmen's dressing style\n\nindian wedding\n\nwhat to wear at wedding men\n\nshaadi style\n\nshaadi fashion\n\nशादी में क्या पहनें\n\nhow to dress for wedding men\n\nbest wedding outfits\n\nmen formals\n\nmen suit\n\ntraditional wear\n\nsherwani\n\nkurta pajama\n\nnehru jacket\n\nbest wedding outfit men\n\nwedding dress\n\nethnic wear\n\nTranscript#shorts\nMr faisu \nTeam 07\nFashion sens\nMr faisu fashion\nindian Kurta\nIndian groom\n\nNew Designs Of Men Kurta/Latest ...\n\nLatest Designs of Gents Kurta Kamez...\n\nLatest kurta pajama design ...\n\nNew Men Kurta Pajama || 2025-...\n\nLatest men's//Boy's kurta design ...\n\nNew Punjabi Kurta Pajama For Boys...\n\n2024 #Gents #Black #Shalwar ..\n\nTop Useful Men's Shalwar Kameez/...\n\nLatest Gents Kurta Pajama Design...\n\nBlack Kurta Pajama Design Ideas ...\n\nNew Man Kurta Designs 2025 | Gents...\n\nTrendy Kurta Pajama Design For Me...\n\nbest pathani design for model boys/....\n\nBoys kurta design 2020#boysdress...\n\nNew Kurta Pajama For Boys || 2025-...\n\nTop 150 Kurta Designs\n65 +kurta design photos for man/d...\n\nIndo Western and pathani kurta sha...\n\nFahad Mustafa Kurta Pajama Style 2...\n\nLatest kurta design ideas for man's...\n\nTRENDY Kurta Pajama For Men New...\n\nfront pocket design gents kurta des....\n\n70+ New Latest Man Kurta Designs...\n\nKurta Pajama Design For Boy 2025 |...\n\nCasual Men's clothing |Stylish Design ...\n\nTop 25 kurta design images/Kurta ...\n\n2024 Gents #White Kurta Pajama ...\n\nGents kurta designs // Men's fashion...\n\nTop 50 Men Kurta Design 2025 | ...\n\nHow to sew ribbon on baby boy ....\n\nLatest Men's dress design 2024 | ...\n\nBoy's best Kurta design//New stylish ....\n\n30+ Best Kurta Pajama Design For men...\n\n New Mens Desighner white Kurta Pajama...\n\nMen #Black kurta Design/ Black Kurta ...\n\nBoys (Kids) Shalwar Kameez Design...\n\n16 Latest Gents Kurta Design Image ...\n\nBoys kurta design ideas for summer...\n\nLatest kurta style for Boy's !! Kurta...\n\nWhite Kurta Pajama Design Ideas ...\n#Eid Special Men's Wear Pathani ...\n\nAll Embroidery Black Kurta Collection ...\n\nTrendy Kurta Pajama For Men 2025..\n\nAfrican stylish Kurta pajama design...\n\nKurta Designs For Boys\\Gents ...\n\nLatest shalwar kameez ideaz for boys...\n\nEid Latest Kurta Pajama Design For boys...\n\nNew Style Men's Kurta With Side Pajama...\n\nNew Designer Kurta Pajama Design...\n\nKurta Pajama Design For Mens // Fa...\n\n50+ trending new latest designer b...\n\nUpcoming latest man's kurta desig...\n\nNew design for men neck,kurta fas...\n\nGents kurta pajama design | Eid kur...\n\nMen latest kurta pa",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/doZraR3JDg4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/doZraR3JDg4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/doZraR3JDg4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/doZraR3JDg4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/doZraR3JDg4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "KPM designer",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2017 V/s 2023 comment your favourite outfit ❤️🫶🫵#mensfashion #fashion #menswear #kurta #shorts",
+            "description": "Party Wear Kurta Pajama With Jacket For Men ? boys | Ethnic Wear / Indo Western 2025 Latest Punjabi Kurta Pajama For Boys / Mens | Color\n\nCombination of Punjabi Kurta Pajama | Party Wear Latest kurta pajama design for men | Kurta pajama design 2025 Wedding Clothes For Men | Men's Fashion New Punjabi Kurta Pajama For Boys / Kurta/ Kurta\n\nkurta design photos for man/designer kurta images 2025\n\nmen's WEDDING OUTFITS SAVE MONEY INDIAN WEDDING\n\nMENI ETHNIC WEAR\n\nPajama / Color Combination of Punjabi Kurta Pajama Latest Men's dress design 2024 | Men kurta pajama design | Gents kurta design | Special suit dress\n\nभारतीय कपड़ों का Fashion | Top Indian Traditional Clothes\n\nWedding Clothes For Men | Men's Fashion\n\nWedding Clothes For Men | Men's Fashion WEDDING OUTFITS SAVE MONEY INDIAN WEDDING\n\nMENI ETHNIC WEARISHERWANI INDO WESTERNI SUIT men kurta men kurta design\n\nmen kurta pajama\n\nmen kurta pajama design gents kurta gents kurta design.\n\nmen party wear\n\nmen party wear designs\n\nmens casual outfits latest kurta pajama design\n\nboys kurta pajama design kurta pajama design forboye\n\nkurta pajama design for men kurta pajama new style\n\n2025 kurta pajama design\n\nstylish kurta pajama\n\nstylish kurta pajama 2024 stylish kurta pajama for boys\n\nlatest kurta pajama style\n\nkurta pajama ideas\n\nkurta pajama picture\n\nnew kurta pajama design\n\nkurta pajama\n\nkurta pajama pics\n\nkurta pajama design\n\nkurta pajama for boys\n\nLatest Mens dress design 2025\n\nMen kurta pajama design\n\nGents kurta design\n\nSpecial suit dress\n\nkurta design\n\nsalwar kameez\n\nkurta pajama Gents suit design 2025\n\nNew Kurta Design 2024\n\nMens Kurta Design 2024\n\nMens Kurta Designs Latest 2024 Mens Shalwar Kameez design 2024\n\nGents Kurta Designs Pakistani Gents Kurta Design images\n\nGents Shalwar Kameez Design 2024 Gents Kurta Design 2025\n\nशादी में क्या पहनें\n\nhow to dress for wedding men\n\nhow to dress up for indian wedding shaadi mein kya pehne\n\nshaadi mein kya pehna chahiye wedding essentials\n\nwhat to wear for wedding indian wedding fashion\n\ntraditional wear for men\n\nbest wedding outfits men best dress for shaadi\n\nशादी में कौन से कपड़े पहनने चाहिए\n\nfashion shadi clothes\n\nshaadi fashion\n\nfashion 2024\n\nshaadi fashion clothes\n\nbest wedding outfits 2025 traditional wear\n\ntraditional dress for men\n\ndiwali\n\nrakshabandhan\n\ntraditional clothes\n\nindian\n\nindian clothes\n\ntraditional\n\nindian dressing men men\n\nindian dress for\n\nindian wear\n\nkurta pajama\n\nkurta pajama\n\nkurta men style\n\nmen's dressing\n\nmen's dressing style\n\nindian wedding\n\nwhat to wear at wedding men\n\nshaadi style\n\nshaadi fashion\n\nशादी में क्या पहनें\n\nhow to dress for wedding men\n\nbest wedding outfits\n\nmen formals\n\nmen suit\n\ntraditional wear\n\nsherwani\n\nkurta pajama\n\nnehru jacket\n\nbest wedding outfit men\n\nwedding dress\n\nethnic wear\n\nTranscript#shorts\nMr faisu \nTeam 07\nFashion sens\nMr faisu fashion\nindian Kurta\nIndian groom\n\nNew Designs Of Men Kurta/Latest ...\n\nLatest Designs of Gents Kurta Kamez...\n\nLatest kurta pajama design ...\n\nNew Men Kurta Pajama || 2025-...\n\nLatest men's//Boy's kurta design ...\n\nNew Punjabi Kurta Pajama For Boys...\n\n2024 #Gents #Black #Shalwar ..\n\nTop Useful Men's Shalwar Kameez/...\n\nLatest Gents Kurta Pajama Design...\n\nBlack Kurta Pajama Design Ideas ...\n\nNew Man Kurta Designs 2025 | Gents...\n\nTrendy Kurta Pajama Design For Me...\n\nbest pathani design for model boys/....\n\nBoys kurta design 2020#boysdress...\n\nNew Kurta Pajama For Boys || 2025-...\n\nTop 150 Kurta Designs\n65 +kurta design photos for man/d...\n\nIndo Western and pathani kurta sha...\n\nFahad Mustafa Kurta Pajama Style 2...\n\nLatest kurta design ideas for man's...\n\nTRENDY Kurta Pajama For Men New...\n\nfront pocket design gents kurta des....\n\n70+ New Latest Man Kurta Designs...\n\nKurta Pajama Design For Boy 2025 |...\n\nCasual Men's clothing |Stylish Design ...\n\nTop 25 kurta design images/Kurta ...\n\n2024 Gents #White Kurta Pajama ...\n\nGents kurta designs // Men's fashion...\n\nTop 50 Men Kurta Design 2025 | ...\n\nHow to sew ribbon on baby boy ....\n\nLatest Men's dress design 2024 | ...\n\nBoy's best Kurta design//New stylish ....\n\n30+ Best Kurta Pajama Design For men...\n\n New Mens Desighner white Kurta Pajama...\n\nMen #Black kurta Design/ Black Kurta ...\n\nBoys (Kids) Shalwar Kameez Design...\n\n16 Latest Gents Kurta Design Image ...\n\nBoys kurta design ideas for summer...\n\nLatest kurta style for Boy's !! Kurta...\n\nWhite Kurta Pajama Design Ideas ...\n#Eid Special Men's Wear Pathani ...\n\nAll Embroidery Black Kurta Collection ...\n\nTrendy Kurta Pajama For Men 2025..\n\nAfrican stylish Kurta pajama design...\n\nKurta Designs For Boys\\Gents ...\n\nLatest shalwar kameez ideaz for boys...\n\nEid Latest Kurta Pajama Design For boys...\n\nNew Style Men's Kurta With Side Pajama...\n\nNew Designer Kurta Pajama Design...\n\nKurta Pajama Design For Mens // Fa...\n\n50+ trending new latest designer b...\n\nUpcoming latest man's kurta desig...\n\nNew design for men neck,kurta fas...\n\nGents kurta pajama design | Eid kur...\n\nMen latest kurta pa"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4289614",
+          "likeCount": "30837",
+          "favoriteCount": "0",
+          "commentCount": "231"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "M2LHhDSM_JsM4PXIsOCwwXA8GIM",
+        "id": "k67TwilE96c",
+        "snippet": {
+          "publishedAt": "2025-04-25T10:30:36Z",
+          "channelId": "UC9CVDlWqqKffGUaYUrqZdVQ",
+          "title": "2025 Trends That Look CHEAP #shorts #viral #shortvideo #viralvideo #trending #fashion #aesthetic",
+          "description": "Welcome to our channel \nWe will show you the old money fashion style luxury habits and living \nWe show the best color combination that scream elegance old money and richness . \nDesclaimer :- 👇\n\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k67TwilE96c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k67TwilE96c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k67TwilE96c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/k67TwilE96c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/k67TwilE96c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Let’s Style It",
+          "tags": [
+            "Shorts",
+            "Viral",
+            "Shortvide",
+            "Bestcolorcombination",
+            "What elegant ladies wear",
+            "Fashion",
+            "Old money",
+            "Old money style",
+            "Best color combination",
+            "Elegant ladies",
+            "How to look classy",
+            "How to look elegant",
+            "Fashion",
+            "Outfits",
+            "Ootd",
+            "What to wear to look elegant"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "2025 Trends That Look CHEAP #shorts #viral #shortvideo #viralvideo #trending #fashion #aesthetic",
+            "description": "Welcome to our channel \nWe will show you the old money fashion style luxury habits and living \nWe show the best color combination that scream elegance old money and richness . \nDesclaimer :- 👇\n\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favour of fair use."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "596299",
+          "likeCount": "4329",
+          "favoriteCount": "0",
+          "commentCount": "88"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IRmAmVEsRuRB27O4XXIgn_yLDEo",
+        "id": "Z-6Hn6xcHuo",
+        "snippet": {
+          "publishedAt": "2025-09-14T20:16:11Z",
+          "channelId": "UCpaAnEL2Pcf_rWi2Xp1c-LQ",
+          "title": "WHAT I LEARNED SHOPPING IN JAPAN #menswear #mensfashion #style #fashion #shorts #ootd #rawdenim",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z-6Hn6xcHuo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z-6Hn6xcHuo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z-6Hn6xcHuo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Z-6Hn6xcHuo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Z-6Hn6xcHuo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alejandro Jomar",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "WHAT I LEARNED SHOPPING IN JAPAN #menswear #mensfashion #style #fashion #shorts #ootd #rawdenim",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10605",
+          "likeCount": "555",
+          "favoriteCount": "0",
+          "commentCount": "21"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "a7Z0tTybCu94mdoJaSzZuHMnUis",
+        "id": "nwsL8PpqBqY",
+        "snippet": {
+          "publishedAt": "2024-06-03T23:02:49Z",
+          "channelId": "UCLwrBGJ88I4te5_J1z9amxQ",
+          "title": "This or That: Styling the shortest shorts in the world",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nwsL8PpqBqY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nwsL8PpqBqY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nwsL8PpqBqY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nwsL8PpqBqY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nwsL8PpqBqY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "IamSimplyMorgan",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This or That: Styling the shortest shorts in the world",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16956637",
+          "likeCount": "446951",
+          "favoriteCount": "0",
+          "commentCount": "1491"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HY7N88rXYDd4B1NlRax6-MLxG6Y",
+        "id": "a5dOeisXrbY",
+        "snippet": {
+          "publishedAt": "2024-12-09T13:05:00Z",
+          "channelId": "UCMAKYZJA7fHeRCsrjOv53yA",
+          "title": "Beautiful party wear dress #fashion #shorts #trending #partywear #dress @showbizcreate",
+          "description": "For more information contact us at  instagram for more queries link in profile .We can Customize any outfit the way you want including,Color,Size,Embroidery,Designs and,Patterns. Deliver worldwide stitched,customized stitching.\n\n\nPrice detail inquiries please dm at Instagram link in profileThank you\n\n\n#Pakistani fashions #pakistanidresses #pakistanidressesuk #desi wedding #Asianbridalwear #Asianbrides #pakistanibrides #wedding-seasons #weddingseason #bridalcouture #pakistanibride #fashionrewaj  #pakistanilatestformalwear #desicouture #mehndioutfits #pakistanifashion #ukfashion #uaefashion #italfashion #turkyfashin #aefashion #ksafashion #germonanyfashion #indiafashion #dubai #ksa #germany #austrialia #turkey #malasia #france #florida #unitedkingdom #unitedstates #unitedaranemarates #saudiaarabia #islamabad #lahore #karachi #multan #queta #peshawar #faisalabad #sailkot #rawalpindi #shujabad #bahawalpur #fashionrewaj #discoverfashion #viralshorts #fashion #trendingfashion\n\n\nWe do not own the video materials and all credits belong to the respective owner. Incase of copyright issues, please contact us immediately for further credit or clip.\n\n\nCopyright Disclaimer:  Under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of fair use.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/a5dOeisXrbY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Fashion Rewaj",
+          "tags": [
+            "shorts"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Beautiful party wear dress #fashion #shorts #trending #partywear #dress @showbizcreate",
+            "description": "For more information contact us at  instagram for more queries link in profile .We can Customize any outfit the way you want including,Color,Size,Embroidery,Designs and,Patterns. Deliver worldwide stitched,customized stitching.\n\n\nPrice detail inquiries please dm at Instagram link in profileThank you\n\n\n#Pakistani fashions #pakistanidresses #pakistanidressesuk #desi wedding #Asianbridalwear #Asianbrides #pakistanibrides #wedding-seasons #weddingseason #bridalcouture #pakistanibride #fashionrewaj  #pakistanilatestformalwear #desicouture #mehndioutfits #pakistanifashion #ukfashion #uaefashion #italfashion #turkyfashin #aefashion #ksafashion #germonanyfashion #indiafashion #dubai #ksa #germany #austrialia #turkey #malasia #france #florida #unitedkingdom #unitedstates #unitedaranemarates #saudiaarabia #islamabad #lahore #karachi #multan #queta #peshawar #faisalabad #sailkot #rawalpindi #shujabad #bahawalpur #fashionrewaj #discoverfashion #viralshorts #fashion #trendingfashion\n\n\nWe do not own the video materials and all credits belong to the respective owner. Incase of copyright issues, please contact us immediately for further credit or clip.\n\n\nCopyright Disclaimer:  Under section 107 of the copyright Act 1976, allowance is made for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of fair use."
+          },
+          "defaultAudioLanguage": "ur"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5193099",
+          "likeCount": "70087",
+          "favoriteCount": "0",
+          "commentCount": "124"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9Gsd-1asH6w6Fb2B8fOV9WLBofM",
+        "id": "_P_h8RaUO3w",
+        "snippet": {
+          "publishedAt": "2025-02-27T14:37:47Z",
+          "channelId": "UCbCxUpAcjTirTaMuZyan-Qg",
+          "title": "Meesho summer dresses #trending #meesho #meeshohaul #viralvideo #shortsfeed #shorts #fashion #ootd",
+          "description": "#summerfashion #summercollection #haul \nMeesho Pinterest inspired summer dresses under400Rs!!cutest Summer collection under budget #explore #summervibes #pinterestinspired \n \nProduct links-\n\nBlack floral dress-https://share.haulpack.com/EZoPtk\nWhite cloud pattern dress-https://share.haulpack.com/2B0bP6\nBlack net dress-https://share.haulpack.com/jlLI22\nMaroon dress-https://share.haulpack.com/9gYpNo\nBlack bodycon dress-https://share.haulpack.com/1k0Jtt\nDenim dress-https://share.haulpack.com/MIrgCq",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_P_h8RaUO3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_P_h8RaUO3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_P_h8RaUO3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_P_h8RaUO3w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_P_h8RaUO3w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sabee",
+          "tags": [
+            "Meesho summer dresses",
+            "Pinterest dresses",
+            "Summer fashion",
+            "Summer dresses under 400",
+            "Western dress under 300",
+            "Beach wear dress",
+            "Summer dresses haul",
+            "Summer fashion video",
+            "Styling tips"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Meesho summer dresses #trending #meesho #meeshohaul #viralvideo #shortsfeed #shorts #fashion #ootd",
+            "description": "#summerfashion #summercollection #haul \nMeesho Pinterest inspired summer dresses under400Rs!!cutest Summer collection under budget #explore #summervibes #pinterestinspired \n \nProduct links-\n\nBlack floral dress-https://share.haulpack.com/EZoPtk\nWhite cloud pattern dress-https://share.haulpack.com/2B0bP6\nBlack net dress-https://share.haulpack.com/jlLI22\nMaroon dress-https://share.haulpack.com/9gYpNo\nBlack bodycon dress-https://share.haulpack.com/1k0Jtt\nDenim dress-https://share.haulpack.com/MIrgCq"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "755941",
+          "likeCount": "5077",
+          "favoriteCount": "0",
+          "commentCount": "35"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8M6ZyDvVeU-BMMB6UH92Vjaw3wc",
+        "id": "CD-gJ4sQjsQ",
+        "snippet": {
+          "publishedAt": "2025-03-18T23:51:05Z",
+          "channelId": "UCSrXAu7XWYJeo2RiU2HZkqg",
+          "title": "This is for the short queens✨ #promdressshopping #prom #promdress #dress #promdressideas",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CD-gJ4sQjsQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CD-gJ4sQjsQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CD-gJ4sQjsQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CD-gJ4sQjsQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CD-gJ4sQjsQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Milivine Boutique",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This is for the short queens✨ #promdressshopping #prom #promdress #dress #promdressideas",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19701567",
+          "likeCount": "372714",
+          "favoriteCount": "0",
+          "commentCount": "342"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "L_-9LxjSLmpLaYXc3FsxgR5Ryfw",
+        "id": "W-gcknk0_cQ",
+        "snippet": {
+          "publishedAt": "2025-03-28T05:36:52Z",
+          "channelId": "UC8kVkN8Hh2npItTFP_zO1ug",
+          "title": "beautiful designer saree collection #shorts #saree #sareefashion #fashion",
+          "description": "beautiful designer saree collection #shorts #saree #sareefashion #fashion\n\n9904890201 📱",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W-gcknk0_cQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W-gcknk0_cQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W-gcknk0_cQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W-gcknk0_cQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W-gcknk0_cQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "INDIAN FASHION WORLD",
+          "tags": [
+            "beautiful designer saree collection",
+            "youtube shorts",
+            "shorts",
+            "new saree",
+            "new saree design",
+            "trending saree",
+            "trending saree design",
+            "wedding saree",
+            "wedding saree design",
+            "new wedding saree design"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "beautiful designer saree collection #shorts #saree #sareefashion #fashion",
+            "description": "beautiful designer saree collection #shorts #saree #sareefashion #fashion\n\n9904890201 📱"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11449887",
+          "likeCount": "74156",
+          "favoriteCount": "0",
+          "commentCount": "184"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AsQrVmgdnj43bCZcv8wbc7AM9O0",
+        "id": "UwIn2Xk4Ba0",
+        "snippet": {
+          "publishedAt": "2025-03-03T06:30:09Z",
+          "channelId": "UCUWzqXlDTtdOb8HM_MFVN2g",
+          "title": "Short Kurtis for office/ college ❤️😍 #trending #shortkurti #fashion #feed #shorts  #onlineshopping",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UwIn2Xk4Ba0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UwIn2Xk4Ba0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UwIn2Xk4Ba0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UwIn2Xk4Ba0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UwIn2Xk4Ba0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "itzz_sneha",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Short Kurtis for office/ college ❤️😍 #trending #shortkurti #fashion #feed #shorts  #onlineshopping",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1012506",
+          "likeCount": "21264",
+          "favoriteCount": "0",
+          "commentCount": "110"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ojLzwPM8nq-C9RNOklVlUcRdIGw",
+        "id": "aJ1Bo4Pjk2A",
+        "snippet": {
+          "publishedAt": "2025-08-08T13:00:10Z",
+          "channelId": "UCX9MIzd0W0vhU12rJCVadvQ",
+          "title": "🔥Chinese boy outfit price 🤯🛍️  #chineseboy #outfit #fashion #shorts #youtubeshorts",
+          "description": "🔥Chinese boy outfit price 🤯🛍️  #chineseboy #outfit #fashion #shorts #youtubeshorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aJ1Bo4Pjk2A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aJ1Bo4Pjk2A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aJ1Bo4Pjk2A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aJ1Bo4Pjk2A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aJ1Bo4Pjk2A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Your outfit brand ",
+          "tags": [
+            "Chinese boy outfit",
+            "short video",
+            "trending shorts",
+            "shorts",
+            "ninja rider",
+            "girls dance",
+            "boys shorts"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "🔥Chinese boy outfit price 🤯🛍️  #chineseboy #outfit #fashion #shorts #youtubeshorts",
+            "description": "🔥Chinese boy outfit price 🤯🛍️  #chineseboy #outfit #fashion #shorts #youtubeshorts"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "423923",
+          "favoriteCount": "0",
+          "commentCount": "186"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "yCech72OL3fit-RiKv60RFkK6xk",
+        "id": "W9yTv-TLyw4",
+        "snippet": {
+          "publishedAt": "2025-08-03T05:30:26Z",
+          "channelId": "UCwlPaNvHrn0yiYar40F-oAQ",
+          "title": "Elegant⚜️ Vs Cheap❌!! #shorts #viralvideo #trending #aesthetic #fashion #style #ootd #fyp #viral",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W9yTv-TLyw4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W9yTv-TLyw4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W9yTv-TLyw4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/W9yTv-TLyw4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/W9yTv-TLyw4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gold glowups",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Elegant⚜️ Vs Cheap❌!! #shorts #viralvideo #trending #aesthetic #fashion #style #ootd #fyp #viral",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2482556",
+          "likeCount": "23515",
+          "favoriteCount": "0",
+          "commentCount": "78"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Z1kx4W8HoICK1-wH7ObizCS67vg",
+        "id": "Ckbkq0JLjMo",
+        "snippet": {
+          "publishedAt": "2025-09-17T00:43:28Z",
+          "channelId": "UCpaAnEL2Pcf_rWi2Xp1c-LQ",
+          "title": "WHY THESE JACKETS ARE EXPENSIVE! #menswear #mensfashion #sukajan #tailortoyo #shorts #fashion #style",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ckbkq0JLjMo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ckbkq0JLjMo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ckbkq0JLjMo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ckbkq0JLjMo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ckbkq0JLjMo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Alejandro Jomar",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "WHY THESE JACKETS ARE EXPENSIVE! #menswear #mensfashion #sukajan #tailortoyo #shorts #fashion #style",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1263",
+          "likeCount": "74",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CDg9aMYEoUQC_MKGqadVGS8HbJA",
+        "id": "Kz45tYNExZs",
+        "snippet": {
+          "publishedAt": "2025-01-21T19:22:01Z",
+          "channelId": "UCU69ROL7juUiTZVs5PsN55Q",
+          "title": "This vintage wedding dress is looking for a fashion hack #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Kz45tYNExZs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "andrea's fashion galaxy",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "This vintage wedding dress is looking for a fashion hack #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7233029",
+          "likeCount": "596257",
+          "favoriteCount": "0",
+          "commentCount": "1513"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UUwGwaAtM_dqee6k6rF9vS6B0jI",
+        "id": "gakBrjNvxgM",
+        "snippet": {
+          "publishedAt": "2025-03-18T10:35:52Z",
+          "channelId": "UCy84EykmMo7oQn21KjD_m6A",
+          "title": "Tips for fix jewellery 💎Nita Ambani's trick #shorts #fashion #ambani #divyagandhazlabel #nitaambani",
+          "description": "Tips for fix jewellery 💎Nita Ambani's trick #shorts #fashion #ambani #radhikamerchant  #nitaambani",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gakBrjNvxgM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gakBrjNvxgM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gakBrjNvxgM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gakBrjNvxgM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gakBrjNvxgM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Divyagandha Z label ",
+          "tags": [
+            "shorts",
+            "nita ambani",
+            "neeta ambani",
+            "ambani family",
+            "anant Ambani's weeding",
+            "rich people",
+            "tips for fix jewellery",
+            "jewellery haks",
+            "celebrity  jewellery  haks",
+            "celebrity jewellery  design",
+            "Nita Ambani's jewellery  design",
+            "nita ambani viral jewellery",
+            "nita ambani  jewellery set meesho",
+            "meesho",
+            "meshoo  jewellery",
+            "fashion",
+            "Bollywood",
+            "Bollywood  style",
+            "Ambani weeding",
+            "jewellery  fashion",
+            "celebrity  style jewellery",
+            "kim Kardashian",
+            "Kardashians",
+            "Kardashians sister",
+            "divyagandhazlabel",
+            "Bollywood  star"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tips for fix jewellery 💎Nita Ambani's trick #shorts #fashion #ambani #divyagandhazlabel #nitaambani",
+            "description": "Tips for fix jewellery 💎Nita Ambani's trick #shorts #fashion #ambani #radhikamerchant  #nitaambani"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "29403929",
+          "likeCount": "275174",
+          "favoriteCount": "0",
+          "commentCount": "547"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9-vieADS30us1ghWsVHsNCwKMKI",
+        "id": "t_LnfNE6GL0",
+        "snippet": {
+          "publishedAt": "2025-02-01T09:54:09Z",
+          "channelId": "UCg4wPvX9vYnLe_mdmVNKH4A",
+          "title": "Letest panjabi suit design #letest #panjabi #suitdesign #partywearsuits #trendy #fashion #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t_LnfNE6GL0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t_LnfNE6GL0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t_LnfNE6GL0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t_LnfNE6GL0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t_LnfNE6GL0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "⭐⭐# fashion world ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Letest panjabi suit design #letest #panjabi #suitdesign #partywearsuits #trendy #fashion #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "pa"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "813618",
+          "likeCount": "13815",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

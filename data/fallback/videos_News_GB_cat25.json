@@ -1,0 +1,3742 @@
+{
+  "timestamp": 1758121429242,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "ZaFtTGIfy_5L4VLeMRBTVjnKbr0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "0OBf8Zz3r5picB_Ddz4oF68tl7A",
+        "id": "m5B4bM9DWHU",
+        "snippet": {
+          "publishedAt": "2025-09-14T06:32:26Z",
+          "channelId": "UCaNSj1ceSGnHlZj1iCCeE_w",
+          "title": "British People Aren’t What The Media Says 😳 #ukcrime #crimes #crimenews #ukpolice #police #news #uk",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m5B4bM9DWHU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m5B4bM9DWHU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m5B4bM9DWHU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/m5B4bM9DWHU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/m5B4bM9DWHU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "vigilantcrime",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "British People Aren’t What The Media Says 😳 #ukcrime #crimes #crimenews #ukpolice #police #news #uk",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "734706",
+          "likeCount": "50447",
+          "favoriteCount": "0",
+          "commentCount": "2361"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UMEZ80y1QWT2XEHWaZZmeGYDmCA",
+        "id": "Q0HHZbvvQOE",
+        "snippet": {
+          "publishedAt": "2025-09-13T14:03:51Z",
+          "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+          "title": "Aerial footage shows scale of 'unite the kingdom' rally",
+          "description": "Aerial footage shows a crowd of tens of thousands of people marching through central London on Saturday in a protest organised by the far-right activist Tommy Robinson.\nSubscribe to Guardian News on YouTube ► http://bit.ly/guardianwiressub\n\nThe Metropolitan police believe about 110,000 people attended his ‘unite the kingdom’ demonstration and about 5,000 a Stand Up to Racism counter-march \n\nPolice assaulted as far-right rally led by Tommy Robinson sparks clashes ► https://www.theguardian.com/uk-news/2025/sep/13/unite-the-kingdom-far-right-rally-london-tommy-robinson-police-assaulted\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://bit.ly/3uhA7zg\n\nSign up to the Guardian's free new daily newsletter, First Edition ► http://theguardian.com/first-edition\n\nWebsite ► https://www.theguardian.com\nFacebook ►https://www.facebook.com/theguardian\nInstagram ► https://instagram.com/guardian\nBluesky ► https://bsky.app/profile/theguardian.com\n\nThe Guardian on YouTube: \nThe Guardian ► https://bit.ly/guardiannewssubs\nGuardian Australia ► https://bit.ly/guardianaussubs\nGuardian Football ► https://bit.ly/gdnfootballsubs\nGuardian Sport ► https://bit.ly/gdnsportsubs\nIt's Complicated ► https://bit.ly/ItsComplicatedSubs\nGuardian Live ► https://bit.ly/guardianlivesubs\n\n#farright #tommyrobinson #unitethekingdom #stephenyaxleylennon #farrightrally #farrightmarch",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q0HHZbvvQOE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q0HHZbvvQOE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q0HHZbvvQOE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q0HHZbvvQOE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q0HHZbvvQOE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Guardian News",
+          "tags": [
+            "13th september",
+            "2025",
+            "asylum hotels",
+            "asylum seekers",
+            "bnp",
+            "britain first",
+            "edl",
+            "elon musk",
+            "far right",
+            "far right march",
+            "far right rally",
+            "fascist",
+            "flags protest",
+            "flagshaggers",
+            "gdnpfpnewspolitics",
+            "gdnpfpnewsuk",
+            "gdnpfpnewsworld",
+            "hope not hate",
+            "immigrants",
+            "immigration",
+            "migrant hotels",
+            "migrants",
+            "nazis",
+            "news",
+            "police",
+            "politics",
+            "protest",
+            "refugees",
+            "september 13",
+            "stephen yaxley lennon",
+            "tommy robinson",
+            "tommy robinson protest",
+            "tommy robinson rally",
+            "tommy ten names",
+            "uk",
+            "unite the kingdom",
+            "tommy robinson march"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Aerial footage shows scale of 'unite the kingdom' rally",
+            "description": "Aerial footage shows a crowd of tens of thousands of people marching through central London on Saturday in a protest organised by the far-right activist Tommy Robinson.\nSubscribe to Guardian News on YouTube ► http://bit.ly/guardianwiressub\n\nThe Metropolitan police believe about 110,000 people attended his ‘unite the kingdom’ demonstration and about 5,000 a Stand Up to Racism counter-march \n\nPolice assaulted as far-right rally led by Tommy Robinson sparks clashes ► https://www.theguardian.com/uk-news/2025/sep/13/unite-the-kingdom-far-right-rally-london-tommy-robinson-police-assaulted\n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://bit.ly/3uhA7zg\n\nSign up to the Guardian's free new daily newsletter, First Edition ► http://theguardian.com/first-edition\n\nWebsite ► https://www.theguardian.com\nFacebook ►https://www.facebook.com/theguardian\nInstagram ► https://instagram.com/guardian\nBluesky ► https://bsky.app/profile/theguardian.com\n\nThe Guardian on YouTube: \nThe Guardian ► https://bit.ly/guardiannewssubs\nGuardian Australia ► https://bit.ly/guardianaussubs\nGuardian Football ► https://bit.ly/gdnfootballsubs\nGuardian Sport ► https://bit.ly/gdnsportsubs\nIt's Complicated ► https://bit.ly/ItsComplicatedSubs\nGuardian Live ► https://bit.ly/guardianlivesubs\n\n#farright #tommyrobinson #unitethekingdom #stephenyaxleylennon #farrightrally #farrightmarch"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2700566",
+          "likeCount": "42225",
+          "favoriteCount": "0",
+          "commentCount": "15142"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Xu4zmRmOeKXWK_ThgqLhErGPLoU",
+        "id": "_4PaGaZ__NA",
+        "snippet": {
+          "publishedAt": "2025-09-10T19:18:13Z",
+          "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
+          "title": "Charlie Kirk Shot: Viral Videos Capture Horrifying Moment",
+          "description": "WARNING: DISTRESSING CONTENT. Charlie Kirk was shot while on stage during an event during a stop at Utah Valley University during his American Comeback Tour Wednesday. The conservative influencer jerked back and appeared to grab at his neck as the shot rang out, a video from the scene shows, but the extent of his injuries are unconfirmed. Kirk was conducting a Q&A session from a pop-up tent on campus when the incident occurred, sending thousands of spectators into a panic, according to a flurry of social media posts.\n\n#charliekirk #utah #shooting \n\n\nThe New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.\n\nCheck out our two new podcasts:\nPod Force One with MIranda Devine (weekly): https://www.youtube.com/@PodForce1\nNY POSTcast (daily): https://www.youtube.com/@NYPOSTcast\n\nGet The Post’s latest headlines everyday with our Morning Report newsletter:\nhttps://tinyurl.com/NYPOSTSIGNUP\n\nCatch the latest news at http://www.nypost.com.\nFollow The New York Post on:\nTwitter - https://twitter.com/nypost\nFacebook - https://www.facebook.com/NYPost",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_4PaGaZ__NA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_4PaGaZ__NA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_4PaGaZ__NA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_4PaGaZ__NA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_4PaGaZ__NA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "New York Post",
+          "tags": [
+            "new york post",
+            "ny post",
+            "nypost",
+            "news",
+            "us news",
+            "breaking news",
+            "world news",
+            "latest news",
+            "story",
+            "stories",
+            "top stories",
+            "charlie kirk",
+            "charlie kirk shooting",
+            "utah",
+            "charlie kirk utah",
+            "charlie kirk utah valley university",
+            "charlie kirk shot",
+            "charlie kirk shooting 2025",
+            "charlie kirk utah shooting",
+            "charlie kirk shot utah",
+            "caught on camera",
+            "caught on video",
+            "crazy but true",
+            "charlie kirk shooting utah",
+            "SHORTS"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Charlie Kirk Shot: Viral Videos Capture Horrifying Moment",
+            "description": "WARNING: DISTRESSING CONTENT. Charlie Kirk was shot while on stage during an event during a stop at Utah Valley University during his American Comeback Tour Wednesday. The conservative influencer jerked back and appeared to grab at his neck as the shot rang out, a video from the scene shows, but the extent of his injuries are unconfirmed. Kirk was conducting a Q&A session from a pop-up tent on campus when the incident occurred, sending thousands of spectators into a panic, according to a flurry of social media posts.\n\n#charliekirk #utah #shooting \n\n\nThe New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.\n\nCheck out our two new podcasts:\nPod Force One with MIranda Devine (weekly): https://www.youtube.com/@PodForce1\nNY POSTcast (daily): https://www.youtube.com/@NYPOSTcast\n\nGet The Post’s latest headlines everyday with our Morning Report newsletter:\nhttps://tinyurl.com/NYPOSTSIGNUP\n\nCatch the latest news at http://www.nypost.com.\nFollow The New York Post on:\nTwitter - https://twitter.com/nypost\nFacebook - https://www.facebook.com/NYPost"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13541724",
+          "likeCount": "52205",
+          "favoriteCount": "0",
+          "commentCount": "35421"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "P3FoMLAF786m3p3es6rCEi2WiRY",
+        "id": "komSBrKIkFs",
+        "snippet": {
+          "publishedAt": "2025-09-10T14:45:10Z",
+          "channelId": "UCb1Ti1WKPauPpXkYKVHNpsw",
+          "title": "Banksy's protest artwork scrubbed off immediately",
+          "description": "Banksy could be forced to reveal his identity if police charge him with 'criminal damage,' after his latest artwork satirising recent Palestine Action protests in London #LBC #banksy #uk #uknews #art #Shorts #protest",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/komSBrKIkFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/komSBrKIkFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/komSBrKIkFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/komSBrKIkFs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/komSBrKIkFs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "LBC",
+          "tags": [
+            "lbc",
+            "lbc live",
+            "watch lbc",
+            "interview",
+            "politics news",
+            "british politics",
+            "debate",
+            "Brexit",
+            "James O’Brien",
+            "Iain Dale",
+            "Nick Ferrari",
+            "Johnson",
+            "Sunak",
+            "Andrew Marr",
+            "News Agents",
+            "uk politics",
+            "tom swarbrick",
+            "parliament",
+            "economy",
+            "analysis",
+            "commentary",
+            "updates",
+            "Simon marks",
+            "immigration",
+            "nigel farage",
+            "uk",
+            "uk news",
+            "opinion"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Banksy's protest artwork scrubbed off immediately",
+            "description": "Banksy could be forced to reveal his identity if police charge him with 'criminal damage,' after his latest artwork satirising recent Palestine Action protests in London #LBC #banksy #uk #uknews #art #Shorts #protest"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "872591",
+          "likeCount": "19221",
+          "favoriteCount": "0",
+          "commentCount": "2525"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "JOBQaQ1AggdeF9QD5DsZv8tE5lw",
+        "id": "OnjSYPin3SY",
+        "snippet": {
+          "publishedAt": "2025-09-07T11:00:42Z",
+          "channelId": "UC8XGhCB_1G2V4ciStg7f0Xw",
+          "title": "Please remove the flags #nigelfarage #ukpolitics #uknews #ukimmigration2025",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OnjSYPin3SY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OnjSYPin3SY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OnjSYPin3SY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OnjSYPin3SY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OnjSYPin3SY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Misi Esanola",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Please remove the flags #nigelfarage #ukpolitics #uknews #ukimmigration2025",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2101725",
+          "likeCount": "72371",
+          "favoriteCount": "0",
+          "commentCount": "5315"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c3pacQDbCSnSxgZ_Yfzfni17gRU",
+        "id": "c_NPcyN45P8",
+        "snippet": {
+          "publishedAt": "2025-09-12T20:30:12Z",
+          "channelId": "UCatt7TBjfBkiJWx8khav_Gg",
+          "title": "\"BRAZEN Misogynist!\" Piers Morgan vs Andrew Tate on Charlie Kirk, Train Murder & Trafficking Case",
+          "description": "Controversial influencer Andrew Tate joins Piers Morgan to discuss the murders of Charlie Kirk and Irina Zarutska, his trafficking case and tax evasion charges, the state of free speech in the UK and more.\n\nPiers Morgan Uncensored is proudly independent and supported by:\n\nOxford Natural: To watch their full stories, scan the QR code on your screen or visit https://oxfordnatural.com/piers/ to get 70% off your first order when you use code PIERS.\n\nBrooklyn Bedding: Enter our show name after checkout so they know we sent you! Visit https://Brooklynbedding.com for 30% off & use promo code PIERS!\n\nJacked Up Fitness: Get the all-new Shake Weight by Jacked Up Fitness at https://JackedUpShakeWeight.com\n\n00:00 Introduction and monologue\n00:44 Andrew Tate gives his take on Charlie Kirk’s assassination\n08:15 Andrew Tate on civil war and promoting violence\n11:50 AD: Oxford Natural - oxfordnatural.com/piers/ for 70% off your first order with code PIERS.\n12:50 'Raise the Colours' campaign and Irina Zarutska’s murder\n14:17 Andrew Tate discusses latest developments in his trafficking case\n20:10 AD: Brooklyn Bedding - Brooklynbedding.com for 30% off with code PIERS!\n21:10 Andrew Tate on racially-motivated and hate crime\n24:20 “Every single person who commits murder is mentally ill!”\n26:00 ”The Leftist media is demonizing white people!”\n30:30 AD: Jacked Up Fitness - https://JackedUpShakeWeight.com\n31:30 Piers on the problem of knife crimes by young black men in the UK \n33:41 Piers challenges Andrew Tate on his tax evasion charges\n36:00 Andrew Tate on women’s rights\n41:50 Andrew Tate: “Protection comes with a degree of restriction” \n44:10 Piers asks Tate: “what skills do you want your daughter to have?”\n48:43 Piers to Tate: “You are a terrible misogynist”\n\nSubscribe to stay up-to-date on all Uncensored content.\n\nFollow Piers Morgan Uncensored on:\nX: https://x.com/PiersUncensored\nInstagram: https://www.instagram.com/piersmorganuncensored/\nFacebook: https://www.facebook.com/piersmorganuncensored\nTikTok: https://www.tiktok.com/@piersmorganuncensored\n\nFollow Piers Morgan on:\nX: https://x.com/piersmorgan\nInstagram: https://www.instagram.com/piersmorgan\n\n#andrewtate #interview #piersmorgan",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c_NPcyN45P8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c_NPcyN45P8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c_NPcyN45P8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c_NPcyN45P8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c_NPcyN45P8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Piers Morgan Uncensored",
+          "tags": [
+            "piers morgan",
+            "piers morgan uncensored",
+            "interview",
+            "debate",
+            "piers morgan debate",
+            "piers morgan interview",
+            "andrew tate",
+            "romania",
+            "uk",
+            "andrew tate charges",
+            "matrix",
+            "free speech",
+            "lucy connelly",
+            "crime",
+            "race",
+            "iryna zarutska",
+            "mental health",
+            "racism",
+            "black",
+            "white",
+            "charlie kirk",
+            "misogyny",
+            "sexism",
+            "politics",
+            "news",
+            "tristan tate",
+            "tate brothers",
+            "keir starmer"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "\"BRAZEN Misogynist!\" Piers Morgan vs Andrew Tate on Charlie Kirk, Train Murder & Trafficking Case",
+            "description": "Controversial influencer Andrew Tate joins Piers Morgan to discuss the murders of Charlie Kirk and Irina Zarutska, his trafficking case and tax evasion charges, the state of free speech in the UK and more.\n\nPiers Morgan Uncensored is proudly independent and supported by:\n\nOxford Natural: To watch their full stories, scan the QR code on your screen or visit https://oxfordnatural.com/piers/ to get 70% off your first order when you use code PIERS.\n\nBrooklyn Bedding: Enter our show name after checkout so they know we sent you! Visit https://Brooklynbedding.com for 30% off & use promo code PIERS!\n\nJacked Up Fitness: Get the all-new Shake Weight by Jacked Up Fitness at https://JackedUpShakeWeight.com\n\n00:00 Introduction and monologue\n00:44 Andrew Tate gives his take on Charlie Kirk’s assassination\n08:15 Andrew Tate on civil war and promoting violence\n11:50 AD: Oxford Natural - oxfordnatural.com/piers/ for 70% off your first order with code PIERS.\n12:50 'Raise the Colours' campaign and Irina Zarutska’s murder\n14:17 Andrew Tate discusses latest developments in his trafficking case\n20:10 AD: Brooklyn Bedding - Brooklynbedding.com for 30% off with code PIERS!\n21:10 Andrew Tate on racially-motivated and hate crime\n24:20 “Every single person who commits murder is mentally ill!”\n26:00 ”The Leftist media is demonizing white people!”\n30:30 AD: Jacked Up Fitness - https://JackedUpShakeWeight.com\n31:30 Piers on the problem of knife crimes by young black men in the UK \n33:41 Piers challenges Andrew Tate on his tax evasion charges\n36:00 Andrew Tate on women’s rights\n41:50 Andrew Tate: “Protection comes with a degree of restriction” \n44:10 Piers asks Tate: “what skills do you want your daughter to have?”\n48:43 Piers to Tate: “You are a terrible misogynist”\n\nSubscribe to stay up-to-date on all Uncensored content.\n\nFollow Piers Morgan Uncensored on:\nX: https://x.com/PiersUncensored\nInstagram: https://www.instagram.com/piersmorganuncensored/\nFacebook: https://www.facebook.com/piersmorganuncensored\nTikTok: https://www.tiktok.com/@piersmorganuncensored\n\nFollow Piers Morgan on:\nX: https://x.com/piersmorgan\nInstagram: https://www.instagram.com/piersmorgan\n\n#andrewtate #interview #piersmorgan"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT53M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3036050",
+          "likeCount": "71793",
+          "favoriteCount": "0",
+          "commentCount": "30402"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y8JKHud8Th235VqcIO61d_wXL1g",
+        "id": "YKIWZD0uCjA",
+        "snippet": {
+          "publishedAt": "2025-09-13T18:31:03Z",
+          "channelId": "UCkwA8LWhkhwIn1cHC7JnhjQ",
+          "title": "🚨LIVE! UNITING THE KINGDOM RALLY AS TOMMY ROBINSON, ELON MUSK & KATIE HOPKINS JOIN 1M PATRIOTS🚨",
+          "description": "We’re backstage with exclusive interviews and raw footage you won’t see on the MSM. Hear directly from the speakers making headlines: Tommy Robinson, Katie Hopkins, Ant Middleton, plus other surprise guests.\n\nThis is the people’s voice — unfiltered, unedited, and unapologetic. Stay tuned as we bring you every speech, every chant, and every moment from the front line of Britain’s biggest political rally in years.\n\nSign up to watch live or on demand and totally ad free at https://www.outspoken.live",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YKIWZD0uCjA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YKIWZD0uCjA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YKIWZD0uCjA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YKIWZD0uCjA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YKIWZD0uCjA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dan Wootton Outspoken",
+          "tags": [
+            "dan wootton",
+            "dan wooton",
+            "outspoken",
+            "dan wootton outspoken"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "🚨LIVE! UNITING THE KINGDOM RALLY AS TOMMY ROBINSON, ELON MUSK & KATIE HOPKINS JOIN 1M PATRIOTS🚨",
+            "description": "We’re backstage with exclusive interviews and raw footage you won’t see on the MSM. Hear directly from the speakers making headlines: Tommy Robinson, Katie Hopkins, Ant Middleton, plus other surprise guests.\n\nThis is the people’s voice — unfiltered, unedited, and unapologetic. Stay tuned as we bring you every speech, every chant, and every moment from the front line of Britain’s biggest political rally in years.\n\nSign up to watch live or on demand and totally ad free at https://www.outspoken.live"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT5H59M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1267396",
+          "likeCount": "47380",
+          "favoriteCount": "0",
+          "commentCount": "2681"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XkHVlbyS7T8mPDdGwWiqKlHk_H0",
+        "id": "1QNRLfPtcvc",
+        "snippet": {
+          "publishedAt": "2025-09-13T14:11:30Z",
+          "channelId": "UCdBpXqwlA8VzZgChQHHMmdw",
+          "title": "They’re censoring protests against illegal immigration under a law supposedly for child safety.",
+          "description": "#ukpolitics #reformuk #gbnews #immigration #gbnews #votereformuk #nigelfarage #ziayusuf #ukparliament #debate",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1QNRLfPtcvc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1QNRLfPtcvc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1QNRLfPtcvc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1QNRLfPtcvc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1QNRLfPtcvc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zia Yusuf",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "They’re censoring protests against illegal immigration under a law supposedly for child safety.",
+            "description": "#ukpolitics #reformuk #gbnews #immigration #gbnews #votereformuk #nigelfarage #ziayusuf #ukparliament #debate"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "255615",
+          "likeCount": "11667",
+          "favoriteCount": "0",
+          "commentCount": "818"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NFM8QoBN87XTTEEB-G18kOADG0Y",
+        "id": "oV92B4oR6FM",
+        "snippet": {
+          "publishedAt": "2025-09-13T20:49:00Z",
+          "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+          "title": "Why Tommy Robinson rally was different to any other",
+          "description": "This was the biggest nationalist rally in recent memory - perhaps ever.\n\nWell before the march started, thousands of people flowed over Blackfriars bridge, or came up from Waterloo station, flags everywhere, hailing from everywhere - from Yorkshire roses to the diamond of the Isle of Wight.\n\nWhat exactly it was that \"United the Kingdom\" was left vague, for people to cheer their own particular cause.\n\nSky's Tom Cheshire reports. \n\nRead more: https://news.sky.com/story/why-tommy-robinson-rally-was-different-to-any-other-13430517\n\n#protests #london #nationalism #uknews #skynews \n\nSUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews \nFollow us on Twitter: https://twitter.com/skynews \nLike us on Facebook: https://www.facebook.com/skynews \nFollow us on Instagram: https://www.instagram.com/skynews \nFollow us on TikTok: https://www.tiktok.com/@skynews \n\nFor more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB \n\nSky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ \n\nTo enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oV92B4oR6FM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oV92B4oR6FM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oV92B4oR6FM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oV92B4oR6FM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oV92B4oR6FM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sky News",
+          "tags": [
+            "IMMIGRATION",
+            "ENGLAND",
+            "FLAGS",
+            "UNITED KINGDOM",
+            "LONODN",
+            "NATIONALISM",
+            "TOMMY ROBINSON"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Why Tommy Robinson rally was different to any other",
+            "description": "This was the biggest nationalist rally in recent memory - perhaps ever.\n\nWell before the march started, thousands of people flowed over Blackfriars bridge, or came up from Waterloo station, flags everywhere, hailing from everywhere - from Yorkshire roses to the diamond of the Isle of Wight.\n\nWhat exactly it was that \"United the Kingdom\" was left vague, for people to cheer their own particular cause.\n\nSky's Tom Cheshire reports. \n\nRead more: https://news.sky.com/story/why-tommy-robinson-rally-was-different-to-any-other-13430517\n\n#protests #london #nationalism #uknews #skynews \n\nSUBSCRIBE to our YouTube channel for more videos: http://www.youtube.com/skynews \nFollow us on Twitter: https://twitter.com/skynews \nLike us on Facebook: https://www.facebook.com/skynews \nFollow us on Instagram: https://www.instagram.com/skynews \nFollow us on TikTok: https://www.tiktok.com/@skynews \n\nFor more content go to http://news.sky.com and download our apps: Apple https://itunes.apple.com/gb/app/sky-news/id316391924?mt=8 Android https://play.google.com/store/apps/details?id=com.bskyb.skynews.android&hl=en_GB \n\nSky News Daily podcast is available for free here: https://podfollow.com/skynewsdaily/ \n\nTo enquire about licensing Sky News content, you can find more information here: https://news.sky.com/info/library-sales"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1405392",
+          "likeCount": "14461",
+          "favoriteCount": "0",
+          "commentCount": "11418"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qZiG10-MZrQNIu6plkr3XPHLtW8",
+        "id": "YAka8O6M_xU",
+        "snippet": {
+          "publishedAt": "2025-09-12T13:37:44Z",
+          "channelId": "UCz8omIXCPabFEgblrC_VIfA",
+          "title": "Man paints 20ft England flag on his home 🏴󠁧󠁢󠁥󠁮󠁧󠁿 \"They can't tear this one down!\"",
+          "description": "Read Daily Express: https://www.express.co.uk\nLike Daily Express on Facebook: https://www.facebook.com/DailyExpress\nFollow Daily Express on Twitter: https://twitter.com/daily_express\nFollow Daily Express on Instagram: https://www.instagram.com/dailyexpress/\n\n#DailyExpress #News #ukpolitics #flag #stgeorgesflag #england",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YAka8O6M_xU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YAka8O6M_xU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YAka8O6M_xU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YAka8O6M_xU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YAka8O6M_xU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Daily Express",
+          "tags": [
+            "Daily Express",
+            "News"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Man paints 20ft England flag on his home 🏴󠁧󠁢󠁥󠁮󠁧󠁿 \"They can't tear this one down!\"",
+            "description": "Read Daily Express: https://www.express.co.uk\nLike Daily Express on Facebook: https://www.facebook.com/DailyExpress\nFollow Daily Express on Twitter: https://twitter.com/daily_express\nFollow Daily Express on Instagram: https://www.instagram.com/dailyexpress/\n\n#DailyExpress #News #ukpolitics #flag #stgeorgesflag #england"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "334557",
+          "likeCount": "21854",
+          "favoriteCount": "0",
+          "commentCount": "2230"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Bud_RcMVmExHoHW50VCYk51JJBU",
+        "id": "Gxcrcv1MVvQ",
+        "snippet": {
+          "publishedAt": "2025-09-11T01:01:10Z",
+          "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+          "title": "Douglas Murray and Rita Panahi respond to Charlie Kirk assassination",
+          "description": "Author Douglas Murray and Sky News host Rita Panahi have reacted to the tragic assassination of Turning Point USA founder and conservative activist Charlie Kirk in Utah.\n\n“My thoughts are with Charlie but also his wife – his young wife and his two young children he leaves behind,” he told Sky News host Rita Panahi.\n\n“It’s an extraordinary, appalling act of violence.”\n\nMs Panahi claimed the death of Charlie Kirk is a “heartbreaking, unimaginable loss”.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Gxcrcv1MVvQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Gxcrcv1MVvQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Gxcrcv1MVvQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Gxcrcv1MVvQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Gxcrcv1MVvQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sky News Australia",
+          "tags": [
+            "6379073679112",
+            "fb",
+            "msn",
+            "opinion",
+            "ritapanahi",
+            "yt"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Douglas Murray and Rita Panahi respond to Charlie Kirk assassination",
+            "description": "Author Douglas Murray and Sky News host Rita Panahi have reacted to the tragic assassination of Turning Point USA founder and conservative activist Charlie Kirk in Utah.\n\n“My thoughts are with Charlie but also his wife – his young wife and his two young children he leaves behind,” he told Sky News host Rita Panahi.\n\n“It’s an extraordinary, appalling act of violence.”\n\nMs Panahi claimed the death of Charlie Kirk is a “heartbreaking, unimaginable loss”."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4902185",
+          "likeCount": "136178",
+          "favoriteCount": "0",
+          "commentCount": "28943"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "B9WeUWykHhvPemsyovWrA5RTr6A",
+        "id": "NedQpW0q95w",
+        "snippet": {
+          "publishedAt": "2025-09-12T13:54:42Z",
+          "channelId": "UCw3fku0sH3qA3c3pZeJwdAw",
+          "title": "Usha Vance holds Charlie Kirk's widow's hand",
+          "description": "Usha Vance held hands with Charlie Kirk's widow Erika, 36, as they deplaned Air Force Two, which carried the right-wing influencer's casket from Utah to Arizona. \n\nUsha and Erika were dressed in all black and wearing sunglasses as they somberly walked off the aircraft with JD Vance trailing behind. \n\nRead the full story at Daily Mail.\n\n#shorts #news #charliekirk #utah #ushavance \n\nDaily Mail Website: https://www.dailymail.co.uk\nDaily Mail Facebook: https://facebook.com/dailymail\nDaily Mail IG: https://instagram.com/dailymail\nDaily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033\nDaily Mail Twitter: https://x.com/dailymail\n\nDaily Mail Pinterest: https://pinterest.co.uk/dailymail",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NedQpW0q95w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NedQpW0q95w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NedQpW0q95w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NedQpW0q95w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NedQpW0q95w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Daily Mail World",
+          "tags": [
+            "Daily Mail",
+            "daily mail video",
+            "daily mail shows",
+            "news",
+            "charlie kirk",
+            "erika kirk",
+            "usha vance",
+            "charlie kirk widow",
+            "holding hands",
+            "politics"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Usha Vance holds Charlie Kirk's widow's hand",
+            "description": "Usha Vance held hands with Charlie Kirk's widow Erika, 36, as they deplaned Air Force Two, which carried the right-wing influencer's casket from Utah to Arizona. \n\nUsha and Erika were dressed in all black and wearing sunglasses as they somberly walked off the aircraft with JD Vance trailing behind. \n\nRead the full story at Daily Mail.\n\n#shorts #news #charliekirk #utah #ushavance \n\nDaily Mail Website: https://www.dailymail.co.uk\nDaily Mail Facebook: https://facebook.com/dailymail\nDaily Mail IG: https://instagram.com/dailymail\nDaily Mail Snap: https://www.snapchat.com/discover/Daily-Mail/8392137033\nDaily Mail Twitter: https://x.com/dailymail\n\nDaily Mail Pinterest: https://pinterest.co.uk/dailymail"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2183678",
+          "likeCount": "85150",
+          "favoriteCount": "0",
+          "commentCount": "4095"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mTxyNHeRIPbfNeMzh3T0FrLVZpw",
+        "id": "NbxVVJ5FXuw",
+        "snippet": {
+          "publishedAt": "2025-09-15T14:57:42Z",
+          "channelId": "UCfDdlNLRVb1h3_7Xh-WhL3w",
+          "title": "\"F*** YOU\": Bill Maher TORCHES Left’s Reaction to Charlie Kirk Assassination",
+          "description": "Watch the Daily Caller's brand new documentary 'Operation Deportation' HERE: https://operationdeportation.dailycaller.com/optin1755549081278?utm_source=youtube&utm_medium=organic&utm_campaign=operationdeportation \n\nJoin our WhatsApp channel! https://whatsapp.com/channel/0029VaskY5l05MUZazYGbk1n\n\nBecome a Daily Caller PATRIOT: https://dailycaller.com/subscribe/\n\nVisit our website: https://www.dailycaller.com\n\nCheck out our Twitter: https://goo.gl/fnYe4v\nAnd Facebook: https://goo.gl/W5junb\nOr follow on Instagram: https://goo.gl/mhVr1Y\n\n#breakingnews #politics #shorts #news",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NbxVVJ5FXuw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NbxVVJ5FXuw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NbxVVJ5FXuw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NbxVVJ5FXuw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NbxVVJ5FXuw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TheDC Shorts",
+          "tags": [
+            "news",
+            "news update",
+            "viral",
+            "politics",
+            "republicans",
+            "democrats",
+            "breaking news",
+            "viral shorts",
+            "shorts feed",
+            "yt shorts",
+            "daily caller"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\"F*** YOU\": Bill Maher TORCHES Left’s Reaction to Charlie Kirk Assassination",
+            "description": "Watch the Daily Caller's brand new documentary 'Operation Deportation' HERE: https://operationdeportation.dailycaller.com/optin1755549081278?utm_source=youtube&utm_medium=organic&utm_campaign=operationdeportation \n\nJoin our WhatsApp channel! https://whatsapp.com/channel/0029VaskY5l05MUZazYGbk1n\n\nBecome a Daily Caller PATRIOT: https://dailycaller.com/subscribe/\n\nVisit our website: https://www.dailycaller.com\n\nCheck out our Twitter: https://goo.gl/fnYe4v\nAnd Facebook: https://goo.gl/W5junb\nOr follow on Instagram: https://goo.gl/mhVr1Y\n\n#breakingnews #politics #shorts #news"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1393707",
+          "likeCount": "87649",
+          "favoriteCount": "0",
+          "commentCount": "4155"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qs4eG8aJj1-vJZF7RF3ocARstUE",
+        "id": "JBXcSUWGaQs",
+        "snippet": {
+          "publishedAt": "2025-09-11T14:47:56Z",
+          "channelId": "UCPgLNge0xqQHWM5B5EFH9Cg",
+          "title": "Charlie Kirk assassination: How it happened",
+          "description": "Warning: Video contains distressing content\n\nIn the seconds after a bullet penetrated the neck of 31-year-old Charlie Kirk, a lone figure moves across the rooftops in the distance.\n\nAs crowds dispersed in panic, the figure, who some footage from the scene had shown lying down moments before, can be seen staggering across the Losee Centre some 130 metres away.\n\nThe rooftop position on top of a three-storey building is one of the few vantage points with a clear line of sight at Kirk, the de facto leader of the Maga youth movement and fierce defender of Donald Trump.\n\nThe precise details of the shooting remain unknown. However, some experts believe that footage from the scene shows a carefully planned and calculated assassination.\n\nFor more, read the full story here: https://www.telegraph.co.uk/us/politics/2025/09/11/how-the-shooting-of-charlie-kirk-unfolded/\n\nGet the latest headlines: UK (https://www.telegraph.co.uk/), US (https://www.telegraph.co.uk/us/)  and YouTube (http://www.youtube.com/TelegraphTV ) are websites of The Telegraph, the UK's best-selling quality daily newspaper providing news and analysis on UK and world events, business, sport, lifestyle and culture.\n\n#charliekirk #charliekirkdead #charliekirkshot",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JBXcSUWGaQs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JBXcSUWGaQs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JBXcSUWGaQs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JBXcSUWGaQs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JBXcSUWGaQs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Telegraph",
+          "tags": [
+            "News",
+            "Telegraph",
+            "charlie kirk shooting",
+            "charlie kirk shooting 2025",
+            "charlie kirk shooting utah",
+            "charlie kirk shooting suspect",
+            "charlie kirk deadly shooting",
+            "charlie kirk shot",
+            "charlie kirk shooter",
+            "charlie kirk getting shot",
+            "charlie kirk shot utah",
+            "kirk shooting",
+            "who shot charlie kirk",
+            "charlie kirk",
+            "who is charlie kirk",
+            "who was charlie kirk",
+            "charlie kirk suspect",
+            "charlie kirk dead",
+            "charlie kirk utah",
+            "charlie kirk wife",
+            "charlie kirk kids",
+            "charlie kirk guns",
+            "charlie kirk death"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Charlie Kirk assassination: How it happened",
+            "description": "Warning: Video contains distressing content\n\nIn the seconds after a bullet penetrated the neck of 31-year-old Charlie Kirk, a lone figure moves across the rooftops in the distance.\n\nAs crowds dispersed in panic, the figure, who some footage from the scene had shown lying down moments before, can be seen staggering across the Losee Centre some 130 metres away.\n\nThe rooftop position on top of a three-storey building is one of the few vantage points with a clear line of sight at Kirk, the de facto leader of the Maga youth movement and fierce defender of Donald Trump.\n\nThe precise details of the shooting remain unknown. However, some experts believe that footage from the scene shows a carefully planned and calculated assassination.\n\nFor more, read the full story here: https://www.telegraph.co.uk/us/politics/2025/09/11/how-the-shooting-of-charlie-kirk-unfolded/\n\nGet the latest headlines: UK (https://www.telegraph.co.uk/), US (https://www.telegraph.co.uk/us/)  and YouTube (http://www.youtube.com/TelegraphTV ) are websites of The Telegraph, the UK's best-selling quality daily newspaper providing news and analysis on UK and world events, business, sport, lifestyle and culture.\n\n#charliekirk #charliekirkdead #charliekirkshot"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2685891",
+          "likeCount": "29702",
+          "favoriteCount": "0",
+          "commentCount": "2506"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7GGkxRTmaYO3zRWTGpdLQtiVfDM",
+        "id": "PPk3ZgfWdp4",
+        "snippet": {
+          "publishedAt": "2025-09-14T12:01:28Z",
+          "channelId": "UCZtsDrwq0biIqD4OyErebrQ",
+          "title": "Trevor Philips Reacts To Unite The Kingdom Protest #tommyrobinson #protest #september13 #skynews",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PPk3ZgfWdp4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PPk3ZgfWdp4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PPk3ZgfWdp4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PPk3ZgfWdp4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PPk3ZgfWdp4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SaveTheWest",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Trevor Philips Reacts To Unite The Kingdom Protest #tommyrobinson #protest #september13 #skynews",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "103780",
+          "likeCount": "2751",
+          "favoriteCount": "0",
+          "commentCount": "326"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "olVJe-l1kCDSJntguldh0856YrQ",
+        "id": "cAfDX1lB8dg",
+        "snippet": {
+          "publishedAt": "2025-09-14T05:18:42Z",
+          "channelId": "UCUI9vm69ZbAqRK3q3vKLWCQ",
+          "title": "'Violence Is Coming': Elon Musk’s Explosive Speech At 110K London Anti-Immigration Rally",
+          "description": "Elon Musk | Elon Musk News | London Protest | Elon Musk Speech | Tommy Robinson | UK Immigration Policy | Protest In London\n\nElon Musk stunned London protesters with a fiery speech at Tommy Robinson’s “Unite the Kingdom” rally, where more than 110,000 people marched against U.K. immigration policy. Musk warned that “violence is coming” and called for political change, backing Robinson and other far-right figures. The demonstration — one of Britain’s largest right-wing gatherings in recent years — ended in clashes with police near Whitehall. Watch the full breakdown of Musk’s comments and the controversy surrounding the protest.\n\n#ElonMusk #UKPolitics #LondonProtest #TommyRobinson #Immigration #UniteTheKingdom #FreeSpeech #BreakingNews\n\n\nMint is an Indian financial daily newspaper published by HT Media. The Mint YT Channel brings you cutting edge analysis of the latest business news and financial news. With in-depth market coverage, explainers and expert opinions, we break down and simplify business news for you. \n\nClick here to download the Mint App: https://livemint.onelink.me/MrDS/p0kx3pdg\n\nNow make Mint your preferred source on Google and get business & finance updates first. \nAdd here - https://www.google.com/preferences/source?q=mint\n\nSubscribe to Mint Premium Now: https://www.read.ht/Scaq\n\nSubscribe to Mint's WhatsApp Channel: https://whatsapp.com/channel/0029Va91YSeGehEM6oMesj3d",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cAfDX1lB8dg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cAfDX1lB8dg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cAfDX1lB8dg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cAfDX1lB8dg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cAfDX1lB8dg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mint",
+          "tags": [
+            "Mint",
+            "Mint News",
+            "Live Mint",
+            "Business News",
+            "Today News",
+            "Elon Musk",
+            "UK politics",
+            "London protest",
+            "Tommy Robinson",
+            "Unite the Kingdom",
+            "immigration debate UK",
+            "far-right rally",
+            "Musk speech London",
+            "Whitehall march",
+            "freedom of speech UK",
+            "110k protest",
+            "political controversy UK",
+            "Musk fight back or die",
+            "Violence is coming spee",
+            "elon musk",
+            "elon musk news",
+            "london protest",
+            "elon musk speech",
+            "tommy robinson",
+            "uk immigration policy",
+            "protest in london"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "'Violence Is Coming': Elon Musk’s Explosive Speech At 110K London Anti-Immigration Rally",
+            "description": "Elon Musk | Elon Musk News | London Protest | Elon Musk Speech | Tommy Robinson | UK Immigration Policy | Protest In London\n\nElon Musk stunned London protesters with a fiery speech at Tommy Robinson’s “Unite the Kingdom” rally, where more than 110,000 people marched against U.K. immigration policy. Musk warned that “violence is coming” and called for political change, backing Robinson and other far-right figures. The demonstration — one of Britain’s largest right-wing gatherings in recent years — ended in clashes with police near Whitehall. Watch the full breakdown of Musk’s comments and the controversy surrounding the protest.\n\n#ElonMusk #UKPolitics #LondonProtest #TommyRobinson #Immigration #UniteTheKingdom #FreeSpeech #BreakingNews\n\n\nMint is an Indian financial daily newspaper published by HT Media. The Mint YT Channel brings you cutting edge analysis of the latest business news and financial news. With in-depth market coverage, explainers and expert opinions, we break down and simplify business news for you. \n\nClick here to download the Mint App: https://livemint.onelink.me/MrDS/p0kx3pdg\n\nNow make Mint your preferred source on Google and get business & finance updates first. \nAdd here - https://www.google.com/preferences/source?q=mint\n\nSubscribe to Mint Premium Now: https://www.read.ht/Scaq\n\nSubscribe to Mint's WhatsApp Channel: https://whatsapp.com/channel/0029Va91YSeGehEM6oMesj3d"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18M13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "664380",
+          "likeCount": "19678",
+          "favoriteCount": "0",
+          "commentCount": "7068"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ARKQ3351ENok0T6ZzbWi1uC81sA",
+        "id": "Rah1CvpUjg0",
+        "snippet": {
+          "publishedAt": "2025-09-13T15:47:04Z",
+          "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
+          "title": "WILD VIDEO: Police Clash With 'Unite The Kingdom' Protestors In London, England",
+          "description": "On Saturday, protestors at the \"Unite the Kingdom\" demonstration clashed with police.\n\nFuel your success with Forbes. Gain unlimited access to premium journalism, including breaking news, groundbreaking in-depth reported stories, daily digests and more. Plus, members get a front-row seat at members-only events with leading thinkers and doers, access to premium video that can help you get ahead, an ad-light experience, early access to select products including NFT drops and more:\n\nhttps://account.forbes.com/membership/?utm_source=youtube&utm_medium=display&utm_campaign=growth_non-sub_paid_subscribe_ytdescript\n\n\nStay Connected\nForbes on Facebook: http://fb.com/forbes\nForbes Video on Twitter: http://www.twitter.com/forbes\nForbes Video on Instagram: http://instagram.com/forbes\nMore From Forbes:  http://forbes.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rah1CvpUjg0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rah1CvpUjg0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rah1CvpUjg0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Rah1CvpUjg0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Rah1CvpUjg0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Forbes Breaking News",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "WILD VIDEO: Police Clash With 'Unite The Kingdom' Protestors In London, England",
+            "description": "On Saturday, protestors at the \"Unite the Kingdom\" demonstration clashed with police.\n\nFuel your success with Forbes. Gain unlimited access to premium journalism, including breaking news, groundbreaking in-depth reported stories, daily digests and more. Plus, members get a front-row seat at members-only events with leading thinkers and doers, access to premium video that can help you get ahead, an ad-light experience, early access to select products including NFT drops and more:\n\nhttps://account.forbes.com/membership/?utm_source=youtube&utm_medium=display&utm_campaign=growth_non-sub_paid_subscribe_ytdescript\n\n\nStay Connected\nForbes on Facebook: http://fb.com/forbes\nForbes Video on Twitter: http://www.twitter.com/forbes\nForbes Video on Instagram: http://instagram.com/forbes\nMore From Forbes:  http://forbes.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "303882",
+          "likeCount": "5031",
+          "favoriteCount": "0",
+          "commentCount": "3121"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ZAMyxzKm-KqM1_q_DWeomo1A72A",
+        "id": "ILn9k6awf4w",
+        "snippet": {
+          "publishedAt": "2025-09-13T11:15:02Z",
+          "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
+          "title": "'The UK is losing its identity' | Watch as THOUSANDS descend on London for 'Unite the Kingdom' rally",
+          "description": "Go to https://piavpn.com/GBNews to get 83% off Private Internet Access with 4 months free! #ad\n\n'I'm ashamed to fly our flag. We're losing our identity as a nation.'\n\nBritons attending the 'Unite the Kingdom' rally in London tell GB News that the UK 'needs to get its identity back'.\n\n#march #rally #gbnews \n\nKeep up to date with GB News at gbnews.com or on X @GBNEWS\n\nSupport GB News by becoming a member from just £5 per month: https://gbnews.com/support",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ILn9k6awf4w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ILn9k6awf4w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ILn9k6awf4w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ILn9k6awf4w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ILn9k6awf4w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GBNews",
+          "tags": [
+            "GB News",
+            "GB News Live",
+            "GBN",
+            "Politics",
+            "UK",
+            "News",
+            "Analysis",
+            "Breaking News",
+            "News Update",
+            "World News",
+            "Reports"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "'The UK is losing its identity' | Watch as THOUSANDS descend on London for 'Unite the Kingdom' rally",
+            "description": "Go to https://piavpn.com/GBNews to get 83% off Private Internet Access with 4 months free! #ad\n\n'I'm ashamed to fly our flag. We're losing our identity as a nation.'\n\nBritons attending the 'Unite the Kingdom' rally in London tell GB News that the UK 'needs to get its identity back'.\n\n#march #rally #gbnews \n\nKeep up to date with GB News at gbnews.com or on X @GBNEWS\n\nSupport GB News by becoming a member from just £5 per month: https://gbnews.com/support"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT9M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "454806",
+          "likeCount": "9891",
+          "favoriteCount": "0",
+          "commentCount": "3792"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TcF4sOnROVvD6QELBs08P8mU2jE",
+        "id": "nqz6yl6M2eU",
+        "snippet": {
+          "publishedAt": "2025-09-13T12:01:29Z",
+          "channelId": "UCp1WLdyf-HyM5umAkVyWtIw",
+          "title": "Куда исчезает разметка?",
+          "description": "новости, новости сегодня, новости дня, главные новости сегодня, главные новости, свежие новости, сегодняшнего дня, события дня, короче новости, странные новости, новости мира, мировые новости, ильюша новости, новостничок",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nqz6yl6M2eU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nqz6yl6M2eU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nqz6yl6M2eU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nqz6yl6M2eU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nqz6yl6M2eU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Новостной Гусь",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "Куда исчезает разметка?",
+            "description": "новости, новости сегодня, новости дня, главные новости сегодня, главные новости, свежие новости, сегодняшнего дня, события дня, короче новости, странные новости, новости мира, мировые новости, ильюша новости, новостничок"
+          },
+          "defaultAudioLanguage": "ru"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5727069",
+          "likeCount": "205727",
+          "favoriteCount": "0",
+          "commentCount": "2042"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qmQt_Yj5yJB7yNxo11wmj5BWvhg",
+        "id": "Bnw2FAe5P4Q",
+        "snippet": {
+          "publishedAt": "2025-09-12T18:00:06Z",
+          "channelId": "UCm0yTweyAa0PwEIp0l3N_gA",
+          "title": "Starmer Named Worst PM Ever, Peter Mandelson Sacked | Plank Of The Week With Mike Graham | 12-Sep-25",
+          "description": "Join Mike Graham on YouTube every Friday at 7pm for Plank Of The Week.\n\nMike picks the planks with Jeremy Kyle, Steve N Allen, Amanda Devlin and Steve Denyer.\n\n00:00 - Channel migrants in line for millions in compensation\n03:46 - ‘Confused’ Angela Rayner could face £12,000 stamp duty penalty\n10:10 - Striking tube drivers on £72k demand free Legoland tickets\n15:14 - NHS surgeon jailed for insurance fraud after removing his own legs for fun\n18:06 - Keir Starmer’s chaotic reshuffle\n22:54 - Ed Miliband accused of hypocrisy for keeping his gas boiler\n27:05 - College of Policing claims trans women are at risk of female genital mutilation\n29:09 - Kids magician fined £429 by Derby council for using a real rabbit\n33:46 - £25m Nanny state nationwide emergency alarm fails\n37:36 - Peter Mandelson called Jeffrey Epstein his 'best pal'\n\nHave you got a story? Email tips@talk.tv\n\nClick here for more from Talk: https://talk.tv\n\nIf you need any help visit: https://talk.tv/helplines",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Bnw2FAe5P4Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Bnw2FAe5P4Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Bnw2FAe5P4Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Bnw2FAe5P4Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Bnw2FAe5P4Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TalkTV",
+          "tags": [
+            "talkradio",
+            "talk radio",
+            "news",
+            "uk",
+            "politics",
+            "debate",
+            "free speech",
+            "freedom of expression",
+            "talk tv",
+            "live",
+            "live news",
+            "talktv live",
+            "talk tv live",
+            "talktv",
+            "jeffrey epstein",
+            "culture war",
+            "nigel farage",
+            "cancel culture",
+            "uk government",
+            "illegal immigration",
+            "david lammy",
+            "rachel reeves",
+            "benedict spence",
+            "kier starmer",
+            "talk radio live",
+            "mike graham",
+            "keir starmer",
+            "peter mandelson",
+            "talk radio tv",
+            "talkradio tv",
+            "angela rayner"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Starmer Named Worst PM Ever, Peter Mandelson Sacked | Plank Of The Week With Mike Graham | 12-Sep-25",
+            "description": "Join Mike Graham on YouTube every Friday at 7pm for Plank Of The Week.\n\nMike picks the planks with Jeremy Kyle, Steve N Allen, Amanda Devlin and Steve Denyer.\n\n00:00 - Channel migrants in line for millions in compensation\n03:46 - ‘Confused’ Angela Rayner could face £12,000 stamp duty penalty\n10:10 - Striking tube drivers on £72k demand free Legoland tickets\n15:14 - NHS surgeon jailed for insurance fraud after removing his own legs for fun\n18:06 - Keir Starmer’s chaotic reshuffle\n22:54 - Ed Miliband accused of hypocrisy for keeping his gas boiler\n27:05 - College of Policing claims trans women are at risk of female genital mutilation\n29:09 - Kids magician fined £429 by Derby council for using a real rabbit\n33:46 - £25m Nanny state nationwide emergency alarm fails\n37:36 - Peter Mandelson called Jeffrey Epstein his 'best pal'\n\nHave you got a story? Email tips@talk.tv\n\nClick here for more from Talk: https://talk.tv\n\nIf you need any help visit: https://talk.tv/helplines"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT46M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "193038",
+          "likeCount": "4867",
+          "favoriteCount": "0",
+          "commentCount": "673"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TTvdFFQ6vO34OwHoJX8a2rTVQ4Q",
+        "id": "9_Kw8hgJEIo",
+        "snippet": {
+          "publishedAt": "2025-09-15T05:33:20Z",
+          "channelId": "UCR0fZh5SBxxMNYdg0VzRFkg",
+          "title": "Far-right protesters wearing flags buy food from immigrant-owned shops in London",
+          "description": "Videos from London show far-right anti-immigration protesters, draped in Union Jacks and St George’s flags, queuing outside Turkish, Indian, Pakistani and Afghan food stalls during their march.\n\nThe demonstrators, some carrying anti-immigration placards, were filmed returning to the rally with meals from the very communities they oppose.\n\nThe scenes went viral online, with viewers mocking the irony.\n\nCatch previous episodes of MEE LIVE, our biweekly news programme exploring the stories shaping our world through breaking coverage, expert analysis, and hard-hitting interviews.\n\nOriginally airing Tuesdays & Thursdays at 12pm ET | 5pm BST\nGot a story tip or question? Reach us at MEELive@middleeasteye.org\n\nSupport stories that matter. Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCR0fZh5SBxxMNYdg0VzRFkg/join\n\nSubscribe to our channel: http://ow.ly/AVlW30n1OWH\n\nSubscribe to MEE Telegram channel to stay up to date: https://t.me/MiddleEastEye_TG\n\nMiddle East Eye Website: https://middleeasteye.net\nFollow us on TikTok: https://www.tiktok.com/@middleeasteye\nFollow us on Instagram: https://instagram.com/MiddleEastEye\nLike us on Facebook: https://facebook.com/MiddleEastEye\nFollow us on Twitter: https://twitter.com/MiddleEastEye",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9_Kw8hgJEIo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9_Kw8hgJEIo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9_Kw8hgJEIo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9_Kw8hgJEIo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9_Kw8hgJEIo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Middle East Eye",
+          "tags": [
+            "middle east eye",
+            "mee",
+            "mee news",
+            "news",
+            "middle east eye news",
+            "middle east news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Far-right protesters wearing flags buy food from immigrant-owned shops in London",
+            "description": "Videos from London show far-right anti-immigration protesters, draped in Union Jacks and St George’s flags, queuing outside Turkish, Indian, Pakistani and Afghan food stalls during their march.\n\nThe demonstrators, some carrying anti-immigration placards, were filmed returning to the rally with meals from the very communities they oppose.\n\nThe scenes went viral online, with viewers mocking the irony.\n\nCatch previous episodes of MEE LIVE, our biweekly news programme exploring the stories shaping our world through breaking coverage, expert analysis, and hard-hitting interviews.\n\nOriginally airing Tuesdays & Thursdays at 12pm ET | 5pm BST\nGot a story tip or question? Reach us at MEELive@middleeasteye.org\n\nSupport stories that matter. Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UCR0fZh5SBxxMNYdg0VzRFkg/join\n\nSubscribe to our channel: http://ow.ly/AVlW30n1OWH\n\nSubscribe to MEE Telegram channel to stay up to date: https://t.me/MiddleEastEye_TG\n\nMiddle East Eye Website: https://middleeasteye.net\nFollow us on TikTok: https://www.tiktok.com/@middleeasteye\nFollow us on Instagram: https://instagram.com/MiddleEastEye\nLike us on Facebook: https://facebook.com/MiddleEastEye\nFollow us on Twitter: https://twitter.com/MiddleEastEye"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "212968",
+          "likeCount": "20834",
+          "favoriteCount": "0",
+          "commentCount": "4181"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BPQ1kbA0uITDRdwjCu_oEoZIxwA",
+        "id": "kR80dEOWJMs",
+        "snippet": {
+          "publishedAt": "2025-09-13T14:14:22Z",
+          "channelId": "UCshwRhftzkiov5wKR7M_LsQ",
+          "title": "Thousands turn out for Tommy Robinson 'Unite the Kingdom' rally in London #shorts",
+          "description": "Watch more on Independent TV: https://tinyurl.com/yc7ukx9n\n\nThe Independent is the world’s most free-thinking newsbrand, providing global news, commentary and analysis for the independently-minded.\n\nSubscribe: https://bit.ly/Subscribe-to-Independent\n\nFind us on social:\nTikTok / https://www.tiktok.com/@independent\nInstagram / https://www.instagram.com/the.independent/\nX (Twitter) / https://twitter.com/Independent\nFacebook / https://www.facebook.com/TheIndependentOnline\n\nDownload the iOS & Android app: https://tinyurl.com/2s3ts5dh\nSign up to our newsletters: https://tinyurl.com/2bmw565x\n\nHelp to support truly independent journalism. Every dollar you contribute will directly fund additional special reports and investigations from a free-thinking, award-winning newsroom you can trust: https://www.independent.co.uk/donations",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kR80dEOWJMs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kR80dEOWJMs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kR80dEOWJMs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kR80dEOWJMs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kR80dEOWJMs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Independent",
+          "tags": [
+            "The Independent",
+            "Independent",
+            "Indy",
+            "News",
+            "tommy robinson",
+            "march",
+            "rally",
+            "unite the kingdom",
+            "far right",
+            "counter protest",
+            "london",
+            "whitehall",
+            "starmer"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Thousands turn out for Tommy Robinson 'Unite the Kingdom' rally in London #shorts",
+            "description": "Watch more on Independent TV: https://tinyurl.com/yc7ukx9n\n\nThe Independent is the world’s most free-thinking newsbrand, providing global news, commentary and analysis for the independently-minded.\n\nSubscribe: https://bit.ly/Subscribe-to-Independent\n\nFind us on social:\nTikTok / https://www.tiktok.com/@independent\nInstagram / https://www.instagram.com/the.independent/\nX (Twitter) / https://twitter.com/Independent\nFacebook / https://www.facebook.com/TheIndependentOnline\n\nDownload the iOS & Android app: https://tinyurl.com/2s3ts5dh\nSign up to our newsletters: https://tinyurl.com/2bmw565x\n\nHelp to support truly independent journalism. Every dollar you contribute will directly fund additional special reports and investigations from a free-thinking, award-winning newsroom you can trust: https://www.independent.co.uk/donations"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "164376",
+          "likeCount": "6878",
+          "favoriteCount": "0",
+          "commentCount": "801"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0Ze6a_BQBQk8Wu3O6v15lRu_ma0",
+        "id": "8MCIoavASH8",
+        "snippet": {
+          "publishedAt": "2025-09-16T19:45:00Z",
+          "channelId": "UCBTy8j2cPy6zw68godcE7MQ",
+          "title": "Start Mosquera Against Citeh! (Lee Judges) | Athletic Club 0-2 Arsenal",
+          "description": "🗞️  Read the latest transfer news on our website 👉 https://aftv.co.uk/news\n\n📲  Download the AFTV+ app to get involved with FANZONE, pick your starting XI and rate the players after every match! 👉 https://aftv.page.link/app\n\n⚽️  Subscribe to DR Sports to see your AFTV favourites involved in even more sports and entertainment content!  👉 https://www.youtube.com/@drsportsmedia\n\n▶️  Subscribe to AFTV: https://bit.ly/AFTVYT\n📸  Follow us on Instagram: https://bit.ly/AFTVIG\n💬  Follow us on X: https://bit.ly/AFTVTwitter\n📲  Follow us on TikTok: https://bit.ly/AFTVTT\n👤  Follow us on Facebook: https://bit.ly/AFTVFB\n🧵  Follow us on Threads: https://bit.ly/AFTVThreads\n👻  Subscribe to us on Snapchat: https://bit.ly/AFTVSC\n🎮  Follow us on Twitch: https://bit.ly/AFTVTwitch\n🎧  Listen to our podcasts: https://aftv.co.uk/podcasts\n🛍  Shop for AFTV merch: https://shop.aftv.co.uk\n🖥  Visit our website: https://www.aftv.co.uk\n\n🔴  AFTV is the largest football fan network in the world! With a bias towards Arsenal FC, we're the place where the fans' uncensored opinions can be heard before, during and after the whistle blows. Join in the banter and follow us for football previews, watchalongs, fan cams, podcasts and more!\n\n🙋  Do you have a suggestion for content that you would like to see on AFTV?\n➡️  Fill out this suggestion form and we might use your idea: https://bit.ly/3iork8J\n\n⚠️  DISCLAIMER: Football is a vibrant game and fans are passionate. Colourful language is sometimes used, and controversial opinions are expressed. Content is often streamed live, and we are not always able to edit or censor material in advance. VIEWER DISCRETION IS ADVISED. The thoughts, views and opinions expressed are those of the contributors and do not necessarily purport to be or reflect those of AFTV.\n\n#ATHARS #FanCams #Arsenal #AFTV #Football",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8MCIoavASH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8MCIoavASH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8MCIoavASH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8MCIoavASH8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8MCIoavASH8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AFTV",
+          "tags": [
+            "afc",
+            "aftv",
+            "arsenal",
+            "arsenal fan tv",
+            "fan cams",
+            "arsenal tv",
+            "arsenal fan cams",
+            "gooners",
+            "premier league",
+            "robbie lyle",
+            "aftvmedia",
+            "martinelli",
+            "arteta",
+            "arsenal stream",
+            "arsenal watch along",
+            "emirates stadium",
+            "football",
+            "soccer",
+            "sport",
+            "transfers",
+            "gunners",
+            "arsenal fc",
+            "transfer window",
+            "watch arsenal",
+            "Watch Along",
+            "Match Day",
+            "arsenal football club",
+            "watch arsenal live",
+            "watch arsenal stream",
+            "aftv robbie",
+            "aftv lee judges",
+            "madueke arsenal",
+            "zubimendi goal"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Start Mosquera Against Citeh! (Lee Judges) | Athletic Club 0-2 Arsenal",
+            "description": "🗞️  Read the latest transfer news on our website 👉 https://aftv.co.uk/news\n\n📲  Download the AFTV+ app to get involved with FANZONE, pick your starting XI and rate the players after every match! 👉 https://aftv.page.link/app\n\n⚽️  Subscribe to DR Sports to see your AFTV favourites involved in even more sports and entertainment content!  👉 https://www.youtube.com/@drsportsmedia\n\n▶️  Subscribe to AFTV: https://bit.ly/AFTVYT\n📸  Follow us on Instagram: https://bit.ly/AFTVIG\n💬  Follow us on X: https://bit.ly/AFTVTwitter\n📲  Follow us on TikTok: https://bit.ly/AFTVTT\n👤  Follow us on Facebook: https://bit.ly/AFTVFB\n🧵  Follow us on Threads: https://bit.ly/AFTVThreads\n👻  Subscribe to us on Snapchat: https://bit.ly/AFTVSC\n🎮  Follow us on Twitch: https://bit.ly/AFTVTwitch\n🎧  Listen to our podcasts: https://aftv.co.uk/podcasts\n🛍  Shop for AFTV merch: https://shop.aftv.co.uk\n🖥  Visit our website: https://www.aftv.co.uk\n\n🔴  AFTV is the largest football fan network in the world! With a bias towards Arsenal FC, we're the place where the fans' uncensored opinions can be heard before, during and after the whistle blows. Join in the banter and follow us for football previews, watchalongs, fan cams, podcasts and more!\n\n🙋  Do you have a suggestion for content that you would like to see on AFTV?\n➡️  Fill out this suggestion form and we might use your idea: https://bit.ly/3iork8J\n\n⚠️  DISCLAIMER: Football is a vibrant game and fans are passionate. Colourful language is sometimes used, and controversial opinions are expressed. Content is often streamed live, and we are not always able to edit or censor material in advance. VIEWER DISCRETION IS ADVISED. The thoughts, views and opinions expressed are those of the contributors and do not necessarily purport to be or reflect those of AFTV.\n\n#ATHARS #FanCams #Arsenal #AFTV #Football"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT11M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "128204",
+          "likeCount": "2836",
+          "favoriteCount": "0",
+          "commentCount": "392"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qnclUg-1h5lwZUGRUh5pMprpjQA",
+        "id": "Y-AtqNKmVj8",
+        "snippet": {
+          "publishedAt": "2025-09-13T17:07:56Z",
+          "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
+          "title": "Tensions and some violence as 100,000 attend London far right rally",
+          "description": "They wanted it to be the biggest demonstration London has ever seen. It wasn't. \n\n[Subscribe: https://bit.ly/C4_News_Subscribe]\n\nBut the so-called ‘Unite the Kingdom’ demo was a major event. Police estimated that more than a 100,000 protesters marched to a central London rally. \n\nIt was organised by far right campaigner Stephen Yaxley Lennon - aka Tommy Robinson and there were plenty of tributes to the murdered right-wing American influencer Charlie Kirk. \n\n-------\n\nGet more news at our site - https://www.channel4.com/news/ \n\nFollow us:\nTikTok - https://www.tiktok.com/@c4news\nInstagram - https://www.instagram.com/channel4news/\nTwitter - https://twitter.com/Channel4News\nFacebook - https://www.facebook.com/Channel4News/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y-AtqNKmVj8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y-AtqNKmVj8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y-AtqNKmVj8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Y-AtqNKmVj8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Y-AtqNKmVj8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Channel 4 News",
+          "tags": [
+            "tommy robinson",
+            "united the kingdom rally",
+            "far right rally",
+            "uk news",
+            "met police",
+            "stand up to racism",
+            "free speech",
+            "far right",
+            "katie hopkins",
+            "whitehall",
+            "chris kirk",
+            "Racism",
+            "immigration",
+            "trafalgar square",
+            "channel 4 news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tensions and some violence as 100,000 attend London far right rally",
+            "description": "They wanted it to be the biggest demonstration London has ever seen. It wasn't. \n\n[Subscribe: https://bit.ly/C4_News_Subscribe]\n\nBut the so-called ‘Unite the Kingdom’ demo was a major event. Police estimated that more than a 100,000 protesters marched to a central London rally. \n\nIt was organised by far right campaigner Stephen Yaxley Lennon - aka Tommy Robinson and there were plenty of tributes to the murdered right-wing American influencer Charlie Kirk. \n\n-------\n\nGet more news at our site - https://www.channel4.com/news/ \n\nFollow us:\nTikTok - https://www.tiktok.com/@c4news\nInstagram - https://www.instagram.com/channel4news/\nTwitter - https://twitter.com/Channel4News\nFacebook - https://www.facebook.com/Channel4News/"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT2M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "316668",
+          "likeCount": "2315",
+          "favoriteCount": "0",
+          "commentCount": "3971"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8F5FncS7RasIEURYi6or73ABK14",
+        "id": "wDSb001nHPo",
+        "snippet": {
+          "publishedAt": "2025-09-16T14:56:01Z",
+          "channelId": "UCF9LFWX5cdGHBg_FDm6tFrQ",
+          "title": "Surprise Surprise⁉️ #usa #israel #palestine #politics #congress #europe #news #uk #canada #australia",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wDSb001nHPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wDSb001nHPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wDSb001nHPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wDSb001nHPo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wDSb001nHPo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Breezy Politics",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Surprise Surprise⁉️ #usa #israel #palestine #politics #congress #europe #news #uk #canada #australia",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT38S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "329092",
+          "likeCount": "45239",
+          "favoriteCount": "0",
+          "commentCount": "4894"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mKQhOp_cRwBXSPTEuwocsdBi37I",
+        "id": "ns_JXtXLU7w",
+        "snippet": {
+          "publishedAt": "2025-09-10T22:16:37Z",
+          "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+          "title": "Charlie Kirk's final moments before deadly shooting at Utah event",
+          "description": "Charlie Kirk has died after he was shot during an event at Utah Valley University on Wednesday, President Trump said. Kirk was speaking to a crowd about mass shootings when he was fatally wounded by a gunshot at the event.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ns_JXtXLU7w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ns_JXtXLU7w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ns_JXtXLU7w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ns_JXtXLU7w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ns_JXtXLU7w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ABC News",
+          "tags": [
+            "news",
+            "breaking news",
+            "live news",
+            "daily news",
+            "world news",
+            "us news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Charlie Kirk's final moments before deadly shooting at Utah event",
+            "description": "Charlie Kirk has died after he was shot during an event at Utah Valley University on Wednesday, President Trump said. Kirk was speaking to a crowd about mass shootings when he was fatally wounded by a gunshot at the event."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4791104",
+          "likeCount": "89878",
+          "favoriteCount": "0",
+          "commentCount": "10200"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "rnB9zu52FdtCJiCMOSovIfKfh1E",
+        "id": "N2FmD1PQK28",
+        "snippet": {
+          "publishedAt": "2025-09-11T21:16:32Z",
+          "channelId": "UCtTUH7FIghGvcOdLSYUUBxA",
+          "title": "She was arrested on her 100th birthday",
+          "description": "This old lady was arrested on her hundredth birthday, and you'll never believe why.\nRuth was turning 100 years old, and her family and friends threw her a big party. Everyone was happy, laughing, and celebrating when suddenly there was a loud knock on the door.\nWhen Ruth’s daughter opened it, police officers were standing outside. They said they needed to take Ruth with them. Her family begged them not to, but the officers didn’t change their minds.\nAt the police station, Ruth was put in handcuffs, taken for a mugshot, and even placed in a cell. Everyone was confused about what was really happening.\nHer family was stunned. Why would anyone arrest a 100-year-old woman on her birthday? The truth was surprising: Ruth had always joked that she wanted to be arrested once in her life—and on her hundredth birthday, her wish finally came true when the police staged it as a playful surprise.\n\n============\n\nWSAV3:\nhttps://www.youtube.com/watch?v=3o2lcaJ1jLk\n\nABC News:\nhttps://abc7ny.com/post/womans-100th-birthday-wish-go-to-jail/5989915/?utm_source=\n\nMusic from #Uppbeat\nhttps://uppbeat.io/t/apex-music/the-air-we-breathe\nLicense code: 5CCCFJOUQ9AMQNV4",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N2FmD1PQK28/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N2FmD1PQK28/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N2FmD1PQK28/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N2FmD1PQK28/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N2FmD1PQK28/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Did you know US?",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "She was arrested on her 100th birthday",
+            "description": "This old lady was arrested on her hundredth birthday, and you'll never believe why.\nRuth was turning 100 years old, and her family and friends threw her a big party. Everyone was happy, laughing, and celebrating when suddenly there was a loud knock on the door.\nWhen Ruth’s daughter opened it, police officers were standing outside. They said they needed to take Ruth with them. Her family begged them not to, but the officers didn’t change their minds.\nAt the police station, Ruth was put in handcuffs, taken for a mugshot, and even placed in a cell. Everyone was confused about what was really happening.\nHer family was stunned. Why would anyone arrest a 100-year-old woman on her birthday? The truth was surprising: Ruth had always joked that she wanted to be arrested once in her life—and on her hundredth birthday, her wish finally came true when the police staged it as a playful surprise.\n\n============\n\nWSAV3:\nhttps://www.youtube.com/watch?v=3o2lcaJ1jLk\n\nABC News:\nhttps://abc7ny.com/post/womans-100th-birthday-wish-go-to-jail/5989915/?utm_source=\n\nMusic from #Uppbeat\nhttps://uppbeat.io/t/apex-music/the-air-we-breathe\nLicense code: 5CCCFJOUQ9AMQNV4"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1122827",
+          "likeCount": "39995",
+          "favoriteCount": "0",
+          "commentCount": "223"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "soJKZchIndBBACEEfGj3iGR7TiM",
+        "id": "Cj6ZmsW6j30",
+        "snippet": {
+          "publishedAt": "2025-09-12T22:00:10Z",
+          "channelId": "UCzuqE7-t13O4NIDYJfakrhw",
+          "title": "Mehdi Hasan says political violence is “threat to all of us”",
+          "description": "“None of us should celebrate political violence, because it’s a threat to all of us,” says Mehdi Hasan, editor-in-chief and CEO of Zeteo.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cj6ZmsW6j30/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cj6ZmsW6j30/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cj6ZmsW6j30/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Cj6ZmsW6j30/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Cj6ZmsW6j30/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Democracy Now!",
+          "tags": [
+            "Democracy Now",
+            "Amy Goodman",
+            "News",
+            "Politics",
+            "democracynow",
+            "Independent Media",
+            "Breaking News",
+            "World News"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mehdi Hasan says political violence is “threat to all of us”",
+            "description": "“None of us should celebrate political violence, because it’s a threat to all of us,” says Mehdi Hasan, editor-in-chief and CEO of Zeteo."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1104199",
+          "likeCount": "102792",
+          "favoriteCount": "0",
+          "commentCount": "5868"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aDAMjTqxeXvZe2F67C5Uixv_fRI",
+        "id": "ok2uwOrP6_c",
+        "snippet": {
+          "publishedAt": "2025-09-10T21:13:19Z",
+          "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+          "title": "US right-wing influencer Charlie Kirk shot dead on Utah campus - gunman at large | BBC News",
+          "description": "The US right-wing influencer Charlie Kirk has died after being shot at a university campus speaking event in the state of Utah.  \n\nKirk who was 31, was an influential ally of President Donald Trump and was known for holding open-air debates on campuses across the country.\n\nStudents described how Kirk had taken questions on shooting incidents as well as on religion and LGBT issues before the shooting.  The university says a shot was fired from around 200 meters from where Kirk was speaking.\n\nVideo from the scene shows people rushing to flee after the shooting. A suspect was taken into custody but later released.   It appears that the gunman remains at large.\n\nPresident Trump posted on his Truth Social website:  “ The Great, and even Legendary, Charlie Kirk, is dead.”\n\nReeta Chakrabarti presents BBC News at Ten reporting by Nick Beake. \n\nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#BBCNews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ok2uwOrP6_c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ok2uwOrP6_c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ok2uwOrP6_c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ok2uwOrP6_c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ok2uwOrP6_c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BBC News",
+          "tags": [
+            "bbc",
+            "bbc news",
+            "news",
+            "world news",
+            "breaking news",
+            "us news",
+            "world",
+            "america",
+            "usa",
+            "india news",
+            "Charlie",
+            "Kirk",
+            "dead",
+            "dies",
+            "neck",
+            "shot",
+            "blood",
+            "Utah",
+            "campus",
+            "prove",
+            "me",
+            "wrong",
+            "Trump",
+            "killer",
+            "gunman",
+            "run",
+            "on",
+            "large",
+            "police",
+            "security",
+            "conservative",
+            "culture",
+            "wars",
+            "Bannon",
+            "rifle",
+            "assault",
+            "shooter",
+            "detained",
+            "released",
+            "hospital",
+            "critical",
+            "doctors",
+            "emergency",
+            "crisis",
+            "bullet",
+            "artery",
+            "Erika",
+            "children",
+            "family",
+            "students",
+            "panic",
+            "rush",
+            "flee",
+            "horror",
+            "abortion",
+            "religion",
+            "religious",
+            "Marxism",
+            "right",
+            "extreme",
+            "left",
+            "evangelical",
+            "Fox",
+            "Vance",
+            "Republican",
+            "Democrat",
+            "hunt",
+            "manhunt"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "US right-wing influencer Charlie Kirk shot dead on Utah campus - gunman at large | BBC News",
+            "description": "The US right-wing influencer Charlie Kirk has died after being shot at a university campus speaking event in the state of Utah.  \n\nKirk who was 31, was an influential ally of President Donald Trump and was known for holding open-air debates on campuses across the country.\n\nStudents described how Kirk had taken questions on shooting incidents as well as on religion and LGBT issues before the shooting.  The university says a shot was fired from around 200 meters from where Kirk was speaking.\n\nVideo from the scene shows people rushing to flee after the shooting. A suspect was taken into custody but later released.   It appears that the gunman remains at large.\n\nPresident Trump posted on his Truth Social website:  “ The Great, and even Legendary, Charlie Kirk, is dead.”\n\nReeta Chakrabarti presents BBC News at Ten reporting by Nick Beake. \n\nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#BBCNews"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT4M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "804742",
+          "likeCount": "5648",
+          "favoriteCount": "0",
+          "commentCount": "8856"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CV9VlojT-mDbeZdTJSTMZCZpzwc",
+        "id": "VhpAMWHAA7o",
+        "snippet": {
+          "publishedAt": "2025-09-14T17:38:39Z",
+          "channelId": "UCeb9UoiXmqe8Ku90jmrJrrw",
+          "title": "Elon Musk GOES OFF on People Celebrating Charlie Kirk’s Death 🚨",
+          "description": "Elon Musk calls out people celebrating Charlie Kirk’s death, saying they should be reported, fired, and never trusted again. Powerful words about respect, society, and the truth.\n\n#ElonMusk #CharlieKirk #News #Politics #Shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VhpAMWHAA7o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VhpAMWHAA7o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VhpAMWHAA7o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VhpAMWHAA7o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VhpAMWHAA7o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Trump Train YT",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Elon Musk GOES OFF on People Celebrating Charlie Kirk’s Death 🚨",
+            "description": "Elon Musk calls out people celebrating Charlie Kirk’s death, saying they should be reported, fired, and never trusted again. Powerful words about respect, society, and the truth.\n\n#ElonMusk #CharlieKirk #News #Politics #Shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "417282",
+          "likeCount": "33858",
+          "favoriteCount": "0",
+          "commentCount": "2324"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aaHFDDq67xxhgZHSc1BI91nolEA",
+        "id": "p5O21xMeZmM",
+        "snippet": {
+          "publishedAt": "2025-09-16T13:13:46Z",
+          "channelId": "UClRy15yhufiir6oE5BTXbyw",
+          "title": "From Yoga Mats to Sandwich Bread – The Subway Chemical Story",
+          "description": "Big news in the food industry! Subway, the world’s largest sandwich chain, just announced it’s removing a controversial chemical from its bread recipe. But here’s where it gets shocking…\n\nThe ingredient in question is azodicarbonamide—a substance that helps bread look whiter, puffier, and more appealing. Sounds harmless, right? Well, here’s the kicker: it’s also found in yoga mats and shoe soles. 🧘👟\n\nThis raised eyebrows worldwide because most people never imagined their favorite sandwich bread could share an ingredient with gym equipment and sneakers. While food scientists argue that azodicarbonamide is “generally recognized as safe” in small amounts, consumer advocates pushed back hard.\n\n🍞 Why does it matter?\nThis moment highlights a bigger food debate: What should and shouldn’t be allowed in what we eat? Even if a chemical is considered safe, should it still be in our daily bread if it’s also used in plastics and rubbers? Subway’s decision is part of a growing trend where fast food giants are pressured to make their ingredients cleaner and more transparent.\n\n✨ The takeaway: You can never go wrong eating fresh—but now, Subway has taken one step closer to making that slogan a reality.\n\n#Subway #FoodNews #FoodControversy #HealthyEating #FastFood",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p5O21xMeZmM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p5O21xMeZmM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p5O21xMeZmM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p5O21xMeZmM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p5O21xMeZmM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Healthier Than Yesterday",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "From Yoga Mats to Sandwich Bread – The Subway Chemical Story",
+            "description": "Big news in the food industry! Subway, the world’s largest sandwich chain, just announced it’s removing a controversial chemical from its bread recipe. But here’s where it gets shocking…\n\nThe ingredient in question is azodicarbonamide—a substance that helps bread look whiter, puffier, and more appealing. Sounds harmless, right? Well, here’s the kicker: it’s also found in yoga mats and shoe soles. 🧘👟\n\nThis raised eyebrows worldwide because most people never imagined their favorite sandwich bread could share an ingredient with gym equipment and sneakers. While food scientists argue that azodicarbonamide is “generally recognized as safe” in small amounts, consumer advocates pushed back hard.\n\n🍞 Why does it matter?\nThis moment highlights a bigger food debate: What should and shouldn’t be allowed in what we eat? Even if a chemical is considered safe, should it still be in our daily bread if it’s also used in plastics and rubbers? Subway’s decision is part of a growing trend where fast food giants are pressured to make their ingredients cleaner and more transparent.\n\n✨ The takeaway: You can never go wrong eating fresh—but now, Subway has taken one step closer to making that slogan a reality.\n\n#Subway #FoodNews #FoodControversy #HealthyEating #FastFood"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "464341",
+          "likeCount": "12304",
+          "favoriteCount": "0",
+          "commentCount": "600"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OjHINbKgnCTQyfJSPb0M1XIiHDE",
+        "id": "5W-_YtbPmGA",
+        "snippet": {
+          "publishedAt": "2025-09-16T09:57:39Z",
+          "channelId": "UCMmVPVb0BwSIOWVeDwlPocQ",
+          "title": "RIDICULOUS! Sir Jim's INCREDIBLE Amorim Demand! Man Utd News",
+          "description": "Mark Goldbridge has the latest Man Utd News\n\nJoin in with the biggest Man United fan community in the world. From The US Soccer scene to India, from the Middle East to Canada. Have your say on the latest Man Utd News Now!\n\n0:00 Intro\n2:42 Sir Jim ambition\n12:26 Maguire contract situation\n18:17 Superchats\n22:54 Amorim discussion\n37:17 Man City copied United\n40:11 Superchats\n48:03 Ugarte news\n53:27 Outro\n\n👕 MERCH: https://united-stand.myshopify.com\n\n📲 DISCORD: https://discord.gg/bkK4DUFPkH\n\n✅ MEMBERSHIP: https://buff.ly/2I2Of9R\n\n📧 Contact The United Stand: soccerboxtv@gmail.com\n\n📧 WRITER SUBMISSIONS: unitedstandwebsite@gmail.com\n\n📱SOCIAL ACCOUNTS:\nWEBSITE: https://www.theunitedstand.com\nFACEBOOK: https://www.facebook.com/UnitedStandMUFC/\nX: https://twitter.com/UnitedStandMUFC\nINSTAGRAM: https://www.instagram.com/theunitedstandtv/\n\nThe United Stand is Manchester United's biggest independent fan channel. Made for Manchester United fans by Manchester United fans, the United Stand provides you with the latest Manchester United transfer news, highlights, goal reviews and much more. So if MUFC means the world to you, get involved and subscribe to The United Stand!\n\n#ManUnited #ManchesterUnited #MUFC #football",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5W-_YtbPmGA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5W-_YtbPmGA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5W-_YtbPmGA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5W-_YtbPmGA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5W-_YtbPmGA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The United Stand",
+          "tags": [
+            "Manchester United",
+            "Man United",
+            "Man Utd",
+            "Manchester United TV",
+            "The United Stand",
+            "United Stand",
+            "Manchester United News",
+            "MUFC",
+            "Man Utd News",
+            "United",
+            "Manchester United Transfer News",
+            "Goldbridge",
+            "Live stream",
+            "Manchester United live",
+            "Mark Goldbridge",
+            "Man Utd live stream",
+            "Watchalong",
+            "Live Watchalong",
+            "Amorim",
+            "Man United goals",
+            "Man Utd Live",
+            "Man Utd goals",
+            "Sesko",
+            "Gyokeres",
+            "Man Utd vs Arsenal",
+            "Manchester United Arsenal",
+            "Manchester United vs Arsenal",
+            "AFTV"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "RIDICULOUS! Sir Jim's INCREDIBLE Amorim Demand! Man Utd News",
+            "description": "Mark Goldbridge has the latest Man Utd News\n\nJoin in with the biggest Man United fan community in the world. From The US Soccer scene to India, from the Middle East to Canada. Have your say on the latest Man Utd News Now!\n\n0:00 Intro\n2:42 Sir Jim ambition\n12:26 Maguire contract situation\n18:17 Superchats\n22:54 Amorim discussion\n37:17 Man City copied United\n40:11 Superchats\n48:03 Ugarte news\n53:27 Outro\n\n👕 MERCH: https://united-stand.myshopify.com\n\n📲 DISCORD: https://discord.gg/bkK4DUFPkH\n\n✅ MEMBERSHIP: https://buff.ly/2I2Of9R\n\n📧 Contact The United Stand: soccerboxtv@gmail.com\n\n📧 WRITER SUBMISSIONS: unitedstandwebsite@gmail.com\n\n📱SOCIAL ACCOUNTS:\nWEBSITE: https://www.theunitedstand.com\nFACEBOOK: https://www.facebook.com/UnitedStandMUFC/\nX: https://twitter.com/UnitedStandMUFC\nINSTAGRAM: https://www.instagram.com/theunitedstandtv/\n\nThe United Stand is Manchester United's biggest independent fan channel. Made for Manchester United fans by Manchester United fans, the United Stand provides you with the latest Manchester United transfer news, highlights, goal reviews and much more. So if MUFC means the world to you, get involved and subscribe to The United Stand!\n\n#ManUnited #ManchesterUnited #MUFC #football"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT54M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "246345",
+          "likeCount": "4772",
+          "favoriteCount": "0",
+          "commentCount": "853"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jAo8Hd5PpPhckHf-rqSrU2_CMB8",
+        "id": "thn3j4yTNK4",
+        "snippet": {
+          "publishedAt": "2025-09-15T16:09:40Z",
+          "channelId": "UCl791j-PxhtLRyRUi2aP9jQ",
+          "title": "Muslim attacked for defending mother",
+          "description": "FOLLOW 5PILLARS ON: \n\nWebsite: https://5pillarsuk.com\nYouTube: https://youtube.com/@5Pillars\nFacebook: https://www.facebook.com/5pillarsuk\nInstagram: https://www.instagram.com/5pillarsnews\nTwitter: https://x.com/5Pillarsuk\nTelegram: https://t.me/s/news5Pillars\nTikTok: https://www.tiktok.com/@5pillarsnews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/thn3j4yTNK4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/thn3j4yTNK4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/thn3j4yTNK4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/thn3j4yTNK4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/thn3j4yTNK4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "5Pillars",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Muslim attacked for defending mother",
+            "description": "FOLLOW 5PILLARS ON: \n\nWebsite: https://5pillarsuk.com\nYouTube: https://youtube.com/@5Pillars\nFacebook: https://www.facebook.com/5pillarsuk\nInstagram: https://www.instagram.com/5pillarsnews\nTwitter: https://x.com/5Pillarsuk\nTelegram: https://t.me/s/news5Pillars\nTikTok: https://www.tiktok.com/@5pillarsnews"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "IN"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "63204",
+          "likeCount": "3089",
+          "favoriteCount": "0",
+          "commentCount": "669"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zq5PnxEAEevtg11gddEMDXCOCTw",
+        "id": "jeVeEJghjwU",
+        "snippet": {
+          "publishedAt": "2025-09-09T21:36:35Z",
+          "channelId": "UCfaIu2jO-fppCQV_lchCRIQ",
+          "title": "enough is enough",
+          "description": "Buy Bitcoin, Ethereum, or Bitcoin Cash quickly and easily using your credit card, bank account, or payment app. https://buy.bitcoin.com/charlie/\n\n\n\n\nFor daily episodes, insight, and analysis like this, SUBSCRIBE to The Charlie Kirk Show TODAY: https://apple.co/2VCxGsh\n\nAnd for EVEN MORE—tune in to The Charlie Kirk Show LIVE on Salem Radio Network affiliates across the country, 5 days a week from 12—3PM ET\n\nFor members-only content, exclusive interviews, my column, supporter zoom calls, and MORE, become a member at members.charliekirk.com today!\n\n🇺🇸\n\n#CharlieKirk #TPUSA #News #Politics #Debate #College #Liberal #Conservative",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jeVeEJghjwU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jeVeEJghjwU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jeVeEJghjwU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jeVeEJghjwU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jeVeEJghjwU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Charlie Kirk",
+          "tags": [
+            "charlie kirk"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "enough is enough",
+            "description": "Buy Bitcoin, Ethereum, or Bitcoin Cash quickly and easily using your credit card, bank account, or payment app. https://buy.bitcoin.com/charlie/\n\n\n\n\nFor daily episodes, insight, and analysis like this, SUBSCRIBE to The Charlie Kirk Show TODAY: https://apple.co/2VCxGsh\n\nAnd for EVEN MORE—tune in to The Charlie Kirk Show LIVE on Salem Radio Network affiliates across the country, 5 days a week from 12—3PM ET\n\nFor members-only content, exclusive interviews, my column, supporter zoom calls, and MORE, become a member at members.charliekirk.com today!\n\n🇺🇸\n\n#CharlieKirk #TPUSA #News #Politics #Debate #College #Liberal #Conservative"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT2M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4804916",
+          "likeCount": "232298",
+          "favoriteCount": "0",
+          "commentCount": "29308"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5DUp5FZxAAByaVmSOhmKrygyGRE",
+        "id": "l6Rsi6vrxqc",
+        "snippet": {
+          "publishedAt": "2025-09-16T19:55:01Z",
+          "channelId": "UCswH8ovgUp5Bdg-0_JTYFNw",
+          "title": "No One Expected This...",
+          "description": "Download the Allio App from the App Store / Google Play, or text “RUSSELL” to 511511. Investing involves risks. Including the potential loss of principal. Past performance does not guarantee results. See terms and conditions. \n\nTens of thousands filled central London under the banner of “Unite the Kingdom,” waving flags, chanting “Christ is King,” and listening as Elon Musk addressed the crowd by video link alongside Tommy Robinson. The media framed it as extremism, but when ordinary people from pubs and football terraces gather in such numbers, what does it say about the legitimacy of the establishment? At a time when faith in politics has collapsed, new power is rising from unexpected places — tech billionaires, jailed activists, online movements — and Christianity itself re-emerges at the heart of rebellion. Is this chaos, or the first glimpse of a deeper transformation?\n[UNPACKED]\n\nGo to http://rumble.com/premium/brand and use code BRAND to save $10 on your annual subscription\n\nWATCH me LIVE Monday - Thursday on Rumble: https://bit.ly/russellbrand-rumble\n\nAll links: https://linktr.ee/RussellBrand",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l6Rsi6vrxqc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l6Rsi6vrxqc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l6Rsi6vrxqc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l6Rsi6vrxqc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l6Rsi6vrxqc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Russell Brand",
+          "tags": [
+            "Russell Brand",
+            "Brand Russell",
+            "Russell Brand video",
+            "Russell Brand news",
+            "Russell Brand politics",
+            "News",
+            "Brand",
+            "politics",
+            "Russell",
+            "Russel",
+            "Russel Brand",
+            "Stay Free",
+            "Stay Free Podcast",
+            "News analysis",
+            "stay free",
+            "stay free show",
+            "russell brand podcast",
+            "russell brand show",
+            "stay free russell brand",
+            "russell brand rumble",
+            "stay free rumble",
+            "russell brand youtube",
+            "break bread",
+            "russell brand break bread",
+            "russell brand christianity",
+            "russell brand comedy",
+            "russell brand",
+            "russell brand tucker"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "No One Expected This...",
+            "description": "Download the Allio App from the App Store / Google Play, or text “RUSSELL” to 511511. Investing involves risks. Including the potential loss of principal. Past performance does not guarantee results. See terms and conditions. \n\nTens of thousands filled central London under the banner of “Unite the Kingdom,” waving flags, chanting “Christ is King,” and listening as Elon Musk addressed the crowd by video link alongside Tommy Robinson. The media framed it as extremism, but when ordinary people from pubs and football terraces gather in such numbers, what does it say about the legitimacy of the establishment? At a time when faith in politics has collapsed, new power is rising from unexpected places — tech billionaires, jailed activists, online movements — and Christianity itself re-emerges at the heart of rebellion. Is this chaos, or the first glimpse of a deeper transformation?\n[UNPACKED]\n\nGo to http://rumble.com/premium/brand and use code BRAND to save $10 on your annual subscription\n\nWATCH me LIVE Monday - Thursday on Rumble: https://bit.ly/russellbrand-rumble\n\nAll links: https://linktr.ee/RussellBrand"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT23M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "265871",
+          "likeCount": "12957",
+          "favoriteCount": "0",
+          "commentCount": "2305"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KuU0qQRSxw2hrvLAFIE7LdM61Ps",
+        "id": "Fh17sJCNWig",
+        "snippet": {
+          "publishedAt": "2025-09-13T13:00:34Z",
+          "channelId": "UCIHdDJ0tjn_3j-FS7s_X1kQ",
+          "title": "“Celebrating Charlie Kirk’s Death” - TMZ BUSTED As Fake Car Chase Excuse DOESN’T Add Up",
+          "description": "Patrick Bet-David breaks down TMZ’s response after employees were caught laughing during the announcement of Charlie Kirk’s assassination. Did Harvey Levin cover it up? Pat calls out TMZ’s credibility and compares their handling to MSNBC’s firing of hateful voices.\n------\n▶️ WATCH FULL EPISODE: https://www.youtube.com/watch?v=QcT-fQ0cueA\n\n🇺🇸 ANGRY PATRIOT COLLECTION: ⁠https://bit.ly/3PTi0eO⁠\n\n🍋 ZEST IT FORWARD: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4kJ71lc⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ \n\n📕 PBD'S BOOK \"THE ACADEMY\": ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/41rtEV4⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎙️ FOLLOW THE PODCAST ON SPOTIFY: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4g57zR2⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎙️ FOLLOW THE PODCAST ON ITUNES: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4g1bXAh⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎙️ FOLLOW THE PODCAST ON ALL PLATFORMS: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4eXQl6A⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n📱 CONNECT ON MINNECT: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4ikyEkC⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n👔 BET-DAVID CONSULTING: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/3ZjWhB7⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n📰 VTNEWS.AI: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/3OExClZ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎓 VALUETAINMENT UNIVERSITY: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/3BfA5Qw⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n📺 JOIN THE CHANNEL: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4g5C6Or⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n💬 TEXT US: Text “PODCAST” to 310-340-1132 to get the latest updates in real-time!\n\n\nABOUT US:\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal Bestseller “Your Next Five Moves” (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fh17sJCNWig/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fh17sJCNWig/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fh17sJCNWig/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fh17sJCNWig/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fh17sJCNWig/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Valuetainment",
+          "tags": [
+            "Entrepreneur",
+            "Entrepreneurs",
+            "Entrepreneurship",
+            "Entrepreneur Motivation",
+            "valuetainment",
+            "patrick bet david",
+            "Valuetainment Media",
+            "Patrick Bet-David Valuetainment",
+            "pbd podcast",
+            "economy",
+            "money",
+            "news",
+            "politics",
+            "PBD Podcast",
+            "Patrick BetDavid",
+            "TMZ",
+            "Harvey Levin",
+            "Charlie Kirk",
+            "TMZ employees",
+            "Kirk assassination",
+            "Pat calls out",
+            "fake apology",
+            "media bias",
+            "TMZ credibility",
+            "car chase cover",
+            "angry patriot",
+            "free speech",
+            "mainstream media",
+            "MSNBC",
+            "media hypocrisy",
+            "TMZ exposed"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "“Celebrating Charlie Kirk’s Death” - TMZ BUSTED As Fake Car Chase Excuse DOESN’T Add Up",
+            "description": "Patrick Bet-David breaks down TMZ’s response after employees were caught laughing during the announcement of Charlie Kirk’s assassination. Did Harvey Levin cover it up? Pat calls out TMZ’s credibility and compares their handling to MSNBC’s firing of hateful voices.\n------\n▶️ WATCH FULL EPISODE: https://www.youtube.com/watch?v=QcT-fQ0cueA\n\n🇺🇸 ANGRY PATRIOT COLLECTION: ⁠https://bit.ly/3PTi0eO⁠\n\n🍋 ZEST IT FORWARD: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4kJ71lc⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ \n\n📕 PBD'S BOOK \"THE ACADEMY\": ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/41rtEV4⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎙️ FOLLOW THE PODCAST ON SPOTIFY: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4g57zR2⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎙️ FOLLOW THE PODCAST ON ITUNES: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4g1bXAh⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎙️ FOLLOW THE PODCAST ON ALL PLATFORMS: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4eXQl6A⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n📱 CONNECT ON MINNECT: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4ikyEkC⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n👔 BET-DAVID CONSULTING: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/3ZjWhB7⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n📰 VTNEWS.AI: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/3OExClZ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n🎓 VALUETAINMENT UNIVERSITY: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/3BfA5Qw⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n📺 JOIN THE CHANNEL: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠https://bit.ly/4g5C6Or⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\n💬 TEXT US: Text “PODCAST” to 310-340-1132 to get the latest updates in real-time!\n\n\nABOUT US:\nPatrick Bet-David is the founder and CEO of Valuetainment Media. He is the author of the #1 Wall Street Journal Bestseller “Your Next Five Moves” (Simon & Schuster) and a father of 2 boys and 2 girls. He currently resides in Ft. Lauderdale, Florida."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT11M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2858244",
+          "likeCount": "88812",
+          "favoriteCount": "0",
+          "commentCount": "24816"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "llV3CGCR0f1lmNFMUGZI14hSH24",
+        "id": "7-dHPfp-u5g",
+        "snippet": {
+          "publishedAt": "2025-09-06T10:21:05Z",
+          "channelId": "UCnGCQQO4ZYWBjQ0cw4AP8nA",
+          "title": "LUNCH LADY FIRED AFTER 14 YEARS FOR FEEDING CHILD WITH NO MONEY. #news #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7-dHPfp-u5g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7-dHPfp-u5g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7-dHPfp-u5g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7-dHPfp-u5g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7-dHPfp-u5g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "UNRELLESD TRACK NONSTOP ",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "LUNCH LADY FIRED AFTER 14 YEARS FOR FEEDING CHILD WITH NO MONEY. #news #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4457020",
+          "likeCount": "276294",
+          "favoriteCount": "0",
+          "commentCount": "29130"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "i-J3vLxfZS9q5fFYD2samt7YiwY",
+        "id": "nxvBR9nO3qQ",
+        "snippet": {
+          "publishedAt": "2025-09-09T20:17:44Z",
+          "channelId": "UCGttrUON87gWfU6dMWm1fcA",
+          "title": "Tucker Carlson Destroys Mark Cuban on Ukraine Spending",
+          "description": "Corporate media is dead. Join us: bit.ly/49wv3dU\n\nText “TUCKER” to 44055 for exclusive updates.\n\n#politics #tuckercarlson #interview #conservative #trump #donaldtrump #election #ukraine #markcuban",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nxvBR9nO3qQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nxvBR9nO3qQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nxvBR9nO3qQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nxvBR9nO3qQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nxvBR9nO3qQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tucker Carlson",
+          "tags": [
+            "tucker carlson",
+            "tucker carlson tonight",
+            "mark cuban",
+            "tucker carlson mark cuban",
+            "tucker carlson monologue",
+            "tucker mark cuban",
+            "tucker carlson fox news",
+            "mark cuban tucker carlson",
+            "mark cuban vs. tucker carlson",
+            "mark cuban and tucker carlson",
+            "tucker carlson vs. mark cuban",
+            "tucker carlson and mark cuban",
+            "tucker carlson monologue tonight",
+            "tucker",
+            "carlson",
+            "mark cuban interview",
+            "tucker carlson debate",
+            "tucker carlson show",
+            "tucker carlson live",
+            "nba tucker carlson dispute"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tucker Carlson Destroys Mark Cuban on Ukraine Spending",
+            "description": "Corporate media is dead. Join us: bit.ly/49wv3dU\n\nText “TUCKER” to 44055 for exclusive updates.\n\n#politics #tuckercarlson #interview #conservative #trump #donaldtrump #election #ukraine #markcuban"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1649202",
+          "likeCount": "84553",
+          "favoriteCount": "0",
+          "commentCount": "4137"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ih9ocKnuJO6ucQ7eiaaXDRvE9rY",
+        "id": "ZQiFPF0hMHM",
+        "snippet": {
+          "publishedAt": "2025-09-14T11:46:47Z",
+          "channelId": "UCeccrNGLzk6d0M_vaomD3LQ",
+          "title": "FBI director says \"See you in Valhala\"",
+          "description": "#funny #news #politics",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZQiFPF0hMHM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZQiFPF0hMHM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZQiFPF0hMHM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZQiFPF0hMHM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZQiFPF0hMHM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Smile 2 Jannah",
+          "tags": [
+            "truth",
+            "halal",
+            "reminder",
+            "daily show",
+            "smile to jannah"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "FBI director says \"See you in Valhala\"",
+            "description": "#funny #news #politics"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "IN"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "158527",
+          "likeCount": "10099",
+          "favoriteCount": "0",
+          "commentCount": "898"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TfMjHkP0wKrW3z8ml8HnQZ-ZC3M",
+        "id": "Q3qX2bTm5Mg",
+        "snippet": {
+          "publishedAt": "2025-09-11T21:56:32Z",
+          "channelId": "UC415bOPUcGSamy543abLmRA",
+          "title": "New Sign of Life On Mars (Really)",
+          "description": "Breaking news! This image could show life on Mars…. \n\nIt was taken by the Perseverance rover in a place that was likely filled with water but dried up over time. The rover took a sample of the rock and here’s what it found… \n\nTo find out what happens next, subscribe!  \n\n#shorts #mars #science #space #NASA",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q3qX2bTm5Mg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q3qX2bTm5Mg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q3qX2bTm5Mg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Q3qX2bTm5Mg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Q3qX2bTm5Mg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cleo Abram",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New Sign of Life On Mars (Really)",
+            "description": "Breaking news! This image could show life on Mars…. \n\nIt was taken by the Perseverance rover in a place that was likely filled with water but dried up over time. The rover took a sample of the rock and here’s what it found… \n\nTo find out what happens next, subscribe!  \n\n#shorts #mars #science #space #NASA"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2097758",
+          "likeCount": "179002",
+          "favoriteCount": "0",
+          "commentCount": "2499"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pNq5c_Z-pe5MU4ufYNhCSeetN88",
+        "id": "nMyyVaiY4V8",
+        "snippet": {
+          "publishedAt": "2025-09-16T08:33:05Z",
+          "channelId": "UCHpw8xwDNhU9gdohEcJu4aA",
+          "title": "'Our Genocide': How do Israelis feel about the war in Gaza? | On the Ground",
+          "description": "Tel Aviv is known as Israel’s liberal capital; home to nearly half a million residents it’s also a holiday destination, with beaches, bars and nightclubs. But almost exactly 60km south is Gaza. Reporter Matthew Cassel speaks to Israelis in the city, to see what they think of the war, famine and genocide happening next door, and the growing international condemnation against it\nSubscribe to The Guardian on YouTube ► http://bit.ly/subscribegdn\n\nChapters:\n00:00 – A bustling Tel Aviv beach just 60km away from Gaza. \n01:53 – 'Our Genocide' - B'tselem rights group on the war in Gaza\n04:10 – 'Gazawood' and 'no innocents': what do everyday Israelis think about Gaza? \n08:20 – 'We care more about Israelis, it's normal' – a protest in Tel Aviv\n11:45 – Locals are warned not to speak to the Guardian\n13:30 – An IDF soldier who was in Gaza two days ago\n14:12 – 'The international community has enabled this' \n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://bit.ly/3biVfwh\n\nSign up to the Guardian's free new daily newsletter, First Edition ► http://theguardian.com/first-edition\n\nWebsite ► https://www.theguardian.com\nFacebook ► https://www.facebook.com/theguardian\nBluesky ► https://bsky.app/profile/theguardian.com\nInstagram ► https://www.instagram.com/guardian\n\nThe Guardian on YouTube: \nGuardian News ► https://bit.ly/guardiannewssubs\nGuardian Australia ► https://bit.ly/guardianaussubs\nGuardian Football ► https://bit.ly/gdnfootballsubs\nGuardian Sport ► https://bit.ly/gdnsportsubs\nIt's Complicated ► https://bit.ly/ItsComplicatedSubs\nGuardian Live ► https://bit.ly/guardianlivesubs\n\n#israel #gaza #gazagenocide #telaviv #palestine #middleeast #idf #benjaminnetanyahu #gazawar",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nMyyVaiY4V8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nMyyVaiY4V8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nMyyVaiY4V8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nMyyVaiY4V8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nMyyVaiY4V8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Guardian",
+          "tags": [
+            "2025",
+            "b'tselem",
+            "benjamin netanyahu",
+            "ethnic cleansing",
+            "gaza",
+            "gaza aid",
+            "gaza aid crisis",
+            "gaza famine",
+            "gaza food shortages",
+            "gaza genocide",
+            "gaza starvation",
+            "gaza war",
+            "gaza war crimes",
+            "gazawood",
+            "genocide",
+            "guardian",
+            "hamas",
+            "hamas hostages",
+            "idf",
+            "israel",
+            "israel gaza genocide",
+            "israel protest",
+            "israeli genocide",
+            "israeli hostages",
+            "israelis on gaza",
+            "matthew cassel",
+            "october 7",
+            "palestine",
+            "shin bet",
+            "tel aviv",
+            "war crimes",
+            "israel news",
+            "gaza news",
+            "genocide in gaza",
+            "gaza protest",
+            "antiwar israelis",
+            "un"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "'Our Genocide': How do Israelis feel about the war in Gaza? | On the Ground",
+            "description": "Tel Aviv is known as Israel’s liberal capital; home to nearly half a million residents it’s also a holiday destination, with beaches, bars and nightclubs. But almost exactly 60km south is Gaza. Reporter Matthew Cassel speaks to Israelis in the city, to see what they think of the war, famine and genocide happening next door, and the growing international condemnation against it\nSubscribe to The Guardian on YouTube ► http://bit.ly/subscribegdn\n\nChapters:\n00:00 – A bustling Tel Aviv beach just 60km away from Gaza. \n01:53 – 'Our Genocide' - B'tselem rights group on the war in Gaza\n04:10 – 'Gazawood' and 'no innocents': what do everyday Israelis think about Gaza? \n08:20 – 'We care more about Israelis, it's normal' – a protest in Tel Aviv\n11:45 – Locals are warned not to speak to the Guardian\n13:30 – An IDF soldier who was in Gaza two days ago\n14:12 – 'The international community has enabled this' \n\nThe Guardian publishes independent journalism, made possible by supporters. Contribute to The Guardian today ► https://bit.ly/3biVfwh\n\nSign up to the Guardian's free new daily newsletter, First Edition ► http://theguardian.com/first-edition\n\nWebsite ► https://www.theguardian.com\nFacebook ► https://www.facebook.com/theguardian\nBluesky ► https://bsky.app/profile/theguardian.com\nInstagram ► https://www.instagram.com/guardian\n\nThe Guardian on YouTube: \nGuardian News ► https://bit.ly/guardiannewssubs\nGuardian Australia ► https://bit.ly/guardianaussubs\nGuardian Football ► https://bit.ly/gdnfootballsubs\nGuardian Sport ► https://bit.ly/gdnsportsubs\nIt's Complicated ► https://bit.ly/ItsComplicatedSubs\nGuardian Live ► https://bit.ly/guardianlivesubs\n\n#israel #gaza #gazagenocide #telaviv #palestine #middleeast #idf #benjaminnetanyahu #gazawar"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15M34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "546252",
+          "likeCount": "19687",
+          "favoriteCount": "0",
+          "commentCount": "4525"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "F0Q4GGZfvOGDmX1ld3HDqNbis1Y",
+        "id": "4RgeuK7QAsA",
+        "snippet": {
+          "publishedAt": "2025-09-10T18:15:00Z",
+          "channelId": "UCrlIS7z20CnVaCrMvdkig_g",
+          "title": "Reporter N.J. Burkett and his photographer escaped Twin Towers collapse",
+          "description": "Eyewitness News reporter N.J. Burkett and photographer Marty Glembotzky rushed down to the World Trade Center on September 11, 2001.\n\nWhile shooting a standup right below the burning towers, the first tower began to collapse.\n\nWatch their powerful story of survival on that horrible day: https://7ny.tv/46isn3K\n\nCheck out more Eyewitness News - http://abc7ny.com/ \n\nFind us on social media:\nFACEBOOK: https://www.facebook.com/ABC7NY/ \nINSTAGRAM: https://www.instagram.com/abc7ny/ \nTWITTER: https://twitter.com/abc7ny \nTIKTOK: https://www.tiktok.com/@abc7ny \n\nWe’re abc7NY, also known as Channel 7 and WABC-TV on TV, home to Eyewitness News, New York’s Number 1 news.   We hope you love us on YouTube as much as you do on television! \n\nNEW TIPS: \nOnline: http://abc7ny.com/submit-a-news-tip/2599968/ \nEmail: abc7ny@abc.com \n\nAbout WABC-TV:  https://abc7ny.com/about/\n\n#nyc #news #breakingnews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4RgeuK7QAsA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4RgeuK7QAsA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4RgeuK7QAsA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4RgeuK7QAsA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4RgeuK7QAsA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Eyewitness News ABC7NY",
+          "tags": [
+            "abc7ny",
+            "wabc-tv",
+            "eyewitness news",
+            "7online",
+            "wabc eyewitness news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Reporter N.J. Burkett and his photographer escaped Twin Towers collapse",
+            "description": "Eyewitness News reporter N.J. Burkett and photographer Marty Glembotzky rushed down to the World Trade Center on September 11, 2001.\n\nWhile shooting a standup right below the burning towers, the first tower began to collapse.\n\nWatch their powerful story of survival on that horrible day: https://7ny.tv/46isn3K\n\nCheck out more Eyewitness News - http://abc7ny.com/ \n\nFind us on social media:\nFACEBOOK: https://www.facebook.com/ABC7NY/ \nINSTAGRAM: https://www.instagram.com/abc7ny/ \nTWITTER: https://twitter.com/abc7ny \nTIKTOK: https://www.tiktok.com/@abc7ny \n\nWe’re abc7NY, also known as Channel 7 and WABC-TV on TV, home to Eyewitness News, New York’s Number 1 news.   We hope you love us on YouTube as much as you do on television! \n\nNEW TIPS: \nOnline: http://abc7ny.com/submit-a-news-tip/2599968/ \nEmail: abc7ny@abc.com \n\nAbout WABC-TV:  https://abc7ny.com/about/\n\n#nyc #news #breakingnews"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "777903",
+          "likeCount": "29343",
+          "favoriteCount": "0",
+          "commentCount": "2498"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8255YRHtevTzQroUA27NEZ-8aFI",
+        "id": "vcQvQBf9wyc",
+        "snippet": {
+          "publishedAt": "2025-09-15T09:30:35Z",
+          "channelId": "UCMzLRb7C2AmASeqBDaSrMiA",
+          "title": "Good Morning Britain SMEARS Tommy Robinson March as ‘Racist’ ",
+          "description": "Like & Subscribe for more UK content!\n\nT-Shirts: https://britishstand.com/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vcQvQBf9wyc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vcQvQBf9wyc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vcQvQBf9wyc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vcQvQBf9wyc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vcQvQBf9wyc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "British Stand",
+          "tags": [
+            "uk politics",
+            "tommy robinson",
+            "keir starmer",
+            "uk reform",
+            "reform",
+            "british politics",
+            "britian"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Good Morning Britain SMEARS Tommy Robinson March as ‘Racist’ ",
+            "description": "Like & Subscribe for more UK content!\n\nT-Shirts: https://britishstand.com/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "227869",
+          "likeCount": "10395",
+          "favoriteCount": "0",
+          "commentCount": "6728"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Vq-RKQarHarV5t03qcXXd4pyZBg",
+        "id": "zCDXXQa1xzs",
+        "snippet": {
+          "publishedAt": "2025-09-13T19:36:30Z",
+          "channelId": "UCIzXayRP7-P0ANpq-nD-h5g",
+          "title": "Protesters assault cops with missiles during Tommy Robinson's 'Unite the Kingdom' march in London",
+          "description": "ELON Musk has addressed protesters at a rally organised by Tommy Robinson - as 110,000 protesters descend on the capital.\n\nThe eccentric billionaire spoke alongside the far right activist as cops faced \"significant aggression\" from crowds in Whitehall, central London.\n\nRead more: https://www.thesun.co.uk/news/36689109/tommy-robinson-leads-far-right-march-met-london/\n\nThe Sun brings you breaking news and in-depth analysis on the stories that matter most. From the ongoing war in Ukraine to conflicts in the Middle East and US and UK politics, we post updates as they happen. Expect the latest on major global events, pressing political debates, celebrity updates and exclusive royal family content, along with in-depth investigations and expert commentary. Get comprehensive coverage of Donald Trump's Presidency, Vladimir Putin's actions, and the unfolding drama of the British Royal Family. \n\nSubscribe now for daily updates and exclusive content from The Sun.\nhttps://www.youtube.com/c/thesun?sub_confirmation=1\n\nRead The Sun: https://bit.ly/3Tay1OY\nLike The Sun on Facebook: https://www.facebook.com/thesun/\nFollow The Sun on TikTok: https://www.tiktok.com/@thesun\nSubscribe to The Sun on Snapchat: https://www.snapchat.com/discover/The_Sun/1633225139\n\n#london #rally #charliekirk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zCDXXQa1xzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zCDXXQa1xzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zCDXXQa1xzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zCDXXQa1xzs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zCDXXQa1xzs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Sun",
+          "tags": [
+            "The Sun",
+            "news",
+            "breaking news",
+            "latest news",
+            "world news",
+            "politics",
+            "global events",
+            "current events",
+            "the sun newspaper",
+            "News Today",
+            "News Today UK",
+            "News UK",
+            "UK News",
+            "US News",
+            "Politics",
+            "World News",
+            "Daily News",
+            "the sun news",
+            "news today",
+            "UK politics",
+            "Tommy Robinson news",
+            "Tommy Robinson rally",
+            "Tommy Robinson latest",
+            "Unite the Kingdom",
+            "London rally",
+            "immigration rally",
+            "charlie kirk rally",
+            "unite the kingdom rally",
+            "tommy robinson rally today"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Protesters assault cops with missiles during Tommy Robinson's 'Unite the Kingdom' march in London",
+            "description": "ELON Musk has addressed protesters at a rally organised by Tommy Robinson - as 110,000 protesters descend on the capital.\n\nThe eccentric billionaire spoke alongside the far right activist as cops faced \"significant aggression\" from crowds in Whitehall, central London.\n\nRead more: https://www.thesun.co.uk/news/36689109/tommy-robinson-leads-far-right-march-met-london/\n\nThe Sun brings you breaking news and in-depth analysis on the stories that matter most. From the ongoing war in Ukraine to conflicts in the Middle East and US and UK politics, we post updates as they happen. Expect the latest on major global events, pressing political debates, celebrity updates and exclusive royal family content, along with in-depth investigations and expert commentary. Get comprehensive coverage of Donald Trump's Presidency, Vladimir Putin's actions, and the unfolding drama of the British Royal Family. \n\nSubscribe now for daily updates and exclusive content from The Sun.\nhttps://www.youtube.com/c/thesun?sub_confirmation=1\n\nRead The Sun: https://bit.ly/3Tay1OY\nLike The Sun on Facebook: https://www.facebook.com/thesun/\nFollow The Sun on TikTok: https://www.tiktok.com/@thesun\nSubscribe to The Sun on Snapchat: https://www.snapchat.com/discover/The_Sun/1633225139\n\n#london #rally #charliekirk"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT2M15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "305183",
+          "likeCount": "977",
+          "favoriteCount": "0",
+          "commentCount": "4141"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "r4eIvbPk6--QLcGqQelWgz2Xei8",
+        "id": "VRrdCtM229g",
+        "snippet": {
+          "publishedAt": "2025-09-12T18:02:31Z",
+          "channelId": "UCwWhs_6x42TyRM4Wstoq8HA",
+          "title": "Nancy Mace was NOT prepared to go toe-to-toe with a journalist over her Charlie Kirk comments",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VRrdCtM229g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VRrdCtM229g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VRrdCtM229g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VRrdCtM229g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VRrdCtM229g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Daily Show",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Nancy Mace was NOT prepared to go toe-to-toe with a journalist over her Charlie Kirk comments",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1321421",
+          "likeCount": "92210",
+          "favoriteCount": "0",
+          "commentCount": "3247"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pP5clrecCn8oD6ejH8WvR2TII6M",
+        "id": "RJaC6-aPg0U",
+        "snippet": {
+          "publishedAt": "2025-09-11T15:10:52Z",
+          "channelId": "UCBNLxgS02jhM0Et7cM3oB-w",
+          "title": "Starmer is the problem, not Mandelson",
+          "description": "The grubby saga of Epstein and the former Ambassador to the US highlights once again the poor judgement of the Prime Minister. Can he survive weekly disasters?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RJaC6-aPg0U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RJaC6-aPg0U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RJaC6-aPg0U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RJaC6-aPg0U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RJaC6-aPg0U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jacob Rees-Mogg",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Starmer is the problem, not Mandelson",
+            "description": "The grubby saga of Epstein and the former Ambassador to the US highlights once again the poor judgement of the Prime Minister. Can he survive weekly disasters?"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "195489",
+          "likeCount": "10567",
+          "favoriteCount": "0",
+          "commentCount": "2506"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ayzfWbdlLyFExcsZRmCVBq8u66M",
+        "id": "c0qSTG6TtPM",
+        "snippet": {
+          "publishedAt": "2025-09-14T06:00:28Z",
+          "channelId": "UChRkJfTYiKdlvkbAs00cU2Q",
+          "title": "Tommy Robinson Just Made a New Announcement After Unite The Kingdom Protest!",
+          "description": "Tommy Robinson Just Made a New Announcement After Unite The Kingdom Protest!\nThanks for watching! Don’t forget to join our free Telegram group linked in the description, where we can have open discussions on important topics like this and support one another. Be sure to like, subscribe, and consider joining as a channel member for exclusive content. Catch you in the next video!\n\n#tommyrobinson #keirstarmer #labourparty \n𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎: https://t.me/makebritaingreatagain35",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c0qSTG6TtPM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c0qSTG6TtPM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c0qSTG6TtPM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c0qSTG6TtPM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c0qSTG6TtPM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Daily NEWS",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Tommy Robinson Just Made a New Announcement After Unite The Kingdom Protest!",
+            "description": "Tommy Robinson Just Made a New Announcement After Unite The Kingdom Protest!\nThanks for watching! Don’t forget to join our free Telegram group linked in the description, where we can have open discussions on important topics like this and support one another. Be sure to like, subscribe, and consider joining as a channel member for exclusive content. Catch you in the next video!\n\n#tommyrobinson #keirstarmer #labourparty \n𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎: https://t.me/makebritaingreatagain35"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT8M10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "156014",
+          "likeCount": "10033",
+          "favoriteCount": "0",
+          "commentCount": "2518"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xsUY5fhYpifuaP3Lk6umFrlQb-g",
+        "id": "ZlhtzdC9468",
+        "snippet": {
+          "publishedAt": "2025-09-14T12:55:17Z",
+          "channelId": "UCrmxzSIf7J66qvlOAT9AlZQ",
+          "title": "Real Stories, REAL Problems",
+          "description": "Keir Starmer under pressure to resign re Mandelson scandal\nPlus real stories about how the system is broken\n\nI was sued:\nhttps://youtu.be/zWueA8na5Qo\nhttps://youtu.be/X4OYe1Bwzh0\n\n\nFree £50: https://share.octopus.energy/happy-human-326\nDiscounts, bonuses, and more:\nhttps://linktr.ee/blackbeltbarrister\n\n4 months free for NordVPN: https://nordvpn.com/bbb\nDiscount for Incogni: https://incogni.com/blackbelt\n\nBecome a Channel member: https://www.youtube.com/channel/UCrmxzSIf7J66qvlOAT9AlZQ/join\n\nIMPORTANT DISCLAIMER:\nI'm a Barrister of England and Wales.\nVideos for educational guidance only, Always seek advice before taking action. Videos on my channel are not legal advice and should not be taken as such. I accept no liability for any reliance placed upon the content of these videos or references, therein. Description may contain affiliate or sponsored links, for which we may receive commissions or payment.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZlhtzdC9468/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZlhtzdC9468/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZlhtzdC9468/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZlhtzdC9468/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZlhtzdC9468/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BlackBeltBarrister",
+          "tags": [
+            "#BlackBeltBarrister",
+            "barrister",
+            "lawyer",
+            "free legal advice",
+            "free legal guidance"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Real Stories, REAL Problems",
+            "description": "Keir Starmer under pressure to resign re Mandelson scandal\nPlus real stories about how the system is broken\n\nI was sued:\nhttps://youtu.be/zWueA8na5Qo\nhttps://youtu.be/X4OYe1Bwzh0\n\n\nFree £50: https://share.octopus.energy/happy-human-326\nDiscounts, bonuses, and more:\nhttps://linktr.ee/blackbeltbarrister\n\n4 months free for NordVPN: https://nordvpn.com/bbb\nDiscount for Incogni: https://incogni.com/blackbelt\n\nBecome a Channel member: https://www.youtube.com/channel/UCrmxzSIf7J66qvlOAT9AlZQ/join\n\nIMPORTANT DISCLAIMER:\nI'm a Barrister of England and Wales.\nVideos for educational guidance only, Always seek advice before taking action. Videos on my channel are not legal advice and should not be taken as such. I accept no liability for any reliance placed upon the content of these videos or references, therein. Description may contain affiliate or sponsored links, for which we may receive commissions or payment."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15M28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "187817",
+          "likeCount": "13749",
+          "favoriteCount": "0",
+          "commentCount": "1915"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0ln7O89LQ2N405HOJO12qMGW0BI",
+        "id": "CXsxh2S3PXA",
+        "snippet": {
+          "publishedAt": "2025-09-15T12:00:21Z",
+          "channelId": "UCcw05gGzjLIs5dnxGkQHMvw",
+          "title": "Is it time for Ruben Amorim to ditch Manchester United’s 3-4-3 formation? | #SkySportsFC",
+          "description": "► Subscribe to Sky Sports News: http://bit.ly/SkySportsNewsSub\n► Watch Sky Sports: https://bit.ly/BuySkySports\n\nCharlie Austin and Flex discuss Manchester United's 3-0 loss to Manchester City on Sunday and debate whether it is time for Ruben Amorim to ditch his managerial philosophy. \n\n#SkySportsNews #SkySports #premierleague \n\n00:00 - Manchester United lose 3-0 to Man City\n00:10 - Ruben won't change philosophy\n00:58 - Should Ruben change his approach?\n01:43 - Flex joins the conversation\n06:10 - Who should the two in midfield?\n09:50 - Man Utd fan voice note on midfield\n12:55 - Do United have the wrong manager?\n15:48 - If Amorim were to leave, who would you want?\n\n► For the latest developments on this story: https://qrcode.skysports.com/skysports/topstories\n► For the latest transfer news: https://qrcode.skysports.com/skysports/TransferCentre\n   \nMore from Sky Sports on YouTube:\n\n► Sky Sports: http://bit.ly/SkySportsSub\n► Sky Sports Boxing: http://bit.ly/SSBoxingSub\n► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket\n► Sky Sports Darts: https://bit.ly/SubSkySportsDarts\n► Sky Sports Football: http://bit.ly/SSFootballSub\n► Sky Sports F1: http://bit.ly/SubscribeSkyF1\n► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf\n► Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL\n► Sky Sports Retro: http://bit.ly/SkySportsRetroSub\n► Sky Sports WSL: https://bit.ly/SubscribeSkySportsWSL\n\n► TikTok: https://www.tiktok.com/@skysportsnews\n► X: https://x.com/SkySportsNews\n► Website: https://www.skysports.com\n\n► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CXsxh2S3PXA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CXsxh2S3PXA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CXsxh2S3PXA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CXsxh2S3PXA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CXsxh2S3PXA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sky Sports News",
+          "tags": [
+            "Sky Sports News",
+            "Sky Sports",
+            "Sky Sports Football",
+            "Sky Sports Premier League",
+            "Sky Sports Boxing",
+            "Sky Sports F1",
+            "Sky Sports Cricket",
+            "Sky Sports Golf",
+            "News",
+            "Sport News",
+            "Breaking News",
+            "Football News",
+            "Transfer News",
+            "Manchester United",
+            "Man Utd",
+            "Flex",
+            "Charlie Austin",
+            "Ruben Amorim",
+            "Man utd 0-3 Man City",
+            "Man City 3-0 Man Utd"
+          ],
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Is it time for Ruben Amorim to ditch Manchester United’s 3-4-3 formation? | #SkySportsFC",
+            "description": "► Subscribe to Sky Sports News: http://bit.ly/SkySportsNewsSub\n► Watch Sky Sports: https://bit.ly/BuySkySports\n\nCharlie Austin and Flex discuss Manchester United's 3-0 loss to Manchester City on Sunday and debate whether it is time for Ruben Amorim to ditch his managerial philosophy. \n\n#SkySportsNews #SkySports #premierleague \n\n00:00 - Manchester United lose 3-0 to Man City\n00:10 - Ruben won't change philosophy\n00:58 - Should Ruben change his approach?\n01:43 - Flex joins the conversation\n06:10 - Who should the two in midfield?\n09:50 - Man Utd fan voice note on midfield\n12:55 - Do United have the wrong manager?\n15:48 - If Amorim were to leave, who would you want?\n\n► For the latest developments on this story: https://qrcode.skysports.com/skysports/topstories\n► For the latest transfer news: https://qrcode.skysports.com/skysports/TransferCentre\n   \nMore from Sky Sports on YouTube:\n\n► Sky Sports: http://bit.ly/SkySportsSub\n► Sky Sports Boxing: http://bit.ly/SSBoxingSub\n► Sky Sports Cricket: http://bit.ly/SubscribeSkyCricket\n► Sky Sports Darts: https://bit.ly/SubSkySportsDarts\n► Sky Sports Football: http://bit.ly/SSFootballSub\n► Sky Sports F1: http://bit.ly/SubscribeSkyF1\n► Sky Sports Golf: https://bit.ly/SubscribeSkySportsGolf\n► Sky Sports Premier League: https://bit.ly/SubscribeSkySportsPL\n► Sky Sports Retro: http://bit.ly/SkySportsRetroSub\n► Sky Sports WSL: https://bit.ly/SubscribeSkySportsWSL\n\n► TikTok: https://www.tiktok.com/@skysportsnews\n► X: https://x.com/SkySportsNews\n► Website: https://www.skysports.com\n\n► To enquire about licensing Sky Sports content, you can find out more here: https://www.skysports.com/more-sports/news/31754/11434270/license-sky-sports-footage"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT17M11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "142529",
+          "likeCount": "1541",
+          "favoriteCount": "0",
+          "commentCount": "620"
+        }
+      }
+    ],
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+      "totalResults": 172,
+      "resultsPerPage": 50
+    }
+  }
+}

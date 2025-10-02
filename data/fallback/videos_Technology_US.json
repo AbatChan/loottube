@@ -1,0 +1,3383 @@
+{
+  "timestamp": 1758122421348,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "Dd1_nCllBQ5hDGSGlnJ7iT__Sog",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "TFAUrmI4EOE6r3ZWJCUd8wOcDws",
+        "id": "uvG-WToQfU4",
+        "snippet": {
+          "publishedAt": "2024-07-17T19:15:02Z",
+          "channelId": "UCWBWgCD4oAqT3hUeq40SCUw",
+          "title": "Old Or New Technology?",
+          "description": "Follow me here:\nInstagram ► https://www.instagram.com/sambucha \nX ► https://www.x.com/sambucha \n\nBecome a Member:\nhttps://www.youtube.com/channel/UCWBWgCD4oAqT3hUeq40SCUw/join\n\n#shorts #technology #tech #product #old #new #education #inventions #sambucha",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uvG-WToQfU4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uvG-WToQfU4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uvG-WToQfU4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uvG-WToQfU4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uvG-WToQfU4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sambucha",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Old Or New Technology?",
+            "description": "Follow me here:\nInstagram ► https://www.instagram.com/sambucha \nX ► https://www.x.com/sambucha \n\nBecome a Member:\nhttps://www.youtube.com/channel/UCWBWgCD4oAqT3hUeq40SCUw/join\n\n#shorts #technology #tech #product #old #new #education #inventions #sambucha"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3779251",
+          "likeCount": "246003",
+          "favoriteCount": "0",
+          "commentCount": "2510"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "SPB89VTH5Kvko9kL5kOatq3nKhY",
+        "id": "gsJAlLOFBv0",
+        "snippet": {
+          "publishedAt": "2025-05-02T17:37:10Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "TINY Tech That Actually Works",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gsJAlLOFBv0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gsJAlLOFBv0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gsJAlLOFBv0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gsJAlLOFBv0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gsJAlLOFBv0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "tiny",
+            "tech",
+            "gadgets",
+            "small",
+            "miniature"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "TINY Tech That Actually Works",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10341397",
+          "likeCount": "275726",
+          "favoriteCount": "0",
+          "commentCount": "575"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "exYvX6j4jUJggF-cpBSQGOQYX6c",
+        "id": "KArch4rjU_0",
+        "snippet": {
+          "publishedAt": "2024-05-12T17:37:14Z",
+          "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+          "title": "USB in USB #charger #technology #electronic #funny",
+          "description": "Maybe stop plugging things into each other to see when they fail!!!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KArch4rjU_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KArch4rjU_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KArch4rjU_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KArch4rjU_0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KArch4rjU_0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ElectroBOOM",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "USB in USB #charger #technology #electronic #funny",
+            "description": "Maybe stop plugging things into each other to see when they fail!!!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "46663477",
+          "likeCount": "2131824",
+          "favoriteCount": "0",
+          "commentCount": "5854"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "msQ48zOFkn66c00jvrY1V5SDkvI",
+        "id": "4wZwXhoxRIA",
+        "snippet": {
+          "publishedAt": "2025-01-04T19:26:39Z",
+          "channelId": "UCKaWD4ZM7ixlot6ysBVKP_g",
+          "title": "15 Tech Gadgets I Use Every Day #shorts #justicebuys #tech",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Justice Buys",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "15 Tech Gadgets I Use Every Day #shorts #justicebuys #tech",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "18769758",
+          "likeCount": "618987",
+          "favoriteCount": "0",
+          "commentCount": "2563"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BMGmgFGSLlbQKeozq_uJr8VHmgQ",
+        "id": "THw-wXt7wyM",
+        "snippet": {
+          "publishedAt": "2022-10-02T19:40:14Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "5 Tech Myths Busted!",
+          "description": "#shorts \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nTwitter - For my tech hot takes: https://goo.gl/EFhwqL\nInstagram - For my personal posts: https://goo.gl/OUqBBa\nFacebook - Does anyone still use this anymore?: https://goo.gl/Aluzl1\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://goo.gl/3yS2aP\nAmazon UK: https://goo.gl/gvrsGZ\n\nMy Filming Gear:\nhttps://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/THw-wXt7wyM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/THw-wXt7wyM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/THw-wXt7wyM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/THw-wXt7wyM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/THw-wXt7wyM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "shorts",
+            "tech",
+            "myths",
+            "busted",
+            "tips"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "5 Tech Myths Busted!",
+            "description": "#shorts \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nTwitter - For my tech hot takes: https://goo.gl/EFhwqL\nInstagram - For my personal posts: https://goo.gl/OUqBBa\nFacebook - Does anyone still use this anymore?: https://goo.gl/Aluzl1\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://goo.gl/3yS2aP\nAmazon UK: https://goo.gl/gvrsGZ\n\nMy Filming Gear:\nhttps://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "28315298",
+          "likeCount": "1955526",
+          "favoriteCount": "0",
+          "commentCount": "6271"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FVtdgK9UUFjwvtnGyL1xSXZAdHg",
+        "id": "VnZG9Zi73wI",
+        "snippet": {
+          "publishedAt": "2025-05-30T12:30:39Z",
+          "channelId": "UCRuc-fHVjLYwffDHawO_3-A",
+          "title": "Others Technologia Vs TheLastOne 🤯💀",
+          "description": "Others Technologia Vs TheLastOne 🤯💀 #usashorts #technology #technologia #technologie #usacontent #skulledit #newedit #youtubeshorts #newvideo #lastone \n\nWarning: This video is for entertainment purposes only. It does not promote real violence, dangerous behavior, or illegal activities. All clips and music used in this video do not belong to me; I only edit and compile them for creative purposes.\n\nIf you are the copyright owner and would like your content removed, please contact me directly. I will take it down immediately upon request.\n\n📩Contact -:- devupromotion@gmail.com\n\nThank you❤",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VnZG9Zi73wI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VnZG9Zi73wI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VnZG9Zi73wI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VnZG9Zi73wI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VnZG9Zi73wI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DEVU SIGMA",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Others Technologia Vs TheLastOne 🤯💀",
+            "description": "Others Technologia Vs TheLastOne 🤯💀 #usashorts #technology #technologia #technologie #usacontent #skulledit #newedit #youtubeshorts #newvideo #lastone \n\nWarning: This video is for entertainment purposes only. It does not promote real violence, dangerous behavior, or illegal activities. All clips and music used in this video do not belong to me; I only edit and compile them for creative purposes.\n\nIf you are the copyright owner and would like your content removed, please contact me directly. I will take it down immediately upon request.\n\n📩Contact -:- devupromotion@gmail.com\n\nThank you❤"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25600324",
+          "likeCount": "380883",
+          "favoriteCount": "0",
+          "commentCount": "547"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "H_EsRvJwGgaJSIIgJk3VQTk86Xk",
+        "id": "cS0hLW8qulk",
+        "snippet": {
+          "publishedAt": "2024-12-22T03:30:14Z",
+          "channelId": "UCcku89bM8Nu8rtAaledTPxg",
+          "title": "The Future of Technology (2025+)",
+          "description": "Future technology part -1\n #technology\n #futuretech\n #shorts\n #ytshorts\n\nfuture technology\ntechnology\nai\nartificial intelligence\nscience\nfuture technologies\nelon musk\nfuture business technologies\nfuture business tech\nfuture of technology\nfuture technology 2050\nfuture gadgets\ntech trends 2024\ntech trends 2025\ninnovation\nfuture technology 60 minutes\nfuture technology 2030\nrobotics\nFuture mobile",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rohit Ramani ",
+          "tags": [
+            "Future mobile",
+            "ai",
+            "ai advancements",
+            "ai innovations",
+            "artificial intelligence",
+            "cool gadgets",
+            "elon musk",
+            "elon musk tech",
+            "emerging trends",
+            "future business tech",
+            "future business technologies",
+            "future gadgets",
+            "future of technology",
+            "future tech",
+            "future technology",
+            "future technology 2030",
+            "future technology 60 minutes",
+            "innovation",
+            "next gen",
+            "next-gen technology",
+            "robotics",
+            "robotics trends",
+            "science",
+            "smart gadgets",
+            "tech predictions",
+            "tech trends 2024",
+            "tech trends 2025",
+            "technology",
+            "vr"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Future of Technology (2025+)",
+            "description": "Future technology part -1\n #technology\n #futuretech\n #shorts\n #ytshorts\n\nfuture technology\ntechnology\nai\nartificial intelligence\nscience\nfuture technologies\nelon musk\nfuture business technologies\nfuture business tech\nfuture of technology\nfuture technology 2050\nfuture gadgets\ntech trends 2024\ntech trends 2025\ninnovation\nfuture technology 60 minutes\nfuture technology 2030\nrobotics\nFuture mobile"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "813307",
+          "likeCount": "9703",
+          "favoriteCount": "0",
+          "commentCount": "217"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Orm5j94-CldfHSzlNpZCkvVWHAs",
+        "id": "lCHqmzynO-s",
+        "snippet": {
+          "publishedAt": "2024-07-08T18:04:31Z",
+          "channelId": "UCPk2s5c4R_d-EUUNvFFODoA",
+          "title": "Overrated vs. Underrated Tech",
+          "description": "💬 Join my Discord server: https://discord.gg/gohar\n📝 I'll edit your college essay: https://nextadmit.com/services/essay/\n🎓 Get into your dream school: https://nextadmit.com/roadmap/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lCHqmzynO-s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lCHqmzynO-s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lCHqmzynO-s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lCHqmzynO-s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lCHqmzynO-s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gohar Khan",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Overrated vs. Underrated Tech",
+            "description": "💬 Join my Discord server: https://discord.gg/gohar\n📝 I'll edit your college essay: https://nextadmit.com/services/essay/\n🎓 Get into your dream school: https://nextadmit.com/roadmap/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22815175",
+          "likeCount": "929876",
+          "favoriteCount": "0",
+          "commentCount": "2769"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "J-qKPuV8c698t89_p9UBLCc9eUc",
+        "id": "e92Y3yx9u-A",
+        "snippet": {
+          "publishedAt": "2025-06-27T12:42:32Z",
+          "channelId": "UCNNdYhLEd4aAivW_V9GNOMQ",
+          "title": "3 Weirdest Minecraft Tech Products",
+          "description": "3 Weirdest Minecraft Tech Products",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e92Y3yx9u-A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e92Y3yx9u-A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e92Y3yx9u-A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e92Y3yx9u-A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e92Y3yx9u-A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dantic",
+          "tags": [
+            "dantic",
+            "tech",
+            "gaming",
+            "minecraft",
+            "3 Weirdest Minecraft Tech Products",
+            "minecraft tech"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3 Weirdest Minecraft Tech Products",
+            "description": "3 Weirdest Minecraft Tech Products"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2167846",
+          "likeCount": "55803",
+          "favoriteCount": "0",
+          "commentCount": "114"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tanx5Hc1qoSbT2nizAZVHjyh5pU",
+        "id": "RHtnrzct2RM",
+        "snippet": {
+          "publishedAt": "2021-10-18T21:51:15Z",
+          "channelId": "UCswhjJmbjCmBOErBUo2NYbg",
+          "title": "The latest Chinese technology trends are amazing",
+          "description": "#techno #short #technology #newphone",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "World New News every day",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The latest Chinese technology trends are amazing",
+            "description": "#techno #short #technology #newphone"
+          },
+          "defaultAudioLanguage": "ar"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "963083",
+          "likeCount": "7519",
+          "favoriteCount": "0",
+          "commentCount": "62"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XUhgE33BdihufxjQhtz5GMM6n7s",
+        "id": "vwTL0SLEl1M",
+        "snippet": {
+          "publishedAt": "2025-08-25T21:39:44Z",
+          "channelId": "UCBS1NUWY7oC6FFHaXQy4zAA",
+          "title": "The New Connector That Beats HDMI and DisplayPort 🤯",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vwTL0SLEl1M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vwTL0SLEl1M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vwTL0SLEl1M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vwTL0SLEl1M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vwTL0SLEl1M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zach's Tech Turf",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The New Connector That Beats HDMI and DisplayPort 🤯",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1253546",
+          "likeCount": "57890",
+          "favoriteCount": "0",
+          "commentCount": "1951"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "da950CtO_oUHUNMZ8eXDmejG65o",
+        "id": "1Nef8LPO-jo",
+        "snippet": {
+          "publishedAt": "2022-11-01T11:00:06Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "5 ILLEGAL gadgets that will get you ARRESTED",
+          "description": "#shorts #technology \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nTwitter - For my tech hot takes: https://goo.gl/EFhwqL\nInstagram - For my personal posts: https://goo.gl/OUqBBa\nFacebook - Does anyone still use this anymore?: https://goo.gl/Aluzl1\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://goo.gl/3yS2aP\nAmazon UK: https://goo.gl/gvrsGZ\n\nMy Filming Gear:\nhttps://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1Nef8LPO-jo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1Nef8LPO-jo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1Nef8LPO-jo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1Nef8LPO-jo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1Nef8LPO-jo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "shorts",
+            "tech"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "5 ILLEGAL gadgets that will get you ARRESTED",
+            "description": "#shorts #technology \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nTwitter - For my tech hot takes: https://goo.gl/EFhwqL\nInstagram - For my personal posts: https://goo.gl/OUqBBa\nFacebook - Does anyone still use this anymore?: https://goo.gl/Aluzl1\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://goo.gl/3yS2aP\nAmazon UK: https://goo.gl/gvrsGZ\n\nMy Filming Gear:\nhttps://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "81797548",
+          "likeCount": "4172650",
+          "favoriteCount": "0",
+          "commentCount": "6381"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lqSbuMWU-34icsvHBzZVQ9yEiR0",
+        "id": "vfvQ-HRUm8Y",
+        "snippet": {
+          "publishedAt": "2025-08-21T19:44:08Z",
+          "channelId": "UCG7J20LhUeLl6y_Emi7OJrA",
+          "title": "Why Did They Kill Your Childhood Tech?",
+          "description": "#shorts #tech #technology #techvideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vfvQ-HRUm8Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vfvQ-HRUm8Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vfvQ-HRUm8Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vfvQ-HRUm8Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vfvQ-HRUm8Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Studio",
+          "tags": [
+            "MKBHD",
+            "The Studio"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Why Did They Kill Your Childhood Tech?",
+            "description": "#shorts #tech #technology #techvideo"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1415860",
+          "likeCount": "39611",
+          "favoriteCount": "0",
+          "commentCount": "668"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LC4t98ErXH5YyQj0wWjexN2Wx2E",
+        "id": "uOQcmm0xDuI",
+        "snippet": {
+          "publishedAt": "2024-07-16T16:47:43Z",
+          "channelId": "UCDjpp9fOeGLy754KJvRl10w",
+          "title": "My Top 5 Tech Accessories!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uOQcmm0xDuI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uOQcmm0xDuI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uOQcmm0xDuI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uOQcmm0xDuI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uOQcmm0xDuI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brandon Balfour",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My Top 5 Tech Accessories!",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "619474",
+          "likeCount": "31384",
+          "favoriteCount": "0",
+          "commentCount": "98"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sQZUGURs1UO77UqqpN-6UWbbrw8",
+        "id": "ZYIi81NCeU4",
+        "snippet": {
+          "publishedAt": "2023-06-20T03:53:41Z",
+          "channelId": "UC9Tib0IsWBst6tlQ-p3L4Pw",
+          "title": "Is this the future of technology?! Humane AI looks INSANE! 🤯",
+          "description": "What comes AFTER the smartphone? 🤔📱\n\nWith the recent announcements from @hu.ma.ne and Apple’s “Vision Pro” headset, lots of people have been asking this question in recent weeks.\n\nRegardless of where you stand on the porential of a “post-smartphone” future, innovation is happening all around us currently and I find that wildly exciting.\n\n#humane  #applevisionpro #tech",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZYIi81NCeU4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZYIi81NCeU4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZYIi81NCeU4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZYIi81NCeU4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZYIi81NCeU4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Will Bowers",
+          "tags": [
+            "humane",
+            "apple vision pro",
+            "humane tech",
+            "humane AI",
+            "humane Vancouver",
+            "apple vr",
+            "will bowers",
+            "will.mov",
+            "willbwrs"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Is this the future of technology?! Humane AI looks INSANE! 🤯",
+            "description": "What comes AFTER the smartphone? 🤔📱\n\nWith the recent announcements from @hu.ma.ne and Apple’s “Vision Pro” headset, lots of people have been asking this question in recent weeks.\n\nRegardless of where you stand on the porential of a “post-smartphone” future, innovation is happening all around us currently and I find that wildly exciting.\n\n#humane  #applevisionpro #tech"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "494043",
+          "likeCount": "18122",
+          "favoriteCount": "0",
+          "commentCount": "273"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0zseJ9hz2BaSawvTxPrMaHZLpHk",
+        "id": "JzClLWL-Eys",
+        "snippet": {
+          "publishedAt": "2025-08-31T15:30:47Z",
+          "channelId": "UCy0tKL1T7wFoYcxCe0xjN6Q",
+          "title": "Desiccant dehumidifiers are fascinating... but not for everyone",
+          "description": "A whole new meaning to \"spin dry\"\nConnextras experiment: https://youtu.be/0xLzDF7PZW8\nOriginal video: https://youtu.be/j_QfX0SYCE8\n\nOther stuff:\nTechnology Connections on Bluesky:\nhttps://bsky.app/profile/techconnectify.bsky.social\n\nTechnology Connections on Mastodon:\nhttps://mas.to/@TechConnectify\n\nHave you ever noticed that I've never done that whole influencer thing? That's all thanks to people like you! Viewer support through Patreon keeps this channel independent and possible. If you'd like to join the amazing folks who fund my work, check out the link below. There's some exciting stuff coming soon! And thank you!\nhttps://www.patreon.com/technologyconnections",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JzClLWL-Eys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JzClLWL-Eys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JzClLWL-Eys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JzClLWL-Eys/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JzClLWL-Eys/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Technology Connections",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Desiccant dehumidifiers are fascinating... but not for everyone",
+            "description": "A whole new meaning to \"spin dry\"\nConnextras experiment: https://youtu.be/0xLzDF7PZW8\nOriginal video: https://youtu.be/j_QfX0SYCE8\n\nOther stuff:\nTechnology Connections on Bluesky:\nhttps://bsky.app/profile/techconnectify.bsky.social\n\nTechnology Connections on Mastodon:\nhttps://mas.to/@TechConnectify\n\nHave you ever noticed that I've never done that whole influencer thing? That's all thanks to people like you! Viewer support through Patreon keeps this channel independent and possible. If you'd like to join the amazing folks who fund my work, check out the link below. There's some exciting stuff coming soon! And thank you!\nhttps://www.patreon.com/technologyconnections"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29M20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1017483",
+          "likeCount": "51328",
+          "favoriteCount": "0",
+          "commentCount": "4484"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zH7xJGe6lm5dLioLN_p1PiBrDrA",
+        "id": "gkklrVa8amY",
+        "snippet": {
+          "publishedAt": "2025-03-06T10:09:46Z",
+          "channelId": "UCdp6GUwjKscp5ST4M4WgIpw",
+          "title": "The Most Futuristic Tech Of 2025.....",
+          "description": "Dive into the future with us at MWC Barcelona! We've uncovered tech that'll blow your mind, from earbuds that redefine audio to a smartphone that's practically indestructible. But that's just the start—wait till you see the foldable laptop that bends reality and a car that's more tech than vehicle. Prepare to question what's possible.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gkklrVa8amY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gkklrVa8amY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gkklrVa8amY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gkklrVa8amY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gkklrVa8amY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TechWiser",
+          "tags": [
+            "TechWiser"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Most Futuristic Tech Of 2025.....",
+            "description": "Dive into the future with us at MWC Barcelona! We've uncovered tech that'll blow your mind, from earbuds that redefine audio to a smartphone that's practically indestructible. But that's just the start—wait till you see the foldable laptop that bends reality and a car that's more tech than vehicle. Prepare to question what's possible."
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT2M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "919853",
+          "likeCount": "60162",
+          "favoriteCount": "0",
+          "commentCount": "212"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ixS3oVrkS2ZEAIo8EC2Nmsv4f0U",
+        "id": "5upVC6YzQCE",
+        "snippet": {
+          "publishedAt": "2023-09-19T00:54:11Z",
+          "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
+          "title": "Replacing my 3080 with a 4090 for 4K #gaming. #tech #pc #technology #shorts",
+          "description": "Today I have a custom gaming pc that's getting an RTX 3080 swapped out with an RTX 4090. Overkill? Yes! This is my personal computer that I use for editing and 4K gaming. You would think I would own the cleanest piece of tech but the last thing I want to do when I get home is work on any technology , so my home PC is a hoopty! A very powerful hoopty",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5upVC6YzQCE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5upVC6YzQCE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5upVC6YzQCE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5upVC6YzQCE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5upVC6YzQCE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Salem Techsperts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Replacing my 3080 with a 4090 for 4K #gaming. #tech #pc #technology #shorts",
+            "description": "Today I have a custom gaming pc that's getting an RTX 3080 swapped out with an RTX 4090. Overkill? Yes! This is my personal computer that I use for editing and 4K gaming. You would think I would own the cleanest piece of tech but the last thing I want to do when I get home is work on any technology , so my home PC is a hoopty! A very powerful hoopty"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "38018605",
+          "likeCount": "1591359",
+          "favoriteCount": "0",
+          "commentCount": "14222"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TzpeEZRPCyWy39HRTJa5f1bkKhY",
+        "id": "T-F-vVNVQ50",
+        "snippet": {
+          "publishedAt": "2025-01-20T14:00:28Z",
+          "channelId": "UCSWZxpzUTkriCZRe0Nl0UqA",
+          "title": "Coolest New Technologies of 2025",
+          "description": "Coolest DIY Videos ► @YouBuildDIY \nThis year’s tech unveils are redefining what’s possible, blending creativity and innovation to transform the way we live, work, and play. Get ready to explore gadgets that feel like they’ve stepped straight out of the future.\n\nYou may also like:\nCoolest Gadgets You Can Actually Buy: https://youtu.be/yY0zVvcdPdY\nGadgets You’ll Absolutely Want to Own: https://youtu.be/hZ74-F8nBOg\n\n0:00 Intro\n0:13 Swippitt: https://www.swippitt.com/products/swippitt-system\n1:05 SwitchBot K20 Plus Pro: https://tidd.ly/4n9CazR\n2:00 eufy Robot Vacuum 3-in-1 E20: https://geni.us/eufyE20\n2:27 Roborock Saros Z70: https://geni.us/PhiWT\n3:03 Dreame X50 Ultra: https://geni.us/dreamex50\n3:28 Samsung Stretchable Display: https://howl.link/kvyeakyo49xl9 (homepage)\n3:59 Samsung Slidable Flex Duet: https://howl.link/kvyeakyo49xl9 (homepage)\n4:11 Lenovo ThinkBook Plus Gen 6: https://howl.link/e69yq1e89ufv1\n4:50 Halliday Glasses: https://hallidayglobal.com\n5:50 Aurzen ZIP Tri-Fold Projector: https://geni.us/AurzenZIP\n6:44 Lymow One lawnmower: https://sovrn.co/17wcjm0\n7:35 DUNGEONS & DRAGONS Pinball Game: https://sternpinball.com/game/dungeons-dragons/\n8:30 Razer Project Arielle chair: https://sovrn.co/1di0gkc \n8:56 Plantaform Smart Indoor Garden: https://amzn.to/4ar3eFt \n9:55 LeafyPod: https://www.leafypod.one\n10:38 Ohsnap Mcon mobile controller: https://www.kickstarter.com/projects/ohsnapofficial/mcon-the-switchblade-of-mobile-controllers-by-ohsnap\n11:37 EcoFlow Power Hat: https://amzn.to/40hoskC http://shrsl.com/4tffe \n12:09 Godox MA5R mobile light: https://geni.us/GodoxMA5R \n12:59 Omi AI assistant: https://www.omi.me/?ref=YOUFACT (10% off)\n13:59 Withings Omnia: https://sovrn.co/19tycxi \n14:40 LiberLive C1 smart guitar: https://geni.us/LiberliveC1\n15:25 Chamelo Shield: https://geni.us/ChameloShield\n\n🔥 Follow Us In Social Media 👇\nFACEBOOK: https://www.facebook.com/youfacttech\nINSTAGRAM: https://www.instagram.com/youfacttech\nTIKTOK: https://www.tiktok.com/@youfactech\n\nAs an Amazon Associate I earn from qualifying purchases. When you click on links to various merchants on this channel and make a purchase, this can result in this channel earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network.\n\n#gadgets #cooltech",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T-F-vVNVQ50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T-F-vVNVQ50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T-F-vVNVQ50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/T-F-vVNVQ50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/T-F-vVNVQ50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YouFact Tech",
+          "tags": [
+            "you fact tech",
+            "you fact",
+            "ufact",
+            "gadgets",
+            "technologies",
+            "CES 2025",
+            "ai gadgets"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Coolest New Technologies of 2025",
+            "description": "Coolest DIY Videos ► @YouBuildDIY \nThis year’s tech unveils are redefining what’s possible, blending creativity and innovation to transform the way we live, work, and play. Get ready to explore gadgets that feel like they’ve stepped straight out of the future.\n\nYou may also like:\nCoolest Gadgets You Can Actually Buy: https://youtu.be/yY0zVvcdPdY\nGadgets You’ll Absolutely Want to Own: https://youtu.be/hZ74-F8nBOg\n\n0:00 Intro\n0:13 Swippitt: https://www.swippitt.com/products/swippitt-system\n1:05 SwitchBot K20 Plus Pro: https://tidd.ly/4n9CazR\n2:00 eufy Robot Vacuum 3-in-1 E20: https://geni.us/eufyE20\n2:27 Roborock Saros Z70: https://geni.us/PhiWT\n3:03 Dreame X50 Ultra: https://geni.us/dreamex50\n3:28 Samsung Stretchable Display: https://howl.link/kvyeakyo49xl9 (homepage)\n3:59 Samsung Slidable Flex Duet: https://howl.link/kvyeakyo49xl9 (homepage)\n4:11 Lenovo ThinkBook Plus Gen 6: https://howl.link/e69yq1e89ufv1\n4:50 Halliday Glasses: https://hallidayglobal.com\n5:50 Aurzen ZIP Tri-Fold Projector: https://geni.us/AurzenZIP\n6:44 Lymow One lawnmower: https://sovrn.co/17wcjm0\n7:35 DUNGEONS & DRAGONS Pinball Game: https://sternpinball.com/game/dungeons-dragons/\n8:30 Razer Project Arielle chair: https://sovrn.co/1di0gkc \n8:56 Plantaform Smart Indoor Garden: https://amzn.to/4ar3eFt \n9:55 LeafyPod: https://www.leafypod.one\n10:38 Ohsnap Mcon mobile controller: https://www.kickstarter.com/projects/ohsnapofficial/mcon-the-switchblade-of-mobile-controllers-by-ohsnap\n11:37 EcoFlow Power Hat: https://amzn.to/40hoskC http://shrsl.com/4tffe \n12:09 Godox MA5R mobile light: https://geni.us/GodoxMA5R \n12:59 Omi AI assistant: https://www.omi.me/?ref=YOUFACT (10% off)\n13:59 Withings Omnia: https://sovrn.co/19tycxi \n14:40 LiberLive C1 smart guitar: https://geni.us/LiberliveC1\n15:25 Chamelo Shield: https://geni.us/ChameloShield\n\n🔥 Follow Us In Social Media 👇\nFACEBOOK: https://www.facebook.com/youfacttech\nINSTAGRAM: https://www.instagram.com/youfacttech\nTIKTOK: https://www.tiktok.com/@youfactech\n\nAs an Amazon Associate I earn from qualifying purchases. When you click on links to various merchants on this channel and make a purchase, this can result in this channel earning a commission. Affiliate programs and affiliations include, but are not limited to, the eBay Partner Network.\n\n#gadgets #cooltech"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1005958",
+          "likeCount": "6095",
+          "favoriteCount": "0",
+          "commentCount": "420"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LjA8wd839d0S3-5SsdAWASIK794",
+        "id": "kREn_hANlio",
+        "snippet": {
+          "publishedAt": "2025-04-09T08:14:25Z",
+          "channelId": "UC9kGAFMDzda_bHkfrYcKmtQ",
+          "title": "Digital Technology Star Samsung Official Refurbished Phones",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kREn_hANlio/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kREn_hANlio/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kREn_hANlio/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kREn_hANlio/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kREn_hANlio/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Trendy Tech Review Show",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Digital Technology Star Samsung Official Refurbished Phones",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2072153",
+          "likeCount": "10606",
+          "favoriteCount": "0",
+          "commentCount": "44"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XEAIqSncqIy-bfZxpWzJ0SXO4CU",
+        "id": "5fKkXFresYI",
+        "snippet": {
+          "publishedAt": "2022-10-15T08:25:08Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "5 Times Tech has SAVED LIVES!",
+          "description": "#shorts #technology \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nTwitter - For my tech hot takes: https://goo.gl/EFhwqL\nInstagram - For my personal posts: https://goo.gl/OUqBBa\nFacebook - Does anyone still use this anymore?: https://goo.gl/Aluzl1\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://goo.gl/3yS2aP\nAmazon UK: https://goo.gl/gvrsGZ\n\nMy Filming Gear:\nhttps://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5fKkXFresYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5fKkXFresYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5fKkXFresYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5fKkXFresYI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5fKkXFresYI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "tech",
+            "shorts"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "5 Times Tech has SAVED LIVES!",
+            "description": "#shorts #technology \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nTwitter - For my tech hot takes: https://goo.gl/EFhwqL\nInstagram - For my personal posts: https://goo.gl/OUqBBa\nFacebook - Does anyone still use this anymore?: https://goo.gl/Aluzl1\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://goo.gl/3yS2aP\nAmazon UK: https://goo.gl/gvrsGZ\n\nMy Filming Gear:\nhttps://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "41082490",
+          "likeCount": "2638502",
+          "favoriteCount": "0",
+          "commentCount": "8332"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zDsHQXOE8O6n04LrpvyNEjrf8n8",
+        "id": "UCbb7d4KcvQ",
+        "snippet": {
+          "publishedAt": "2024-10-31T11:00:38Z",
+          "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
+          "title": "$3,000 Razer #PC can't be fixed! Razer WORSE than Apple w/ Right to Repair #tech #technology #shorts",
+          "description": "This is the second time I've been stopped from repairing a 2022 Razer Blade 15 Advanced computer because of lack of replacement parts. Razer is worse than Apple when it comes to right to repair because they outright refuse to sell replacement parts for any of their technology . At least Apple will sell you overpriced replacement parts that cost more than your device is worth. My customer is stuck with a pc that has a broken 4K OLED Display that uses proprietary tech , so they will have to send it in to Razer and pay over $600 to get it fixed. This is why I say the computer repair industry is dying. It's not like I'm trying to fix a CPU or GPU in my computer repair shop, I'm just trying to replace a broken display. Crazy.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UCbb7d4KcvQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UCbb7d4KcvQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UCbb7d4KcvQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UCbb7d4KcvQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UCbb7d4KcvQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Salem Techsperts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "$3,000 Razer #PC can't be fixed! Razer WORSE than Apple w/ Right to Repair #tech #technology #shorts",
+            "description": "This is the second time I've been stopped from repairing a 2022 Razer Blade 15 Advanced computer because of lack of replacement parts. Razer is worse than Apple when it comes to right to repair because they outright refuse to sell replacement parts for any of their technology . At least Apple will sell you overpriced replacement parts that cost more than your device is worth. My customer is stuck with a pc that has a broken 4K OLED Display that uses proprietary tech , so they will have to send it in to Razer and pay over $600 to get it fixed. This is why I say the computer repair industry is dying. It's not like I'm trying to fix a CPU or GPU in my computer repair shop, I'm just trying to replace a broken display. Crazy."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8913579",
+          "likeCount": "525144",
+          "favoriteCount": "0",
+          "commentCount": "2846"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-GQ9IAoSH4cBEcIS1UmNNMPghAc",
+        "id": "LZYfSYXY-go",
+        "snippet": {
+          "publishedAt": "2024-01-04T15:32:23Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "Apple’s THINNEST ever device is RIDICULOUS!",
+          "description": "#shorts #tech #gadgets #apple #iphone  \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LZYfSYXY-go/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LZYfSYXY-go/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LZYfSYXY-go/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LZYfSYXY-go/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LZYfSYXY-go/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "apple",
+            "iphone",
+            "tech",
+            "gadgets",
+            "shorts",
+            "thinnest",
+            "smallest"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Apple’s THINNEST ever device is RIDICULOUS!",
+            "description": "#shorts #tech #gadgets #apple #iphone  \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17945308",
+          "likeCount": "838999",
+          "favoriteCount": "0",
+          "commentCount": "3634"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EA4CE13VZSQdIMYmKQ5WwfTj5CE",
+        "id": "ICL9LXZvjes",
+        "snippet": {
+          "publishedAt": "2021-09-04T10:28:48Z",
+          "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
+          "title": "4 SINFUL Tech Pranks - HIDE YOUR FRIENDS 👺",
+          "description": "Do consider subscribing to my Shorts Channel! 👊\nMain Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss\n#shorts #tech #pranks",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ICL9LXZvjes/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ICL9LXZvjes/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ICL9LXZvjes/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ICL9LXZvjes/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ICL9LXZvjes/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss Plus",
+          "tags": [
+            "shorts",
+            "tech",
+            "iphone",
+            "smartphone",
+            "hacks",
+            "mrwhosetheboss",
+            "pranks",
+            "tech pranks",
+            "ios"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "4 SINFUL Tech Pranks - HIDE YOUR FRIENDS 👺",
+            "description": "Do consider subscribing to my Shorts Channel! 👊\nMain Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss\n#shorts #tech #pranks"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "29345735",
+          "likeCount": "2030904",
+          "favoriteCount": "0",
+          "commentCount": "6277"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gm-MsDs8ZFDlB-81e3z6SS_e0Do",
+        "id": "9H7v3aG2Exc",
+        "snippet": {
+          "publishedAt": "2022-03-14T12:51:10Z",
+          "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
+          "title": "5 Most DANGEROUS Tech Products",
+          "description": "Do consider subscribing to my Shorts Channel! 👊\nMain Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss\n#shorts #tech",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9H7v3aG2Exc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9H7v3aG2Exc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9H7v3aG2Exc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9H7v3aG2Exc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9H7v3aG2Exc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss Plus",
+          "tags": [
+            "shorts",
+            "tech",
+            "iphone",
+            "smartphone",
+            "hacks",
+            "mrwhosetheboss",
+            "technology",
+            "gadgets"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "5 Most DANGEROUS Tech Products",
+            "description": "Do consider subscribing to my Shorts Channel! 👊\nMain Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss\n#shorts #tech"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16992545",
+          "likeCount": "1323890",
+          "favoriteCount": "0",
+          "commentCount": "4073"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Qhi7jqqP27wLid3-TD9BtySVxoE",
+        "id": "De7s-IB_DAw",
+        "snippet": {
+          "publishedAt": "2025-05-21T09:03:41Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "You're wasting money on Tech.",
+          "description": "Leave a comment with how much this saved you :) \nGo to https://surfshark.com/boss or use code BOSS at checkout to get 4 extra months of Surfshark VPN!\n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://amzn.to/3mFix9d\nAmazon UK: https://amzn.to/3GMPPtM\n\nMy Browser: https://opr.as/Opera-browser-Mr-Whose-the-Boss \nMy Filming Gear: https://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/De7s-IB_DAw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/De7s-IB_DAw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/De7s-IB_DAw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/De7s-IB_DAw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/De7s-IB_DAw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "money saving",
+            "finance",
+            "save money",
+            "get things cheaper",
+            "subscription services",
+            "netflix",
+            "spotify",
+            "youtube",
+            "disney plus",
+            "apple",
+            "iphone",
+            "subscription"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "You're wasting money on Tech.",
+            "description": "Leave a comment with how much this saved you :) \nGo to https://surfshark.com/boss or use code BOSS at checkout to get 4 extra months of Surfshark VPN!\n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://amzn.to/3mFix9d\nAmazon UK: https://amzn.to/3GMPPtM\n\nMy Browser: https://opr.as/Opera-browser-Mr-Whose-the-Boss \nMy Filming Gear: https://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT14M51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2764253",
+          "likeCount": "97404",
+          "favoriteCount": "0",
+          "commentCount": "4968"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "eVvrFhQN7rSxm0_tt74NjuuzqN8",
+        "id": "nA6ZdAZqloc",
+        "snippet": {
+          "publishedAt": "2025-02-14T18:00:43Z",
+          "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+          "title": "I hate AI.",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nA6ZdAZqloc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nA6ZdAZqloc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nA6ZdAZqloc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nA6ZdAZqloc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nA6ZdAZqloc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Linus Tech Tips",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I hate AI.",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1510568",
+          "likeCount": "81582",
+          "favoriteCount": "0",
+          "commentCount": "1572"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c5GKpffvWlW_JRh31oOItalso4E",
+        "id": "t1WFpObvsRA",
+        "snippet": {
+          "publishedAt": "2024-09-05T10:25:51Z",
+          "channelId": "UCEGKs8V0qcjYR_VnykiDo1g",
+          "title": "Great Innovation🫡 #scienceproject #innovation #youtubeshorts #shortvideo #viralshort #technology",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t1WFpObvsRA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t1WFpObvsRA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t1WFpObvsRA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t1WFpObvsRA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t1WFpObvsRA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Technotips Ashish",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Great Innovation🫡 #scienceproject #innovation #youtubeshorts #shortvideo #viralshort #technology",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "133470",
+          "likeCount": "2079",
+          "favoriteCount": "0",
+          "commentCount": "26"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DnCmUgMERsRxSb5Plfbm1RIdgLU",
+        "id": "MBQBY9b6OAU",
+        "snippet": {
+          "publishedAt": "2025-04-14T11:18:58Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "I Tested Every YouTuber Tech Product",
+          "description": "I tested tech products from the biggest YouTubers. Go to https://surfshark.com/boss or use code BOSS at checkout to get 4 extra months of Surfshark VPN!  Shoutout to the YouTubers involved!\n\n0:21 @TheMrMobile \n2:16 @hankschannel \n3:42 @simonegiertz \n5:46 @StarWarsTheory \n8:17 @JLaservideo \n9:40 @JerryRigEverything \n11:45 @TechBurner \n14:38 @hacksmith \n16:43 @airrack \n19:01 @LinusTechTips \n20:49 @ryan \n23:11 @mkbhd \n25:39 @Vsauce \n28:00 @unboxtherapy \n30:34 @MarkRober \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://amzn.to/3mFix9d\nAmazon UK: https://amzn.to/3GMPPtM\n\nMy Browser: https://opr.as/Opera-browser-Mr-Whose-the-Boss \nMy Filming Gear: https://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MBQBY9b6OAU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MBQBY9b6OAU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MBQBY9b6OAU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MBQBY9b6OAU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MBQBY9b6OAU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "youtuber",
+            "products",
+            "mkbhd",
+            "panels",
+            "tech",
+            "mark rober",
+            "ryan trahan",
+            "youtube"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I Tested Every YouTuber Tech Product",
+            "description": "I tested tech products from the biggest YouTubers. Go to https://surfshark.com/boss or use code BOSS at checkout to get 4 extra months of Surfshark VPN!  Shoutout to the YouTubers involved!\n\n0:21 @TheMrMobile \n2:16 @hankschannel \n3:42 @simonegiertz \n5:46 @StarWarsTheory \n8:17 @JLaservideo \n9:40 @JerryRigEverything \n11:45 @TechBurner \n14:38 @hacksmith \n16:43 @airrack \n19:01 @LinusTechTips \n20:49 @ryan \n23:11 @mkbhd \n25:39 @Vsauce \n28:00 @unboxtherapy \n30:34 @MarkRober \n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://amzn.to/3mFix9d\nAmazon UK: https://amzn.to/3GMPPtM\n\nMy Browser: https://opr.as/Opera-browser-Mr-Whose-the-Boss \nMy Filming Gear: https://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT33M30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6644862",
+          "likeCount": "176460",
+          "favoriteCount": "0",
+          "commentCount": "9132"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OBe3SeQZWSG0YK1N56GsrustCdI",
+        "id": "6Zl9ZpTGCjQ",
+        "snippet": {
+          "publishedAt": "2025-08-24T02:00:18Z",
+          "channelId": "UCs2OxMwEr0MWa4lYpotwwtQ",
+          "title": "E Duniya Technologya ✝️💓 New Trending Christian Song /Timat Majhi/ #technologya#viralsong#trending ",
+          "description": "Welcome to Timat Majhi Creation YT\n\n\nସର୍ବ ପ୍ରଥମେ ଆମ ଉଦ୍ଧାରକର୍ତ୍ତା, ସୃଷ୍ଟି କର୍ତ୍ତା, ମୁକ୍ତିଦାତା ଯୀଶୁ ଖ୍ରୀଷ୍ଟଙ୍କୁ ଧନ୍ୟବାଦ ଦେବା ସଙ୍ଗେ ସଙ୍ଗେ, ସଙ୍ଗୀତ ପ୍ରିୟ ମୋର ସମସ୍ତ ଶ୍ରୋତା ଭାଇ ଓ ଭଉଣୀ ମାନଙ୍କୁ Timat Majhi Creation ତରଫରୁ କୃତଜ୍ଞତା ଜଣାଏ, ପୁନର୍ବାର ଆମେ ଏକ ନୂତନ ଖ୍ରୀଷ୍ଟୀୟ ସଙ୍ଗୀତ ନେଇ ଆସିଛୁ ଏହି ଗୀତଟି, ବାସ୍ତବିକ Technology ବିଷୟକୁ ନେଇ ଆଧାରିତ କରାଯାଇଅଛି l ଆଶା କରୁଛୁ ଏହି ଗୀତଟି ସମସ୍ତଙ୍କୁ ଭଲ ଲାଗିବ l ପ୍ରିୟ ଖ୍ରୀଷ୍ଟ ବିଶ୍ଵାସୀ ଭାଇ ଓ ଭଉଣୀ ସଭିଙ୍କୁ ମୋର ଅନୁରୋଧ ଏହି ଗୀତର Full Video Upload ହୋଇଅଛି l ଆଶା କରୁଛୁ ଏହି ଗୀତ ଆପଣ ମାନଙ୍କୁ ବହୁତ୍ ଭଲ ଲାଗିବ l ଯଦି ଭଲ ଲାଗେ ତେବେ LIKE. SHARE. SUBSCRIBE କରି COMMENT କରିବାକୁ ଭୁଲିବେ ନାହିଁ :(Praise the lord)\n\n\nSONG CREDITS:\n. Song: E DUNIYA TECHNOLOGYA (SV)\n. Singer: Timat Majhi \n. Lyrics & Composition: Andriya Bhatra \n. Music Arrangement: Bikash Daa \n. Camera: Smith Bhai \n. Video Editing: Timat Majhi \n. Recording: Ghumura Studio Madanpur ( Kalahandi )\n. Special thanks: My Father, Mother & Gresson Brother \n. Best Supporter: Daniyel Majhi &  Ajaya Digal\n\nSong Lyrics:\nଜଗତର ଜାଲେ ପଡ଼ି\nମାପୃ ଯୀଶୁ କେ ଛାଡ଼ି \nନାଇ ରୋ ତୁଇ ଦୂରିଆ \n       ନାଇ ଯା ତୁଇ ନରକ୍ ବାଟେ \n        ଶୟତାନ ଜାଗି ଆଛେ \n        ଯୀଶୁର୍ ବାଟେ ତୁଇ ଛାଲିଆ \nTechnology ଏ ଦୁନିୟା Technology...2th..\n                            ****\n💓 ସବୁତ ଛାୟାମାୟା ପର୍ମାନେଟ୍ ନାଇ ଇଟା \n       ସରିଲେ ନାକର୍ ଫୁଣ୍ଡା ସବୁ ଛାଡ଼ି ଯିବାଟା \nନାଇ କର୍ କାକେ ଆଶା ଖାଇବୁ ତୁଇ ଦିନେ ଧୋକା \nଛାଡ଼ିଲେ ଯୀଶୁର୍ ହାତ ହେଇ ଯିବୁରେ ଏକା \n          ମୋର୍ ସୁନା ଧୋନ ବଲି \n          ମୋର୍ ରାଜା ବାବୁ ବଲି \n          କରିଦେସି ତକେ ଭୋକୁଆ \n               ଦେଖାଇସି ଟାଙ୍କା ଡାବୁ\n               ଘର ବଙ୍ଗଳା ସବୁ \n               କରିଦେସି ତକେ ରସିଆ \nTechnology ଏ ଦୁନିୟା Technology ...2th..\n💓ଭିତରେ କାଲା ପାପୋ ଉପରେ ତୋର ଧଲା ସାଟ \nସରଗେ ଯିବାକାଜେ ନାଇ ହେ ତୁଇ ଛୋଟପଟ \n      ଯୀଶୁତ ଦେଖିଲାନି ତୁଇ କର୍ବା ସବୁ ନାଟ \n      ଆୟା ହ ବୁଆ ହ ନାଇ କରେ କେ ସପଟ \nବାଜିଲେ ବାଜା ମହୁରୀ \nମେଘରଥେ ବସିକରି \n    ଆଇସି କାଇ ସରଗପୁରିଆ \n    ଛାର୍ ଦିଗେ ଆନ୍ଧାର ହେସି \n           କନବାଟେ ଯିବୁ ଲୁଛି \n            ଜାଗି ରୋରେ ଦୁଇ ଗୋଡ଼ିଆ .....\nTechnology ଏ ଦୁନିୟା Technology....4th..\n\n\n\n\n\n#timatmajhisong\n#viralsong \n#technologyasong\n#christiansong \n#dance \n#trendingsong \n#timatmajhi\n#technologyachristiansong\n#technologytimatmajhisong\n#viralsong\n#christiansong \n#technologyachristiansong\n#timatmajhitechnologyasongs\n#trending \n#christiansong\n\n\n!!* ANTI-PIRACY WARNING *!!\nThis Content is Copyright to Timat Majhi Creation . Any unauthorised reproduction redistribution, re-upload ( audio or video ) is strictly prohibited of this meterial. Legal action will be taken against those who violate this copyright meterial presented..",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6Zl9ZpTGCjQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6Zl9ZpTGCjQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6Zl9ZpTGCjQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6Zl9ZpTGCjQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6Zl9ZpTGCjQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Timat Majhi Creation ",
+          "tags": [
+            "Praise the lord",
+            "Koraputia Christian Song",
+            "technologya christian song",
+            "viral technologya christian song",
+            "viral song",
+            "kandhamala christian song",
+            "timat majhi viral Christian Song",
+            "odia christian song",
+            "viral technologya song",
+            "Koraputia viral Christian Song",
+            "kui christian song timat majhi",
+            "trending song",
+            "Technologya timat Majhi new song",
+            "raikia timat Majhi"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "E Duniya Technologya ✝️💓 New Trending Christian Song /Timat Majhi/ #technologya#viralsong#trending ",
+            "description": "Welcome to Timat Majhi Creation YT\n\n\nସର୍ବ ପ୍ରଥମେ ଆମ ଉଦ୍ଧାରକର୍ତ୍ତା, ସୃଷ୍ଟି କର୍ତ୍ତା, ମୁକ୍ତିଦାତା ଯୀଶୁ ଖ୍ରୀଷ୍ଟଙ୍କୁ ଧନ୍ୟବାଦ ଦେବା ସଙ୍ଗେ ସଙ୍ଗେ, ସଙ୍ଗୀତ ପ୍ରିୟ ମୋର ସମସ୍ତ ଶ୍ରୋତା ଭାଇ ଓ ଭଉଣୀ ମାନଙ୍କୁ Timat Majhi Creation ତରଫରୁ କୃତଜ୍ଞତା ଜଣାଏ, ପୁନର୍ବାର ଆମେ ଏକ ନୂତନ ଖ୍ରୀଷ୍ଟୀୟ ସଙ୍ଗୀତ ନେଇ ଆସିଛୁ ଏହି ଗୀତଟି, ବାସ୍ତବିକ Technology ବିଷୟକୁ ନେଇ ଆଧାରିତ କରାଯାଇଅଛି l ଆଶା କରୁଛୁ ଏହି ଗୀତଟି ସମସ୍ତଙ୍କୁ ଭଲ ଲାଗିବ l ପ୍ରିୟ ଖ୍ରୀଷ୍ଟ ବିଶ୍ଵାସୀ ଭାଇ ଓ ଭଉଣୀ ସଭିଙ୍କୁ ମୋର ଅନୁରୋଧ ଏହି ଗୀତର Full Video Upload ହୋଇଅଛି l ଆଶା କରୁଛୁ ଏହି ଗୀତ ଆପଣ ମାନଙ୍କୁ ବହୁତ୍ ଭଲ ଲାଗିବ l ଯଦି ଭଲ ଲାଗେ ତେବେ LIKE. SHARE. SUBSCRIBE କରି COMMENT କରିବାକୁ ଭୁଲିବେ ନାହିଁ :(Praise the lord)\n\n\nSONG CREDITS:\n. Song: E DUNIYA TECHNOLOGYA (SV)\n. Singer: Timat Majhi \n. Lyrics & Composition: Andriya Bhatra \n. Music Arrangement: Bikash Daa \n. Camera: Smith Bhai \n. Video Editing: Timat Majhi \n. Recording: Ghumura Studio Madanpur ( Kalahandi )\n. Special thanks: My Father, Mother & Gresson Brother \n. Best Supporter: Daniyel Majhi &  Ajaya Digal\n\nSong Lyrics:\nଜଗତର ଜାଲେ ପଡ଼ି\nମାପୃ ଯୀଶୁ କେ ଛାଡ଼ି \nନାଇ ରୋ ତୁଇ ଦୂରିଆ \n       ନାଇ ଯା ତୁଇ ନରକ୍ ବାଟେ \n        ଶୟତାନ ଜାଗି ଆଛେ \n        ଯୀଶୁର୍ ବାଟେ ତୁଇ ଛାଲିଆ \nTechnology ଏ ଦୁନିୟା Technology...2th..\n                            ****\n💓 ସବୁତ ଛାୟାମାୟା ପର୍ମାନେଟ୍ ନାଇ ଇଟା \n       ସରିଲେ ନାକର୍ ଫୁଣ୍ଡା ସବୁ ଛାଡ଼ି ଯିବାଟା \nନାଇ କର୍ କାକେ ଆଶା ଖାଇବୁ ତୁଇ ଦିନେ ଧୋକା \nଛାଡ଼ିଲେ ଯୀଶୁର୍ ହାତ ହେଇ ଯିବୁରେ ଏକା \n          ମୋର୍ ସୁନା ଧୋନ ବଲି \n          ମୋର୍ ରାଜା ବାବୁ ବଲି \n          କରିଦେସି ତକେ ଭୋକୁଆ \n               ଦେଖାଇସି ଟାଙ୍କା ଡାବୁ\n               ଘର ବଙ୍ଗଳା ସବୁ \n               କରିଦେସି ତକେ ରସିଆ \nTechnology ଏ ଦୁନିୟା Technology ...2th..\n💓ଭିତରେ କାଲା ପାପୋ ଉପରେ ତୋର ଧଲା ସାଟ \nସରଗେ ଯିବାକାଜେ ନାଇ ହେ ତୁଇ ଛୋଟପଟ \n      ଯୀଶୁତ ଦେଖିଲାନି ତୁଇ କର୍ବା ସବୁ ନାଟ \n      ଆୟା ହ ବୁଆ ହ ନାଇ କରେ କେ ସପଟ \nବାଜିଲେ ବାଜା ମହୁରୀ \nମେଘରଥେ ବସିକରି \n    ଆଇସି କାଇ ସରଗପୁରିଆ \n    ଛାର୍ ଦିଗେ ଆନ୍ଧାର ହେସି \n           କନବାଟେ ଯିବୁ ଲୁଛି \n            ଜାଗି ରୋରେ ଦୁଇ ଗୋଡ଼ିଆ .....\nTechnology ଏ ଦୁନିୟା Technology....4th..\n\n\n\n\n\n#timatmajhisong\n#viralsong \n#technologyasong\n#christiansong \n#dance \n#trendingsong \n#timatmajhi\n#technologyachristiansong\n#technologytimatmajhisong\n#viralsong\n#christiansong \n#technologyachristiansong\n#timatmajhitechnologyasongs\n#trending \n#christiansong\n\n\n!!* ANTI-PIRACY WARNING *!!\nThis Content is Copyright to Timat Majhi Creation . Any unauthorised reproduction redistribution, re-upload ( audio or video ) is strictly prohibited of this meterial. Legal action will be taken against those who violate this copyright meterial presented.."
+          },
+          "defaultAudioLanguage": "or"
+        },
+        "contentDetails": {
+          "duration": "PT4M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "386131",
+          "likeCount": "15721",
+          "favoriteCount": "0",
+          "commentCount": "1309"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "N6XUk0txaIMtHke91PadfApCnX4",
+        "id": "MBpIM7Ks-Tc",
+        "snippet": {
+          "publishedAt": "2024-08-18T21:47:03Z",
+          "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
+          "title": "Cleaning a Laptop that's GROSS and overheating (HUGE Alienware FAIL) #pc #tech #technology #shorts",
+          "description": "Disgusting Alienware laptop is overheating and needs a deep cleaning. A high performance computer like this Alienware M15 R7 PC needs to be taken care of and maintained or else it will eventually overheat and cook the motherboard. The CPU and GPU on these get very hot and the technology is designed to run cool. Replacing your thermal paste and cleaning your vents regularly is key to protecting your tech",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MBpIM7Ks-Tc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MBpIM7Ks-Tc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MBpIM7Ks-Tc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MBpIM7Ks-Tc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MBpIM7Ks-Tc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Salem Techsperts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cleaning a Laptop that's GROSS and overheating (HUGE Alienware FAIL) #pc #tech #technology #shorts",
+            "description": "Disgusting Alienware laptop is overheating and needs a deep cleaning. A high performance computer like this Alienware M15 R7 PC needs to be taken care of and maintained or else it will eventually overheat and cook the motherboard. The CPU and GPU on these get very hot and the technology is designed to run cool. Replacing your thermal paste and cleaning your vents regularly is key to protecting your tech"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14983531",
+          "likeCount": "693113",
+          "favoriteCount": "0",
+          "commentCount": "3363"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NDL_PI97fWDn-0NrTJoCG8t5BQk",
+        "id": "7jGU0wPOKzc",
+        "snippet": {
+          "publishedAt": "2025-07-07T13:38:24Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "Why you can’t steal from an Apple Store!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7jGU0wPOKzc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7jGU0wPOKzc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7jGU0wPOKzc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7jGU0wPOKzc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7jGU0wPOKzc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Why you can’t steal from an Apple Store!",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "21805584",
+          "likeCount": "861580",
+          "favoriteCount": "0",
+          "commentCount": "8587"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-owulC-Z7eXDOzLj4lEypz8tvnc",
+        "id": "tvNV2MweDJ0",
+        "snippet": {
+          "publishedAt": "2024-08-31T15:46:53Z",
+          "channelId": "UC2_t6GbaEitHjxbHwDbvhRg",
+          "title": "IOT Home Automation #arduino #project #iot #technology #ytshorts #ideas",
+          "description": "IOT Home Automation using arduino esp 8266 #arduino #project #iot #technology #ytshorts #ideas \nComplete video link \n\nhttps://www.youtube.com/watch?v=8QMB6kOGVck\nto buy this project contact us\n9810326343\nxilirprojects.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/tvNV2MweDJ0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "XiLiR Technologies",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "IOT Home Automation #arduino #project #iot #technology #ytshorts #ideas",
+            "description": "IOT Home Automation using arduino esp 8266 #arduino #project #iot #technology #ytshorts #ideas \nComplete video link \n\nhttps://www.youtube.com/watch?v=8QMB6kOGVck\nto buy this project contact us\n9810326343\nxilirprojects.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "421801",
+          "likeCount": "4780",
+          "favoriteCount": "0",
+          "commentCount": "79"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3yaBDOHQ8F2TOIvUw2AAsR_UH1s",
+        "id": "nyjuAqhaPaE",
+        "snippet": {
+          "publishedAt": "2025-03-21T16:01:03Z",
+          "channelId": "UC4b7LRyeMlfVm596Ww0Hf6w",
+          "title": "New Toilet Technology! 🤣😂 (best animation memes) #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Avenu Animations",
+          "tags": [
+            "toilet",
+            "poop",
+            "toilet technology",
+            "automatic poop cleaner",
+            "rico animation",
+            "funny videos",
+            "avenu animation",
+            "funny meme videos"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New Toilet Technology! 🤣😂 (best animation memes) #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7686876",
+          "likeCount": "133841",
+          "favoriteCount": "0",
+          "commentCount": "284"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cDeQmG6ZqXLmJcvIHdjaZGuE12M",
+        "id": "mkcgVN90zl0",
+        "snippet": {
+          "publishedAt": "2025-02-21T14:57:07Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "This Gadget BRICKS Your Phone!",
+          "description": "#shorts #tech #gadgets #socialmedia",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mkcgVN90zl0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mkcgVN90zl0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mkcgVN90zl0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mkcgVN90zl0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mkcgVN90zl0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This Gadget BRICKS Your Phone!",
+            "description": "#shorts #tech #gadgets #socialmedia"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9323947",
+          "likeCount": "518981",
+          "favoriteCount": "0",
+          "commentCount": "4713"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "rz-VtXfSUasswtVa0FJdRpRtwt4",
+        "id": "mvvD21aUYeA",
+        "snippet": {
+          "publishedAt": "2022-09-05T16:54:36Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "5 Sneakiest Tech Pranks EVER 😈",
+          "description": "5 of my Favourite Tech Pranks Ever - If you're enjoying my shorts, a sub to the channel would make my day! 😁\n#shorts #iPhone #pranks #technology",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mvvD21aUYeA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mvvD21aUYeA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mvvD21aUYeA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mvvD21aUYeA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mvvD21aUYeA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "shorts",
+            "tech",
+            "pranks",
+            "prank",
+            "iphone",
+            "android",
+            "phone",
+            "smartphone"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "5 Sneakiest Tech Pranks EVER 😈",
+            "description": "5 of my Favourite Tech Pranks Ever - If you're enjoying my shorts, a sub to the channel would make my day! 😁\n#shorts #iPhone #pranks #technology"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "43163384",
+          "likeCount": "2735839",
+          "favoriteCount": "0",
+          "commentCount": "5453"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y5Wq7SRm7_wDKXqgwxoNukfx_bc",
+        "id": "TaY-jRMbNpk",
+        "snippet": {
+          "publishedAt": "2024-09-29T13:28:57Z",
+          "channelId": "UCXy9a8QpkHVsvAXXaQavx2g",
+          "title": "Huawei Mate XT Hands On! 🔥",
+          "description": "Huawei Mate XT Hands On! 🔥\n\n\n#huaweimatext #huaweimatextreview #huaweimatexthandson #huaweimatextunboxing #huawei #shorts #wetech #new #trending #technology #folding",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TaY-jRMbNpk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TaY-jRMbNpk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TaY-jRMbNpk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TaY-jRMbNpk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TaY-jRMbNpk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "We Tech",
+          "tags": [
+            "huawei mate xt",
+            "huawei mate xt review",
+            "Huawei mate xt unboxing",
+            "huawei mate xt hands on",
+            "huawei",
+            "we tech",
+            "New",
+            "trending",
+            "technology",
+            "folding"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Huawei Mate XT Hands On! 🔥",
+            "description": "Huawei Mate XT Hands On! 🔥\n\n\n#huaweimatext #huaweimatextreview #huaweimatexthandson #huaweimatextunboxing #huawei #shorts #wetech #new #trending #technology #folding"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9874846",
+          "likeCount": "181746",
+          "favoriteCount": "0",
+          "commentCount": "992"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CZN97QFYuO2cQvroTbcCxoavZyQ",
+        "id": "kl9CvjeaddA",
+        "snippet": {
+          "publishedAt": "2021-06-27T11:22:38Z",
+          "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
+          "title": "3 Tech Pranks to drive your friends Crazy 😂",
+          "description": "Do consider subscribing to my Shorts Channel! 👊\nMain Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss#shorts #tech #lifehack #apps",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kl9CvjeaddA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kl9CvjeaddA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kl9CvjeaddA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kl9CvjeaddA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kl9CvjeaddA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss Plus",
+          "tags": [
+            "shorts",
+            "tech",
+            "iphone",
+            "smartphone",
+            "hacks",
+            "pranks",
+            "tips",
+            "tricks",
+            "phone tips"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3 Tech Pranks to drive your friends Crazy 😂",
+            "description": "Do consider subscribing to my Shorts Channel! 👊\nMain Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss#shorts #tech #lifehack #apps"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "29385878",
+          "likeCount": "2093710",
+          "favoriteCount": "0",
+          "commentCount": "7785"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "nrFugVKf1vLuu3kozaMV5NM9u0g",
+        "id": "Uy7rP_rXzv4",
+        "snippet": {
+          "publishedAt": "2024-09-06T20:13:48Z",
+          "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
+          "title": "Cleaning a Lenovo Legion laptop to fix overheating #tech #pc #technology #shorts",
+          "description": "The Lenovo Legion is actually a great gaming laptop packed with high performance technology that's super easy to work on. But every portable gaming PC needs a tech cleaning once in a while, and this computer is no exception. This is not the dirtiest laptop I've ever worked on, but given these fan blades are so close together, I think I'll be seeing more of these in my computer repair shop going forward.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Uy7rP_rXzv4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Uy7rP_rXzv4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Uy7rP_rXzv4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Uy7rP_rXzv4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Uy7rP_rXzv4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Salem Techsperts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cleaning a Lenovo Legion laptop to fix overheating #tech #pc #technology #shorts",
+            "description": "The Lenovo Legion is actually a great gaming laptop packed with high performance technology that's super easy to work on. But every portable gaming PC needs a tech cleaning once in a while, and this computer is no exception. This is not the dirtiest laptop I've ever worked on, but given these fan blades are so close together, I think I'll be seeing more of these in my computer repair shop going forward."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3922365",
+          "likeCount": "205744",
+          "favoriteCount": "0",
+          "commentCount": "1596"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "T5nlHhwhBE-C1mjlgNRTaGRQVAU",
+        "id": "ie-Bj_xcYQI",
+        "snippet": {
+          "publishedAt": "2024-09-03T14:01:52Z",
+          "channelId": "UCKz-UXfYrVwtga-Th6DhHdg",
+          "title": "2025 New Smartphone 🔥#smartphone #china #ytshorts #factsinhindi",
+          "description": "2025 New Smartphone 🔥#smartphone #china #ytshorts #factsinhindi\n#universe #technology #ai",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ie-Bj_xcYQI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ie-Bj_xcYQI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ie-Bj_xcYQI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ie-Bj_xcYQI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ie-Bj_xcYQI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "UNSEEN FACTS ",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2025 New Smartphone 🔥#smartphone #china #ytshorts #factsinhindi",
+            "description": "2025 New Smartphone 🔥#smartphone #china #ytshorts #factsinhindi\n#universe #technology #ai"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "211641",
+          "likeCount": "1730",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pECnQInZdw1P41_M6p-XE_AEov0",
+        "id": "iPJfSknuO8I",
+        "snippet": {
+          "publishedAt": "2025-05-07T09:45:42Z",
+          "channelId": "UCKeYOr6dVjJR8dUYNqDUr4Q",
+          "title": "I'm the best technology moment ☠️",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iPJfSknuO8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iPJfSknuO8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iPJfSknuO8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iPJfSknuO8I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iPJfSknuO8I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Goat Saga",
+          "tags": [
+            "Troll face",
+            "troll face edit",
+            "trending edit"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "I'm the best technology moment ☠️",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "510741",
+          "likeCount": "6620",
+          "favoriteCount": "0",
+          "commentCount": "33"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3ilKnT3lMobaWiqr0me9-VNUySw",
+        "id": "KCeEjhDMIv4",
+        "snippet": {
+          "publishedAt": "2023-07-15T07:18:44Z",
+          "channelId": "UCbOPjvzbp1Jcybw2xegLxeQ",
+          "title": "Samsung S22Ultra screen quality display. #Samsung #reel #reels #s23ultra",
+          "description": "Instagram - https://www.instagram.com/techcave_\n\nCopyright Disclaimer- Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright status that might otherwise be infringing \n#shorts  #short #tech #phone #techcave tech shorts,\ntech shorts video,\ntech shorts telugu,\ntech shorts channel,\ntech shorts hindi,\ntech shorts english,\ntech shorts creator,\ntech shorts ai\nunboxing shorts,\nunboxing shorts asmr,\nunboxing shorts video,\nunboxing shorts channel,\nunboxing shorts music,\nunboxing shorts song,\nunboxing shorts tamil,\nunboxing shorts mobile,\nunboxing shorts malayalam\ntech,\ntechno gamerz,\ntechnoblade,\ntechnoblade never dies,\ntechno,\ntech burner\ngsmarena,\ngsmarena official,\ngsmarena s23 ultra,\ngsmarena iphone 14,\ngsmarena iphone 14 pro max\n#shorts #shortsfeed #shortsvideo #shortsviral #shortsmaschallenge",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Cave",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Samsung S22Ultra screen quality display. #Samsung #reel #reels #s23ultra",
+            "description": "Instagram - https://www.instagram.com/techcave_\n\nCopyright Disclaimer- Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright status that might otherwise be infringing \n#shorts  #short #tech #phone #techcave tech shorts,\ntech shorts video,\ntech shorts telugu,\ntech shorts channel,\ntech shorts hindi,\ntech shorts english,\ntech shorts creator,\ntech shorts ai\nunboxing shorts,\nunboxing shorts asmr,\nunboxing shorts video,\nunboxing shorts channel,\nunboxing shorts music,\nunboxing shorts song,\nunboxing shorts tamil,\nunboxing shorts mobile,\nunboxing shorts malayalam\ntech,\ntechno gamerz,\ntechnoblade,\ntechnoblade never dies,\ntechno,\ntech burner\ngsmarena,\ngsmarena official,\ngsmarena s23 ultra,\ngsmarena iphone 14,\ngsmarena iphone 14 pro max\n#shorts #shortsfeed #shortsvideo #shortsviral #shortsmaschallenge"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "175200883",
+          "likeCount": "1387234",
+          "favoriteCount": "0",
+          "commentCount": "7108"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gZExqPqIXG1FYIxjRZEdN0Ew7rc",
+        "id": "Pl7TYh055xY",
+        "snippet": {
+          "publishedAt": "2024-07-12T20:25:07Z",
+          "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
+          "title": "Overheating Alienware #gaming laptop (this is BAD) #tech #pc #technology #shorts",
+          "description": "The CPU and GPU heatsink on this Alienware gaming laptop were destroyed by someone trying to repair it themselves because it was overheating. Now it's overheating even worse and I'm going to fix it in my computer repair shop by replacing the broken heatsink.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Pl7TYh055xY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Pl7TYh055xY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Pl7TYh055xY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Pl7TYh055xY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Pl7TYh055xY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Salem Techsperts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Overheating Alienware #gaming laptop (this is BAD) #tech #pc #technology #shorts",
+            "description": "The CPU and GPU heatsink on this Alienware gaming laptop were destroyed by someone trying to repair it themselves because it was overheating. Now it's overheating even worse and I'm going to fix it in my computer repair shop by replacing the broken heatsink."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5282041",
+          "likeCount": "305017",
+          "favoriteCount": "0",
+          "commentCount": "1142"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3TflG_vWrcK6nagvvEdxJ4mKdkA",
+        "id": "qqeZ5Hcw1Tg",
+        "snippet": {
+          "publishedAt": "2024-12-25T18:31:43Z",
+          "channelId": "UC22rU-oXsRzoBqM71k13icA",
+          "title": "Meanwhile Android 💀",
+          "description": "#trollface #troll #editing #trending #zqotiz #viralshorts #phonk #aura #sigma #explore #fun #funk #viral #edits #zqotizedits #shorts #edit #fyp #youtubeshorts #entertainment\n\n#apple #iphone #android #phone #features #applefeatures #foldingphone #mobile #blast #charging #handcrankcharger #skulledit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qqeZ5Hcw1Tg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qqeZ5Hcw1Tg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qqeZ5Hcw1Tg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qqeZ5Hcw1Tg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qqeZ5Hcw1Tg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": " ZQotiz",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Meanwhile Android 💀",
+            "description": "#trollface #troll #editing #trending #zqotiz #viralshorts #phonk #aura #sigma #explore #fun #funk #viral #edits #zqotizedits #shorts #edit #fyp #youtubeshorts #entertainment\n\n#apple #iphone #android #phone #features #applefeatures #foldingphone #mobile #blast #charging #handcrankcharger #skulledit"
+          },
+          "defaultAudioLanguage": "ko"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "66581769",
+          "likeCount": "1731507",
+          "favoriteCount": "0",
+          "commentCount": "10898"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CHH8C5aTDo-GN4YtyaMcWWpyHv0",
+        "id": "653lN9zARjc",
+        "snippet": {
+          "publishedAt": "2022-09-09T15:07:05Z",
+          "channelId": "UCZSlfzadjnw7G419c_OJ9eg",
+          "title": "4 SPY gadgets to keep you Undercover!",
+          "description": "Do consider subscribing to my Main Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss\n#shorts #tech #gadgets",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/653lN9zARjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/653lN9zARjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/653lN9zARjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/653lN9zARjc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Mrwhosetheboss Plus",
+          "tags": [
+            "shorts",
+            "tech",
+            "iphone",
+            "smartphone",
+            "hacks",
+            "mrwhosetheboss",
+            "gadgets",
+            "spy gadgets"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "4 SPY gadgets to keep you Undercover!",
+            "description": "Do consider subscribing to my Main Mrwhosetheboss YouTube Channel: https://www.youtube.com/user/Mrwhosetheboss\n#shorts #tech #gadgets"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT45S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "37561242",
+          "likeCount": "2347924",
+          "favoriteCount": "0",
+          "commentCount": "4775"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Zzr_PZp6Kl1FztG68tAHMmCG48Y",
+        "id": "aDt7WrHTnYw",
+        "snippet": {
+          "publishedAt": "2025-06-28T13:32:21Z",
+          "channelId": "UCew68ead-ICUgtnvaLwLbTQ",
+          "title": "Other Technology vs The Last One 🧠💡| #edit #technology #newyork #usa",
+          "description": "Note: This video uses edited clips from a source, which I’ve credited below. If you’re the creator of any clip and have concerns, please contact me, and I will remove the content upon request.\n\nThis video is for entertainment and educational purposes only and is not intended to misrepresent or cause harm.\n\nClips Source:\n-\n\n#edit #viral #interesting #skulledit #crazyedit #usa #usacontent #newyork",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aDt7WrHTnYw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aDt7WrHTnYw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aDt7WrHTnYw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aDt7WrHTnYw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aDt7WrHTnYw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Viral Burnz",
+          "tags": [
+            "edit",
+            "technology",
+            "trollface",
+            "usa"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Other Technology vs The Last One 🧠💡| #edit #technology #newyork #usa",
+            "description": "Note: This video uses edited clips from a source, which I’ve credited below. If you’re the creator of any clip and have concerns, please contact me, and I will remove the content upon request.\n\nThis video is for entertainment and educational purposes only and is not intended to misrepresent or cause harm.\n\nClips Source:\n-\n\n#edit #viral #interesting #skulledit #crazyedit #usa #usacontent #newyork"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9035099",
+          "favoriteCount": "0",
+          "commentCount": "213"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "llYU848xiRXxGjK6JiNvYRZQaQo",
+        "id": "FelN4AKUfJI",
+        "snippet": {
+          "publishedAt": "2025-08-18T11:23:16Z",
+          "channelId": "UC6kQEWSaE9yUhxprj5_jbXw",
+          "title": "Top 3 Best Useful Chinese Gadgets #tech #gadgets #short",
+          "description": "I'm going to tell you about three Chinese gadgets that are useless to me but might be 100% useful to you. These gadgets look ordinary, but their functions will amaze you.\n1:Best Chinese Gadgets\n2:Made in China\n3:New Chinese Gadgets\n4:Innovative Gadgets 2024\n5:Life-Hacking Gadgets\n6:Technology Gadgets\n7:New Tech\n8:Unique and Affordable Gadgets\n9:Online Shopping\n10Top Chinese Inventions\n\nThanks for watching ❤️",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FelN4AKUfJI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FelN4AKUfJI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FelN4AKUfJI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FelN4AKUfJI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FelN4AKUfJI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GUFRAN TECH ",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Top 3 Best Useful Chinese Gadgets #tech #gadgets #short",
+            "description": "I'm going to tell you about three Chinese gadgets that are useless to me but might be 100% useful to you. These gadgets look ordinary, but their functions will amaze you.\n1:Best Chinese Gadgets\n2:Made in China\n3:New Chinese Gadgets\n4:Innovative Gadgets 2024\n5:Life-Hacking Gadgets\n6:Technology Gadgets\n7:New Tech\n8:Unique and Affordable Gadgets\n9:Online Shopping\n10Top Chinese Inventions\n\nThanks for watching ❤️"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "803510",
+          "likeCount": "45587",
+          "favoriteCount": "0",
+          "commentCount": "104"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tv5KqooT7v_TZqZ8MBz9M_BrreU",
+        "id": "qxRxcaPoYpQ",
+        "snippet": {
+          "publishedAt": "2025-08-19T10:26:41Z",
+          "channelId": "UC6kQEWSaE9yUhxprj5_jbXw",
+          "title": "Top 3 most expensive and laxury mobile phone #tech #gadgets #short",
+          "description": "​I'm going to tell you about three very expensive mobile phones that not everyone can afford, and they look very cool.\nLooking for the top best, most expensive, and luxury mobile phones? These aren't just gadgets—they are status symbols of a high-end lifestyle. Brands like Vertu, Caviar, and Falcon Supernova craft these phones using precious jewels, rare diamonds, gold, and platinum, transforming them into a true form of luxury tech. These are the ultimate cool gadgets for those who appreciate exclusive phones and a level of artistry that goes beyond a regular device.\n📌Copyright Disclaimer: - \nUnder section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.\n\nThanks for watching ❤️",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qxRxcaPoYpQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qxRxcaPoYpQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qxRxcaPoYpQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qxRxcaPoYpQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qxRxcaPoYpQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GUFRAN TECH ",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Top 3 most expensive and laxury mobile phone #tech #gadgets #short",
+            "description": "​I'm going to tell you about three very expensive mobile phones that not everyone can afford, and they look very cool.\nLooking for the top best, most expensive, and luxury mobile phones? These aren't just gadgets—they are status symbols of a high-end lifestyle. Brands like Vertu, Caviar, and Falcon Supernova craft these phones using precious jewels, rare diamonds, gold, and platinum, transforming them into a true form of luxury tech. These are the ultimate cool gadgets for those who appreciate exclusive phones and a level of artistry that goes beyond a regular device.\n📌Copyright Disclaimer: - \nUnder section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.\n\nThanks for watching ❤️"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5026951",
+          "likeCount": "308545",
+          "favoriteCount": "0",
+          "commentCount": "516"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GYs2XNP48pIOz0kTW3QlybtRmqU",
+        "id": "CucYyHBcKsQ",
+        "snippet": {
+          "publishedAt": "2025-09-14T10:52:28Z",
+          "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+          "title": "The immersive technology helping patients and surgeons prepare for operations | BBC News",
+          "description": "Neurosurgeons are now using mixed reality technology to prepare for operations.\n \nAnd BBC Tech Now’s Lara Lewington has met the medical teams using immersive tech - such as 3D models of patient scans to practice ahead of operations - to better explain treatment to patients.\n \nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#Technology #Surgery #BBCNews",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CucYyHBcKsQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CucYyHBcKsQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CucYyHBcKsQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CucYyHBcKsQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CucYyHBcKsQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BBC News",
+          "tags": [
+            "bbc",
+            "bbc news",
+            "news",
+            "world news",
+            "breaking news",
+            "us news",
+            "world",
+            "america",
+            "usa",
+            "usa news",
+            "india news"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The immersive technology helping patients and surgeons prepare for operations | BBC News",
+            "description": "Neurosurgeons are now using mixed reality technology to prepare for operations.\n \nAnd BBC Tech Now’s Lara Lewington has met the medical teams using immersive tech - such as 3D models of patient scans to practice ahead of operations - to better explain treatment to patients.\n \nSubscribe here: http://bit.ly/1rbfUog\n\nFor more news, analysis and features visit: www.bbc.com/news \n\n#Technology #Surgery #BBCNews"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT5M43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "39879",
+          "likeCount": "445",
+          "favoriteCount": "0",
+          "commentCount": "61"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AeZFjp_ms0wXbCSi9Zn3F0fxpg4",
+        "id": "3b-20XM_09Y",
+        "snippet": {
+          "publishedAt": "2024-12-23T13:00:09Z",
+          "channelId": "UCOmcA3f_RrH6b9NmcNa4tdg",
+          "title": "Tech that Died in 2024",
+          "description": "Nothing in tech lasts forever. CNET's Bridget Carey says goodbye to the tech gadgets and services that vanished from our lives in 2024.\n\n0:32 Fossil Smartwatch\n0:49 Apple Products\n1:48 RedBox\n1:58 ICQ\n2:17 Google Products\n3:17 Meta AI Chatbots\n3:30 Snap Pixy\n3:40 Spotify CarThing\n4:00 Atlas Robot\n4:36 Moxie Robot\n\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nNever miss a deal again! See CNET’s browser extension 👉 https://bit.ly/3lO7sOU\nCheck out CNET’s Amazon Storefront: https://www.amazon.com/shop/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet/\nFollow us on X: https://www.x.com/cnet\nLike us on Facebook: https://www.facebook.com/cnet\nCNET's AI Atlas: https://www.cnet.com/ai-atlas/\nVisit CNET.com:  https://www.cnet.com/\n\n#tech #rip #technews #dead",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3b-20XM_09Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3b-20XM_09Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3b-20XM_09Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3b-20XM_09Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3b-20XM_09Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CNET",
+          "tags": [
+            "CNET",
+            "Technology",
+            "tech",
+            "Tech Devices",
+            "tech that died",
+            "rip",
+            "Fossil Smartwatch",
+            "RedBox",
+            "ICQ",
+            "Meta AI Chatbots",
+            "Snap Pixy",
+            "Spotify CarThing",
+            "Atlas Robot",
+            "Moxie Robot",
+            "rip tech",
+            "tech products that died",
+            "discontinued",
+            "discontinued tech",
+            "tech discontinued"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tech that Died in 2024",
+            "description": "Nothing in tech lasts forever. CNET's Bridget Carey says goodbye to the tech gadgets and services that vanished from our lives in 2024.\n\n0:32 Fossil Smartwatch\n0:49 Apple Products\n1:48 RedBox\n1:58 ICQ\n2:17 Google Products\n3:17 Meta AI Chatbots\n3:30 Snap Pixy\n3:40 Spotify CarThing\n4:00 Atlas Robot\n4:36 Moxie Robot\n\nSubscribe to CNET on YouTube: https://www.youtube.com/cnet\nNever miss a deal again! See CNET’s browser extension 👉 https://bit.ly/3lO7sOU\nCheck out CNET’s Amazon Storefront: https://www.amazon.com/shop/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet/\nFollow us on X: https://www.x.com/cnet\nLike us on Facebook: https://www.facebook.com/cnet\nCNET's AI Atlas: https://www.cnet.com/ai-atlas/\nVisit CNET.com:  https://www.cnet.com/\n\n#tech #rip #technews #dead"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "759832",
+          "likeCount": "20461",
+          "favoriteCount": "0",
+          "commentCount": "1594"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

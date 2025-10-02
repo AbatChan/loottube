@@ -1,0 +1,3339 @@
+{
+  "timestamp": 1758121940419,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "wwxlgdp-NOhrZ30MFtD6d6C13-s",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "iz3fhqE8wEnH3J3pw2Vug-KVrcg",
+        "id": "mjFh5NOGopw",
+        "snippet": {
+          "publishedAt": "2025-09-13T10:38:39Z",
+          "channelId": "UCA_6H_DpAQma7PA0XHmevYw",
+          "title": "The secret of happiness.",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mjFh5NOGopw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mjFh5NOGopw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mjFh5NOGopw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mjFh5NOGopw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mjFh5NOGopw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ReelBound",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The secret of happiness.",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "15942482",
+          "likeCount": "1067276",
+          "favoriteCount": "0",
+          "commentCount": "4321"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gNLAIg6PyxRxWjAE4wn-gmwJtGw",
+        "id": "VQj2T2Snehc",
+        "snippet": {
+          "publishedAt": "2025-09-13T20:45:01Z",
+          "channelId": "UCUKjMvuyYEkiooIqqICgV3g",
+          "title": "Wait a Minute… #movie #film",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VQj2T2Snehc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VQj2T2Snehc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VQj2T2Snehc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VQj2T2Snehc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VQj2T2Snehc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Movieprison",
+          "tags": [
+            "The",
+            "vs",
+            "series",
+            "movie",
+            "movies",
+            "film",
+            "films",
+            "filmes",
+            "tv",
+            "tv series",
+            "movie recommendation",
+            "movie suggestion",
+            "movie recommendations",
+            "series recommendation",
+            "TV series recommendation",
+            "TV series suggestion",
+            "marvel",
+            "avengers",
+            "end game",
+            "infinity war",
+            "show",
+            "edits",
+            "videos",
+            "video",
+            "edit",
+            "animated",
+            "animatedd movie",
+            "thor",
+            "hulk",
+            "hulk vs",
+            "thor vs",
+            "captain",
+            "captain vs",
+            "captain america",
+            "ironman",
+            "ironman vs",
+            "dc",
+            "marvel vs",
+            "comedy",
+            "komedy",
+            "comedy movie",
+            "A Million Ways to Die in the West",
+            "stan",
+            "big stan",
+            "2007",
+            "old movie"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "tr",
+          "localized": {
+            "title": "Wait a Minute… #movie #film",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10792870",
+          "likeCount": "769153",
+          "favoriteCount": "0",
+          "commentCount": "2907"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PRa47IS9lm0FkvsQfePiJcZ1aTY",
+        "id": "78uKwlZBSss",
+        "snippet": {
+          "publishedAt": "2025-09-10T16:00:14Z",
+          "channelId": "UC2VXJ9HG7YhjmYCNJPO-2Kw",
+          "title": "Like Mike(2002) | Exchange of blows | Movie Recap | #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/78uKwlZBSss/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/78uKwlZBSss/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/78uKwlZBSss/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/78uKwlZBSss/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/78uKwlZBSss/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Don Lodov",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Like Mike(2002) | Exchange of blows | Movie Recap | #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14928326",
+          "likeCount": "888403",
+          "favoriteCount": "0",
+          "commentCount": "1383"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mcHLQjTs8hm5Xwoq1xQMBbj70bc",
+        "id": "sXSatkz3Kqc",
+        "snippet": {
+          "publishedAt": "2025-09-13T15:52:22Z",
+          "channelId": "UCPCqhh-cfVnLWO82TE_OVJw",
+          "title": "#Tubi Movies Be Like 😂🤣😂🤣 #trendingshorts #shortsfeed #funny #shorts #shortsyoutube #tubimovies",
+          "description": "Movie 🎥 “ No Disrespect “ on #tubi 😂🤣😂 Hood classic 2025\n\n\nFor Business : CapCityKreations@gmail.com\n\nFOLLOW US ON SOCIAL\nGet updates or reach out to Get updates on our Social Media Profiles!\n\nTik Tok\nhttps://www.tiktok.com/@chocolatetybeat\n\nTwitter: https://twitter.com/ChocolateTyBeat\n\nFacebook: https://facebook.com/ChocolateTyOnDaBeat\n\nInstagram: https://instagram.com/ChocolateTyBeat\n\nApple  Music Page https://music.apple.com/us/artist/chocolate-ty-beats/1350610073",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sXSatkz3Kqc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sXSatkz3Kqc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sXSatkz3Kqc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sXSatkz3Kqc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sXSatkz3Kqc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Chocolate Ty Beats",
+          "tags": [
+            "#Tubi",
+            "#Funny",
+            "#movie",
+            "#lowbudget"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "#Tubi Movies Be Like 😂🤣😂🤣 #trendingshorts #shortsfeed #funny #shorts #shortsyoutube #tubimovies",
+            "description": "Movie 🎥 “ No Disrespect “ on #tubi 😂🤣😂 Hood classic 2025\n\n\nFor Business : CapCityKreations@gmail.com\n\nFOLLOW US ON SOCIAL\nGet updates or reach out to Get updates on our Social Media Profiles!\n\nTik Tok\nhttps://www.tiktok.com/@chocolatetybeat\n\nTwitter: https://twitter.com/ChocolateTyBeat\n\nFacebook: https://facebook.com/ChocolateTyOnDaBeat\n\nInstagram: https://instagram.com/ChocolateTyBeat\n\nApple  Music Page https://music.apple.com/us/artist/chocolate-ty-beats/1350610073"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6232302",
+          "likeCount": "402460",
+          "favoriteCount": "0",
+          "commentCount": "6885"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6qaAfaxDBXm7XSJiSKxE5qYDx38",
+        "id": "1k6QoLCpQU8",
+        "snippet": {
+          "publishedAt": "2025-09-13T04:13:43Z",
+          "channelId": "UCovNifr7ch37jKppqKP3hEA",
+          "title": "when i am about to win an argument with my gf 🤣🤣",
+          "description": "The Big Bang Theory is a sitcom that revolves around a group of socially awkward scientists whose lives take a humorous turn when a free-spirited aspiring actress, Penny, moves in next door. At its heart, the show is about unlikely friendships, quirky personalities, and how people from completely different worlds can connect in surprisingly meaningful ways. The scientific jargon and nerdy references add charm without alienating viewers, making it both smart and accessible.\n\nWhat really sets the show apart is the evolution of its characters - especially Sheldon Cooper, whose rigid routines and lack of social cues are balanced by moments of emotional growth that feel earned, not forced. As relationships develop and the group matures, the humor remains consistent, but the show quietly explores themes of belonging, love, and personal change. It's a series that starts with jokes about physics and ends with heartfelt reflections on how much people can grow.\n\n#trendingshorts\n\n#funny\n\n#viralshort\n\n#fypyoutube #\n\n#subscribemychannel\n\n#modernfamily\n\n#sofia\n\n#youngsheldon\n\n#sheldoncooper\n\n#sitcom\n\n#comedy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1k6QoLCpQU8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1k6QoLCpQU8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1k6QoLCpQU8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1k6QoLCpQU8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1k6QoLCpQU8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cinnabun",
+          "tags": [
+            "ytshort",
+            "subscribe",
+            "fyp",
+            "trending shorts",
+            "viralshort",
+            "modern family",
+            "sofia",
+            "Big bang theory",
+            "young sheldon",
+            "sheldon Cooper",
+            "funny",
+            "comedy",
+            "sitcom"
+          ],
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "when i am about to win an argument with my gf 🤣🤣",
+            "description": "The Big Bang Theory is a sitcom that revolves around a group of socially awkward scientists whose lives take a humorous turn when a free-spirited aspiring actress, Penny, moves in next door. At its heart, the show is about unlikely friendships, quirky personalities, and how people from completely different worlds can connect in surprisingly meaningful ways. The scientific jargon and nerdy references add charm without alienating viewers, making it both smart and accessible.\n\nWhat really sets the show apart is the evolution of its characters - especially Sheldon Cooper, whose rigid routines and lack of social cues are balanced by moments of emotional growth that feel earned, not forced. As relationships develop and the group matures, the humor remains consistent, but the show quietly explores themes of belonging, love, and personal change. It's a series that starts with jokes about physics and ends with heartfelt reflections on how much people can grow.\n\n#trendingshorts\n\n#funny\n\n#viralshort\n\n#fypyoutube #\n\n#subscribemychannel\n\n#modernfamily\n\n#sofia\n\n#youngsheldon\n\n#sheldoncooper\n\n#sitcom\n\n#comedy"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5333504",
+          "favoriteCount": "0",
+          "commentCount": "1059"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "y48LCIzSJVsvOsEQjcxoQHR6AwA",
+        "id": "rNdhQZ3Fi9w",
+        "snippet": {
+          "publishedAt": "2025-09-13T08:00:56Z",
+          "channelId": "UC5yVeWxC5dQd1CNq4naTBAw",
+          "title": "The very definition of a life-changing call  📞",
+          "description": "In The Money,  Damien is in deep trouble with debts, taken hostage by two heavies, tied to a chair, about to face a grim fate. Just when all seems lost, the phone rings.\n\nThis sharp, darkly funny short grabbed the Tropfest 2004 crown, and it’s still incredible today. \n\n‘The Money’ \n🎬 Directed by Gary Eck\n\nYour Story Belongs Here - Enter Tropfest for your shot at $100K+ in prizes - www.tropfest.com\n\n⸻\nFor More Tropfest: \nhttps://www.tiktok.com/@tropfestofficial\nhttps://www.instagram.com/tropfest \nhttps://www.facebook.com/tropfest\nwww.tropfest.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rNdhQZ3Fi9w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rNdhQZ3Fi9w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rNdhQZ3Fi9w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rNdhQZ3Fi9w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rNdhQZ3Fi9w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TROPFEST",
+          "tags": [
+            "Tropfest",
+            "Tropfest short films",
+            "short film festival",
+            "best short films",
+            "emerging filmmakers",
+            "film competition",
+            "indie films",
+            "filmmaker spotlight",
+            "storytelling",
+            "film awards",
+            "Australian film festival",
+            "Tropfest Australia",
+            "student films",
+            "creative shorts",
+            "festival winners",
+            "cinematic stories",
+            "short movie showcase",
+            "filmmaker interviews",
+            "global short films",
+            "comedy",
+            "short film",
+            "funny short film",
+            "dark comedy",
+            "viral short film",
+            "Who Wants To Be A Millionaire",
+            "eddie mcguire",
+            "Eddie McGuire"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The very definition of a life-changing call  📞",
+            "description": "In The Money,  Damien is in deep trouble with debts, taken hostage by two heavies, tied to a chair, about to face a grim fate. Just when all seems lost, the phone rings.\n\nThis sharp, darkly funny short grabbed the Tropfest 2004 crown, and it’s still incredible today. \n\n‘The Money’ \n🎬 Directed by Gary Eck\n\nYour Story Belongs Here - Enter Tropfest for your shot at $100K+ in prizes - www.tropfest.com\n\n⸻\nFor More Tropfest: \nhttps://www.tiktok.com/@tropfestofficial\nhttps://www.instagram.com/tropfest \nhttps://www.facebook.com/tropfest\nwww.tropfest.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5697550",
+          "likeCount": "566566",
+          "favoriteCount": "0",
+          "commentCount": "3693"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ROzNuyNb3wT52c9fiaL1izOy5UY",
+        "id": "LvDEU1G8L-M",
+        "snippet": {
+          "publishedAt": "2025-09-15T17:30:05Z",
+          "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
+          "title": "If Earth Had Just One Man Left 😳",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LvDEU1G8L-M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LvDEU1G8L-M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LvDEU1G8L-M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LvDEU1G8L-M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LvDEU1G8L-M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zack D. Films",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "If Earth Had Just One Man Left 😳",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5861229",
+          "likeCount": "757893",
+          "favoriteCount": "0",
+          "commentCount": "11627"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aklXRYi5YqeAzGAbDZb_bdNgHyE",
+        "id": "qwszzUm0R8Q",
+        "snippet": {
+          "publishedAt": "2025-09-15T16:47:01Z",
+          "channelId": "UCPw9YKJv-iVBLPEbt_pBNGA",
+          "title": "Michael caine on John Wayne's advice",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qwszzUm0R8Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qwszzUm0R8Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qwszzUm0R8Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qwszzUm0R8Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qwszzUm0R8Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Artist on art ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Michael caine on John Wayne's advice",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2395508",
+          "likeCount": "95361",
+          "favoriteCount": "0",
+          "commentCount": "539"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "I0IYgh4I3Nkmfkf0sYhc1owjvlw",
+        "id": "dYpF3Io0Yn4",
+        "snippet": {
+          "publishedAt": "2025-09-12T10:01:11Z",
+          "channelId": "UCRRo9L1DiAx1qb7U0w71xhA",
+          "title": "Happy Ghost II (1985) | This teacher's IQ is over 200🧠🤪💫",
+          "description": "When we talk about classic Hong Kong comedies from the 80s, the Happy Ghost series is definitely on the list 👻✨. Released in 1985, Happy Ghost II carries on the playful spirit of the first film, while adding more high school chaos, friendship, and even a touch of bittersweet emotion 😢.\n\nThe main character, of course, is the “Happy Ghost” 👻 — not a terrifying spirit from horror films, but a clumsy, old-fashioned scholar ghost 😅. This time, he accidentally gets mixed up with a group of lively high school girls 💃🎀.\n\nAt the beginning, the girls are full of energy ✨, pulling pranks and making trouble 🤪🎯. Just as they’re cooking up another prank, the Happy Ghost appears! At first, they’re shocked 🙀🤔, but soon they realize he’s not scary at all — he’s actually hilarious 😂.\n\nThe Happy Ghost tries to help them study 📚✏️, but his outdated knowledge only makes things worse 🤦‍♂️📜. He offers “life advice” in a stiff, traditional way, leaving the girls speechless 🙃. Yet, little by little, they grow fond of him. He’s not just a ghost — he becomes their friend, sometimes even like a clumsy parent ❤️✨.\n\nThe movie isn’t just comedy, though. Beneath the laughter lies a touch of melancholy 🌙💔. The Happy Ghost knows deep down he doesn’t belong in the world of the living. Watching the young girls, he feels both the joy of youth and the loneliness of being left out 😢🍂.\n\nOne particularly touching moment 💡 is when the girls face school stress and family troubles. The Happy Ghost awkwardly tries to comfort them. His words may not be perfect, but the girls feel his care — and that’s enough 💞✨. It’s in moments like these that the film sneaks in a surprising bit of heart.\n\nBy the end, the story wraps up with warmth and humor 🎬. The girls grow stronger, learning about courage and friendship, while the Happy Ghost finds peace in helping them. The message is clear: life is always a mix of laughter and hardship 🤹‍♀️💫, but kindness can light the way 🌟.\n\nIn short, Happy Ghost II is both a campus comedy and a heartwarming story 🍬🥀. It makes you laugh till your stomach hurts 🤣💥, but also invites you to pause and reflect 🌌✨. That’s why even decades later, it remains unforgettable.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dYpF3Io0Yn4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dYpF3Io0Yn4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dYpF3Io0Yn4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dYpF3Io0Yn4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dYpF3Io0Yn4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Moonlight Flim",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Happy Ghost II (1985) | This teacher's IQ is over 200🧠🤪💫",
+            "description": "When we talk about classic Hong Kong comedies from the 80s, the Happy Ghost series is definitely on the list 👻✨. Released in 1985, Happy Ghost II carries on the playful spirit of the first film, while adding more high school chaos, friendship, and even a touch of bittersweet emotion 😢.\n\nThe main character, of course, is the “Happy Ghost” 👻 — not a terrifying spirit from horror films, but a clumsy, old-fashioned scholar ghost 😅. This time, he accidentally gets mixed up with a group of lively high school girls 💃🎀.\n\nAt the beginning, the girls are full of energy ✨, pulling pranks and making trouble 🤪🎯. Just as they’re cooking up another prank, the Happy Ghost appears! At first, they’re shocked 🙀🤔, but soon they realize he’s not scary at all — he’s actually hilarious 😂.\n\nThe Happy Ghost tries to help them study 📚✏️, but his outdated knowledge only makes things worse 🤦‍♂️📜. He offers “life advice” in a stiff, traditional way, leaving the girls speechless 🙃. Yet, little by little, they grow fond of him. He’s not just a ghost — he becomes their friend, sometimes even like a clumsy parent ❤️✨.\n\nThe movie isn’t just comedy, though. Beneath the laughter lies a touch of melancholy 🌙💔. The Happy Ghost knows deep down he doesn’t belong in the world of the living. Watching the young girls, he feels both the joy of youth and the loneliness of being left out 😢🍂.\n\nOne particularly touching moment 💡 is when the girls face school stress and family troubles. The Happy Ghost awkwardly tries to comfort them. His words may not be perfect, but the girls feel his care — and that’s enough 💞✨. It’s in moments like these that the film sneaks in a surprising bit of heart.\n\nBy the end, the story wraps up with warmth and humor 🎬. The girls grow stronger, learning about courage and friendship, while the Happy Ghost finds peace in helping them. The message is clear: life is always a mix of laughter and hardship 🤹‍♀️💫, but kindness can light the way 🌟.\n\nIn short, Happy Ghost II is both a campus comedy and a heartwarming story 🍬🥀. It makes you laugh till your stomach hurts 🤣💥, but also invites you to pause and reflect 🌌✨. That’s why even decades later, it remains unforgettable."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "68706465",
+          "likeCount": "3691777",
+          "favoriteCount": "0",
+          "commentCount": "6355"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2-HI0NdVxajiGoxfRLg06S9tY8o",
+        "id": "-zvKjtzm4iM",
+        "snippet": {
+          "publishedAt": "2025-09-13T03:00:02Z",
+          "channelId": "UCJBBqGGHmo84rSoRDBWA3Uw",
+          "title": "In X-Men: The Last Stand (2006), Mystique’s Betrayal by Magneto",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-zvKjtzm4iM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-zvKjtzm4iM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-zvKjtzm4iM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-zvKjtzm4iM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-zvKjtzm4iM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Memelogyz",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "In X-Men: The Last Stand (2006), Mystique’s Betrayal by Magneto",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3576972",
+          "likeCount": "142782",
+          "favoriteCount": "0",
+          "commentCount": "492"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "r73e6A2hoN1imuPjg_TLu_-jftY",
+        "id": "lpzJGkft0mE",
+        "snippet": {
+          "publishedAt": "2025-09-11T22:57:14Z",
+          "channelId": "UCR8d9uFM4kYG6hfzpz-hM_g",
+          "title": "People in the Western World are such a freaks like what is that🙈🙈😬😬🏃🏃😆😅🥹",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lpzJGkft0mE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lpzJGkft0mE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lpzJGkft0mE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lpzJGkft0mE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lpzJGkft0mE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Let’s Talk About It With Nahnyah",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "People in the Western World are such a freaks like what is that🙈🙈😬😬🏃🏃😆😅🥹",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9863148",
+          "likeCount": "309898",
+          "favoriteCount": "0",
+          "commentCount": "4138"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vgBF6066T8adZ395e-tsIi9-3O0",
+        "id": "cm0O5s_RAZ0",
+        "snippet": {
+          "publishedAt": "2025-09-10T10:43:00Z",
+          "channelId": "UCjc3cDq44tc5e0ULPikEqbA",
+          "title": "One of the stories you shouldn't miss.#shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cm0O5s_RAZ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cm0O5s_RAZ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cm0O5s_RAZ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cm0O5s_RAZ0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cm0O5s_RAZ0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Dream Fold",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "One of the stories you shouldn't miss.#shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8603283",
+          "likeCount": "497708",
+          "favoriteCount": "0",
+          "commentCount": "1022"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cEN8TsmIUZVYdhUzv-Do40rd0k4",
+        "id": "DBeB5qM2Zrc",
+        "snippet": {
+          "publishedAt": "2025-09-15T16:58:05Z",
+          "channelId": "UCb4pV8Yskp7Iv2bSKH3-ItA",
+          "title": "How dark is it #cuereaves #funny #comedyfilms #comedy #funnycomedy #fun #tv #comedyshorts #lol #fear",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DBeB5qM2Zrc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DBeB5qM2Zrc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DBeB5qM2Zrc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DBeB5qM2Zrc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DBeB5qM2Zrc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cue Reaves Experience ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How dark is it #cuereaves #funny #comedyfilms #comedy #funnycomedy #fun #tv #comedyshorts #lol #fear",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2963279",
+          "likeCount": "182153",
+          "favoriteCount": "0",
+          "commentCount": "1765"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3_q9LBJv5CSh99aiLUHD7bQLZEw",
+        "id": "Ejj5gnK93Ug",
+        "snippet": {
+          "publishedAt": "2025-09-10T21:29:25Z",
+          "channelId": "UC3D4pyc0hA-ONQWguO57DHQ",
+          "title": "#funny #comedy #sketchshow #hilarious #leemack #funny #sketchsow #timvine #kittyflannigan #jimtavare",
+          "description": "#funny #comedy #sketchshow #hilarious #leemack #brilliant #sketchsow #timvine #kittyflannigan #jimtavare",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ejj5gnK93Ug/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ejj5gnK93Ug/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ejj5gnK93Ug/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ejj5gnK93Ug/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ejj5gnK93Ug/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "GeeTV & Radio Classics",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "#funny #comedy #sketchshow #hilarious #leemack #funny #sketchsow #timvine #kittyflannigan #jimtavare",
+            "description": "#funny #comedy #sketchshow #hilarious #leemack #brilliant #sketchsow #timvine #kittyflannigan #jimtavare"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7216681",
+          "likeCount": "116841",
+          "favoriteCount": "0",
+          "commentCount": "870"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0CzFfQXfWXSKUH_gRnEZxFmKCbY",
+        "id": "LNQxMrGm5c4",
+        "snippet": {
+          "publishedAt": "2025-09-12T14:19:24Z",
+          "channelId": "UCOOUj-jLIdVAKdd6vUwrr7g",
+          "title": "The head chef stepped in to teach the arrogant customer a lesson.#shorts #movie #fyp #headchef",
+          "description": "The head chef stepped in to teach the arrogant customer a lesson.#shorts  #movie  #fyp  #headchef",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LNQxMrGm5c4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LNQxMrGm5c4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LNQxMrGm5c4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LNQxMrGm5c4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LNQxMrGm5c4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CutRage",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The head chef stepped in to teach the arrogant customer a lesson.#shorts #movie #fyp #headchef",
+            "description": "The head chef stepped in to teach the arrogant customer a lesson.#shorts  #movie  #fyp  #headchef"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5499843",
+          "likeCount": "372249",
+          "favoriteCount": "0",
+          "commentCount": "2597"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qoF0G2CiDqptiEU0GRt8nNecMro",
+        "id": "Ps_d4m2YD9k",
+        "snippet": {
+          "publishedAt": "2025-09-16T15:33:59Z",
+          "channelId": "UCX4kMKC4MltGIivGVY_prbg",
+          "title": "Cookie Prank Gone Wrong ☠️🥵 #shorts #movie #film",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ps_d4m2YD9k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ps_d4m2YD9k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ps_d4m2YD9k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ps_d4m2YD9k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ps_d4m2YD9k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tina Kelch",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Cookie Prank Gone Wrong ☠️🥵 #shorts #movie #film",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2896822",
+          "likeCount": "108982",
+          "favoriteCount": "0",
+          "commentCount": "469"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QzgZOsemvpucAqlPKvpe6coH1ZI",
+        "id": "6iL2GTCl5Rg",
+        "snippet": {
+          "publishedAt": "2025-09-12T13:30:09Z",
+          "channelId": "UCO92CuPCihUg8GUP86kKx5w",
+          "title": "King of The Sea | Aquaman | Fragment - slxughter (slowed) #edit #shorts",
+          "description": "King of The Sea | Aquaman | Fragment - slxughter (slowed)\n\n#movieedits #film #movie #action #fight #edit #shorts #aftereffects \n\nMusic Used: Fragment - slxughter (slowed)\n\nMovies or Series Used: Aquaman\n\nEditing Software Used: After Effects 2020\n\n\n© Copyright\n\nAll the videos, songs, images, and graphics used in this video belong to their respective owners, and I or this channel do not claim any rights over them.\n\nCopyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statutes that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.\n\n\nThanks ALOT For Watching!!!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6iL2GTCl5Rg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6iL2GTCl5Rg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6iL2GTCl5Rg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6iL2GTCl5Rg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6iL2GTCl5Rg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jectro EditZ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "King of The Sea | Aquaman | Fragment - slxughter (slowed) #edit #shorts",
+            "description": "King of The Sea | Aquaman | Fragment - slxughter (slowed)\n\n#movieedits #film #movie #action #fight #edit #shorts #aftereffects \n\nMusic Used: Fragment - slxughter (slowed)\n\nMovies or Series Used: Aquaman\n\nEditing Software Used: After Effects 2020\n\n\n© Copyright\n\nAll the videos, songs, images, and graphics used in this video belong to their respective owners, and I or this channel do not claim any rights over them.\n\nCopyright Disclaimer: Under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statutes that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use.\n\n\nThanks ALOT For Watching!!!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT54S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "27116689",
+          "likeCount": "1147425",
+          "favoriteCount": "0",
+          "commentCount": "7133"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "nKVmclwsBTBJlirCDVko7OaeZ-M",
+        "id": "lBOfz9Rqalk",
+        "snippet": {
+          "publishedAt": "2025-09-03T16:07:34Z",
+          "channelId": "UC227oor-1zt9cwvB4TAGK4g",
+          "title": "Pouring Bad Beer's Prank @misfitmindss",
+          "description": "In this Video the Misfit minds Team Prank an older Australian man by pouring bad beers consisting of alot of bubbles leaving the old man to have a very angry reaction.\n\nNobody was harmed nor harrased  in this Video. Try your best to try not to laugh!\n\nCredit- @misfitmindss \n\nEdited by- @Reddecore",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lBOfz9Rqalk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lBOfz9Rqalk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lBOfz9Rqalk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lBOfz9Rqalk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lBOfz9Rqalk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Pranker Dreams",
+          "tags": [
+            "Try not to laugh",
+            "funny",
+            "Prank",
+            "funny moments",
+            "misfit",
+            "misfit minds",
+            "mischief",
+            "cheap beers",
+            "beer",
+            "luxury beers",
+            "offensive jokes",
+            "dark humor",
+            "humor",
+            "family friendly"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Pouring Bad Beer's Prank @misfitmindss",
+            "description": "In this Video the Misfit minds Team Prank an older Australian man by pouring bad beers consisting of alot of bubbles leaving the old man to have a very angry reaction.\n\nNobody was harmed nor harrased  in this Video. Try your best to try not to laugh!\n\nCredit- @misfitmindss \n\nEdited by- @Reddecore"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "24050575",
+          "likeCount": "1172283",
+          "favoriteCount": "0",
+          "commentCount": "3112"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NyApXIHsfpPgrsisCFR9BqcsuxM",
+        "id": "V7HqM3h9uOc",
+        "snippet": {
+          "publishedAt": "2025-09-10T15:00:53Z",
+          "channelId": "UCWX520UhI_x1ptLx3IEoZUw",
+          "title": "Jonah Hill SENDS Drake an EMAIL for ERROR",
+          "description": "#funnyshorts #celebrity #hollywood #actor #comedian\n#interview #histtalks #hist_talks #jonahhill #channingtatum #jimmyfallon",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/V7HqM3h9uOc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/V7HqM3h9uOc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/V7HqM3h9uOc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/V7HqM3h9uOc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/V7HqM3h9uOc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hist Talks",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jonah Hill SENDS Drake an EMAIL for ERROR",
+            "description": "#funnyshorts #celebrity #hollywood #actor #comedian\n#interview #histtalks #hist_talks #jonahhill #channingtatum #jimmyfallon"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT55S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4410182",
+          "likeCount": "217405",
+          "favoriteCount": "0",
+          "commentCount": "226"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WoCtGiFOIv7HdmHIjd5nniAXIrQ",
+        "id": "FYWLB7x9xmE",
+        "snippet": {
+          "publishedAt": "2025-09-09T14:22:35Z",
+          "channelId": "UClKIxRGI1OdN0SOKbXlfhLw",
+          "title": "He doesn’t allow his daughters to say that word#series",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FYWLB7x9xmE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FYWLB7x9xmE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FYWLB7x9xmE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FYWLB7x9xmE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FYWLB7x9xmE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ryker Hinton",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "He doesn’t allow his daughters to say that word#series",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11599504",
+          "likeCount": "1317840",
+          "favoriteCount": "0",
+          "commentCount": "4391"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mXbYWdDiRfLOIn8Rl_1t-pNXNm0",
+        "id": "8xdKo5rPZEM",
+        "snippet": {
+          "publishedAt": "2025-09-07T12:00:13Z",
+          "channelId": "UCf5CQ2TsxTmPt1GSaP-cbgw",
+          "title": "Robbery encountered a frying pan warrior!#shorts #shortvideo #series #fouryou",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8xdKo5rPZEM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8xdKo5rPZEM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8xdKo5rPZEM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8xdKo5rPZEM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8xdKo5rPZEM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "movie-Dlipped",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Robbery encountered a frying pan warrior!#shorts #shortvideo #series #fouryou",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13411428",
+          "likeCount": "737639",
+          "favoriteCount": "0",
+          "commentCount": "4279"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FYXtAaVxgYxq2FbGtLqH49q9jCY",
+        "id": "GIJJ1BUhcM0",
+        "snippet": {
+          "publishedAt": "2025-09-12T12:29:58Z",
+          "channelId": "UC9WWMvMQhkr1aHeRyG0julA",
+          "title": "That was cold Clark!  #superman #movie #foryou",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GIJJ1BUhcM0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GIJJ1BUhcM0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GIJJ1BUhcM0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GIJJ1BUhcM0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GIJJ1BUhcM0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brewstarz Films",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "That was cold Clark!  #superman #movie #foryou",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5436371",
+          "favoriteCount": "0",
+          "commentCount": "2359"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7ljdmqEsNLzguGQJ4F7l4M06S78",
+        "id": "r-M7EPj-rX4",
+        "snippet": {
+          "publishedAt": "2025-09-11T02:30:04Z",
+          "channelId": "UCKZVoXCVOXjS4nT8OJ4LK8A",
+          "title": "Ranking The Funniest Mega Knighting Videos #funny #usa #tiktok #shortsfeed #shorts #megaknight",
+          "description": "We’re ranking the funniest “Mega Knighting” trend videos😂😂 Which one made you laugh the most? Watch until the end for the ultimate MegaKnight moment!\n\n\n#MegaKnight #MegaKnighting #FunnyTikTok #TikTokTrends #MegaKnightChallenge #Shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r-M7EPj-rX4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r-M7EPj-rX4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r-M7EPj-rX4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r-M7EPj-rX4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r-M7EPj-rX4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Grimsoul",
+          "tags": [
+            "mega knighting, mega knight tiktok, funniest mega knighting, mega knight trend, mega knight challenge, mega knighting compilation, best mega knight videos, tiktok mega knight trend, mega knight fails, mega knight prank, ranking mega knight videos, mega knighting funny moments, viral mega knight videos, mega knight sound tiktok, mega knight bed jump, mega knight couch jump, mega knight trend ranking, funny mega knight challenge"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ranking The Funniest Mega Knighting Videos #funny #usa #tiktok #shortsfeed #shorts #megaknight",
+            "description": "We’re ranking the funniest “Mega Knighting” trend videos😂😂 Which one made you laugh the most? Watch until the end for the ultimate MegaKnight moment!\n\n\n#MegaKnight #MegaKnighting #FunnyTikTok #TikTokTrends #MegaKnightChallenge #Shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11467622",
+          "likeCount": "531460",
+          "favoriteCount": "0",
+          "commentCount": "1302"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "sItMsEXz1F5NM8BylCIJBAhvOtg",
+        "id": "CfIM2LHBRRA",
+        "snippet": {
+          "publishedAt": "2025-09-12T16:15:01Z",
+          "channelId": "UCE8PQl9q9opJUrtW5InM4oQ",
+          "title": "#amirkhanvoice 😂",
+          "description": "#ranking #funny #funnyshorts #funnyprank #funnyvideos",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CfIM2LHBRRA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CfIM2LHBRRA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CfIM2LHBRRA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CfIM2LHBRRA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CfIM2LHBRRA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jod Ranks",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "#amirkhanvoice 😂",
+            "description": "#ranking #funny #funnyshorts #funnyprank #funnyvideos"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "24009458",
+          "favoriteCount": "0",
+          "commentCount": "1702"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HeCRV538AKrlyHnS_BqfrDLnXY0",
+        "id": "u4up-3gicwI",
+        "snippet": {
+          "publishedAt": "2025-09-10T08:12:08Z",
+          "channelId": "UCas86CIoqV79H-GO-iG0s0Q",
+          "title": "She Saved Him 💝 | Going In Style | Sad Edit | Song - Kamin (Slowed) #edit #shorts",
+          "description": "#sadedits #movieedits #shorts \n\nMovie - Going In Style (2017)\nSong - Kamin By Emin And JONY\nMade By Maven Edits\n\nIf you have any issues related to this video or your credits are missing then email me at this email address ( Mavenhub3000@gmail.com ) I will remove the video if you have any issues. Do Not Send Copyright Strike or Claim Thanks \n\nMy Discord Server:-\n• Discord  -   / https://discord.gg/RNvsqMJ5qC\n\nAll content on this channel is used under the Fair Use policy as outlined in Section 107 of the Copyright Act of 1976. It is used for purposes such as commentary, criticism, news reporting, teaching, scholarship, or research.\nThe materials included are transformed to provide original perspectives, add educational value, or entertain within the legal boundaries of Fair Use. If you believe any content infringes on your copyright, please contact me directly before taking any action. I am committed to resolving any issues promptly.\n\nHastags:\n#sadmovies #morganfreeman #wholesome #sadmovies #movies #sad #kindness #fyp #fypシ゚viral",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/u4up-3gicwI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/u4up-3gicwI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/u4up-3gicwI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/u4up-3gicwI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/u4up-3gicwI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Maven-Edits",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "She Saved Him 💝 | Going In Style | Sad Edit | Song - Kamin (Slowed) #edit #shorts",
+            "description": "#sadedits #movieedits #shorts \n\nMovie - Going In Style (2017)\nSong - Kamin By Emin And JONY\nMade By Maven Edits\n\nIf you have any issues related to this video or your credits are missing then email me at this email address ( Mavenhub3000@gmail.com ) I will remove the video if you have any issues. Do Not Send Copyright Strike or Claim Thanks \n\nMy Discord Server:-\n• Discord  -   / https://discord.gg/RNvsqMJ5qC\n\nAll content on this channel is used under the Fair Use policy as outlined in Section 107 of the Copyright Act of 1976. It is used for purposes such as commentary, criticism, news reporting, teaching, scholarship, or research.\nThe materials included are transformed to provide original perspectives, add educational value, or entertain within the legal boundaries of Fair Use. If you believe any content infringes on your copyright, please contact me directly before taking any action. I am committed to resolving any issues promptly.\n\nHastags:\n#sadmovies #morganfreeman #wholesome #sadmovies #movies #sad #kindness #fyp #fypシ゚viral"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14241057",
+          "favoriteCount": "0",
+          "commentCount": "2196"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "moiOxs7RnjPyoq8B4Iq6ZrCqj_8",
+        "id": "CU_CVgS_jJw",
+        "snippet": {
+          "publishedAt": "2025-09-09T18:54:31Z",
+          "channelId": "UCDlP3L3rJ8mNF6dh5oi8uyg",
+          "title": "Emma Stone on NYC Ignoring Spider Man 🕷️🦸",
+          "description": "Source: Jimmy Fallon\n\n* Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\nThis content doesn't belong to MoneyMoves, it is edited and shared only for the purpose of awareness and educational value. If the content owners (visual/audio) of this content has any issue, we request you to directly contact us, so we can sort out the outcome.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CU_CVgS_jJw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CU_CVgS_jJw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CU_CVgS_jJw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CU_CVgS_jJw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CU_CVgS_jJw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MoneyMoves",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Emma Stone on NYC Ignoring Spider Man 🕷️🦸",
+            "description": "Source: Jimmy Fallon\n\n* Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, commenting, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\n\nThis content doesn't belong to MoneyMoves, it is edited and shared only for the purpose of awareness and educational value. If the content owners (visual/audio) of this content has any issue, we request you to directly contact us, so we can sort out the outcome."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8283091",
+          "likeCount": "687563",
+          "favoriteCount": "0",
+          "commentCount": "1029"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5a3zA-nvvmI-0ZUqNsdN54hOyqo",
+        "id": "-j3YdxNSzTk",
+        "snippet": {
+          "publishedAt": "2025-09-16T04:41:25Z",
+          "channelId": "UCa6vGFO9ty8v5KZJXQxdhaw",
+          "title": "Trump Grieves By Talking About $200 Million Ballroom, MAGA Hits New Lows & Guillermo at the Emmys",
+          "description": "Trump took to Truth Social to give his thoughts on NFL games, his Treasury Secretary announced that they have a framework of a deal to sell TikTok, we hit some new lows over the weekend with the MAGA gang desperately trying to characterize the kid who murdered Charlie Kirk as anything other than one of them, Trump continues to talk about the construction of his $200 million dollar ballroom, on Friday he stopped by the always-friendly morning gang at Fox and Friends, Klan Mom Marjorie Taylor Greene is not interested in listening to people she disagrees with, the Emmys were last night and our friends Stephen Colbert & John Oliver won some awards, and Guillermo does tequila shots with the stars!\n\nSUBSCRIBE to get the latest #Kimmel: http://bit.ly/JKLSubscribe\n \nFollow Jimmy Kimmel on Instagram: https://bit.ly/KimmelInstagram \nFollow Jimmy Kimmel Live on Instagram: http://bit.ly/JKLInstagram\nFollow Jimmy Kimmel Live on TikTok: https://bit.ly/JKLTikTok \nLike Jimmy Kimmel on Facebook: http://bit.ly/KimmelFB  \nLike Jimmy Kimmel Live on Facebook: http://bit.ly/JKLFacebook  \nVisit the Jimmy Kimmel Live Website : http://bit.ly/JKLWebsite \n \nAbout Jimmy Kimmel Live: \n \nJimmy Kimmel serves as host and executive producer of Emmy® nominated “Jimmy Kimmel Live,” ABC’s late-night talk show. “Jimmy Kimmel Live” is well known for its viral video successes, with over 16 billion views and more than 19 million subscribers on the show’s YouTube channel. Some of Kimmel’s most popular comedy bits include Celebrities Read Mean Tweets, Lie Witness News, Halloween Candy YouTube Challenge, Jimmy and Cousin Sal pranking Aunt Chippy and music stars like Rihanna and Dua Lipa surprising Jimmy in the middle of the night.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-j3YdxNSzTk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-j3YdxNSzTk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-j3YdxNSzTk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-j3YdxNSzTk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-j3YdxNSzTk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jimmy Kimmel Live",
+          "tags": [
+            "jimmy",
+            "jimmy kimmel",
+            "jimmy kimmel live",
+            "late night",
+            "talk show",
+            "funny",
+            "comedic",
+            "comedy",
+            "clip",
+            "comedian",
+            "mean tweets"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Trump Grieves By Talking About $200 Million Ballroom, MAGA Hits New Lows & Guillermo at the Emmys",
+            "description": "Trump took to Truth Social to give his thoughts on NFL games, his Treasury Secretary announced that they have a framework of a deal to sell TikTok, we hit some new lows over the weekend with the MAGA gang desperately trying to characterize the kid who murdered Charlie Kirk as anything other than one of them, Trump continues to talk about the construction of his $200 million dollar ballroom, on Friday he stopped by the always-friendly morning gang at Fox and Friends, Klan Mom Marjorie Taylor Greene is not interested in listening to people she disagrees with, the Emmys were last night and our friends Stephen Colbert & John Oliver won some awards, and Guillermo does tequila shots with the stars!\n\nSUBSCRIBE to get the latest #Kimmel: http://bit.ly/JKLSubscribe\n \nFollow Jimmy Kimmel on Instagram: https://bit.ly/KimmelInstagram \nFollow Jimmy Kimmel Live on Instagram: http://bit.ly/JKLInstagram\nFollow Jimmy Kimmel Live on TikTok: https://bit.ly/JKLTikTok \nLike Jimmy Kimmel on Facebook: http://bit.ly/KimmelFB  \nLike Jimmy Kimmel Live on Facebook: http://bit.ly/JKLFacebook  \nVisit the Jimmy Kimmel Live Website : http://bit.ly/JKLWebsite \n \nAbout Jimmy Kimmel Live: \n \nJimmy Kimmel serves as host and executive producer of Emmy® nominated “Jimmy Kimmel Live,” ABC’s late-night talk show. “Jimmy Kimmel Live” is well known for its viral video successes, with over 16 billion views and more than 19 million subscribers on the show’s YouTube channel. Some of Kimmel’s most popular comedy bits include Celebrities Read Mean Tweets, Lie Witness News, Halloween Candy YouTube Challenge, Jimmy and Cousin Sal pranking Aunt Chippy and music stars like Rihanna and Dua Lipa surprising Jimmy in the middle of the night."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT16M59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2314550",
+          "likeCount": "72780",
+          "favoriteCount": "0",
+          "commentCount": "3485"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vlCR-N0L80bQdEE5N5jCi1uI0cA",
+        "id": "bfhaRIPwPE4",
+        "snippet": {
+          "publishedAt": "2025-09-15T16:20:23Z",
+          "channelId": "UCfQVmx7xeJ-g7FCABe4c9Ag",
+          "title": "Its bad business fellas",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bfhaRIPwPE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bfhaRIPwPE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bfhaRIPwPE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bfhaRIPwPE4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bfhaRIPwPE4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Its Always Sunny Recaps",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Its bad business fellas",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1414185",
+          "likeCount": "93130",
+          "favoriteCount": "0",
+          "commentCount": "815"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jWYZzSmOHv1HVq4CBlH0ROK7ykI",
+        "id": "abvVnlQiZ4c",
+        "snippet": {
+          "publishedAt": "2025-09-14T20:44:47Z",
+          "channelId": "UCPBHJi0-4XJwvtFiGFt5k9A",
+          "title": "Audio by @ZacSpeaksGiant",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/abvVnlQiZ4c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/abvVnlQiZ4c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/abvVnlQiZ4c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/abvVnlQiZ4c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/abvVnlQiZ4c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Punkey Doodles",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Audio by @ZacSpeaksGiant",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2496806",
+          "likeCount": "403295",
+          "favoriteCount": "0",
+          "commentCount": "1276"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "0NRb3JBaF8hEuqMr4iXRY9b50_Q",
+        "id": "DFpGheK4K64",
+        "snippet": {
+          "publishedAt": "2025-09-10T18:00:12Z",
+          "channelId": "UCwtt-t4TUUHSxrRAoX7bP8g",
+          "title": "Ordinary day in Japan, 1945 👀🤣 #familyguy #familyguyfunnymoments #familyguyclips",
+          "description": "🔊 Sound on! Daily sitcom chaos lives here.\n🎬 More fun: @sitcom_heaven\n📺 YouTube & TikTok: @sitcomheaven\n💛 Got a favorite scene? Drop it in the comments!\n\n#familyguy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DFpGheK4K64/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DFpGheK4K64/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DFpGheK4K64/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DFpGheK4K64/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DFpGheK4K64/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SITCOM HEAVEN",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Ordinary day in Japan, 1945 👀🤣 #familyguy #familyguyfunnymoments #familyguyclips",
+            "description": "🔊 Sound on! Daily sitcom chaos lives here.\n🎬 More fun: @sitcom_heaven\n📺 YouTube & TikTok: @sitcomheaven\n💛 Got a favorite scene? Drop it in the comments!\n\n#familyguy"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6291225",
+          "likeCount": "483204",
+          "favoriteCount": "0",
+          "commentCount": "1392"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BR-d9W4GnCI-J4GPW_qBzngsw6g",
+        "id": "gcIz4BS_YP8",
+        "snippet": {
+          "publishedAt": "2025-09-13T08:52:11Z",
+          "channelId": "UC9v3unAGPP_2IDT-HR4EaCw",
+          "title": "Morpheus’ Glock 18C 🔥 The Gun That Blew Up the Twins’ SUV | Matrix Reloaded",
+          "description": "Did you know Morpheus wasn’t firing a prop?\nIn The Matrix Reloaded freeway scene, Laurence Fishburne used a real Glock 18C with a 33-round extended mag, loaded with blanks. That recoil you see is authentic, and the SUV explosion was done with practical effects, not CGI. A perfect mix of real action and movie magic that makes this scene unforgettable.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#matrixreloaded  #morpheus  #Glock18C #MatrixFacts #moviedetails  #behindthescenes  #MatrixFreeway #laurencefishburne  #actionmovies  #moviefacts #moviemirror #moviemirrorbyavi",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gcIz4BS_YP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gcIz4BS_YP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gcIz4BS_YP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gcIz4BS_YP8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gcIz4BS_YP8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Movie Mirror",
+          "tags": [
+            "movie shorts",
+            "film facts",
+            "emotional movie moments",
+            "Marvel shorts",
+            "iconic movie scenes",
+            "movie trivia",
+            "film breakdowns",
+            "MCU moments",
+            "YouTube shorts for movie fans",
+            "movie fan channel",
+            "cinematic shorts",
+            "hidden movie details",
+            "Marvel reactions",
+            "movie scene analysis",
+            "fan reactions",
+            "short film edits",
+            "underrated movie moments",
+            "Deadpool-style content",
+            "quick movie facts"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Morpheus’ Glock 18C 🔥 The Gun That Blew Up the Twins’ SUV | Matrix Reloaded",
+            "description": "Did you know Morpheus wasn’t firing a prop?\nIn The Matrix Reloaded freeway scene, Laurence Fishburne used a real Glock 18C with a 33-round extended mag, loaded with blanks. That recoil you see is authentic, and the SUV explosion was done with practical effects, not CGI. A perfect mix of real action and movie magic that makes this scene unforgettable.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#matrixreloaded  #morpheus  #Glock18C #MatrixFacts #moviedetails  #behindthescenes  #MatrixFreeway #laurencefishburne  #actionmovies  #moviefacts #moviemirror #moviemirrorbyavi"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3467964",
+          "likeCount": "122459",
+          "favoriteCount": "0",
+          "commentCount": "913"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "EdgZ1o0KKw2l2jPB7MfrruxVDLw",
+        "id": "_kM9_GjnuY4",
+        "snippet": {
+          "publishedAt": "2025-09-15T10:40:04Z",
+          "channelId": "UCAWO_jVY2iIGT6qpJRjU-cg",
+          "title": "A careful and thrifty father.#shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_kM9_GjnuY4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_kM9_GjnuY4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_kM9_GjnuY4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_kM9_GjnuY4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_kM9_GjnuY4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ReelRush ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "A careful and thrifty father.#shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2275623",
+          "likeCount": "193005",
+          "favoriteCount": "0",
+          "commentCount": "497"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-8Ww1vhW6Skd9loowIogsfIkzBA",
+        "id": "GHAb_MF3w8I",
+        "snippet": {
+          "publishedAt": "2025-09-11T16:26:40Z",
+          "channelId": "UC1EALOoYjviTgAakJ-phJFg",
+          "title": "How I Got PRANKED with Ice Cream.. 🍨😭 #relatablestories #comedy #funnymemes",
+          "description": "This is a funny meme mixed with storytelling style video about how I tried pranking my family with an ice cream box and miserably failed because I forgot about it and pranked myself accidentally in the most hilarious way. The ending is actually funny!\n\n#storytellling #funny #relatable #shorts #memes #gamtng #wgitachi",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GHAb_MF3w8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GHAb_MF3w8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GHAb_MF3w8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GHAb_MF3w8I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GHAb_MF3w8I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tyler Vitelli",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How I Got PRANKED with Ice Cream.. 🍨😭 #relatablestories #comedy #funnymemes",
+            "description": "This is a funny meme mixed with storytelling style video about how I tried pranking my family with an ice cream box and miserably failed because I forgot about it and pranked myself accidentally in the most hilarious way. The ending is actually funny!\n\n#storytellling #funny #relatable #shorts #memes #gamtng #wgitachi"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6529015",
+          "likeCount": "331954",
+          "favoriteCount": "0",
+          "commentCount": "3629"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jPssZcjhatFU5HwJuyHDXnvXAqE",
+        "id": "yD6bgx8nJVA",
+        "snippet": {
+          "publishedAt": "2025-09-13T12:31:23Z",
+          "channelId": "UCarM-9dPknFFvio7WN93-jA",
+          "title": "\"Cars don't fly 😈\" Fragment x Fast and furious 7| @4kmovies_io #fastandfurious  #shorts #cars",
+          "description": "\"Cars don't fly 😈\" Fragment x Fast and furious 7| @4kmovies_io #fastandfurious  #shorts #cars",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yD6bgx8nJVA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yD6bgx8nJVA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yD6bgx8nJVA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yD6bgx8nJVA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yD6bgx8nJVA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "4kmovie_io",
+          "tags": [
+            "Fast and furious",
+            "cars",
+            "jump",
+            "burj khalifa",
+            "stunt"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\"Cars don't fly 😈\" Fragment x Fast and furious 7| @4kmovies_io #fastandfurious  #shorts #cars",
+            "description": "\"Cars don't fly 😈\" Fragment x Fast and furious 7| @4kmovies_io #fastandfurious  #shorts #cars"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11676921",
+          "favoriteCount": "0",
+          "commentCount": "1120"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8ifGBeynvebBCva_Qbi_pvsjNdg",
+        "id": "8_4DD0rowaE",
+        "snippet": {
+          "publishedAt": "2025-09-09T15:00:13Z",
+          "channelId": "UCkRFOtdf-72W4F_4WHisB4w",
+          "title": "The Goal Is to Attract Attention. | Rick and Morty",
+          "description": "🌌 Enter Clip Rush TV: The Multiverse Reimagined\n\nIn this channel, we journey beyond simple jokes. Here’s what you’ll find:\n1️⃣ Timeline Analysis – Examine how each episode subtly connects across realities\n2️⃣ Character Philosophy – From Rick’s nihilism to Morty’s moral struggles\n3️⃣ Hidden Easter Eggs – The secrets only true theorists notice\n4️⃣ Speculative Science – Wormholes, time loops, and quantum paradoxes explained\n\nEvery clip is designed to make you think, question, and theorize. Join our weekly deep dives where logic meets absurdity, and chaos is the rule, not the exception.\n\n💡 Subscribe to participate in discussions that challenge your perceptions. Engage with a community that loves both humor and intellectual exploration.\n\n#RickAndMorty #Clip Rush TV #MultiverseAnalysis #FanTheory #ExistentialHumor #QuantumPhysics #TimeTravel #InfiniteRealities #AnimatedScience #RickAndMortyPhilosophy #AdultAnimation #MindBending #RickAndMortyTheory #PhilosophyAndHumor #ScienceExplained #EvilMorty #CitadelOfRicks #AnimationBreakdown #DeepDiveCartoons #RickAndMortyFans #MultiverseTheory #TimelineAnalysis #CartoonScience #Nihilism #MortyMoralDilemma #SchwiftyLogic #RickQuotes #MortyStruggles #BrainFoodAnimation #RickAndMortyUniverse #IntellectualComedy",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8_4DD0rowaE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8_4DD0rowaE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8_4DD0rowaE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8_4DD0rowaE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8_4DD0rowaE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Clip Rush TV",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "The Goal Is to Attract Attention. | Rick and Morty",
+            "description": "🌌 Enter Clip Rush TV: The Multiverse Reimagined\n\nIn this channel, we journey beyond simple jokes. Here’s what you’ll find:\n1️⃣ Timeline Analysis – Examine how each episode subtly connects across realities\n2️⃣ Character Philosophy – From Rick’s nihilism to Morty’s moral struggles\n3️⃣ Hidden Easter Eggs – The secrets only true theorists notice\n4️⃣ Speculative Science – Wormholes, time loops, and quantum paradoxes explained\n\nEvery clip is designed to make you think, question, and theorize. Join our weekly deep dives where logic meets absurdity, and chaos is the rule, not the exception.\n\n💡 Subscribe to participate in discussions that challenge your perceptions. Engage with a community that loves both humor and intellectual exploration.\n\n#RickAndMorty #Clip Rush TV #MultiverseAnalysis #FanTheory #ExistentialHumor #QuantumPhysics #TimeTravel #InfiniteRealities #AnimatedScience #RickAndMortyPhilosophy #AdultAnimation #MindBending #RickAndMortyTheory #PhilosophyAndHumor #ScienceExplained #EvilMorty #CitadelOfRicks #AnimationBreakdown #DeepDiveCartoons #RickAndMortyFans #MultiverseTheory #TimelineAnalysis #CartoonScience #Nihilism #MortyMoralDilemma #SchwiftyLogic #RickQuotes #MortyStruggles #BrainFoodAnimation #RickAndMortyUniverse #IntellectualComedy"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6141761",
+          "likeCount": "389498",
+          "favoriteCount": "0",
+          "commentCount": "1020"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "H-aT6TCO7IY0kS_Nu-iykyjq-t4",
+        "id": "56jvMArcgT0",
+        "snippet": {
+          "publishedAt": "2025-09-07T15:45:00Z",
+          "channelId": "UCPfinZLcQDl62faTKgyZmsA",
+          "title": "It Wasn’t His Friends Who Looked Away—It Was Him",
+          "description": "Grey's Anatomy: More Than Just Scalpels, It's a Dissection of Life\nHave you ever wondered what stories lie behind the doors of the operating room?\nDo you want to know how doctors race against death when life hangs in the balance?\n\"Grey's Anatomy,\" a globally acclaimed medical drama, takes you inside Seattle Grace Hospital, where you'll witness the growth and transformation of a group of young interns.\nHere, you'll find heart-stopping surgical scenes, intricate doctor-patient relationships, and tangled emotional entanglements.\n\"Grey's Anatomy\" is more than just a medical drama; it's a revelation about life, love, friendship, and dreams.\nWith its delicate touch, it portrays the joys and sorrows of doctors, revealing the brilliance and shadows of human nature.\nThrough its gripping plo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/56jvMArcgT0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/56jvMArcgT0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/56jvMArcgT0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/56jvMArcgT0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/56jvMArcgT0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DJ minh ",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "It Wasn’t His Friends Who Looked Away—It Was Him",
+            "description": "Grey's Anatomy: More Than Just Scalpels, It's a Dissection of Life\nHave you ever wondered what stories lie behind the doors of the operating room?\nDo you want to know how doctors race against death when life hangs in the balance?\n\"Grey's Anatomy,\" a globally acclaimed medical drama, takes you inside Seattle Grace Hospital, where you'll witness the growth and transformation of a group of young interns.\nHere, you'll find heart-stopping surgical scenes, intricate doctor-patient relationships, and tangled emotional entanglements.\n\"Grey's Anatomy\" is more than just a medical drama; it's a revelation about life, love, friendship, and dreams.\nWith its delicate touch, it portrays the joys and sorrows of doctors, revealing the brilliance and shadows of human nature.\nThrough its gripping plo"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11020280",
+          "likeCount": "850537",
+          "favoriteCount": "0",
+          "commentCount": "2791"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "r6WTp2vIrQiw_bmuVfossPvYjAA",
+        "id": "_O8J0CYWj08",
+        "snippet": {
+          "publishedAt": "2025-09-12T21:17:01Z",
+          "channelId": "UCi0MYOdB_b9HQvHmFZu_WQQ",
+          "title": "Dino Kid's older Brother uses Rizz on Fairy in 99 nights in the Forest",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_O8J0CYWj08/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_O8J0CYWj08/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_O8J0CYWj08/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_O8J0CYWj08/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_O8J0CYWj08/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DinoBro ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Dino Kid's older Brother uses Rizz on Fairy in 99 nights in the Forest",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7479315",
+          "likeCount": "241237",
+          "favoriteCount": "0",
+          "commentCount": "14089"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-6S9m-rQURIVlPRzrUDk3Q9CN4w",
+        "id": "UIZvbnjlnoc",
+        "snippet": {
+          "publishedAt": "2025-09-11T22:11:24Z",
+          "channelId": "UC3iwxKMRg5l2aDG_8XK2nSQ",
+          "title": "The Rhyming Game #TheManniiShow.com/series",
+          "description": ",WEBBY AWARDS Honoree x2!!  🤳🏼\"MJ's WORLD!\"  @TheManniiShow        The Mannii Show on YouTube SERIES!  🎉 INFLUENCER  LIFE behind-the scenes!!  🤳🏼   \n\n*** A peek inside the world of MJ, a 16yo mega-influencer who commissions a documentary about his life to help craft his image. *** ONLY ON Youtube!  *** What Is Reality? *** https://TheManniiShow.com/series  \n\n@TheManniiShow @ElShowDeMannii @TheManniiShow-BR \n\n✈️ MANNII Vs. FOOD - https://TheManniiShow.com/series  I find the best food at viewers requests and tackle a series of mini-missions to avoid facing humiliating tasks in defeat.  🍔🍕🍖🍦 Season 1 NOW POSTED! ✈️\n\nThanks for supporting the Show! https://TheManniiStore.com ❤️ Check out the DRIP SALE! 🎉\n\nON SALE NOW!  The Mannii Store UNCENSORED (https://www.TheManniiShow.Dashery.com) \n\n#freecomedy #shorts #comedy #satire #themanniishow",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UIZvbnjlnoc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UIZvbnjlnoc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UIZvbnjlnoc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UIZvbnjlnoc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UIZvbnjlnoc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Mannii Show",
+          "tags": [
+            "comedy",
+            "TheManniiShow",
+            "influencer",
+            "tiktok",
+            "youtube",
+            "behind the scenes",
+            "unplugged",
+            "MJ",
+            "sketch",
+            "improv",
+            "celebrity",
+            "mockumentary",
+            "free comedy",
+            "series",
+            "youtube series",
+            "comedy series",
+            "TheManiShow",
+            "TheMani",
+            "TheManni",
+            "TheManniShow",
+            "The Manni",
+            "The Manny Show",
+            "TheMannyShow",
+            "tiktokker",
+            "#shorts",
+            "the mannii show voice reveal",
+            "comedy series on youtube",
+            "youtube series shows",
+            "youtube series free",
+            "the mannii show real voice",
+            "the manny show tiktok",
+            "the mani show",
+            "español",
+            "Português",
+            "shorts"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Rhyming Game #TheManniiShow.com/series",
+            "description": ",WEBBY AWARDS Honoree x2!!  🤳🏼\"MJ's WORLD!\"  @TheManniiShow        The Mannii Show on YouTube SERIES!  🎉 INFLUENCER  LIFE behind-the scenes!!  🤳🏼   \n\n*** A peek inside the world of MJ, a 16yo mega-influencer who commissions a documentary about his life to help craft his image. *** ONLY ON Youtube!  *** What Is Reality? *** https://TheManniiShow.com/series  \n\n@TheManniiShow @ElShowDeMannii @TheManniiShow-BR \n\n✈️ MANNII Vs. FOOD - https://TheManniiShow.com/series  I find the best food at viewers requests and tackle a series of mini-missions to avoid facing humiliating tasks in defeat.  🍔🍕🍖🍦 Season 1 NOW POSTED! ✈️\n\nThanks for supporting the Show! https://TheManniiStore.com ❤️ Check out the DRIP SALE! 🎉\n\nON SALE NOW!  The Mannii Store UNCENSORED (https://www.TheManniiShow.Dashery.com) \n\n#freecomedy #shorts #comedy #satire #themanniishow"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7977170",
+          "likeCount": "293503",
+          "favoriteCount": "0",
+          "commentCount": "4246"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dElLXETcP-ddzETzAPNQtwZMM9c",
+        "id": "znC_lec9TwY",
+        "snippet": {
+          "publishedAt": "2025-09-14T12:34:16Z",
+          "channelId": "UC5e4Qs44hZRGCM5OWKIDwMg",
+          "title": "He no longer wants to be treated differently.#series",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/znC_lec9TwY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/znC_lec9TwY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/znC_lec9TwY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/znC_lec9TwY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/znC_lec9TwY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ariel Komorowski",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "He no longer wants to be treated differently.#series",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3197241",
+          "likeCount": "241797",
+          "favoriteCount": "0",
+          "commentCount": "851"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IcW9u5mnQlQ4QmhoSvP0OWRZM68",
+        "id": "w7N6h_a6Z5A",
+        "snippet": {
+          "publishedAt": "2025-09-14T17:01:18Z",
+          "channelId": "UCOOY2J5ueyOHrvLSVuTpNqw",
+          "title": "Homer’s genius investment #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w7N6h_a6Z5A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w7N6h_a6Z5A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w7N6h_a6Z5A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/w7N6h_a6Z5A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/w7N6h_a6Z5A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Curiously Calm",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Homer’s genius investment #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2108784",
+          "likeCount": "152901",
+          "favoriteCount": "0",
+          "commentCount": "316"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lsa5YUpGaCTpsVDAIRPBLIPfPI8",
+        "id": "5YBtWW8d_rQ",
+        "snippet": {
+          "publishedAt": "2025-09-08T23:16:38Z",
+          "channelId": "UCbM0p--1zokYAxOvt7N-iKA",
+          "title": "Dexter Studies Brian's Kill | #shorts",
+          "description": "#dexter #dextermorgan #tvshow",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5YBtWW8d_rQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5YBtWW8d_rQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5YBtWW8d_rQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5YBtWW8d_rQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5YBtWW8d_rQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zidvano Movies",
+          "tags": [
+            "tv show",
+            "movie clips",
+            "dexter morgan",
+            "dexter",
+            "dexter resurrection",
+            "dexter new blood",
+            "dexter morgan edit"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Dexter Studies Brian's Kill | #shorts",
+            "description": "#dexter #dextermorgan #tvshow"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8795946",
+          "likeCount": "627630",
+          "favoriteCount": "0",
+          "commentCount": "709"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mglXjjkGSje1EWbCoKpZ1CN7BJ8",
+        "id": "e19ShP47OFA",
+        "snippet": {
+          "publishedAt": "2025-09-12T14:36:35Z",
+          "channelId": "UCNWXgLFQDHVXddP_Eg13CIw",
+          "title": "‘’I had one grape this morning’’ 😂 #dance #movie #funny #drama #explore #comedy #music #love #flirt",
+          "description": "🎥 dance flick: Street dancer Thomas Uncles is from the wrong side of the tracks, but his bond with the beautiful Megan White might help the duo realize their dreams as they enter in the mother of all dance battles. 📺 watch on. Prime video",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e19ShP47OFA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e19ShP47OFA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e19ShP47OFA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e19ShP47OFA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e19ShP47OFA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ngamshishi",
+          "categoryId": "10",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "‘’I had one grape this morning’’ 😂 #dance #movie #funny #drama #explore #comedy #music #love #flirt",
+            "description": "🎥 dance flick: Street dancer Thomas Uncles is from the wrong side of the tracks, but his bond with the beautiful Megan White might help the duo realize their dreams as they enter in the mother of all dance battles. 📺 watch on. Prime video"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7420288",
+          "likeCount": "511893",
+          "favoriteCount": "0",
+          "commentCount": "3716"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9KCaGqpHyUCS29uplNZBXah6-9M",
+        "id": "G5aMbWdhmHY",
+        "snippet": {
+          "publishedAt": "2025-09-08T11:23:59Z",
+          "channelId": "UC1_Ur1DuvYbCyyycQ6foDBg",
+          "title": "They finally managed to save themselves.#shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G5aMbWdhmHY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G5aMbWdhmHY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G5aMbWdhmHY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/G5aMbWdhmHY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/G5aMbWdhmHY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "leosky8803",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "They finally managed to save themselves.#shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17956179",
+          "likeCount": "751603",
+          "favoriteCount": "0",
+          "commentCount": "623"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "J41R2b5tUqso1JRC0PvZrMUhmFs",
+        "id": "Fn0oBwaWc2w",
+        "snippet": {
+          "publishedAt": "2025-09-10T21:00:17Z",
+          "channelId": "UCoJfvP-9f1Ztq_zb-i1TLzA",
+          "title": "The defendant tried to outsmart the lawyer 😏 #shorts",
+          "description": "The defendant tried to outsmart the lawyer 😏 #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fn0oBwaWc2w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fn0oBwaWc2w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fn0oBwaWc2w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fn0oBwaWc2w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fn0oBwaWc2w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Clarity Clips",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The defendant tried to outsmart the lawyer 😏 #shorts",
+            "description": "The defendant tried to outsmart the lawyer 😏 #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8118792",
+          "likeCount": "755701",
+          "favoriteCount": "0",
+          "commentCount": "1384"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9GM7qd0Smfa9c7F4HKRfMsdz-fU",
+        "id": "lFn0Aut7vkk",
+        "snippet": {
+          "publishedAt": "2025-09-12T00:27:56Z",
+          "channelId": "UCzP5OIPX7rRkQLrphSzgMDw",
+          "title": "Jesse Reunites With His Best Friends ❤️ | El Camino | #shorts",
+          "description": "Jesse Reunites With His Best Friends ❤️ | El Camino | #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lFn0Aut7vkk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lFn0Aut7vkk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lFn0Aut7vkk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lFn0Aut7vkk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lFn0Aut7vkk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Art of Television",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Jesse Reunites With His Best Friends ❤️ | El Camino | #shorts",
+            "description": "Jesse Reunites With His Best Friends ❤️ | El Camino | #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3839833",
+          "likeCount": "411751",
+          "favoriteCount": "0",
+          "commentCount": "1140"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lVw2IbXd7gUNmAboIWOH8uSxqwI",
+        "id": "MsTle6skGYY",
+        "snippet": {
+          "publishedAt": "2025-09-14T22:48:42Z",
+          "channelId": "UCMn-zv1SE-2y6vyewscfFqw",
+          "title": "Why I hate silly string",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MsTle6skGYY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MsTle6skGYY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MsTle6skGYY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MsTle6skGYY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MsTle6skGYY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CrackerMilk",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Why I hate silly string",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2035225",
+          "likeCount": "162646",
+          "favoriteCount": "0",
+          "commentCount": "1205"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uWxXWZZt6TVpRL_CL2hMmLY9nPs",
+        "id": "QOOlcofag3Y",
+        "snippet": {
+          "publishedAt": "2025-09-10T10:28:46Z",
+          "channelId": "UCYMRJp8B-NYEJkWQBAVuAPA",
+          "title": "He saved the factory that was about to go bankrupt,thus keeping everyone’s jobs.#shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QOOlcofag3Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QOOlcofag3Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QOOlcofag3Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QOOlcofag3Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QOOlcofag3Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ShotFlip ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "He saved the factory that was about to go bankrupt,thus keeping everyone’s jobs.#shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6102342",
+          "likeCount": "404170",
+          "favoriteCount": "0",
+          "commentCount": "819"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UjIzojgDiM6EpXaV6CSJWKIApOQ",
+        "id": "Mr6n2dwW8hM",
+        "snippet": {
+          "publishedAt": "2025-09-12T15:00:09Z",
+          "channelId": "UCSff-3ocalZpVL2deI5tx6w",
+          "title": "\"Great\" - Missy Cooper | Ransom - Lil Tecca | Young Sheldon Edit",
+          "description": "#youngsheldon #youngsheldonedit #foryou #fyp #liltecca #ransom #lilteccaransom #ransomliltecca #shorts #ytshorts #yt #viral #edit #youtube #missycooper #melissacooper #raeganrevord #raeganrevordedit #melissacooper #melissacooperedit #sheldoncooper #sheldoncooperedit #iainarmitage #iainarmitageedit #sheldonedit #meemaw #meemawedit #constancetucker #constancetuckeredit #anniepotts #anniepottsedit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Mr6n2dwW8hM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Mr6n2dwW8hM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Mr6n2dwW8hM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Mr6n2dwW8hM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Mr6n2dwW8hM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "staia10@xel",
+          "tags": [
+            "young sheldon",
+            "young sheldon edit",
+            "lil tecca ransom",
+            "lil tecca",
+            "ransom",
+            "MISSY COOPER",
+            "RAEGAN REVORD",
+            "SHELDON COOPER",
+            "IAIN ARMITAGE",
+            "MEEMAW",
+            "CONNIE",
+            "CONSTANCE TUCKER",
+            "ANNIE POTTS"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "\"Great\" - Missy Cooper | Ransom - Lil Tecca | Young Sheldon Edit",
+            "description": "#youngsheldon #youngsheldonedit #foryou #fyp #liltecca #ransom #lilteccaransom #ransomliltecca #shorts #ytshorts #yt #viral #edit #youtube #missycooper #melissacooper #raeganrevord #raeganrevordedit #melissacooper #melissacooperedit #sheldoncooper #sheldoncooperedit #iainarmitage #iainarmitageedit #sheldonedit #meemaw #meemawedit #constancetucker #constancetuckeredit #anniepotts #anniepottsedit"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3402097",
+          "likeCount": "194325",
+          "favoriteCount": "0",
+          "commentCount": "213"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Tq19_wqNOSrki6Lj4of-7AycDrA",
+        "id": "VyyeLoNSTIw",
+        "snippet": {
+          "publishedAt": "2025-09-14T17:30:07Z",
+          "channelId": "UCLZnFlEl_FgKKy01icOAxoQ",
+          "title": "I am HATED BY ALL PARENTS. #shorts",
+          "description": "I am HATED BY ALL PARENTS. I don’t know what it is about my vibe or just my…idk my anything? But all parents HATED ME. \n\nAnimated by AlexKun!!!!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VyyeLoNSTIw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VyyeLoNSTIw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VyyeLoNSTIw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VyyeLoNSTIw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VyyeLoNSTIw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SmokeeBee",
+          "tags": [
+            "#animation",
+            "#storytime animation",
+            "#lgbt",
+            "#lmao",
+            "#cursed",
+            "#oddonesout",
+            "#somethingelseyt",
+            "#jaidenanimations",
+            "#smokeebee"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "I am HATED BY ALL PARENTS. #shorts",
+            "description": "I am HATED BY ALL PARENTS. I don’t know what it is about my vibe or just my…idk my anything? But all parents HATED ME. \n\nAnimated by AlexKun!!!!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2612912",
+          "likeCount": "345805",
+          "favoriteCount": "0",
+          "commentCount": "4103"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ubtt0dEH8k-FoQ9JgtqBWzt517Q",
+        "id": "f-KhOXKveDw",
+        "snippet": {
+          "publishedAt": "2025-09-11T01:44:38Z",
+          "channelId": "UCZy6yYeryOW_7quaICWpBDg",
+          "title": "The movie is called: Automata (2013) #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f-KhOXKveDw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f-KhOXKveDw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f-KhOXKveDw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f-KhOXKveDw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f-KhOXKveDw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Truong",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The movie is called: Automata (2013) #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3094593",
+          "likeCount": "175780",
+          "favoriteCount": "0",
+          "commentCount": "425"
+        }
+      }
+    ],
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 50
+    }
+  }
+}

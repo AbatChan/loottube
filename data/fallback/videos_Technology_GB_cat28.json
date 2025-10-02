@@ -1,0 +1,3445 @@
+{
+  "timestamp": 1758122816794,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "KPTemJtjYc_gdvMChVbkWUzcP0Q",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "El3Mzf8vWwbb5Kc-Iihyup6Loqs",
+        "id": "7byf3nv13yw",
+        "snippet": {
+          "publishedAt": "2025-09-13T16:37:56Z",
+          "channelId": "UCvfBMt6x9fdVMjtxhBoZbKw",
+          "title": "MKBHD On The iPhone 17 Air 📱",
+          "description": "MKBHD On The iPhone 17 Air 📱\n\nCredits: WVFRM Podcast 🎥\nThis video is for transformative purposes under the Fair Use Doctrine (17 U.S.C. §107). It provides original commentary, significant editing, and a thoughtful revision, contributing added value beyond the original sources.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7byf3nv13yw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7byf3nv13yw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7byf3nv13yw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7byf3nv13yw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7byf3nv13yw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hackworld",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "MKBHD On The iPhone 17 Air 📱",
+            "description": "MKBHD On The iPhone 17 Air 📱\n\nCredits: WVFRM Podcast 🎥\nThis video is for transformative purposes under the Fair Use Doctrine (17 U.S.C. §107). It provides original commentary, significant editing, and a thoughtful revision, contributing added value beyond the original sources."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3492530",
+          "likeCount": "144773",
+          "favoriteCount": "0",
+          "commentCount": "1560"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xEBk63sFekILTV-PRsem7seGQEI",
+        "id": "qabaXO1IgBE",
+        "snippet": {
+          "publishedAt": "2025-09-11T19:47:29Z",
+          "channelId": "UCZsGVW7ko5KTG6MMW2LKSEA",
+          "title": "The new IPhone 17 pro Max looks weird 😳😳 #iphone17 #iphone16 #apple #iphone",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qabaXO1IgBE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qabaXO1IgBE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qabaXO1IgBE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qabaXO1IgBE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qabaXO1IgBE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Beepy Zoe Live  🎮",
+          "tags": [
+            "#iphone17 #apple"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "The new IPhone 17 pro Max looks weird 😳😳 #iphone17 #iphone16 #apple #iphone",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11934431",
+          "likeCount": "276849",
+          "favoriteCount": "0",
+          "commentCount": "4215"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dFRzw4_J_dSw4Pix79JxXHbU2Z4",
+        "id": "H3KnMyojEQU",
+        "snippet": {
+          "publishedAt": "2025-09-09T18:19:02Z",
+          "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+          "title": "Apple Event — September 9",
+          "description": "Watch the special Apple Event to learn about iPhone 17, iPhone Air, and iPhone 17 Pro. Plus Apple Watch Series 11, Apple Watch SE 3, Apple Watch Ultra 3, AirPods Pro 3, and more. \n\nTo watch the event interpreted in American Sign Language (ASL) or hear it narrated via Audio Descriptions, please click here: https://youtu.be/yHC0aGQcS98\n\n00:00:00 Introduction\n00:02:59 AirPods Pro 3\n00:13:07 Apple Watch Introduction\n00:17:32 Apple Watch Series 11\n00:23:05 Apple Watch SE 3\n00:25:35 Apple Watch Ultra 3\n00:29:43 iPhone 17\n00:40:37 iPhone Air\n00:54:15 iPhone 17 Pro\n\n“Neon: 1. Shinjuku” by Hannah Peel & Manchester Collective https://apple.co/Neon-Shinjuku\n“BLUH BLUH BLUH” by _BY.ALEXANDER https://apple.co/BLUH-BLUH-BLUH\n“Cisco Bay” by Loaded Honey https://apple.co/Loaded-Honey-Cisco-Bay\n“Dream” by Neggy Gemmy https://apple.co/Neggy-Gemmy-Dream\n“Obsession” by Oliver Sim https://apple.co/Oliver-Sim-Obsession\n“U-Bahn Ride (feat. Beaks)” by 1tbsp https://apple.co/1tbsp-U-Bahn-Ride\n“Mr Man” by Deki Alem https://apple.co/Deki-Alem-Mr-Man\n“We’ve Got A Good Thing Going” by Tseba https://apple.co/Weve-Got-A-Good-Thing-Going\n“Kneel” by Nilüfer Yanya https://apple.co/Nilufer-Yanya-Kneel\n“JV Gets the $$$” by Junior Varsity https://apple.co/Junior-Varsity-JV-Gets-The\n“Rainbow” by ATRIP https://apple.co/ATRIP-Rainbow\n“Bikini” by Nick León & Erika De Casier https://apple.co/Nick-Leon-Bikini\n“Lambent Rag” by Clark https://apple.co/Clark-Lambent-Rag\n“Touchdown” by NNAMDÏ https://apple.co/NNAMDI-Touchdown\n“New Age Crisis” by Jean Dawson https://apple.co/New-Age-Crisis\n“New York” by Addison Rae https://apple.co/Addison-Rae-New-York\n“All Night” by The Dare https://apple.co/The-Dare-All-Night\n“[Eyes On You]” by Bas & Galimatias https://apple.co/Bas-Eyes-On-You\n“Come Rain Or Come Shine” by Connie Francis https://apple.co/Come-Rain-Or-Come-Shine\n\n#AppleEvent #iPhone17 #iPhone17Pro #iPhoneAir #AppleWatch #AirPods #Apple\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H3KnMyojEQU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H3KnMyojEQU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H3KnMyojEQU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H3KnMyojEQU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H3KnMyojEQU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Apple",
+          "tags": [
+            "Apple",
+            "Apple Event",
+            "Apple Keynote",
+            "Apple Special Event",
+            "keynote"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Apple Event — September 9",
+            "description": "Watch the special Apple Event to learn about iPhone 17, iPhone Air, and iPhone 17 Pro. Plus Apple Watch Series 11, Apple Watch SE 3, Apple Watch Ultra 3, AirPods Pro 3, and more. \n\nTo watch the event interpreted in American Sign Language (ASL) or hear it narrated via Audio Descriptions, please click here: https://youtu.be/yHC0aGQcS98\n\n00:00:00 Introduction\n00:02:59 AirPods Pro 3\n00:13:07 Apple Watch Introduction\n00:17:32 Apple Watch Series 11\n00:23:05 Apple Watch SE 3\n00:25:35 Apple Watch Ultra 3\n00:29:43 iPhone 17\n00:40:37 iPhone Air\n00:54:15 iPhone 17 Pro\n\n“Neon: 1. Shinjuku” by Hannah Peel & Manchester Collective https://apple.co/Neon-Shinjuku\n“BLUH BLUH BLUH” by _BY.ALEXANDER https://apple.co/BLUH-BLUH-BLUH\n“Cisco Bay” by Loaded Honey https://apple.co/Loaded-Honey-Cisco-Bay\n“Dream” by Neggy Gemmy https://apple.co/Neggy-Gemmy-Dream\n“Obsession” by Oliver Sim https://apple.co/Oliver-Sim-Obsession\n“U-Bahn Ride (feat. Beaks)” by 1tbsp https://apple.co/1tbsp-U-Bahn-Ride\n“Mr Man” by Deki Alem https://apple.co/Deki-Alem-Mr-Man\n“We’ve Got A Good Thing Going” by Tseba https://apple.co/Weve-Got-A-Good-Thing-Going\n“Kneel” by Nilüfer Yanya https://apple.co/Nilufer-Yanya-Kneel\n“JV Gets the $$$” by Junior Varsity https://apple.co/Junior-Varsity-JV-Gets-The\n“Rainbow” by ATRIP https://apple.co/ATRIP-Rainbow\n“Bikini” by Nick León & Erika De Casier https://apple.co/Nick-Leon-Bikini\n“Lambent Rag” by Clark https://apple.co/Clark-Lambent-Rag\n“Touchdown” by NNAMDÏ https://apple.co/NNAMDI-Touchdown\n“New Age Crisis” by Jean Dawson https://apple.co/New-Age-Crisis\n“New York” by Addison Rae https://apple.co/Addison-Rae-New-York\n“All Night” by The Dare https://apple.co/The-Dare-All-Night\n“[Eyes On You]” by Bas & Galimatias https://apple.co/Bas-Eyes-On-You\n“Come Rain Or Come Shine” by Connie Francis https://apple.co/Come-Rain-Or-Come-Shine\n\n#AppleEvent #iPhone17 #iPhone17Pro #iPhoneAir #AppleWatch #AirPods #Apple\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1H11M57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "28524140",
+          "likeCount": "492331",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "c2Fv7NYnhaJBViD7CZa0qsRhBjo",
+        "id": "LrKeBLhfvwE",
+        "snippet": {
+          "publishedAt": "2025-09-09T21:52:00Z",
+          "channelId": "UCkSVnUZq3q14lVajaQAlLpA",
+          "title": "Why the NEW iPhone AIR Exists",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LrKeBLhfvwE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LrKeBLhfvwE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LrKeBLhfvwE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LrKeBLhfvwE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/LrKeBLhfvwE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nathan Espinoza",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Why the NEW iPhone AIR Exists",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6828618",
+          "likeCount": "418896",
+          "favoriteCount": "0",
+          "commentCount": "4004"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HZG-idSAnpYnF3QUPjITOCyELg0",
+        "id": "h5tIEW0AKBw",
+        "snippet": {
+          "publishedAt": "2025-09-07T14:51:41Z",
+          "channelId": "UCClfFsWcT3N2I7VTXXyt84A",
+          "title": "Feeling the Razer Burn on a $4000 Blade Studio (STOP BUYING THESE) #pc #tech #shorts #technology",
+          "description": "This was by far the most frustrating customer support experience I have ever dealt with, and companies are only as good as their customer support. Unfortunately for Razer, their products AND their customer support system are the most unreliable in the industry. For 10 years I’ve been seeing Razer laptops come into my computer repair shop with overheating issues and misc. problems caused by running at 100C for months. But by far, a swollen battery was one of the most common issues. You would think spending $4000 4 years ago would mean being able to purchase a replacement battery when it inevitably dies. Nope, this is a “legacy” device (except Razer’s website says the opposite). They tell you to go to a repair shop, but also tell you not to use an aftermarket battery (which is a repair shops only option). This insanity needs to stop and the US needs right to repair laws that actually do something.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h5tIEW0AKBw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h5tIEW0AKBw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h5tIEW0AKBw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h5tIEW0AKBw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h5tIEW0AKBw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Salem Techsperts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Feeling the Razer Burn on a $4000 Blade Studio (STOP BUYING THESE) #pc #tech #shorts #technology",
+            "description": "This was by far the most frustrating customer support experience I have ever dealt with, and companies are only as good as their customer support. Unfortunately for Razer, their products AND their customer support system are the most unreliable in the industry. For 10 years I’ve been seeing Razer laptops come into my computer repair shop with overheating issues and misc. problems caused by running at 100C for months. But by far, a swollen battery was one of the most common issues. You would think spending $4000 4 years ago would mean being able to purchase a replacement battery when it inevitably dies. Nope, this is a “legacy” device (except Razer’s website says the opposite). They tell you to go to a repair shop, but also tell you not to use an aftermarket battery (which is a repair shops only option). This insanity needs to stop and the US needs right to repair laws that actually do something."
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9906132",
+          "likeCount": "1000856",
+          "favoriteCount": "0",
+          "commentCount": "11405"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "j4vBETr-9wWWItx3NMJnG3_6Y28",
+        "id": "UQ2GRTCWUvE",
+        "snippet": {
+          "publishedAt": "2025-09-13T08:00:35Z",
+          "channelId": "UC4Z8mPYjn6Dhr6n531YDh0Q",
+          "title": "3D Printed Off Center USB C Port",
+          "description": "https://www.epidemicsound.com/music/tracks/67e5b194-8a5e-47c9-a305-6cff052af5f6/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UQ2GRTCWUvE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UQ2GRTCWUvE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UQ2GRTCWUvE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UQ2GRTCWUvE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UQ2GRTCWUvE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "UFD Tech",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3D Printed Off Center USB C Port",
+            "description": "https://www.epidemicsound.com/music/tracks/67e5b194-8a5e-47c9-a305-6cff052af5f6/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT47S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2433772",
+          "likeCount": "140069",
+          "favoriteCount": "0",
+          "commentCount": "2112"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "04llylmlCgSUxUWg2MMksEJ0vek",
+        "id": "2xoWJe2PLsY",
+        "snippet": {
+          "publishedAt": "2025-09-08T11:02:06Z",
+          "channelId": "UCJfGuPxt-VihJnjOS09oMiQ",
+          "title": "MKBHD to Apple: Fix Your Alarm Clock! 🔥⏰ #iphone17",
+          "description": "MKBHD takes aim at Apple’s Clock App / Alarm — calling out bugs, UX choices, and why tiny changes matter for flagship products. Is this a wake-up call for Apple or just nitpicking? 🤔⏰📱\n\nCredits: Marques Brownlee 🎥\nThis short is transformative under Fair Use (17 U.S.C. §107) — includes original commentary, edits, and added insight.\n\nMKBHD Calls Out Apple’s Clock App Team 🚨📱\n#mkbhd #apple #iphone #marquesbrownlee #localstarbinit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2xoWJe2PLsY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2xoWJe2PLsY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2xoWJe2PLsY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2xoWJe2PLsY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2xoWJe2PLsY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Singular Podcasts",
+          "tags": [
+            "mkbhd",
+            "apple",
+            "iphone17",
+            "appleevent",
+            "applealarmclock",
+            "Apple",
+            "laptops",
+            "tech",
+            "apple vision pro",
+            "gadgets",
+            "Marques Brownlee",
+            "clock app",
+            "mrwhosetheboss",
+            "alarm apple",
+            "waveform podcast",
+            "apple clock app",
+            "mkbhd tech",
+            "apple alarm",
+            "mkbhd vs apple",
+            "apple special event",
+            "iphone 17 air price",
+            "apple vs mkbhd",
+            "mkbhd iphone 17 air review",
+            "mkbhd review",
+            "apple watch ultra",
+            "apple intelligence",
+            "iphone 17",
+            "apple leaks",
+            "iphone mkbhd price",
+            "iphone 17 news",
+            "iphone 17 pro price",
+            "mkbhd vs apple clock",
+            "ios"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "MKBHD to Apple: Fix Your Alarm Clock! 🔥⏰ #iphone17",
+            "description": "MKBHD takes aim at Apple’s Clock App / Alarm — calling out bugs, UX choices, and why tiny changes matter for flagship products. Is this a wake-up call for Apple or just nitpicking? 🤔⏰📱\n\nCredits: Marques Brownlee 🎥\nThis short is transformative under Fair Use (17 U.S.C. §107) — includes original commentary, edits, and added insight.\n\nMKBHD Calls Out Apple’s Clock App Team 🚨📱\n#mkbhd #apple #iphone #marquesbrownlee #localstarbinit"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT57S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6022744",
+          "likeCount": "294788",
+          "favoriteCount": "0",
+          "commentCount": "5475"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "e59Hu0YrptE6vIRFwUjE6j6OY-I",
+        "id": "idEAABFzpfg",
+        "snippet": {
+          "publishedAt": "2025-09-10T08:04:59Z",
+          "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+          "title": "iPhone 17/Pro/Air Impressions: Spot the Red Flags!",
+          "description": "Everything new from Apple's 2025 September event\n\nKeep your smartphone charged up with Ridge and get 10% off at https://geni.us/RidgePowerBank\n\nApple iPhone 17 Air: https://geni.us/Z8kz4\nApple iPhone 17 Pro: https://geni.us/qvBF\nApple iPhone 17: https://geni.us/HAo8K\nApple Watch Ultra 3: https://geni.us/J4BmPO\nApple AirPods Pro 3: https://geni.us/CFCWi\nApple Watch 11: https://geni.us/a3uY\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/idEAABFzpfg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/idEAABFzpfg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/idEAABFzpfg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/idEAABFzpfg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/idEAABFzpfg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Marques Brownlee",
+          "tags": [
+            "iPhone 17",
+            "iPhone 17 Air",
+            "iPhone 17 Pro",
+            "MKBHD",
+            "iPhone 17 impressions"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPhone 17/Pro/Air Impressions: Spot the Red Flags!",
+            "description": "Everything new from Apple's 2025 September event\n\nKeep your smartphone charged up with Ridge and get 10% off at https://geni.us/RidgePowerBank\n\nApple iPhone 17 Air: https://geni.us/Z8kz4\nApple iPhone 17 Pro: https://geni.us/qvBF\nApple iPhone 17: https://geni.us/HAo8K\nApple Watch Ultra 3: https://geni.us/J4BmPO\nApple AirPods Pro 3: https://geni.us/CFCWi\nApple Watch 11: https://geni.us/a3uY\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14M50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13253320",
+          "likeCount": "333995",
+          "favoriteCount": "0",
+          "commentCount": "22025"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PuVJ7VOc4_kV-q0ZlZ4jgmyxL3Y",
+        "id": "Cr9B6yyLZSk",
+        "snippet": {
+          "publishedAt": "2025-09-10T04:13:32Z",
+          "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+          "title": "iPhone 17/Air/Pro Hands on - Everything’s changed",
+          "description": "Lets talk iPhone 17, Phone Air, iPhone 17 Pro and iPhone 17 Pro Max\nTorras Q3 Air lets you capture and create anytime, no tripod needed. Official Website: https://bit.ly/46b9saQ ; US Amazon: https://amzn.to/42fe9PM ; UK Amazon: https://bit.ly/46eDCKp\n67W Flexline Charger: US Amazon: https://amzn.to/4nENiFl\n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://amzn.to/3mFix9d\nAmazon UK: https://amzn.to/3GMPPtM\n\nMy Browser: https://opr.as/Opera-browser-Mr-Whose-the-Boss \nMy Filming Gear: https://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cr9B6yyLZSk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cr9B6yyLZSk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cr9B6yyLZSk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Cr9B6yyLZSk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Cr9B6yyLZSk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mrwhosetheboss",
+          "tags": [
+            "iphone 17",
+            "iphone air",
+            "iphone 17 pro",
+            "iphone 17 review",
+            "iphone air review",
+            "iphone 17 pro review",
+            "hands on"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPhone 17/Air/Pro Hands on - Everything’s changed",
+            "description": "Lets talk iPhone 17, Phone Air, iPhone 17 Pro and iPhone 17 Pro Max\nTorras Q3 Air lets you capture and create anytime, no tripod needed. Official Website: https://bit.ly/46b9saQ ; US Amazon: https://amzn.to/42fe9PM ; UK Amazon: https://bit.ly/46eDCKp\n67W Flexline Charger: US Amazon: https://amzn.to/4nENiFl\n\nI spend a LOT of time trying to make my videos as concise, polished and useful as possible for you - if you would like to support me on that mission then consider subscribing to the channel - you'd make my day 😁\n\nFor my tech hot takes: http://twitter.com/Mrwhosetheboss\nFor my Personal Posts: http://instagram.com/mrwhosetheboss\nFor quick tech videos: https://www.tiktok.com/@mrwhosetheboss\nDoes anyone still use this anymore?: https://facebook.com/mrwhosetheboss\n\nAmazon Affiliate links (if you buy anything through these it will support the channel and allow us to buy better gear!):\nAmazon US: https://amzn.to/3mFix9d\nAmazon UK: https://amzn.to/3GMPPtM\n\nMy Browser: https://opr.as/Opera-browser-Mr-Whose-the-Boss \nMy Filming Gear: https://bit.ly/35CuxwI\n\nMusic is from Epidemic sound:\nhttp://share.epidemicsound.com/pHDFT"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT12M16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8793882",
+          "likeCount": "192583",
+          "favoriteCount": "0",
+          "commentCount": "16002"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qRYGIBNkqnTvwW5OBS0KZT8bsDM",
+        "id": "fWwHd4PR4Og",
+        "snippet": {
+          "publishedAt": "2025-09-11T17:35:18Z",
+          "channelId": "UCW9y5TPZV2RA-TK3D4NqBYA",
+          "title": "Core Memory Unlocked 🤯",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fWwHd4PR4Og/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fWwHd4PR4Og/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fWwHd4PR4Og/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fWwHd4PR4Og/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fWwHd4PR4Og/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ramo Akh",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Core Memory Unlocked 🤯",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1385252",
+          "likeCount": "47433",
+          "favoriteCount": "0",
+          "commentCount": "374"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "d3a7QlWDYRj_d2gIynCjSuKKj40",
+        "id": "HjjmYLzouts",
+        "snippet": {
+          "publishedAt": "2025-09-11T20:38:52Z",
+          "channelId": "UC7rsYYvQbqQrJDGhqWmtAgQ",
+          "title": "iPhone 17 Pro Is Weaker?!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HjjmYLzouts/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HjjmYLzouts/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HjjmYLzouts/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HjjmYLzouts/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HjjmYLzouts/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kyle Krueger",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPhone 17 Pro Is Weaker?!",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2556727",
+          "likeCount": "150004",
+          "favoriteCount": "0",
+          "commentCount": "763"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cSafYnzajdD2jPtyicapI09ZkGY",
+        "id": "qxRUcnUj0M8",
+        "snippet": {
+          "publishedAt": "2025-09-12T02:40:53Z",
+          "channelId": "UCIfMka3q_tcPOYeiEZr3zjA",
+          "title": "Apple AI vs Galaxy AI Comparison #AppleAI #GalaxyAI #tech #smartphones #AI #Apple #Samsung #review",
+          "description": "Apple AI vs Galaxy AI — which artificial intelligence is better in 2025? In this video, we compare speed, creativity, real-world tasks, and smart features to see which one dominates. Watch this Apple AI vs Galaxy AI showdown to find out who really leads the future of AI in smartphones.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qxRUcnUj0M8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qxRUcnUj0M8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qxRUcnUj0M8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qxRUcnUj0M8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qxRUcnUj0M8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Custom Adventurist",
+          "tags": [
+            "Apple AI vs Galaxy AI Comparison",
+            "Apple AI vs Galaxy AI Comparison review",
+            "Apple AI vs Galaxy AI Comparison 2025",
+            "Apple AI vs Galaxy AI Comparison speed test",
+            "Apple AI vs Galaxy AI Comparison creativity test",
+            "Apple AI vs Galaxy AI Comparison features",
+            "Apple AI vs Galaxy AI Comparison smartphones",
+            "Apple AI vs Galaxy AI Comparison trending",
+            "Apple AI vs Galaxy AI Comparison tech review",
+            "Apple AI vs Galaxy AI Comparison unboxing"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Apple AI vs Galaxy AI Comparison #AppleAI #GalaxyAI #tech #smartphones #AI #Apple #Samsung #review",
+            "description": "Apple AI vs Galaxy AI — which artificial intelligence is better in 2025? In this video, we compare speed, creativity, real-world tasks, and smart features to see which one dominates. Watch this Apple AI vs Galaxy AI showdown to find out who really leads the future of AI in smartphones."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2919842",
+          "likeCount": "112401",
+          "favoriteCount": "0",
+          "commentCount": "1841"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mYteig_WAma4Uq3WMtS8WiMG67c",
+        "id": "b0l0BLCO8A4",
+        "snippet": {
+          "publishedAt": "2025-09-09T18:59:53Z",
+          "channelId": "UCE7spuKzxP1k8A-XucxxUAQ",
+          "title": "iPhone Air just announced 🤔",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b0l0BLCO8A4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b0l0BLCO8A4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b0l0BLCO8A4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b0l0BLCO8A4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b0l0BLCO8A4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "John Casterline",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPhone Air just announced 🤔",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2980780",
+          "likeCount": "273923",
+          "favoriteCount": "0",
+          "commentCount": "2997"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uTm3OrEdd6OdIoswQx4TromsXLM",
+        "id": "Nn0b5SQAR2E",
+        "snippet": {
+          "publishedAt": "2025-09-14T19:00:31Z",
+          "channelId": "UCZeKXaDbtL2GbfoB8hldseQ",
+          "title": "If Nintendo Made AirPods!",
+          "description": "Safe to say they won’t make these!\n\n#shorts #skit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Nn0b5SQAR2E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Nn0b5SQAR2E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Nn0b5SQAR2E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Nn0b5SQAR2E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Nn0b5SQAR2E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "EmSwizzle",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "If Nintendo Made AirPods!",
+            "description": "Safe to say they won’t make these!\n\n#shorts #skit"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "703584",
+          "likeCount": "37787",
+          "favoriteCount": "0",
+          "commentCount": "325"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HbIEGU68WoQs1Mf5yPfdn5PgTKU",
+        "id": "SXeKRHf2V4Q",
+        "snippet": {
+          "publishedAt": "2025-09-08T19:30:05Z",
+          "channelId": "UCvz84_Q0BbvZThy75mbd-Dg",
+          "title": "iPad Stopped A Bullet 😮",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SXeKRHf2V4Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SXeKRHf2V4Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SXeKRHf2V4Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SXeKRHf2V4Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SXeKRHf2V4Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Zack D. Films",
+          "categoryId": "19",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPad Stopped A Bullet 😮",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5381550",
+          "likeCount": "597495",
+          "favoriteCount": "0",
+          "commentCount": "6597"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xS8Dp_kSZMD7zJoDKSAKF9YZ5rk",
+        "id": "cHQkg81-pVY",
+        "snippet": {
+          "publishedAt": "2025-09-15T17:29:45Z",
+          "channelId": "UC1HOOCKGrELLsoHRSDnPDaQ",
+          "title": "How Apple Scams Customers",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cHQkg81-pVY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cHQkg81-pVY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cHQkg81-pVY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cHQkg81-pVY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cHQkg81-pVY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Fuel Dose",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How Apple Scams Customers",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "650926",
+          "likeCount": "31280",
+          "favoriteCount": "0",
+          "commentCount": "332"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "A1q2c66dcJ5IzF48-pIy5WVD8dA",
+        "id": "ctzGApeibmQ",
+        "snippet": {
+          "publishedAt": "2025-09-04T13:28:06Z",
+          "channelId": "UCPzXfSbhQ3xn2Y7JJ2-7lZw",
+          "title": "What Happens If Elevator Cables Snap With This Technique?",
+          "description": "This new elevator technology uses advanced dampers to absorb impact so smoothly, it feels like defying gravity.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ctzGApeibmQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ctzGApeibmQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ctzGApeibmQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ctzGApeibmQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ctzGApeibmQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VidXiv",
+          "tags": [
+            "elevator technology",
+            "future elevators",
+            "gravity defying elevator",
+            "hydraulic damper",
+            "futuristic tech",
+            "next gen elevators",
+            "elevator safety",
+            "engineering marvel",
+            "new elevator design",
+            "advanced elevator systems",
+            "smart elevators",
+            "future engineering",
+            "technology of the future",
+            "modern elevators",
+            "impact absorption",
+            "hydraulic technology",
+            "future safety tech",
+            "elevator crash test",
+            "breakthrough engineering",
+            "gravity defying technology",
+            "innovative elevators",
+            "future inventions",
+            "Vidxiv"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What Happens If Elevator Cables Snap With This Technique?",
+            "description": "This new elevator technology uses advanced dampers to absorb impact so smoothly, it feels like defying gravity."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4317627",
+          "likeCount": "216168",
+          "favoriteCount": "0",
+          "commentCount": "1300"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IgFeDiQw65KoGN8qcsNJ__5jT9o",
+        "id": "3UyN8z5jbjw",
+        "snippet": {
+          "publishedAt": "2025-09-15T00:01:38Z",
+          "channelId": "UCi7wDE2ZTiR5QYYrUY5WhtA",
+          "title": "My iPhone 17 Pre-Order…#c#carterpcst#techtechtok #iphone17 #apple",
+          "description": "My iPhone 17 Pre-Order…#c#carterpcst#techtechtok #iphone17 #apple",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3UyN8z5jbjw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3UyN8z5jbjw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3UyN8z5jbjw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3UyN8z5jbjw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3UyN8z5jbjw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CarterPCs",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My iPhone 17 Pre-Order…#c#carterpcst#techtechtok #iphone17 #apple",
+            "description": "My iPhone 17 Pre-Order…#c#carterpcst#techtechtok #iphone17 #apple"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "678773",
+          "likeCount": "54661",
+          "favoriteCount": "0",
+          "commentCount": "711"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "w7qsWdTlVuDpmR2Ju54v_HCIwLI",
+        "id": "alFd9qc-YvE",
+        "snippet": {
+          "publishedAt": "2025-09-10T19:00:02Z",
+          "channelId": "UCMqegAg0Y4k9UJZw_jT4lEw",
+          "title": "🔒❌ You don’t know the passcode—this isn’t your phone!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/alFd9qc-YvE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/alFd9qc-YvE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/alFd9qc-YvE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/alFd9qc-YvE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/alFd9qc-YvE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kira",
+          "tags": [
+            "fishing",
+            "bass",
+            "bassfishing",
+            "outdoors",
+            "sports",
+            "googan",
+            "googansquad",
+            "lures",
+            "googanbaits",
+            "fisherman",
+            "angler",
+            "redfish",
+            "trout",
+            "largemouthbass",
+            "catfish",
+            "carp",
+            "saltwater",
+            "saltwaterfishing",
+            "texas",
+            "texasfishing",
+            "unitedstates",
+            "livestreams",
+            "takeoverseason",
+            "fishy",
+            "pond",
+            "lake",
+            "ocean",
+            "river"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "🔒❌ You don’t know the passcode—this isn’t your phone!",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1669094",
+          "likeCount": "42975",
+          "favoriteCount": "0",
+          "commentCount": "57"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TTkaVNCJrI2Y9HG9OwFKW17q3gk",
+        "id": "S-H46C-O4vU",
+        "snippet": {
+          "publishedAt": "2025-09-13T01:37:07Z",
+          "channelId": "UCdSpWm6SLFp1JQVowSlcNwQ",
+          "title": "80 Year Old Macro Camera  #photography",
+          "description": "Instagram- @max_madeit",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S-H46C-O4vU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S-H46C-O4vU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S-H46C-O4vU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/S-H46C-O4vU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/S-H46C-O4vU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Max Adams",
+          "tags": [
+            "macro",
+            "photography",
+            "linhof",
+            "4x5 film",
+            "35mm film",
+            "film photography"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "80 Year Old Macro Camera  #photography",
+            "description": "Instagram- @max_madeit"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT1M33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1205295",
+          "likeCount": "119071",
+          "favoriteCount": "0",
+          "commentCount": "362"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8Uv2NcUV7nFS22UgnNJwNsTYUWs",
+        "id": "Jd8SC-OgOGo",
+        "snippet": {
+          "publishedAt": "2025-09-12T21:11:56Z",
+          "channelId": "UC3iwxKMRg5l2aDG_8XK2nSQ",
+          "title": "The iPhone 17 Pro 📲 #TheManniiShow.com/series",
+          "description": ",WEBBY AWARDS Honoree x2!!  🤳🏼\"MJ's WORLD!\"    @TheManniiShow       The Mannii Show on YouTube SERIES!  🎉 INFLUENCER  LIFE behind-the scenes!!  🤳🏼   \n\n*** A peek inside the world of MJ, a 16yo mega-influencer who commissions a documentary about his life to help craft his image. *** ONLY ON Youtube!  *** What Is Reality? *** https://TheManniiShow.com/series  \n\n @TheManniiShow @ElShowDeMannii @TheManniiShow-BR \n\n✈️ MANNII Vs. FOOD - https://TheManniiShow.com/series  I find the best food at viewers requests and tackle a series of mini-missions to avoid facing humiliating tasks in defeat.  🍔🍕🍖🍦 Season 1 NOW POSTED! ✈️\n\nThanks for supporting the Show! https://TheManniiStore.com ❤️ Check out the DRIP SALE! 🎉\n\nON SALE NOW!  The Mannii Store UNCENSORED (https://www.TheManniiShow.Dashery.com) \n\n#freecomedy #shorts #comedy #satire #themanniishow",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jd8SC-OgOGo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jd8SC-OgOGo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jd8SC-OgOGo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jd8SC-OgOGo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Jd8SC-OgOGo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Mannii Show",
+          "tags": [
+            "comedy",
+            "TheManniiShow",
+            "influencer",
+            "tiktok",
+            "youtube",
+            "behind the scenes",
+            "unplugged",
+            "MJ",
+            "sketch",
+            "improv",
+            "celebrity",
+            "mockumentary",
+            "free comedy",
+            "series",
+            "youtube series",
+            "comedy series",
+            "TheManiShow",
+            "TheMani",
+            "TheManni",
+            "TheManniShow",
+            "The Manni",
+            "The Manny Show",
+            "TheMannyShow",
+            "tiktokker",
+            "#shorts",
+            "the mannii show voice reveal",
+            "comedy series on youtube",
+            "youtube series shows",
+            "youtube series free",
+            "the mannii show real voice",
+            "the manny show tiktok",
+            "the mani show",
+            "español",
+            "Português",
+            "shorts"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The iPhone 17 Pro 📲 #TheManniiShow.com/series",
+            "description": ",WEBBY AWARDS Honoree x2!!  🤳🏼\"MJ's WORLD!\"    @TheManniiShow       The Mannii Show on YouTube SERIES!  🎉 INFLUENCER  LIFE behind-the scenes!!  🤳🏼   \n\n*** A peek inside the world of MJ, a 16yo mega-influencer who commissions a documentary about his life to help craft his image. *** ONLY ON Youtube!  *** What Is Reality? *** https://TheManniiShow.com/series  \n\n @TheManniiShow @ElShowDeMannii @TheManniiShow-BR \n\n✈️ MANNII Vs. FOOD - https://TheManniiShow.com/series  I find the best food at viewers requests and tackle a series of mini-missions to avoid facing humiliating tasks in defeat.  🍔🍕🍖🍦 Season 1 NOW POSTED! ✈️\n\nThanks for supporting the Show! https://TheManniiStore.com ❤️ Check out the DRIP SALE! 🎉\n\nON SALE NOW!  The Mannii Store UNCENSORED (https://www.TheManniiShow.Dashery.com) \n\n#freecomedy #shorts #comedy #satire #themanniishow"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2843715",
+          "likeCount": "135848",
+          "favoriteCount": "0",
+          "commentCount": "864"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6inZXfGLX7tKkyFdPhmeUPZXQXk",
+        "id": "BulpWZ6u-_E",
+        "snippet": {
+          "publishedAt": "2025-09-11T16:53:07Z",
+          "channelId": "UCPvRdfUooqCf0zPOYvbBzVA",
+          "title": "this piano was built INCORRECTLY! let's fix it",
+          "description": "this piano was built incorrectly! Let's try to fix it #pc #pctips #pcbuilding #mryeester\n\nneed new thermal paste? check out YeesterPaste and all my thermal paste accessories! www.yeesterpaste.com",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BulpWZ6u-_E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BulpWZ6u-_E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BulpWZ6u-_E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BulpWZ6u-_E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BulpWZ6u-_E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mryeester",
+          "tags": [
+            "pc",
+            "pc tips",
+            "pc building",
+            "mryeester"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "this piano was built INCORRECTLY! let's fix it",
+            "description": "this piano was built incorrectly! Let's try to fix it #pc #pctips #pcbuilding #mryeester\n\nneed new thermal paste? check out YeesterPaste and all my thermal paste accessories! www.yeesterpaste.com"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2280806",
+          "likeCount": "131476",
+          "favoriteCount": "0",
+          "commentCount": "548"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Yo1flraR6EhJHpsRydbdZ05bDcU",
+        "id": "aRyh7tTMAzs",
+        "snippet": {
+          "publishedAt": "2025-09-09T18:41:52Z",
+          "channelId": "UCbmOgzvvDg60mXGm9t9Ad5Q",
+          "title": "Apple iPhone 17",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aRyh7tTMAzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aRyh7tTMAzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aRyh7tTMAzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aRyh7tTMAzs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/aRyh7tTMAzs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Omar Agamy",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Apple iPhone 17",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1842547",
+          "likeCount": "150230",
+          "favoriteCount": "0",
+          "commentCount": "4352"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NSiLhUTc9vafF2wxuAQJD8eHIX0",
+        "id": "_ksDSzD8LV0",
+        "snippet": {
+          "publishedAt": "2025-09-11T02:16:40Z",
+          "channelId": "UCY1dq_8GKrossTa84rMj6_Q",
+          "title": "APPLE VS SAMSUNG 😂 #shorts #apple #samsung",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_ksDSzD8LV0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_ksDSzD8LV0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_ksDSzD8LV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_ksDSzD8LV0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_ksDSzD8LV0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Nick Jackson",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "APPLE VS SAMSUNG 😂 #shorts #apple #samsung",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "609542",
+          "likeCount": "27106",
+          "favoriteCount": "0",
+          "commentCount": "1059"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "klKKNKxPsBf2nkAn9qFbN_kVlno",
+        "id": "U8S1NfRVHws",
+        "snippet": {
+          "publishedAt": "2025-09-15T06:40:50Z",
+          "channelId": "UC15xtAvFXuKgeBc7Ad8Jykg",
+          "title": "3 Column Square Keyboard Lifehack 😳🤯 #shorts",
+          "description": "#art #craft #drawing #short #shorts #shortsfeed #shortsvideo #shortsviral #shortsyoutube #fyp #reaction #dalimsharma",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U8S1NfRVHws/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U8S1NfRVHws/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U8S1NfRVHws/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U8S1NfRVHws/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U8S1NfRVHws/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "EvadEr POV",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3 Column Square Keyboard Lifehack 😳🤯 #shorts",
+            "description": "#art #craft #drawing #short #shorts #shortsfeed #shortsvideo #shortsviral #shortsyoutube #fyp #reaction #dalimsharma"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "509134",
+          "likeCount": "14380",
+          "favoriteCount": "0",
+          "commentCount": "4452"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "--_M1nKU7PmzCvekOIoMgQYdmgo",
+        "id": "Yvf1JNKO5t4",
+        "snippet": {
+          "publishedAt": "2025-09-15T23:20:04Z",
+          "channelId": "UCpZy-Hfqcxf-R7nQzlv9Bvw",
+          "title": "iOS 26 Changes Everything! - First 10 Things To Do!",
+          "description": "iOS 26 Changes Everything! - First 10 Things To Do! | iOS 26 Features & Changes\n\nApple released iOS 26 today and although it contains 450 new features and changes, there are 10 very important new features that you should focus on right after you update. And in this video, I'll be showing you those new features, such Screen Capture, Phone features, Messages features, and much more. Enjoy!\n\n🎨 LUSTRA Wallpaper Collection (built for Liquid Glass): https://brandonbutch.com/products/lustra\n\n🍎 Become an *Ultra Member* to get PDF guides for videos, access to premium wallpapers + more: https://bit.ly/bb-member\n💬 Join our *Discord* server to continue the conversation: https://discord.gg/appleden\n📖📲 Sign up for the *newsletter* to get unfiltered Apple news & insights: https://theappleden.com/subscribe (it's free)\n\n*Social Media:*\nTwitter/X: https://x.com/brandonbutch\nInstagram: https://instagram.com/brandonbutch\nThreads: https://www.threads.net/@brandonbutch\nTikTok: https://tiktok.com/@brandon.butch\nFacebook: https://www.facebook.com/brandonbutchyt\nApple Music: https://apple.co/2VF3KZj\n\n*Chapters:*\n0:00 iOS 26 is here!\n0:11 There’s more to the Lock Screen\n1:20 Animated art\n1:46 Better than crossfade\n2:34 Fundamental change to screenshots\n4:15 Liquid Glass\n5:37 Crazy useful Battery features\n6:42 Adaptive Power & Battery Intelligence \n7:21 Phone revamp\n7:42 Screen Calls & Hold Assist\n8:30 Messages\n10:20 Mixmoji\n10:48 Camera & Photos redesigned\n12:47 Save custom presets here\n 14:10 Those are 10 of 450. Watch the video!\n\n📷 Gear used to make this video: https://amzn.to/4nhnLmf\n📱 Best tech deals (updated daily): http://amzn.to/2qcK0QT\n\nDisclosure: This video might contain affiliate links, which help fund the channel if you make a purchase.\n\nHave a fantastic day & I'll see you soon!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Yvf1JNKO5t4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Yvf1JNKO5t4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Yvf1JNKO5t4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Yvf1JNKO5t4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Yvf1JNKO5t4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Brandon Butch",
+          "tags": [
+            "Brandon butch",
+            "iphone",
+            "ios",
+            "apple",
+            "iOS 17",
+            "iPhone 15",
+            "iPhone 16",
+            "iOS 18"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iOS 26 Changes Everything! - First 10 Things To Do!",
+            "description": "iOS 26 Changes Everything! - First 10 Things To Do! | iOS 26 Features & Changes\n\nApple released iOS 26 today and although it contains 450 new features and changes, there are 10 very important new features that you should focus on right after you update. And in this video, I'll be showing you those new features, such Screen Capture, Phone features, Messages features, and much more. Enjoy!\n\n🎨 LUSTRA Wallpaper Collection (built for Liquid Glass): https://brandonbutch.com/products/lustra\n\n🍎 Become an *Ultra Member* to get PDF guides for videos, access to premium wallpapers + more: https://bit.ly/bb-member\n💬 Join our *Discord* server to continue the conversation: https://discord.gg/appleden\n📖📲 Sign up for the *newsletter* to get unfiltered Apple news & insights: https://theappleden.com/subscribe (it's free)\n\n*Social Media:*\nTwitter/X: https://x.com/brandonbutch\nInstagram: https://instagram.com/brandonbutch\nThreads: https://www.threads.net/@brandonbutch\nTikTok: https://tiktok.com/@brandon.butch\nFacebook: https://www.facebook.com/brandonbutchyt\nApple Music: https://apple.co/2VF3KZj\n\n*Chapters:*\n0:00 iOS 26 is here!\n0:11 There’s more to the Lock Screen\n1:20 Animated art\n1:46 Better than crossfade\n2:34 Fundamental change to screenshots\n4:15 Liquid Glass\n5:37 Crazy useful Battery features\n6:42 Adaptive Power & Battery Intelligence \n7:21 Phone revamp\n7:42 Screen Calls & Hold Assist\n8:30 Messages\n10:20 Mixmoji\n10:48 Camera & Photos redesigned\n12:47 Save custom presets here\n 14:10 Those are 10 of 450. Watch the video!\n\n📷 Gear used to make this video: https://amzn.to/4nhnLmf\n📱 Best tech deals (updated daily): http://amzn.to/2qcK0QT\n\nDisclosure: This video might contain affiliate links, which help fund the channel if you make a purchase.\n\nHave a fantastic day & I'll see you soon!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14M53S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "539705",
+          "likeCount": "10698",
+          "favoriteCount": "0",
+          "commentCount": "931"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "fhIEitCpQzOH9UXMdqTO-tffbO4",
+        "id": "FzayKE81rog",
+        "snippet": {
+          "publishedAt": "2025-09-11T16:26:57Z",
+          "channelId": "UCLBvG6cfRsccrTKekuTpwQA",
+          "title": "iPhone vs Xiaomi - DURABILITY 🤯🤯🤯",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FzayKE81rog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FzayKE81rog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FzayKE81rog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FzayKE81rog/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FzayKE81rog/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TechDroider Clips",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPhone vs Xiaomi - DURABILITY 🤯🤯🤯",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT46S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6483156",
+          "likeCount": "265652",
+          "favoriteCount": "0",
+          "commentCount": "2289"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3Jif4BGAIsXt-aNEuYH3pqLeITQ",
+        "id": "6G56WG_76j0",
+        "snippet": {
+          "publishedAt": "2025-09-10T03:26:50Z",
+          "channelId": "UCIxLxlan8q9WA7sjuq6LdTQ",
+          "title": "iPhone 17 Pro Max VS iPhone 16 Pro Max | What the HECK is the difference???",
+          "description": "iPhone 17 Pro Max VS iPhone 16 Pro Max - What the HECK is the difference??? \nHopefully this answers that for you 😆\n\n#iphone17 #iphone17promax #iphone17pro",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6G56WG_76j0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6G56WG_76j0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6G56WG_76j0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6G56WG_76j0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6G56WG_76j0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hayls World",
+          "tags": [
+            "iphone 17",
+            "iphone 17 pro",
+            "iphone 17 pro max",
+            "iphone pro max",
+            "iphone 16 pro max",
+            "apple event",
+            "iphone",
+            "iphone tips",
+            "iphone tricks"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPhone 17 Pro Max VS iPhone 16 Pro Max | What the HECK is the difference???",
+            "description": "iPhone 17 Pro Max VS iPhone 16 Pro Max - What the HECK is the difference??? \nHopefully this answers that for you 😆\n\n#iphone17 #iphone17promax #iphone17pro"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2623633",
+          "likeCount": "104597",
+          "favoriteCount": "0",
+          "commentCount": "2433"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Cs9VIzHNhcW07PIZNndqcMXdtUg",
+        "id": "MW3Jxm7wXU8",
+        "snippet": {
+          "publishedAt": "2025-09-12T13:54:14Z",
+          "channelId": "UCfYD-5AtkXf92nNgx1seItA",
+          "title": "😱 PREORDERING THE NEW IPHONE 17 PRO???",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MW3Jxm7wXU8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MW3Jxm7wXU8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MW3Jxm7wXU8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MW3Jxm7wXU8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MW3Jxm7wXU8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Khoslaa",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "😱 PREORDERING THE NEW IPHONE 17 PRO???",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "108779",
+          "likeCount": "6464",
+          "favoriteCount": "0",
+          "commentCount": "104"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o-6NOWWv_F4jtTD8x93DKpHKuR8",
+        "id": "uHCtfN1jPYY",
+        "snippet": {
+          "publishedAt": "2025-09-12T12:02:00Z",
+          "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+          "title": "$1 vs $10,000 Alarm Clock!",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uHCtfN1jPYY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uHCtfN1jPYY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uHCtfN1jPYY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uHCtfN1jPYY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uHCtfN1jPYY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Topper Guild",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "$1 vs $10,000 Alarm Clock!",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2382997",
+          "likeCount": "95829",
+          "favoriteCount": "0",
+          "commentCount": "176"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oMr4Tt8pACwNGGurPescYptVCpE",
+        "id": "DR7_vSPUYbA",
+        "snippet": {
+          "publishedAt": "2025-09-15T17:00:15Z",
+          "channelId": "UCi7eZm4CkFiLEZ4tF4Er4lA",
+          "title": "iOS 26 is AMAZING! Do these 10 things FIRST!",
+          "description": "🤩 More than 150 tips and tricks for the iPhone, with more being added https://propht.io/ehbdrw\n\niOS 26 is here, and it's a HUGE update! In this video, I'm going to show you the 10 things I think you should check out first.  \n\n📖 Looking for the PDF?\n↪ Access it here by becoming a PDF Member (BEST value) https://propht.io/pdf-access \n↪ Buy it here (one-off purchase) https://propht.io/t7stzj\n↪ Monthly membership https://propht.io/pdf-coffee\n\n📧 Want a FREE weekly dose of Tech News, Hints and Tips? Sign up for my newsletter! \nhttps://propht.io/news\n\n☕️ Getting value from these videos? Want to support the channel? Buy me a coffee! https://bit.ly/47XsVeI\n\nFollow me on my socials! \nInstagram - http://instagram.com/properhonesttech\nTwitter - http://twitter.com/properhonesttec\n\nChapters:\n0:00 - Intro\n0:28 - Visual changes\n2:11 - Customising\n4:31 - All new screenshots\n7:31 - Spatial photos\n8:43 - Photos app fixed\n10:11 - Camera app redesign\n11:43 - Battery and power\n13:14 - New snooze! \n13:46 - Phone features\n15:43 - New Reminders features\n17:19 - Honourable mentions",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DR7_vSPUYbA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DR7_vSPUYbA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DR7_vSPUYbA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DR7_vSPUYbA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DR7_vSPUYbA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Proper Honest Tech",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iOS 26 is AMAZING! Do these 10 things FIRST!",
+            "description": "🤩 More than 150 tips and tricks for the iPhone, with more being added https://propht.io/ehbdrw\n\niOS 26 is here, and it's a HUGE update! In this video, I'm going to show you the 10 things I think you should check out first.  \n\n📖 Looking for the PDF?\n↪ Access it here by becoming a PDF Member (BEST value) https://propht.io/pdf-access \n↪ Buy it here (one-off purchase) https://propht.io/t7stzj\n↪ Monthly membership https://propht.io/pdf-coffee\n\n📧 Want a FREE weekly dose of Tech News, Hints and Tips? Sign up for my newsletter! \nhttps://propht.io/news\n\n☕️ Getting value from these videos? Want to support the channel? Buy me a coffee! https://bit.ly/47XsVeI\n\nFollow me on my socials! \nInstagram - http://instagram.com/properhonesttech\nTwitter - http://twitter.com/properhonesttec\n\nChapters:\n0:00 - Intro\n0:28 - Visual changes\n2:11 - Customising\n4:31 - All new screenshots\n7:31 - Spatial photos\n8:43 - Photos app fixed\n10:11 - Camera app redesign\n11:43 - Battery and power\n13:14 - New snooze! \n13:46 - Phone features\n15:43 - New Reminders features\n17:19 - Honourable mentions"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT19M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1919611",
+          "likeCount": "41042",
+          "favoriteCount": "0",
+          "commentCount": "1976"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QWE8Ph3wicaVzNBk1BgwAYWOeZ0",
+        "id": "G36Y5VKNYmY",
+        "snippet": {
+          "publishedAt": "2025-09-05T03:25:03Z",
+          "channelId": "UCqoDh43jcs6_wxcNYCnsaCA",
+          "title": "Theater’s Clever Anti-Recording Trick",
+          "description": "Note: This is for educational purposes only.\nWhen this girl goes to the theater, her phone is placed inside a special case and sealed with a pin that only staff can unlock. This way, while she’s watching the movie, all her apps still work normally, but if she tries to use the camera, the screen just shows up blurry. The phone only comes out of the case once she leaves, so no one can record the movie. Please don't forget to subscribe to my channel and like the video, thank you.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/G36Y5VKNYmY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/G36Y5VKNYmY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/G36Y5VKNYmY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/G36Y5VKNYmY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/G36Y5VKNYmY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NEXTLEVELTHING",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Theater’s Clever Anti-Recording Trick",
+            "description": "Note: This is for educational purposes only.\nWhen this girl goes to the theater, her phone is placed inside a special case and sealed with a pin that only staff can unlock. This way, while she’s watching the movie, all her apps still work normally, but if she tries to use the camera, the screen just shows up blurry. The phone only comes out of the case once she leaves, so no one can record the movie. Please don't forget to subscribe to my channel and like the video, thank you."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4801830",
+          "likeCount": "179283",
+          "favoriteCount": "0",
+          "commentCount": "483"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "GOnSMPvsRxAAh9QmnqneYsNBefc",
+        "id": "ZWwlt6o-lDc",
+        "snippet": {
+          "publishedAt": "2025-08-23T00:00:47Z",
+          "channelId": "UCaaqSXhis7JwvrnadjfACtQ",
+          "title": "estos son los nuevos televisores que están revolucionando el mundo",
+          "description": "estos son los nuevos televisores que están revolucionando el mundo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZWwlt6o-lDc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZWwlt6o-lDc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZWwlt6o-lDc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZWwlt6o-lDc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZWwlt6o-lDc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ají Taypa",
+          "tags": [
+            "estos son los nuevos televisores que están revolucionando el mundo",
+            "televisores que están revolucionando el mundo",
+            "el mejor televisor del mundo",
+            "los nuevos televisores que están revolucionando el mundo",
+            "nuevos televisores",
+            "televisores de ultima tecnologia",
+            "televisores con la ultima tecnologia del mundo",
+            "televisores",
+            "estos son los nuevos televisores"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "es",
+          "localized": {
+            "title": "estos son los nuevos televisores que están revolucionando el mundo",
+            "description": "estos son los nuevos televisores que están revolucionando el mundo"
+          },
+          "defaultAudioLanguage": "es"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4128117",
+          "likeCount": "90481",
+          "favoriteCount": "0",
+          "commentCount": "762"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OLUDR_lm2nJWQ-OrGMrF19_mAlA",
+        "id": "cbD2LWnDCIc",
+        "snippet": {
+          "publishedAt": "2025-09-15T17:00:48Z",
+          "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+          "title": "iOS 26: 26 New Features for Apple’s New iPhone Software Update | WSJ",
+          "description": "Apple’s latest iPhone software iOS26 is the biggest visual makeover in years. New features include Liquid Glass, a built-in assistant to screen your calls, hold assist and more. AI features like live translation in calls and FaceTimes require Apple Intelligence, which only runs on iPhone 15 Pro and newer.\n\nWSJ’s Joanna Stern shows you what’s new—and how to turn off the changes you don’t like.\n\nChapters:\n0:00 iOS26\n0:35 Lessen the glass\n1:10 Glassify your home screen\n1:34 Revert your phone app\n1:53 Call screening\n2:34 Hold assist \n3:18 Live translate calls\n4:00 Filter unknown senders\n4:32 Add messages backgrounds \n5:04 Add a poll to messages\n5:22 Adjust snooze time \n5:36 Ask about screenshots \n6:00 Re-learn the camera app\n6:24 Turn on adaptive power\n6:44 More tips and tricks \n\nTech Things With Joanna Stern\nEverything is now a tech thing. In creative and humorous videos, WSJ senior personal tech columnist Joanna Stern explains and reviews the products, services and trends that are changing our world.\n\n#Apple #iOS26 #WSJ",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cbD2LWnDCIc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cbD2LWnDCIc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cbD2LWnDCIc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cbD2LWnDCIc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cbD2LWnDCIc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Wall Street Journal",
+          "tags": [
+            "ios 26",
+            "ios 26 beta",
+            "ios 26 update",
+            "apple",
+            "apple news",
+            "apple latest update",
+            "apple software update",
+            "ios26",
+            "apple ios 26",
+            "ios 26 features",
+            "ios 26 review",
+            "joanna stern",
+            "wsj",
+            "tech news",
+            "tech",
+            "big tech",
+            "iphone update",
+            "iphone news",
+            "apple iphone",
+            "iphone 17",
+            "apple intelligence",
+            "ios 26 release date",
+            "release date and time",
+            "new features",
+            "iphone new update",
+            "ios 26 new features",
+            "live translation",
+            "liquid glass",
+            "tim cook",
+            "iphone settings",
+            "call screening",
+            "hold assist",
+            "translation",
+            "techy"
+          ],
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iOS 26: 26 New Features for Apple’s New iPhone Software Update | WSJ",
+            "description": "Apple’s latest iPhone software iOS26 is the biggest visual makeover in years. New features include Liquid Glass, a built-in assistant to screen your calls, hold assist and more. AI features like live translation in calls and FaceTimes require Apple Intelligence, which only runs on iPhone 15 Pro and newer.\n\nWSJ’s Joanna Stern shows you what’s new—and how to turn off the changes you don’t like.\n\nChapters:\n0:00 iOS26\n0:35 Lessen the glass\n1:10 Glassify your home screen\n1:34 Revert your phone app\n1:53 Call screening\n2:34 Hold assist \n3:18 Live translate calls\n4:00 Filter unknown senders\n4:32 Add messages backgrounds \n5:04 Add a poll to messages\n5:22 Adjust snooze time \n5:36 Ask about screenshots \n6:00 Re-learn the camera app\n6:24 Turn on adaptive power\n6:44 More tips and tricks \n\nTech Things With Joanna Stern\nEverything is now a tech thing. In creative and humorous videos, WSJ senior personal tech columnist Joanna Stern explains and reviews the products, services and trends that are changing our world.\n\n#Apple #iOS26 #WSJ"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9M3S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "749583",
+          "likeCount": "14518",
+          "favoriteCount": "0",
+          "commentCount": "666"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QOMtf0H_bAda_gtFP7Fe9JsBygU",
+        "id": "vKIIejFL_2M",
+        "snippet": {
+          "publishedAt": "2025-09-12T21:49:47Z",
+          "channelId": "UC51UPs8iqgC6ugVROBcUQEQ",
+          "title": "The future of the Internet",
+          "description": "Need to create a website, app, or page? This tool can create anything with a simple text prompt or even straight up copy a site\n\n#webdevelopment #websitedesign #technology",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vKIIejFL_2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vKIIejFL_2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vKIIejFL_2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vKIIejFL_2M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vKIIejFL_2M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Matty McTech",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The future of the Internet",
+            "description": "Need to create a website, app, or page? This tool can create anything with a simple text prompt or even straight up copy a site\n\n#webdevelopment #websitedesign #technology"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "656462",
+          "likeCount": "51066",
+          "favoriteCount": "0",
+          "commentCount": "511"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WGdROy3_My8cg1WxXirMIJitVVE",
+        "id": "lwm_SladJoI",
+        "snippet": {
+          "publishedAt": "2025-09-15T17:57:01Z",
+          "channelId": "UC9Tib0IsWBst6tlQ-p3L4Pw",
+          "title": "iOS 26 is HERE!!! Most USEFUL Features 👀📱✨",
+          "description": "iOS 26 is HERE! Here’s what you should go try out FIRST 👀📱 \n\n#ios26 #ios26features #iphone17",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lwm_SladJoI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lwm_SladJoI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lwm_SladJoI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lwm_SladJoI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lwm_SladJoI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Will Bowers",
+          "tags": [
+            "iOS 26",
+            "iOS 26 features",
+            "iPhone 17",
+            "iPhone 17 Pro Max",
+            "iPhone Air",
+            "will bowers",
+            "willbwrs",
+            "will.mov"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iOS 26 is HERE!!! Most USEFUL Features 👀📱✨",
+            "description": "iOS 26 is HERE! Here’s what you should go try out FIRST 👀📱 \n\n#ios26 #ios26features #iphone17"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "375250",
+          "likeCount": "22957",
+          "favoriteCount": "0",
+          "commentCount": "385"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Bh8Dt-bH9OzaL8qJYm2SGTQohv8",
+        "id": "byRw580pxqw",
+        "snippet": {
+          "publishedAt": "2025-09-05T17:20:32Z",
+          "channelId": "UCyf__whU39r9OIvOgZTUNnQ",
+          "title": "#banaraslitfest",
+          "description": "This isn’t just a TV — it’s a 165-inch MicroLED masterpiece that folds and unfolds in 45 seconds. The brings engineering, design, and pure luxury together, turning any room into a private cinema at the touch of a button.\n\nWould you want this in your living room, or is it flexing too hard? 👀\n\nSubscribe to Aethronis for more mind-blowing tech, inventions, and future-ready ideas. 🌍⚡\n\n🔖 Hashtags:\n\n#Technology #Innovation #LuxuryTech #FutureIsNow #Engineering #Aethronis",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/byRw580pxqw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/byRw580pxqw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/byRw580pxqw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/byRw580pxqw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/byRw580pxqw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Aethronis",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "#banaraslitfest",
+            "description": "This isn’t just a TV — it’s a 165-inch MicroLED masterpiece that folds and unfolds in 45 seconds. The brings engineering, design, and pure luxury together, turning any room into a private cinema at the touch of a button.\n\nWould you want this in your living room, or is it flexing too hard? 👀\n\nSubscribe to Aethronis for more mind-blowing tech, inventions, and future-ready ideas. 🌍⚡\n\n🔖 Hashtags:\n\n#Technology #Innovation #LuxuryTech #FutureIsNow #Engineering #Aethronis"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8622601",
+          "favoriteCount": "0",
+          "commentCount": "4116"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AFf-ymA5s7_Msl9o2zEl6hf03LA",
+        "id": "ZoY_SBNasOI",
+        "snippet": {
+          "publishedAt": "2025-09-13T04:37:34Z",
+          "channelId": "UCta8FWxM474irDMPABq2o4Q",
+          "title": "HER PHONE WOULDNT CHARGE PAST 1%!!! #education #brokenfix #smartphone #problemfix #phonedamage",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZoY_SBNasOI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZoY_SBNasOI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZoY_SBNasOI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZoY_SBNasOI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZoY_SBNasOI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Digital Doctor ",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HER PHONE WOULDNT CHARGE PAST 1%!!! #education #brokenfix #smartphone #problemfix #phonedamage",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT2M6S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "387785",
+          "likeCount": "31942",
+          "favoriteCount": "0",
+          "commentCount": "324"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zY_GRnrex3wQBXadqIKW3BHKxTg",
+        "id": "bj0dIfK863A",
+        "snippet": {
+          "publishedAt": "2025-09-10T21:35:15Z",
+          "channelId": "UCIn1EsSr4rgSznqrKtteQgA",
+          "title": "Apple releases the same phone every year😭",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bj0dIfK863A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bj0dIfK863A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bj0dIfK863A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bj0dIfK863A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bj0dIfK863A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "TheAnimeMen",
+          "categoryId": "20",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Apple releases the same phone every year😭",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1070775",
+          "likeCount": "61419",
+          "favoriteCount": "0",
+          "commentCount": "553"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "C2nkgIDHIcy6Yz5YCla-Al3jf-M",
+        "id": "pa2h6TOMsSE",
+        "snippet": {
+          "publishedAt": "2025-09-15T17:01:17Z",
+          "channelId": "UCaFGDBmGK_jw66u3av2Ysjw",
+          "title": "iOS 26 - All New Features You NEED to Know!",
+          "description": "Switch to Tello today and start saving on wireless plans for your new iPhone 17 by visiting https://tello.com/?utm_source=partner&utm_medium=cpc&utm_campaign=macrumors&src=partner&mdm=cpc&cmg=macrumors\n\nApple’s iOS 26 update is FINALLY here, and in this video we’re breaking down all the new features you need to know. From the brand-new Liquid Glass design language to call screening, Hold Assist, live translation, Visual Intelligence upgrades, and even fun extras like Automix in Music and the new Games app — there’s a lot to cover.\n\nWhat do you think of iOS 26 so far?\n\n📲 Read more:\nhttps://www.macrumors.com/2025/09/15/apple-releases-ios-26/\n\n🌐 Connect with Dan:\n𝕏: https://twitter.com/danbarbera\nInstagram: https://instagram.com/danbarbera1\nTikTok: https://tiktok.com/@macrumors\nDan's YouTube Channel: https://youtube.com/danbarbera1\n\n🎙️ Follow The MacRumors Show Podcast: https://youtube.com/@TheMacRumorsShow\n\n⏱️ CHAPTERS\n00:00 – Intro\n00:25 – New Liquid Glass Design\n01:20 – Icon & Lock Screen Customization\n02:00 – Sponsor (Tello)\n03:20 – Phone & Messages Updates\n04:37 – Live Translation\n05:02 – Visual Intelligence\n05:34 – Apple Maps Visited Places\n05:53 – Music Automix\n06:09 – New Games App\n06:26 – Photos App Redesign\n06:46 – Final Thoughts & Performance\n\nThe most popular Apple News & Rumors site on the Internet.\n\nWelcome to MacRumors, your ultimate destination for in-depth and insightful Mac reviews, where we go beyond the surface to bring you a comprehensive look at everything Apple & Mac! 🍎✨\n\n 🖥️💻Thorough Reviews: We meticulously test and evaluate each product, exploring the features, performance, and understanding its capabilities.\n\n🔍 In-Depth Analysis: Dive deep into the intricacies of Apple's latest technologies and innovations.\n\n🌐 Mac News & Rumors: Stay up-to-date with our coverage of the latest tech news, and be the first to know about upcoming new Apple product releases, updates, and developments.\n\n🔧 Apple Accessories: Enhance your Mac experience with our reviews and recommendations for must-have accessories.\n\n💡 Tips & Tricks: Unlock the full potential of your Mac with our tips and tricks that make your user experience easy.\n\nSubscribe now and join our community of Mac enthusiasts!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pa2h6TOMsSE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pa2h6TOMsSE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pa2h6TOMsSE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/pa2h6TOMsSE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/pa2h6TOMsSE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MacRumors",
+          "tags": [
+            "macrumors",
+            "mac rumors",
+            "apple",
+            "apple rumors",
+            "apple products",
+            "iOS 26",
+            "iOS 26 features",
+            "iOS 26 review",
+            "iOS 26 changes",
+            "iOS 26 design",
+            "iOS 26 walkthrough",
+            "iOS 26 Liquid Glass",
+            "iOS 26 call screening",
+            "iOS 26 Hold Assist",
+            "iOS 26 live translation",
+            "iOS 26 Visual Intelligence",
+            "iOS 26 Automix",
+            "iOS 26 performance",
+            "Apple iOS 26",
+            "iPhone iOS 26 update",
+            "iPhone new features",
+            "iOS 26 New Features",
+            "ios 26 new features",
+            "ios 26 review",
+            "ios 26 best new features",
+            "ios 26 top new features"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iOS 26 - All New Features You NEED to Know!",
+            "description": "Switch to Tello today and start saving on wireless plans for your new iPhone 17 by visiting https://tello.com/?utm_source=partner&utm_medium=cpc&utm_campaign=macrumors&src=partner&mdm=cpc&cmg=macrumors\n\nApple’s iOS 26 update is FINALLY here, and in this video we’re breaking down all the new features you need to know. From the brand-new Liquid Glass design language to call screening, Hold Assist, live translation, Visual Intelligence upgrades, and even fun extras like Automix in Music and the new Games app — there’s a lot to cover.\n\nWhat do you think of iOS 26 so far?\n\n📲 Read more:\nhttps://www.macrumors.com/2025/09/15/apple-releases-ios-26/\n\n🌐 Connect with Dan:\n𝕏: https://twitter.com/danbarbera\nInstagram: https://instagram.com/danbarbera1\nTikTok: https://tiktok.com/@macrumors\nDan's YouTube Channel: https://youtube.com/danbarbera1\n\n🎙️ Follow The MacRumors Show Podcast: https://youtube.com/@TheMacRumorsShow\n\n⏱️ CHAPTERS\n00:00 – Intro\n00:25 – New Liquid Glass Design\n01:20 – Icon & Lock Screen Customization\n02:00 – Sponsor (Tello)\n03:20 – Phone & Messages Updates\n04:37 – Live Translation\n05:02 – Visual Intelligence\n05:34 – Apple Maps Visited Places\n05:53 – Music Automix\n06:09 – New Games App\n06:26 – Photos App Redesign\n06:46 – Final Thoughts & Performance\n\nThe most popular Apple News & Rumors site on the Internet.\n\nWelcome to MacRumors, your ultimate destination for in-depth and insightful Mac reviews, where we go beyond the surface to bring you a comprehensive look at everything Apple & Mac! 🍎✨\n\n 🖥️💻Thorough Reviews: We meticulously test and evaluate each product, exploring the features, performance, and understanding its capabilities.\n\n🔍 In-Depth Analysis: Dive deep into the intricacies of Apple's latest technologies and innovations.\n\n🌐 Mac News & Rumors: Stay up-to-date with our coverage of the latest tech news, and be the first to know about upcoming new Apple product releases, updates, and developments.\n\n🔧 Apple Accessories: Enhance your Mac experience with our reviews and recommendations for must-have accessories.\n\n💡 Tips & Tricks: Unlock the full potential of your Mac with our tips and tricks that make your user experience easy.\n\nSubscribe now and join our community of Mac enthusiasts!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT7M27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "215398",
+          "likeCount": "2891",
+          "favoriteCount": "0",
+          "commentCount": "257"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AnlyKB_b_aohB2Mg0btsw_kMMac",
+        "id": "ILsyVC9PJpQ",
+        "snippet": {
+          "publishedAt": "2025-09-07T14:22:12Z",
+          "channelId": "UCpD1JD5uUDg8vBpLHlXxzwQ",
+          "title": "@mkbhd  vs Apple (The Clock App Team)!",
+          "description": "#mkbhd #apple #iPhone #marquesbrownlee \n\n​ ⁨@mkbhd   vs Apple (The Clock App Team)!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ILsyVC9PJpQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ILsyVC9PJpQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ILsyVC9PJpQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ILsyVC9PJpQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ILsyVC9PJpQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech podcasts",
+          "tags": [
+            "mkbhd",
+            "Apple",
+            "mrwhosetheboss",
+            "tech",
+            "gadgets",
+            "apple vision pro",
+            "laptops",
+            "Marques Brownlee",
+            "mkbhd tech",
+            "waveform podcast",
+            "​ ⁨@mkbhd⁩ vs Apple (The Clock App Team)!",
+            "apple alarm",
+            "alarm apple",
+            "clock app",
+            "apple clock app",
+            "mkbhd vs apple"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "@mkbhd  vs Apple (The Clock App Team)!",
+            "description": "#mkbhd #apple #iPhone #marquesbrownlee \n\n​ ⁨@mkbhd   vs Apple (The Clock App Team)!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M5S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1258302",
+          "favoriteCount": "0",
+          "commentCount": "1468"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "f0SuwaEz66oWJFbCtmp0T2_q0R4",
+        "id": "TtjAzlOizvg",
+        "snippet": {
+          "publishedAt": "2025-09-07T01:45:02Z",
+          "channelId": "UCf5Q-WNdLaYEx6MfLIPSTgg",
+          "title": "Object Detected! Arduino Triggers LED + Buzzer 🚨#Arduino #RadarScanner #ultrasonicsensor",
+          "description": "SunFounder focuses on STEAM education, offering open-source robots, Arduino, and Raspberry Pi kits to help users worldwide learn programming and electronics through hands-on projects. \n\nVisit our website: www.sunfounder.com\n\n\nWelcome to our Public Raspberry Pi & Arduino Enthusiasts Community ❤ \n\nhttps://linktr.ee/sunfounder",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TtjAzlOizvg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TtjAzlOizvg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TtjAzlOizvg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TtjAzlOizvg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TtjAzlOizvg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SunFounder Maker Education",
+          "tags": [
+            "sunfounder"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Object Detected! Arduino Triggers LED + Buzzer 🚨#Arduino #RadarScanner #ultrasonicsensor",
+            "description": "SunFounder focuses on STEAM education, offering open-source robots, Arduino, and Raspberry Pi kits to help users worldwide learn programming and electronics through hands-on projects. \n\nVisit our website: www.sunfounder.com\n\n\nWelcome to our Public Raspberry Pi & Arduino Enthusiasts Community ❤ \n\nhttps://linktr.ee/sunfounder"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4527981",
+          "likeCount": "68312",
+          "favoriteCount": "0",
+          "commentCount": "377"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qCguU-wGy_s1mh-Ao6_ZABS-iHM",
+        "id": "P4ubuF--VnE",
+        "snippet": {
+          "publishedAt": "2025-09-13T14:31:30Z",
+          "channelId": "UCdSsl5RM4Tne4MhDRz2HjWw",
+          "title": "System Design: Slither IO #coding #programming",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P4ubuF--VnE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P4ubuF--VnE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P4ubuF--VnE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P4ubuF--VnE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P4ubuF--VnE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Arjay McCandless",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "System Design: Slither IO #coding #programming",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M7S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "334873",
+          "likeCount": "14547",
+          "favoriteCount": "0",
+          "commentCount": "156"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AYH1PTwYiWmeVhPfGKrS8GAqrjo",
+        "id": "axgVgG4ce6E",
+        "snippet": {
+          "publishedAt": "2025-09-16T10:30:10Z",
+          "channelId": "UC0Pa0bQ0LU-NL1v-B1Eg3lQ",
+          "title": "no way Netflix used PowerPoint for this 💀 #powerpoint #presentation #students",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/axgVgG4ce6E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/axgVgG4ce6E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/axgVgG4ce6E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/axgVgG4ce6E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/axgVgG4ce6E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Luis Urrutia",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "no way Netflix used PowerPoint for this 💀 #powerpoint #presentation #students",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-AU"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "210249",
+          "likeCount": "9378",
+          "favoriteCount": "0",
+          "commentCount": "73"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LQ8Emh8dkCqs8Jzbqmvb49bcMuE",
+        "id": "7pKMFV148-Q",
+        "snippet": {
+          "publishedAt": "2025-09-09T23:47:00Z",
+          "channelId": "UCHVAxNdYhvpbwdsBgkRajqw",
+          "title": "This Weird Mask Solves Every Gamer’s Problem 😮",
+          "description": "If people complain about your gaming screams, this device is perfect. It’s called the Shiftall MuteTalk — a special mask that lets you rage, shout, or strategize at full volume without disturbing anyone around. Just strap it on, and your voice stays inside while you go all out. Finally… scream all you want, and nobody will ever know. Can you hear me?\nFor educational and informational purposes only.\n\ninterestingfacts #interesting #unique #shorts #technology",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7pKMFV148-Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7pKMFV148-Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7pKMFV148-Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7pKMFV148-Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7pKMFV148-Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AzlanX",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "This Weird Mask Solves Every Gamer’s Problem 😮",
+            "description": "If people complain about your gaming screams, this device is perfect. It’s called the Shiftall MuteTalk — a special mask that lets you rage, shout, or strategize at full volume without disturbing anyone around. Just strap it on, and your voice stays inside while you go all out. Finally… scream all you want, and nobody will ever know. Can you hear me?\nFor educational and informational purposes only.\n\ninterestingfacts #interesting #unique #shorts #technology"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "919965",
+          "favoriteCount": "0",
+          "commentCount": "474"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8O1z-nKyY1xyI2xAgxbFIc8b_NI",
+        "id": "9wOuHMHySFU",
+        "snippet": {
+          "publishedAt": "2025-09-13T01:00:19Z",
+          "channelId": "UCqnxpbIyWeXCHeYpdxN-ytw",
+          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable gadget#shortsfeed#trending",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9wOuHMHySFU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9wOuHMHySFU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9wOuHMHySFU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9wOuHMHySFU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9wOuHMHySFU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mahbub YT Abar",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable gadget#shortsfeed#trending",
+            "description": ""
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2112639",
+          "likeCount": "164670",
+          "favoriteCount": "0",
+          "commentCount": "307"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vt8WgslQ00PuzWUOizgfbtYqB6g",
+        "id": "9MRqB3677-k",
+        "snippet": {
+          "publishedAt": "2025-09-05T03:00:11Z",
+          "channelId": "UCI4jxCqebbR_rrKb-o3MDfQ",
+          "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget#shortsfeed#trending",
+          "description": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable\n\ngadget#shortsfeed#trending",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9MRqB3677-k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9MRqB3677-k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9MRqB3677-k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9MRqB3677-k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9MRqB3677-k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Asad Bro",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Introducing the \"VitaWear SmartBand,\" a next-generation wearablegadget#shortsfeed#trending",
+            "description": "Introducing the \"VitaWear SmartBand,\" a next-generation wearable\n\ngadget#shortsfeed#trending"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8961158",
+          "likeCount": "576005",
+          "favoriteCount": "0",
+          "commentCount": "710"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lSgsY_aG_08hsDUVSC1c3usuL0E",
+        "id": "Te_eVnezV4o",
+        "snippet": {
+          "publishedAt": "2025-09-09T13:14:38Z",
+          "channelId": "UC0xHrJNbxHmFnUP-49WYM-Q",
+          "title": "Magically remove the background from your image #imageediting #productivity #gaming #satisfying",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Te_eVnezV4o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Te_eVnezV4o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Te_eVnezV4o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Te_eVnezV4o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Te_eVnezV4o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "SetupsAI",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Magically remove the background from your image #imageediting #productivity #gaming #satisfying",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "878107",
+          "likeCount": "57789",
+          "favoriteCount": "0",
+          "commentCount": "104"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cLNAFLD1PhsSjTknTP9FMt3fj00",
+        "id": "PIv8iV0rbvQ",
+        "snippet": {
+          "publishedAt": "2025-09-09T10:02:30Z",
+          "channelId": "UC1BggvVzx-sevTOw-gBzdOg",
+          "title": "Avilus – Modular UAV Platforms for Medevac, Cargo & Long-Range Surveillance",
+          "description": "AVILUS – MODULAR UAVS FOR MEDEVAC, CARGO & LONG-RANGE SURVEILLANCE\n\nAvilus develops dual-use UAV platforms that bridge the gap between small drones and manned aviation. With payload capacities up to 200 kg and ranges of over 2,000 km, systems like the Grille medevac VTOL, the Wespe tactical cargo drone, and the Bussard long-endurance fixed-wing UAV provide flexible solutions for frontline rescue, logistics, and reconnaissance. Avilus also offers its aircraft through a Drone-as-a-Service model, enabling certified turnkey operations across defense and civilian sectors (avilus.com).\n\nFor more of the latest in Unmanned Platforms, Components and Software, visit Unmanned Systems Technology\n\n#Avilus #GrilleDrone #WespeDrone #BussardUAV #MedevacDrone #CargoUAV #SurveillanceDrone #UnmannedSystemsTechnology #UST",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PIv8iV0rbvQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PIv8iV0rbvQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PIv8iV0rbvQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PIv8iV0rbvQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PIv8iV0rbvQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Unmanned Systems Technology",
+          "tags": [
+            "avilus",
+            "bussard uav",
+            "cargo uav",
+            "drone as a service",
+            "grille drone",
+            "long endurance uav",
+            "medevac drone",
+            "modular drone",
+            "unmanned systems technology",
+            "ust",
+            "wespe drone"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Avilus – Modular UAV Platforms for Medevac, Cargo & Long-Range Surveillance",
+            "description": "AVILUS – MODULAR UAVS FOR MEDEVAC, CARGO & LONG-RANGE SURVEILLANCE\n\nAvilus develops dual-use UAV platforms that bridge the gap between small drones and manned aviation. With payload capacities up to 200 kg and ranges of over 2,000 km, systems like the Grille medevac VTOL, the Wespe tactical cargo drone, and the Bussard long-endurance fixed-wing UAV provide flexible solutions for frontline rescue, logistics, and reconnaissance. Avilus also offers its aircraft through a Drone-as-a-Service model, enabling certified turnkey operations across defense and civilian sectors (avilus.com).\n\nFor more of the latest in Unmanned Platforms, Components and Software, visit Unmanned Systems Technology\n\n#Avilus #GrilleDrone #WespeDrone #BussardUAV #MedevacDrone #CargoUAV #SurveillanceDrone #UnmannedSystemsTechnology #UST"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1958117",
+          "likeCount": "36630",
+          "favoriteCount": "0",
+          "commentCount": "1864"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "s8QSY0HGMgSg9UNbgMqcvnnLgSw",
+        "id": "HA6E3iDXNbY",
+        "snippet": {
+          "publishedAt": "2025-09-11T13:33:10Z",
+          "channelId": "UCUBQElhT12SHksx3Zlixizw",
+          "title": "Проблема из-за планшета… 🙄 Blackview Active 12 Pro",
+          "description": "📌 Мои топовые игровые ковры - https://bit.ly/3SOsI8p\n🛒 Мой ТГ-канал - https://t.me/xeonsect\n🤡 Мой TikTok - https://www.tiktok.com/@waymi02\n💵 На пельмени - https://www.donationalerts.com/r/waymist",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HA6E3iDXNbY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HA6E3iDXNbY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HA6E3iDXNbY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/HA6E3iDXNbY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/HA6E3iDXNbY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Вэйми",
+          "tags": [
+            "смартфон",
+            "девайсы",
+            "техноблогер"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "Проблема из-за планшета… 🙄 Blackview Active 12 Pro",
+            "description": "📌 Мои топовые игровые ковры - https://bit.ly/3SOsI8p\n🛒 Мой ТГ-канал - https://t.me/xeonsect\n🤡 Мой TikTok - https://www.tiktok.com/@waymi02\n💵 На пельмени - https://www.donationalerts.com/r/waymist"
+          },
+          "defaultAudioLanguage": "ru"
+        },
+        "contentDetails": {
+          "duration": "PT1M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2659637",
+          "likeCount": "89421",
+          "favoriteCount": "0",
+          "commentCount": "1595"
+        }
+      }
+    ],
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+      "totalResults": 200,
+      "resultsPerPage": 50
+    }
+  }
+}

@@ -1,0 +1,3624 @@
+{
+  "timestamp": 1758122544875,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "RzM4T2ZNSpesgdWs5yNsBUKa6YA",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "Zh_Vgru5j-htMByI2FYU5Vw_YCk",
+        "id": "9ZWjpsVRKq0",
+        "snippet": {
+          "publishedAt": "2025-02-14T18:56:58Z",
+          "channelId": "UCczuYAMfFgigXV-SJkJaRJQ",
+          "title": "Easy way to paint a pink sky / acrylic painting ideas for beginners ✨️",
+          "description": "easy way to paint a pink sunset / easy acrylic painting ideas for beginners \n\n#artideas #paintingideas #acrylicpaintingtechniques #paintingforbeginners #shortsvideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9ZWjpsVRKq0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9ZWjpsVRKq0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9ZWjpsVRKq0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9ZWjpsVRKq0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9ZWjpsVRKq0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Artwork By S",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Easy way to paint a pink sky / acrylic painting ideas for beginners ✨️",
+            "description": "easy way to paint a pink sunset / easy acrylic painting ideas for beginners \n\n#artideas #paintingideas #acrylicpaintingtechniques #paintingforbeginners #shortsvideo"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2987529",
+          "likeCount": "52455",
+          "favoriteCount": "0",
+          "commentCount": "201"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "r6CJztUdwPdWtDVLimYDxFhg6qE",
+        "id": "0UfEQo02mIM",
+        "snippet": {
+          "publishedAt": "2024-03-06T07:51:23Z",
+          "channelId": "UCczuYAMfFgigXV-SJkJaRJQ",
+          "title": "underwater aesthetic seascape painting / easy acrylic painting ideas for beginners",
+          "description": "underwater seascape aesthetic painting on canvas / easy acrylic painting on canvas \n#paintingideas #acrylicpaintingoncanvas #acrylicpaintingtechniques #paintingforbeginners #artshorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0UfEQo02mIM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0UfEQo02mIM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0UfEQo02mIM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0UfEQo02mIM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0UfEQo02mIM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Artwork By S",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "underwater aesthetic seascape painting / easy acrylic painting ideas for beginners",
+            "description": "underwater seascape aesthetic painting on canvas / easy acrylic painting on canvas \n#paintingideas #acrylicpaintingoncanvas #acrylicpaintingtechniques #paintingforbeginners #artshorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10161350",
+          "likeCount": "625440",
+          "favoriteCount": "0",
+          "commentCount": "1539"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "la2nua-grxyPTUE9a76VNZe3cVI",
+        "id": "qItOXseu7wU",
+        "snippet": {
+          "publishedAt": "2023-01-12T16:05:56Z",
+          "channelId": "UCcfiKlC2zWOcM2Ex5IdMRyA",
+          "title": "abstract acrylic painting tutorial for beginners step by step, abstract painting tutorial modern art",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qItOXseu7wU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qItOXseu7wU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qItOXseu7wU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qItOXseu7wU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qItOXseu7wU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Studio Spindler",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "abstract acrylic painting tutorial for beginners step by step, abstract painting tutorial modern art",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1481144",
+          "likeCount": "19778",
+          "favoriteCount": "0",
+          "commentCount": "87"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gHqGJySB8MYJBunkVM6YL6-1YyM",
+        "id": "QjGDg9fZEbY",
+        "snippet": {
+          "publishedAt": "2023-03-10T17:44:02Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "Which is the real one? 🍳🤔 #shorts #artist #drawing #art #painting #creative #draw",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Which is the real one? 🍳🤔 #shorts #artist #drawing #art #painting #creative #draw",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12185784",
+          "likeCount": "241621",
+          "favoriteCount": "0",
+          "commentCount": "128318"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "o5x-57qtdfN0TIA8mTDY65oGy-Q",
+        "id": "07uPz2BgaKA",
+        "snippet": {
+          "publishedAt": "2025-07-09T08:08:01Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "Creative Art 😍✨#shorts #art #painting #muktaeasydrawing #youtubeshortsindia",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "Drawing",
+            "Art",
+            "Painting",
+            "Drawing Tutorials",
+            "Easy Drawing",
+            "Muktaeasydrawing",
+            "Painting hacks",
+            "Pencil sketch"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art 😍✨#shorts #art #painting #muktaeasydrawing #youtubeshortsindia",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22879836",
+          "likeCount": "242511",
+          "favoriteCount": "0",
+          "commentCount": "583"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "_kp7QTmPm8b8TvqY5Ls4nxOUjKM",
+        "id": "8NErW9EsBMc",
+        "snippet": {
+          "publishedAt": "2024-01-10T18:40:16Z",
+          "channelId": "UClFRtkYDw-kzlr-8VoAgUkg",
+          "title": "PAINTING WITH MAKEUP 💄✨ #creative #artist #makeup",
+          "description": "Credit for reference artwork (Pinterest): @caroleiart on instagram",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8NErW9EsBMc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8NErW9EsBMc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8NErW9EsBMc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8NErW9EsBMc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8NErW9EsBMc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Surrealart_noa",
+          "tags": [
+            "Art",
+            "Artist",
+            "Cool",
+            "Creativity",
+            "Sketch",
+            "Sketching",
+            "Makeup",
+            "How to draw",
+            "Artistic",
+            "Trending",
+            "Trend",
+            "Cute",
+            "Pinterset",
+            "Art idea",
+            "Art video",
+            "Draw",
+            "Drawing",
+            "Paint",
+            "Painting",
+            "Makeup art",
+            "art tutorial",
+            "How to paint"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "PAINTING WITH MAKEUP 💄✨ #creative #artist #makeup",
+            "description": "Credit for reference artwork (Pinterest): @caroleiart on instagram"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4772029",
+          "likeCount": "344636",
+          "favoriteCount": "0",
+          "commentCount": "2117"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kEHpckhpC54izShVe5JIxCrM7_g",
+        "id": "-Y7ImlHtguc",
+        "snippet": {
+          "publishedAt": "2024-11-11T14:03:15Z",
+          "channelId": "UCQeIsGa78ee0juf2aZZHSJw",
+          "title": "DIY Thread Art 🌈| String pull Art 😍💕#shorts #painting #creative #art #trending #acrylicpainting #diy",
+          "description": "DIY Thread Art 💙 | String pull Art 😍💕| #bmartcreations #shorts #ytshorts  #wallart #threadart #satisfying #song #love #youtubeshorts #creative #viralvideo #trending #drawing #diy #ideas #independenceday #tiranga #india #tricolor \n\n\nString painting for beginners / Creative Drawing Ideas / Thread painting / Mirror Double look Painting / Paint your life #shorts\n\n\nacrylic pouring\nfluid art\nacrylic pouring technique\nabstract painting\nstring pull\nacrylic paint pouring\npour painting\nacrylic pour\nabstract art\nflow art\nacrylic paint\nhow to do thread painting \nhow to\nchain pull\nstring art\nstring painting\nstring pull art\nfeathers string pull\nflip cup\nfluid art painting\nfluid art for beginners\ndirty pour\n\n\n\n#bohoinspired #papercraft #paperbookmark #paper #bookstagrampl #bookblogger #watercolor #bookmarksdiy #watercolorillustration #bookmarksanpatricio #bookmark #bookworm #boosofficial #bookish #booknerd #aesthetic #art #acrylicbookmark #artandcraft  #acrylicpainting #diy #3dpainting #clayart #craft #artforbeginners \n#forbeginners #easypainting #easycraft #paint #howto #easycanvaspainting #youtubeshorts #shortsviral #shorts #beautifulart #paintingtechniques #viralyoutubevideo #buddhacaves #romantic #homedecor #coupleart #diyideas #painting #abstractpainting #abstractart #vlogger #diy #easydrawing #claypainting #diycrafts #satisfyingcolouring #colormixing",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Y7ImlHtguc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Y7ImlHtguc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Y7ImlHtguc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-Y7ImlHtguc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-Y7ImlHtguc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "BM ART CREATIONS",
+          "tags": [
+            "diy thread art",
+            "string painting",
+            "string art",
+            "string pull art",
+            "thread art",
+            "thread painting",
+            "shorts",
+            "youtube shorts",
+            "art",
+            "drawing",
+            "painting",
+            "trending",
+            "how to make painting with thread",
+            "thread art for beginners",
+            "how to make thread art",
+            "acrylic painting",
+            "acrylic painting for beginners",
+            "how to make thread drawing",
+            "string art for beginners step by step",
+            "how to make thread painting",
+            "how to make string art at home",
+            "how to make thread art at home",
+            "painting ideas",
+            "canvas painting ideas",
+            "diy"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DIY Thread Art 🌈| String pull Art 😍💕#shorts #painting #creative #art #trending #acrylicpainting #diy",
+            "description": "DIY Thread Art 💙 | String pull Art 😍💕| #bmartcreations #shorts #ytshorts  #wallart #threadart #satisfying #song #love #youtubeshorts #creative #viralvideo #trending #drawing #diy #ideas #independenceday #tiranga #india #tricolor \n\n\nString painting for beginners / Creative Drawing Ideas / Thread painting / Mirror Double look Painting / Paint your life #shorts\n\n\nacrylic pouring\nfluid art\nacrylic pouring technique\nabstract painting\nstring pull\nacrylic paint pouring\npour painting\nacrylic pour\nabstract art\nflow art\nacrylic paint\nhow to do thread painting \nhow to\nchain pull\nstring art\nstring painting\nstring pull art\nfeathers string pull\nflip cup\nfluid art painting\nfluid art for beginners\ndirty pour\n\n\n\n#bohoinspired #papercraft #paperbookmark #paper #bookstagrampl #bookblogger #watercolor #bookmarksdiy #watercolorillustration #bookmarksanpatricio #bookmark #bookworm #boosofficial #bookish #booknerd #aesthetic #art #acrylicbookmark #artandcraft  #acrylicpainting #diy #3dpainting #clayart #craft #artforbeginners \n#forbeginners #easypainting #easycraft #paint #howto #easycanvaspainting #youtubeshorts #shortsviral #shorts #beautifulart #paintingtechniques #viralyoutubevideo #buddhacaves #romantic #homedecor #coupleart #diyideas #painting #abstractpainting #abstractart #vlogger #diy #easydrawing #claypainting #diycrafts #satisfyingcolouring #colormixing"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "262625",
+          "likeCount": "2114",
+          "favoriteCount": "0",
+          "commentCount": "16"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "maLukV64XgujldwQbLahAjeHFPo",
+        "id": "vjMHleB-Mlw",
+        "snippet": {
+          "publishedAt": "2019-10-05T10:30:02Z",
+          "channelId": "UC3wCAOfSB0W9iuKDDtNJeGw",
+          "title": "Kid's Painting Ideas w/ Danny Go! 🎨/// Colors, Shapes, Animals + Counting",
+          "description": "Do your kids enjoy Blippi, Paw Patrol, or Daniel Tiger? Do they dance to catchy songs like Wheels On The Bus or Baby Shark? Then they'll love Danny Go! Sing fun kids dance songs, learn about colors, shapes & numbers, AND visit exciting places like fire truck stations, trampoline parks, beaches, race car workshops and more! \n\nIN THIS VIDEO: 🐳🚀🦋🚂🌋🏎️🦕🌳😺/// What do all these things have in common? Danny Go shows you how to paint them all! Learn colors, counting, painting and more in this fun learning video for kids!\n\nHere's some of our other favorite Danny Go videos!\nThe Fire Truck Song - https://www.youtube.com/watch?v=oQH-d2PGzas\nDanny Learns to Paint - https://www.youtube.com/watch?v=vjMHleB-Mlw\n5-in-1 Surprise Music Video Mix - https://www.youtube.com/watch?v=etM4E1NFUBA\nDanny Builds a Sandcastle - https://www.youtube.com/watch?v=YBdRq_L0xA0\nThe Stomp Clap Dance Song - https://www.youtube.com/watch?v=nvDLe3FHcuY\n\nFor more exclusive Danny Go! videos, visit Yippee.tv!\n\nDanny Go! on Instagram: https://bit.ly/dannygoIG\nDanny Go! on Facebook: https://bit.ly/dannygoFB\n\nStream or purchase Danny Go! music:  \nSpotify - https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm\nApple Music - https://music.apple.com/us/artist/danny-go/997447500\niHeartRadio - https://www.iheart.com/artist/danny-go-33233028/\nGoogle Play - https://play.google.com/store/music/artist?id=Atxdqomwcejstw5jwhkkxwnem6m&hl=en\n\n© 2019 Giant Jungle Productions, LLC. All Rights Reserved.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vjMHleB-Mlw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vjMHleB-Mlw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vjMHleB-Mlw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vjMHleB-Mlw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vjMHleB-Mlw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Danny Go!",
+          "tags": [
+            "danny go",
+            "danny go paints",
+            "painting kids videos",
+            "kids paint videos",
+            "kids painting ideas",
+            "how to paint",
+            "paint videos",
+            "painting animals",
+            "paint kids videos",
+            "how to paint for kindergarten",
+            "learning to paint",
+            "learn to paint",
+            "danny go!",
+            "children painting and drawing",
+            "children painting videos",
+            "color videos for kids",
+            "learn colors for kids",
+            "learning colors",
+            "color video for toddlers",
+            "color video for kindergarten",
+            "toddler paint videos",
+            "Daniel coleman",
+            "Daniel coleman lowe's"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Kid's Painting Ideas w/ Danny Go! 🎨/// Colors, Shapes, Animals + Counting",
+            "description": "Do your kids enjoy Blippi, Paw Patrol, or Daniel Tiger? Do they dance to catchy songs like Wheels On The Bus or Baby Shark? Then they'll love Danny Go! Sing fun kids dance songs, learn about colors, shapes & numbers, AND visit exciting places like fire truck stations, trampoline parks, beaches, race car workshops and more! \n\nIN THIS VIDEO: 🐳🚀🦋🚂🌋🏎️🦕🌳😺/// What do all these things have in common? Danny Go shows you how to paint them all! Learn colors, counting, painting and more in this fun learning video for kids!\n\nHere's some of our other favorite Danny Go videos!\nThe Fire Truck Song - https://www.youtube.com/watch?v=oQH-d2PGzas\nDanny Learns to Paint - https://www.youtube.com/watch?v=vjMHleB-Mlw\n5-in-1 Surprise Music Video Mix - https://www.youtube.com/watch?v=etM4E1NFUBA\nDanny Builds a Sandcastle - https://www.youtube.com/watch?v=YBdRq_L0xA0\nThe Stomp Clap Dance Song - https://www.youtube.com/watch?v=nvDLe3FHcuY\n\nFor more exclusive Danny Go! videos, visit Yippee.tv!\n\nDanny Go! on Instagram: https://bit.ly/dannygoIG\nDanny Go! on Facebook: https://bit.ly/dannygoFB\n\nStream or purchase Danny Go! music:  \nSpotify - https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm\nApple Music - https://music.apple.com/us/artist/danny-go/997447500\niHeartRadio - https://www.iheart.com/artist/danny-go-33233028/\nGoogle Play - https://play.google.com/store/music/artist?id=Atxdqomwcejstw5jwhkkxwnem6m&hl=en\n\n© 2019 Giant Jungle Productions, LLC. All Rights Reserved."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "16906005",
+          "likeCount": "16574",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qdI44q674ceEu7_yQ_0Asa0gf-w",
+        "id": "9AQb9njViHs",
+        "snippet": {
+          "publishedAt": "2025-09-16T07:03:29Z",
+          "channelId": "UCWkjwuue4RjuzD3n_pjF8GQ",
+          "title": "draw owl 🦉",
+          "description": "Easy owl sketch\n\nCute owl drawing\n\nSimple owl art\n\nOwl pencil sketch\n\nHow to draw owl\n\nRealistic owl drawing\n\nCartoon owl drawing\n\nBaby owl sketch\n\n#love #drawing #painting #owl #creative \nDisclimer :-\n-----------------\n\nCopyright Disclimer under section 107 of the copyright act of 1976, allonce is made for \"fairuse\"for perposes such as cricticism, coment, news reloting, Teaching, Education Scholarship ans eesearch. Faie use is a use permitted by copyright statute that might otherwise be infringing...\n\n___________________________________________",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9AQb9njViHs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9AQb9njViHs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9AQb9njViHs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9AQb9njViHs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9AQb9njViHs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "M@gic mix ",
+          "tags": [
+            "love",
+            "create",
+            "craft",
+            "painting",
+            "drawing",
+            "night",
+            "owl"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "draw owl 🦉",
+            "description": "Easy owl sketch\n\nCute owl drawing\n\nSimple owl art\n\nOwl pencil sketch\n\nHow to draw owl\n\nRealistic owl drawing\n\nCartoon owl drawing\n\nBaby owl sketch\n\n#love #drawing #painting #owl #creative \nDisclimer :-\n-----------------\n\nCopyright Disclimer under section 107 of the copyright act of 1976, allonce is made for \"fairuse\"for perposes such as cricticism, coment, news reloting, Teaching, Education Scholarship ans eesearch. Faie use is a use permitted by copyright statute that might otherwise be infringing...\n\n___________________________________________"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1349",
+          "likeCount": "15",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Sq9YN4qa78KqZplVrDskzhG-y4U",
+        "id": "GxKcznwuAT4",
+        "snippet": {
+          "publishedAt": "2024-12-23T20:56:40Z",
+          "channelId": "UCczuYAMfFgigXV-SJkJaRJQ",
+          "title": "Easy way to paint a tree / acrylic painting ideas for beginners",
+          "description": "Easy way to paint a tree / acrylic painting ideas #shorts #artvideo #artideas #paintingideas",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GxKcznwuAT4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GxKcznwuAT4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GxKcznwuAT4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GxKcznwuAT4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GxKcznwuAT4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Artwork By S",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Easy way to paint a tree / acrylic painting ideas for beginners",
+            "description": "Easy way to paint a tree / acrylic painting ideas #shorts #artvideo #artideas #paintingideas"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6359051",
+          "likeCount": "163075",
+          "favoriteCount": "0",
+          "commentCount": "473"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ldemx8Z7uv33bW0ksjuLyFtCw0s",
+        "id": "d8OQALVHArY",
+        "snippet": {
+          "publishedAt": "2025-07-04T09:15:16Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "Boho Art #painting #art #satisfying",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/d8OQALVHArY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/d8OQALVHArY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/d8OQALVHArY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/d8OQALVHArY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "Farjana Drawing Academy",
+            "Easy drawing",
+            "cool art ideas"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Boho Art #painting #art #satisfying",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9168421",
+          "likeCount": "101215",
+          "favoriteCount": "0",
+          "commentCount": "695"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "x0JjCFyfoxsAI_nJF01nFDV0bP0",
+        "id": "UETr9advGcY",
+        "snippet": {
+          "publishedAt": "2023-05-11T09:09:48Z",
+          "channelId": "UCeoedZ9yOzzI83FF-0_s5Kg",
+          "title": "creative canvas painting ideas #art #love #tutorial #aesthetic #shortsyoutube #satisfying",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UETr9advGcY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UETr9advGcY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UETr9advGcY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UETr9advGcY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UETr9advGcY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ishwarya",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "creative canvas painting ideas #art #love #tutorial #aesthetic #shortsyoutube #satisfying",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2830395",
+          "likeCount": "104462",
+          "favoriteCount": "0",
+          "commentCount": "297"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "N6G9Y-Ies4WCWHeP-C9a-NHha8g",
+        "id": "zqaG8vyb76g",
+        "snippet": {
+          "publishedAt": "2025-01-17T17:37:19Z",
+          "channelId": "UCJHM0LdVKi7ou2aM8aVR1gA",
+          "title": "Let’s Paint A Mirror with Rainbow Colors! 🌈 #creativity #art #painting #diy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zqaG8vyb76g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zqaG8vyb76g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zqaG8vyb76g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zqaG8vyb76g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zqaG8vyb76g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gaspi - Artistomg",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Let’s Paint A Mirror with Rainbow Colors! 🌈 #creativity #art #painting #diy",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3931216",
+          "likeCount": "50313",
+          "favoriteCount": "0",
+          "commentCount": "267"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "y0cM7wplW-xQGAeCoHgYv1Wfvtc",
+        "id": "_u3-YfciJUY",
+        "snippet": {
+          "publishedAt": "2024-04-29T00:30:14Z",
+          "channelId": "UCR-m5sgN50Ef1UiHsqrhIgw",
+          "title": "Avocado drawing 🥑 Still life drawing #fruit #creative #art #painting #shorts #stilllife #avocado",
+          "description": "Avocado drawing 🥑 Still life drawing #fruit #creative #art #painting #shorts #stilllife #avocado #youtube #yputubeshorts #acrylic #acrylic painting #short  #sketch #sketching #craft #trending #trendingshorts #viral #artsy #fyp #satisfying  #ytshorts #ytshort #ytshortindia\n\n\nIf you like my video please like , comment and share with your friends ☺️ Don't forget to recreate and tag me 🤗💕\nAlso subscribe ❤️to my channel and hit the bell 🔔 notification for more such videos \nxoxo💜💜💜\n\nFollow me on Instagram\nhttps://instagram.com/artwithtulip?igshid=ZDdkNTZiNTM=\nFollow me on Facebook \nhttps://www.facebook.com/profile.php?id=61557880166599&mibextid=ZbWKwL\n\n\nQueries\nAvocado drawing\nAvocado drawing easy\nAvocado drawing cute\nAvocado dragon fruit\nAvocado dragon fruit smoothie \nAvocado drawing step by step\nStill life drawing\nStill life easy\nStill life Painting\nStill life \nStill life pencil shading\nStill life sketch",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_u3-YfciJUY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_u3-YfciJUY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_u3-YfciJUY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_u3-YfciJUY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_u3-YfciJUY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ArtwithTulip",
+          "tags": [
+            "art",
+            "artsy",
+            "artist",
+            "artlife",
+            "artwithtulip",
+            "art with tulip",
+            "shorts",
+            "avocado drawing",
+            "easy painting",
+            "avocado",
+            "dragon fruit",
+            "smoothie",
+            "poster colour painting",
+            "gouache painting",
+            "gouache study",
+            "how to paint",
+            "how to draw avocado",
+            "still life",
+            "still life Painting",
+            "still life drawing",
+            "still life drawing easy"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Avocado drawing 🥑 Still life drawing #fruit #creative #art #painting #shorts #stilllife #avocado",
+            "description": "Avocado drawing 🥑 Still life drawing #fruit #creative #art #painting #shorts #stilllife #avocado #youtube #yputubeshorts #acrylic #acrylic painting #short  #sketch #sketching #craft #trending #trendingshorts #viral #artsy #fyp #satisfying  #ytshorts #ytshort #ytshortindia\n\n\nIf you like my video please like , comment and share with your friends ☺️ Don't forget to recreate and tag me 🤗💕\nAlso subscribe ❤️to my channel and hit the bell 🔔 notification for more such videos \nxoxo💜💜💜\n\nFollow me on Instagram\nhttps://instagram.com/artwithtulip?igshid=ZDdkNTZiNTM=\nFollow me on Facebook \nhttps://www.facebook.com/profile.php?id=61557880166599&mibextid=ZbWKwL\n\n\nQueries\nAvocado drawing\nAvocado drawing easy\nAvocado drawing cute\nAvocado dragon fruit\nAvocado dragon fruit smoothie \nAvocado drawing step by step\nStill life drawing\nStill life easy\nStill life Painting\nStill life \nStill life pencil shading\nStill life sketch"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "119370",
+          "favoriteCount": "0",
+          "commentCount": "25"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XZethOF-o8vCUttxHyCIZzJUqdU",
+        "id": "M6RI2eGMv3E",
+        "snippet": {
+          "publishedAt": "2023-02-04T16:49:09Z",
+          "channelId": "UCl_3t3cu9iP3ABgV3ZzzuVQ",
+          "title": "Super Relaxing Art😱 One Stroke Painting 😃🌈                  #shorts #art #drawing",
+          "description": "FOLLOW ME💃 ON INSTAGRAM😊 - https://www.instagram.com/shay_art_2020/\n\n🎉 Head to Temu App Now: https://temu.to/m/uf2zqr52fo4\n🔍 Search code:【dkk6847】to claim $100 coupon bundle\n#temu #TemuCanada #valentinesday #temuart\n\nProducts mentioned:\nGrab our Acrylic Paint Markers at an exclusive price of $1.01 for NEW USERS! 🌟\n🔗Click LINK or Search Code: dkb2249 FOR UP TO 95% OFF!\n\n2pcs White Marker Pen  CA$2.79💰https://temu.to/m/ufwbshk37d6\nPaper Cutter CA$2.49💰https://temu.to/m/unfp530eq5c\n3D Printing Doodle Pens CA$8.99💰https://temu.to/m/uoa9gvl8f9w\nWooden Paint Brush Holder CA$8.79💰https://temu.to/m/us24ub5lyob\nAdhesive Point Transparent Balloon Adhesive CA$0.79💰https://temu.to/m/ugxp9y62xll\n\n\n5 Colors Cute Octopus Highlighter Pen CA$4.69💰https://temu.to/m/umhvq51wdoc\n22pcs Spirograph Design Arts Craft Kit CA$3.33💰https://temu.to/m/uljnsjyo6cu\nSplit Cups  CA$3.99💰https://temu.to/m/udr7kluzzu4\nSuper Cute Animal 3D Shape Long Sleeve Rompe CA$10.99💰https://temu.to/m/ukvqfvyvsar\nBaby Boys Stylish Color Block Matching Set  CA$11.59💰https://temu.to/m/uwxum1cf1z2\n50ml Multifunctional Secure Sew Glue  CA$4.14💰https://temu.to/m/utd8hx4bs6l\n500ml/17oz Clear Leakproof Water Bottle CA$4.59💰https://temu.to/m/urwk5o66mpj\n\n\nTemu offers:\n- FREE shipping +FREE returns for up to 90 days\n- 90% off for all users",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Shay Art",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Super Relaxing Art😱 One Stroke Painting 😃🌈                  #shorts #art #drawing",
+            "description": "FOLLOW ME💃 ON INSTAGRAM😊 - https://www.instagram.com/shay_art_2020/\n\n🎉 Head to Temu App Now: https://temu.to/m/uf2zqr52fo4\n🔍 Search code:【dkk6847】to claim $100 coupon bundle\n#temu #TemuCanada #valentinesday #temuart\n\nProducts mentioned:\nGrab our Acrylic Paint Markers at an exclusive price of $1.01 for NEW USERS! 🌟\n🔗Click LINK or Search Code: dkb2249 FOR UP TO 95% OFF!\n\n2pcs White Marker Pen  CA$2.79💰https://temu.to/m/ufwbshk37d6\nPaper Cutter CA$2.49💰https://temu.to/m/unfp530eq5c\n3D Printing Doodle Pens CA$8.99💰https://temu.to/m/uoa9gvl8f9w\nWooden Paint Brush Holder CA$8.79💰https://temu.to/m/us24ub5lyob\nAdhesive Point Transparent Balloon Adhesive CA$0.79💰https://temu.to/m/ugxp9y62xll\n\n\n5 Colors Cute Octopus Highlighter Pen CA$4.69💰https://temu.to/m/umhvq51wdoc\n22pcs Spirograph Design Arts Craft Kit CA$3.33💰https://temu.to/m/uljnsjyo6cu\nSplit Cups  CA$3.99💰https://temu.to/m/udr7kluzzu4\nSuper Cute Animal 3D Shape Long Sleeve Rompe CA$10.99💰https://temu.to/m/ukvqfvyvsar\nBaby Boys Stylish Color Block Matching Set  CA$11.59💰https://temu.to/m/uwxum1cf1z2\n50ml Multifunctional Secure Sew Glue  CA$4.14💰https://temu.to/m/utd8hx4bs6l\n500ml/17oz Clear Leakproof Water Bottle CA$4.59💰https://temu.to/m/urwk5o66mpj\n\n\nTemu offers:\n- FREE shipping +FREE returns for up to 90 days\n- 90% off for all users"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "28054079",
+          "likeCount": "313241",
+          "favoriteCount": "0",
+          "commentCount": "1399"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "InM6uLwpQ-xldQJCrdJdnGcnou4",
+        "id": "3g9rCtBf0FY",
+        "snippet": {
+          "publishedAt": "2025-07-07T10:49:15Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "Creative Art 🤩✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3g9rCtBf0FY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3g9rCtBf0FY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3g9rCtBf0FY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3g9rCtBf0FY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3g9rCtBf0FY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "Drawing",
+            "Painting",
+            "Easy Drawing",
+            "Tutorial",
+            "Shorts",
+            "Art",
+            "Art tutorial",
+            "muktaeasydrawing",
+            "Drawing videos"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art 🤩✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9373488",
+          "likeCount": "139346",
+          "favoriteCount": "0",
+          "commentCount": "234"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "h7OzrhpdnPdA8LuMKeCT82MSZBU",
+        "id": "iRBrDYabbgs",
+        "snippet": {
+          "publishedAt": "2024-04-25T10:00:43Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "14 Easy Art Tips & Hacks || creative art ideas || Easy Painting Technique || Painting",
+          "description": "Art Ideas for Beginners\nEasy Acrylic Painting Tutorial \nEasy Painting hacks & Art Ideas for beginners \nAmazing Painting Ideas | Beautiful Painting Techniques | Satisfying Art Tutorial \n\n\n#drawing  \n #art \n #painting \n\n\n►Visit to my channel :\n https://www.youtube.com/c/FarjanaDrawingAcademy\n\n►For business inquiries: \ncontactwithfarjana@gmail.com\n\n► My Instagram Page Link -\nhttps://www.instagram.com/farjana_drawing_academy_/\n\n► Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw\n\n#drawingtutorial  \n\nAbout me:\nIf you're new, hi, my name's Farjana! \nOn this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!\nIf you like my videos, Don't forget to subscribe and hit the bell.\nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iRBrDYabbgs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iRBrDYabbgs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iRBrDYabbgs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iRBrDYabbgs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iRBrDYabbgs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "how to paint",
+            "acrylic painting",
+            "Painting Tutorial for beginners",
+            "painting",
+            "painting video",
+            "satisfying art",
+            "رسم",
+            "farjana drawing academy new drawing",
+            "farjana drawing academy",
+            "drawing",
+            "farjana drawing",
+            "farzana art academy",
+            "art and craft",
+            "farjana art academy",
+            "art",
+            "farjana drawing academy shorts",
+            "easy drawing",
+            "farjana academy",
+            "ফারজানা ড্রয়িং একাডেমি",
+            "art shorts",
+            "painting pictures",
+            "painting ideas",
+            "easy painting",
+            "acrylic painting for beginners",
+            "scenery painting"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "14 Easy Art Tips & Hacks || creative art ideas || Easy Painting Technique || Painting",
+            "description": "Art Ideas for Beginners\nEasy Acrylic Painting Tutorial \nEasy Painting hacks & Art Ideas for beginners \nAmazing Painting Ideas | Beautiful Painting Techniques | Satisfying Art Tutorial \n\n\n#drawing  \n #art \n #painting \n\n\n►Visit to my channel :\n https://www.youtube.com/c/FarjanaDrawingAcademy\n\n►For business inquiries: \ncontactwithfarjana@gmail.com\n\n► My Instagram Page Link -\nhttps://www.instagram.com/farjana_drawing_academy_/\n\n► Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw\n\n#drawingtutorial  \n\nAbout me:\nIf you're new, hi, my name's Farjana! \nOn this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!\nIf you like my videos, Don't forget to subscribe and hit the bell.\nThank You"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8M2S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3422111",
+          "likeCount": "3971",
+          "favoriteCount": "0",
+          "commentCount": "255"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QN_w9NgzCf9WlUOJd_YBGfrMkyI",
+        "id": "JwaiZNbps4M",
+        "snippet": {
+          "publishedAt": "2024-05-14T15:00:25Z",
+          "channelId": "UCHm9SiOLG8UoBT8STWY5mVA",
+          "title": "Comb Painting Technique / Acrylic Painting / Walking in the Rain",
+          "description": "How to draw paint with acrylic.\nJay Lee is a painting youtuber. He paints a beautiful world on canvas, and share painting videos for people all over the world.\n---------------------------------------------------\n❖ Jay Lee Store :\nhttps://jayartpainting.creator-spring.com/\n❖ Channel Membership : \nPlease become a member of my channel. You can buy me a cup of coffee, and push me to create more videos.\n---------------------------------------------------\n❖ Music\nKiss the Sky - Aakash Gandhi\n\nMeditation Impromptu by Kevin MacLeod \nhttps://creativecommons.org/licenses/by/4.0/\nhttp://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100161\nhttp://incompetech.com/\n---------------------------------------------------\n❖ Contacts\nE-mail : tkstoryman@hotmail.com\n........................................................",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JwaiZNbps4M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JwaiZNbps4M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JwaiZNbps4M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JwaiZNbps4M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JwaiZNbps4M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jay Lee Painting",
+          "tags": [
+            "painting",
+            "drawing",
+            "draw",
+            "paint",
+            "art",
+            "how to",
+            "acrylic",
+            "easy",
+            "simple",
+            "creative"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Comb Painting Technique / Acrylic Painting / Walking in the Rain",
+            "description": "How to draw paint with acrylic.\nJay Lee is a painting youtuber. He paints a beautiful world on canvas, and share painting videos for people all over the world.\n---------------------------------------------------\n❖ Jay Lee Store :\nhttps://jayartpainting.creator-spring.com/\n❖ Channel Membership : \nPlease become a member of my channel. You can buy me a cup of coffee, and push me to create more videos.\n---------------------------------------------------\n❖ Music\nKiss the Sky - Aakash Gandhi\n\nMeditation Impromptu by Kevin MacLeod \nhttps://creativecommons.org/licenses/by/4.0/\nhttp://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100161\nhttp://incompetech.com/\n---------------------------------------------------\n❖ Contacts\nE-mail : tkstoryman@hotmail.com\n........................................................"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12M14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34108209",
+          "likeCount": "188815",
+          "favoriteCount": "0",
+          "commentCount": "5373"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "K2nF88skcf9jInhUi-BGrl0sJfA",
+        "id": "NBo9usBTpNc",
+        "snippet": {
+          "publishedAt": "2024-07-28T11:08:40Z",
+          "channelId": "UCyV_r9DymhshtqlCiGjVNDA",
+          "title": "Amazing Acrylic Painting Ideas｜Relaxing Art Videos",
+          "description": "Top Acrylic Painting Videos by MY ART! These are a few of my simple but most beautiful artworks that I have done using acrylic paint. Enjoy the video! 😍👍\n\nFor more videos, click here:\nyoutube.com/myartshine\nThank you for watching :)\n\n#art #painting #MyArt \n#abstractart #abstractpainting #acrylicpainting",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NBo9usBTpNc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NBo9usBTpNc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NBo9usBTpNc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NBo9usBTpNc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NBo9usBTpNc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "My Art",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Amazing Acrylic Painting Ideas｜Relaxing Art Videos",
+            "description": "Top Acrylic Painting Videos by MY ART! These are a few of my simple but most beautiful artworks that I have done using acrylic paint. Enjoy the video! 😍👍\n\nFor more videos, click here:\nyoutube.com/myartshine\nThank you for watching :)\n\n#art #painting #MyArt \n#abstractart #abstractpainting #acrylicpainting"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT35M19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6423606",
+          "likeCount": "38809",
+          "favoriteCount": "0",
+          "commentCount": "1845"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Q5-wAeFZ9rvUzCyoEEg-aTWoERQ",
+        "id": "Ljv13RV45Cw",
+        "snippet": {
+          "publishedAt": "2022-11-30T15:00:10Z",
+          "channelId": "UC37Zt-bqajVZw0Tj52Im9UQ",
+          "title": "Creative technique! 😍💙 #shorts #artist #art #drawing #creative #draw #painting #diy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ljv13RV45Cw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ljv13RV45Cw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ljv13RV45Cw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Ljv13RV45Cw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Ljv13RV45Cw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Cherry Blossom ART",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative technique! 😍💙 #shorts #artist #art #drawing #creative #draw #painting #diy",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4399",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "jc-bkSnis7wFciaMgqOqlEVoXfU",
+        "id": "fuDY4Vo9LsE",
+        "snippet": {
+          "publishedAt": "2023-03-11T03:48:33Z",
+          "channelId": "UC1PfMFGws_LVHxoBnxzRj8w",
+          "title": "Watercolor Dot Painting 💧 #art #artwork #paint #painting #fashion #draw",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fuDY4Vo9LsE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fuDY4Vo9LsE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fuDY4Vo9LsE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fuDY4Vo9LsE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fuDY4Vo9LsE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kelly Edelman",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Watercolor Dot Painting 💧 #art #artwork #paint #painting #fashion #draw",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12796851",
+          "likeCount": "215199",
+          "favoriteCount": "0",
+          "commentCount": "582"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kcHo-IgVK2gmYuGtx5DZ2Sc6t4M",
+        "id": "dOYfPaVnJw8",
+        "snippet": {
+          "publishedAt": "2025-05-22T10:42:34Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "12 watercolor painting Ideas for Beginners || Easy Creative Art Hacks When You’re Bored || painting",
+          "description": "Art Ideas for Beginners\nEasy Painting Tutorial \nEasy Painting hacks & Art Ideas for beginners \nAmazing Painting Ideas | Beautiful Painting Techniques | Satisfying Art Tutorial \n\n\n#drawing  \n #art \n #painting \n\n\n►Visit to my channel :\n https://www.youtube.com/c/FarjanaDrawingAcademy\n\n►For business inquiries: \ncontactwithfarjana@gmail.com\n\n► My Instagram Page Link -\nhttps://www.instagram.com/farjana_drawing_academy_/\n\n► Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw\n\n#drawingtutorial  \n\nAbout me:\nIf you're new, hi, my name's Farjana! \nOn this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!\nIf you like my videos, Don't forget to subscribe and hit the bell.\nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dOYfPaVnJw8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dOYfPaVnJw8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dOYfPaVnJw8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dOYfPaVnJw8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dOYfPaVnJw8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "how to paint",
+            "acrylic painting",
+            "Painting Tutorial for beginners",
+            "painting",
+            "painting video",
+            "satisfying art",
+            "رسم",
+            "farjana drawing academy new drawing",
+            "farjana drawing academy",
+            "drawing",
+            "farjana drawing",
+            "farzana art academy",
+            "art and craft",
+            "farjana art academy",
+            "art",
+            "farjana drawing academy shorts",
+            "easy drawing",
+            "farjana academy",
+            "ফারজানা ড্রয়িং একাডেমি",
+            "art shorts",
+            "painting pictures",
+            "painting ideas",
+            "easy painting",
+            "scenery painting"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "12 watercolor painting Ideas for Beginners || Easy Creative Art Hacks When You’re Bored || painting",
+            "description": "Art Ideas for Beginners\nEasy Painting Tutorial \nEasy Painting hacks & Art Ideas for beginners \nAmazing Painting Ideas | Beautiful Painting Techniques | Satisfying Art Tutorial \n\n\n#drawing  \n #art \n #painting \n\n\n►Visit to my channel :\n https://www.youtube.com/c/FarjanaDrawingAcademy\n\n►For business inquiries: \ncontactwithfarjana@gmail.com\n\n► My Instagram Page Link -\nhttps://www.instagram.com/farjana_drawing_academy_/\n\n► Subscribe to my other channel ( Farjana's Craft ) :  https://www.youtube.com/channel/UClkR3AhuE2tTEKU0fboL0tw\n\n#drawingtutorial  \n\nAbout me:\nIf you're new, hi, my name's Farjana! \nOn this channel I always try to show the easiest way of drawing and Painting. From here you can improve your drawing skills. Hope you enjoy my videos and find them helpful!!\nIf you like my videos, Don't forget to subscribe and hit the bell.\nThank You"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10M4S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2874651",
+          "likeCount": "2675",
+          "favoriteCount": "0",
+          "commentCount": "237"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6kup-_UucTpMdtYxtiA_Y_W0z-4",
+        "id": "0Icw6bE1xvk",
+        "snippet": {
+          "publishedAt": "2025-08-04T10:58:12Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "Creative Art🌸✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Icw6bE1xvk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Icw6bE1xvk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Icw6bE1xvk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0Icw6bE1xvk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0Icw6bE1xvk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "how to draw",
+            "girl backside drawing",
+            "mukta easy drawing",
+            "drawing videos",
+            "drawing academy",
+            "paint tutorial",
+            "drawing tutorial",
+            "girl",
+            "girl face"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art🌸✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "345998",
+          "likeCount": "4701",
+          "favoriteCount": "0",
+          "commentCount": "24"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LwFpaKQLLwqq5WK7xoRHaYn_opg",
+        "id": "O4i-KNUfeFs",
+        "snippet": {
+          "publishedAt": "2022-03-08T15:58:52Z",
+          "channelId": "UCoo2k7__mB4Wwk4HbJ0SwTw",
+          "title": "My art in Class vs At home | Artcoaster #shorts",
+          "description": "My Tiktok- malxikaaa \nInstagram- Artcoaster_\n-\n-\nWebsite for prints and original drawings ⇩✨\n\nhttps://linktr.ee/Malxikaaa\n\nBusiness email: malxikaaa@gmail.com\n\n-\n-\n-\n-\n#shorts #art #tutorial #artist\n\nSound: LatinAutor, eProves",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Artcoaster",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My art in Class vs At home | Artcoaster #shorts",
+            "description": "My Tiktok- malxikaaa \nInstagram- Artcoaster_\n-\n-\nWebsite for prints and original drawings ⇩✨\n\nhttps://linktr.ee/Malxikaaa\n\nBusiness email: malxikaaa@gmail.com\n\n-\n-\n-\n-\n#shorts #art #tutorial #artist\n\nSound: LatinAutor, eProves"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34973927",
+          "likeCount": "942329",
+          "favoriteCount": "0",
+          "commentCount": "10085"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XSMN3vEdQkrpMHXkihhaSPBzpxo",
+        "id": "QBTkag0QEw8",
+        "snippet": {
+          "publishedAt": "2025-07-30T08:11:02Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "Creative Art😍✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "Art",
+            "Drawing",
+            "Painting",
+            "How To Draw",
+            "Muktaeasydrawing",
+            "YouTube",
+            "Drawing hacks",
+            "Painting techniques",
+            "Drawing tutorials",
+            "Shorts",
+            "Pencil sketch"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art😍✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "33647037",
+          "likeCount": "659039",
+          "favoriteCount": "0",
+          "commentCount": "836"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "H39CYib7XhUYxunvmwzM8T8bzy4",
+        "id": "r30s1XiCq1g",
+        "snippet": {
+          "publishedAt": "2022-04-22T19:47:04Z",
+          "channelId": "UCXfE-XxquyKfDpOBal4wqWg",
+          "title": "Watercolor flower painting #art #shorts #watercolor",
+          "description": "Painting a watercolor flower",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/r30s1XiCq1g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/r30s1XiCq1g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/r30s1XiCq1g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/r30s1XiCq1g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/r30s1XiCq1g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rosie’s Sketchbook",
+          "tags": [
+            "Watercolor flower painting",
+            "Flower painting tutorial",
+            "Art tutorials",
+            "Watercolor painting",
+            "Paint with me",
+            "How to paint a flower",
+            "Flower drawing",
+            "Watercolour",
+            "Watercolor Art",
+            "Painting",
+            "Beginner painting tutorial",
+            "Easy beginner Art"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Watercolor flower painting #art #shorts #watercolor",
+            "description": "Painting a watercolor flower"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5583590",
+          "likeCount": "232423",
+          "favoriteCount": "0",
+          "commentCount": "474"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wxjdeqGAqMtEJPoGfxUnwJpDcas",
+        "id": "QW1flVA2HAo",
+        "snippet": {
+          "publishedAt": "2023-04-05T00:13:33Z",
+          "channelId": "UClpEMml6byT9KhgPLDM8zow",
+          "title": "Art Hacks That CHANGED My Life",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QW1flVA2HAo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QW1flVA2HAo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QW1flVA2HAo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QW1flVA2HAo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QW1flVA2HAo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Sarah Inoue",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Art Hacks That CHANGED My Life",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10384429",
+          "likeCount": "522172",
+          "favoriteCount": "0",
+          "commentCount": "514"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "BsqVe4w7ng0cAILhLCBHzmz9l48",
+        "id": "2OWeCq1DSWw",
+        "snippet": {
+          "publishedAt": "2025-07-04T13:00:04Z",
+          "channelId": "UCZoK5dGfrumYdoTF_1PDnAQ",
+          "title": "What a creative idea!🥰 Paintings with leaf are so interesting 😍🌿 #Art #Nature #Creativity #Painting",
+          "description": "Collaboration Partner @Mr.rafikshaikh80",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2OWeCq1DSWw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2OWeCq1DSWw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2OWeCq1DSWw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2OWeCq1DSWw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2OWeCq1DSWw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Creative Drawing Ideas",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "What a creative idea!🥰 Paintings with leaf are so interesting 😍🌿 #Art #Nature #Creativity #Painting",
+            "description": "Collaboration Partner @Mr.rafikshaikh80"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "73064",
+          "likeCount": "1684",
+          "favoriteCount": "0",
+          "commentCount": "6"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "--strRzoWWAEscG2FxLVo23IuQk",
+        "id": "7S2E0TTsC2g",
+        "snippet": {
+          "publishedAt": "2024-07-30T13:05:22Z",
+          "channelId": "UCIwUT7LRhLu-o5Zt9pmBxKA",
+          "title": "￼Creative Birthday Cake 🎂 drawing for kids #shorts #art#painting#ytshortsfeed#creative #diy #cake",
+          "description": "Creative Birthday Cake 🎂 drawing for kids #shorts #art#painting",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7S2E0TTsC2g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7S2E0TTsC2g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7S2E0TTsC2g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7S2E0TTsC2g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7S2E0TTsC2g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Drawing Dayss",
+          "tags": [
+            "#shorts",
+            "#art",
+            "#painting",
+            "#acrylic painting",
+            "#how to",
+            "#easy",
+            "#ideas",
+            "#diy",
+            "#diy ideas",
+            "#creative",
+            "#step by step",
+            "#cake",
+            "#birthdaycake drawing",
+            "#birthday gift",
+            "#creative birthday cake",
+            "#trending",
+            "#virao shorts",
+            "#viral video",
+            "#creative video",
+            "#satisfying video",
+            "#birthday decoration",
+            "#birthday girl",
+            "#birthday cake design",
+            "#shorts feed",
+            "#yt shorts feed",
+            "#fun art",
+            "#kids",
+            "#kods tv",
+            "#chhota bheem",
+            "#motu Patlu",
+            "#cartoon videos",
+            "#art and craft",
+            "#kids drawing"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "￼Creative Birthday Cake 🎂 drawing for kids #shorts #art#painting#ytshortsfeed#creative #diy #cake",
+            "description": "Creative Birthday Cake 🎂 drawing for kids #shorts #art#painting"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10373675",
+          "likeCount": "157097",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5hTKoLjYLJN4mgm_ztX1lvD74Zc",
+        "id": "56atQTPBYPo",
+        "snippet": {
+          "publishedAt": "2023-05-21T00:09:37Z",
+          "channelId": "UCj4Dzk1DADMOJO2HO0bf_fw",
+          "title": "Easy canvas ideas using plastic wrap 💡☁️ #shorts #canvasidea #artidea",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/56atQTPBYPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/56atQTPBYPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/56atQTPBYPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/56atQTPBYPo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/56atQTPBYPo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Shelly Clouds",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Easy canvas ideas using plastic wrap 💡☁️ #shorts #canvasidea #artidea",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT33S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "58385444",
+          "likeCount": "2784547",
+          "favoriteCount": "0",
+          "commentCount": "3914"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MFi0VdxF1bLa6KH3TACH0Sb5rwI",
+        "id": "GeHr-Xd3z1g",
+        "snippet": {
+          "publishedAt": "2022-09-13T20:01:28Z",
+          "channelId": "UC2qUk37WhyQg_qNmePcRrgQ",
+          "title": "Art Hacks For LAZY Artists ✍️ #shorts",
+          "description": "To See More Art Hacks Check Out My Full Video: https://www.youtube.com/watch?v=tp-mfLo7fWI\n\nHere's 3 of 9 Art Hacks for Lazy Artists. Sometimes the easier option is the better one. Happy Drawing.\n\nMain channel: @SuperRaedizzle \nSecond Channel: @RaeDizzleExtras",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GeHr-Xd3z1g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GeHr-Xd3z1g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GeHr-Xd3z1g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GeHr-Xd3z1g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GeHr-Xd3z1g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rae Dizzle Shorts",
+          "tags": [
+            "Art hacks",
+            "Drawing",
+            "Superraedizzle",
+            "art tutorial",
+            "watercolor paint"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Art Hacks For LAZY Artists ✍️ #shorts",
+            "description": "To See More Art Hacks Check Out My Full Video: https://www.youtube.com/watch?v=tp-mfLo7fWI\n\nHere's 3 of 9 Art Hacks for Lazy Artists. Sometimes the easier option is the better one. Happy Drawing.\n\nMain channel: @SuperRaedizzle \nSecond Channel: @RaeDizzleExtras"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "35194672",
+          "likeCount": "1638047",
+          "favoriteCount": "0",
+          "commentCount": "3016"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8jnnTlMM-6vvlVbwZGr0aKeEyj4",
+        "id": "t1vIMqPCyJo",
+        "snippet": {
+          "publishedAt": "2023-03-23T14:00:26Z",
+          "channelId": "UC9I_ZjpmicBIlzPLL_zdH6w",
+          "title": "Stunning RAINBOW THREAD Painting Paper Crafts 🌈✨",
+          "description": "With Gelatos and other water-soluble crayons, it's easy to make a gorgeous rainbow fantasy flower, all you need besides the crayons is a string and paper. This time I am using thick string, creating a bit more of a textured result, double the string to get double the amazingly cool result🤩 \nIt's an incredibly fun and satisfying paper craft technique😍\n\nMore String Paint ideas: https://www.youtube.com/playlist?list=PLHNip46yzH6cF0OlKlUG9V_JJLtcxsU1t\n\n🎨 SUPPLIES: \n• Faber-Castell Gelatos Crayons\n- https://shrsl.com/3vy7y [Scrapbook.com]\n- https://shrsl.com/3vy83 [dickblick.com]\n- https://amzn.to/3WgAzKF [Amazon.com]\n\n• Sizzix Smooth White Cardstock\n- https://shrsl.com/3vy8f [Scrapbook.com]\n\n• Sizzix Cardstock\n- https://shrsl.com/3yggn [Scrapbook.com]\n\n🎨 FAVOURITE SUPPLY LIST HERE: https://gerryscraftroom.com/favourites/\n\nstring paint tutorial | easy paper craft ideas | simple arts and crafts | simple paper crafts | string paint flower | 5 minute crafts | magical thread painting | rainbow thread painting | string painting\n\nSubscribe for a cookie🍪 \nShare and let others enjoy, they will love you for it so will I💙\n\n#papercrafting #handmade #diycrafts #diy #gerryscraftroom",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t1vIMqPCyJo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t1vIMqPCyJo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t1vIMqPCyJo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/t1vIMqPCyJo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/t1vIMqPCyJo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gerry's Craft Room",
+          "tags": [
+            "gerryscraftroom",
+            "gerrys craft room",
+            "keep on crafting",
+            "paper crafting",
+            "papercrafting",
+            "paper crafts",
+            "art and crafts",
+            "string painting shorts",
+            "string painting",
+            "easy painting",
+            "gelatos techniques",
+            "crayons",
+            "satisfying art video",
+            "string painting easy",
+            "string painting ideas",
+            "string pull painting",
+            "thread painting",
+            "easy thread painting"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stunning RAINBOW THREAD Painting Paper Crafts 🌈✨",
+            "description": "With Gelatos and other water-soluble crayons, it's easy to make a gorgeous rainbow fantasy flower, all you need besides the crayons is a string and paper. This time I am using thick string, creating a bit more of a textured result, double the string to get double the amazingly cool result🤩 \nIt's an incredibly fun and satisfying paper craft technique😍\n\nMore String Paint ideas: https://www.youtube.com/playlist?list=PLHNip46yzH6cF0OlKlUG9V_JJLtcxsU1t\n\n🎨 SUPPLIES: \n• Faber-Castell Gelatos Crayons\n- https://shrsl.com/3vy7y [Scrapbook.com]\n- https://shrsl.com/3vy83 [dickblick.com]\n- https://amzn.to/3WgAzKF [Amazon.com]\n\n• Sizzix Smooth White Cardstock\n- https://shrsl.com/3vy8f [Scrapbook.com]\n\n• Sizzix Cardstock\n- https://shrsl.com/3yggn [Scrapbook.com]\n\n🎨 FAVOURITE SUPPLY LIST HERE: https://gerryscraftroom.com/favourites/\n\nstring paint tutorial | easy paper craft ideas | simple arts and crafts | simple paper crafts | string paint flower | 5 minute crafts | magical thread painting | rainbow thread painting | string painting\n\nSubscribe for a cookie🍪 \nShare and let others enjoy, they will love you for it so will I💙\n\n#papercrafting #handmade #diycrafts #diy #gerryscraftroom"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2127846",
+          "likeCount": "13121",
+          "favoriteCount": "0",
+          "commentCount": "54"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kmIKgj6H-5hO6Qv7pm7qJZQ55Ao",
+        "id": "qEfY5-mYr-w",
+        "snippet": {
+          "publishedAt": "2022-05-04T12:00:28Z",
+          "channelId": "UCPRuDp5qn2_Q41sE-bfP4uA",
+          "title": "Huge Abstract Painting | Painting on Canvas",
+          "description": "#abstractpainting #artcollector #short",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qEfY5-mYr-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qEfY5-mYr-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qEfY5-mYr-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ColorByFeliks",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Huge Abstract Painting | Painting on Canvas",
+            "description": "#abstractpainting #artcollector #short"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "527722",
+          "likeCount": "21973",
+          "favoriteCount": "0",
+          "commentCount": "107"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qruBhpIsSdKzbjBj_9eEA3YCr5c",
+        "id": "Cv2IV7g80k8",
+        "snippet": {
+          "publishedAt": "2025-08-02T11:23:56Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "Creative Art 😍✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cv2IV7g80k8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cv2IV7g80k8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cv2IV7g80k8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Cv2IV7g80k8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Cv2IV7g80k8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "how to draw",
+            "girl backside drawing",
+            "mukta easy drawing",
+            "drawing videos",
+            "drawing academy",
+            "paint tutorial",
+            "drawing tutorial",
+            "girl",
+            "girl face"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art 😍✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1470144",
+          "likeCount": "17028",
+          "favoriteCount": "0",
+          "commentCount": "73"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MOdIBM89yLMMpeiZJHIPtuNZEO8",
+        "id": "M5IjqtBeFzs",
+        "snippet": {
+          "publishedAt": "2023-03-22T16:40:46Z",
+          "channelId": "UCx46nHlR4oAtb-D-3Kp2Q5A",
+          "title": "How to use watercolor techniques #watercolor #art  #arttutorial #watercolortutorial",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M5IjqtBeFzs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M5IjqtBeFzs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M5IjqtBeFzs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/M5IjqtBeFzs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/M5IjqtBeFzs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mallery Jane",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "How to use watercolor techniques #watercolor #art  #arttutorial #watercolortutorial",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT43S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4162533",
+          "likeCount": "265982",
+          "favoriteCount": "0",
+          "commentCount": "314"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "WVd28TBKJpqTBvC20l7ajvi5edE",
+        "id": "Fvkyb4Al0EM",
+        "snippet": {
+          "publishedAt": "2023-03-06T23:56:20Z",
+          "channelId": "UCPRuDp5qn2_Q41sE-bfP4uA",
+          "title": "Easy way to paint with acrylics 🎨 #shorts #paintingtutorial #acrylicpainting",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fvkyb4Al0EM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fvkyb4Al0EM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fvkyb4Al0EM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Fvkyb4Al0EM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Fvkyb4Al0EM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "ColorByFeliks",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Easy way to paint with acrylics 🎨 #shorts #paintingtutorial #acrylicpainting",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5808983",
+          "likeCount": "415221",
+          "favoriteCount": "0",
+          "commentCount": "1154"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LW47Mt0D0hAaoTGJeqA_xuL_kto",
+        "id": "oxxIDxe8c50",
+        "snippet": {
+          "publishedAt": "2023-01-15T15:00:24Z",
+          "channelId": "UCVPONwQa8FuYN-VK0gS8Guw",
+          "title": "Easy art idea for when you’re bored ✨ #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oxxIDxe8c50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oxxIDxe8c50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oxxIDxe8c50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oxxIDxe8c50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oxxIDxe8c50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lia Hansen",
+          "tags": [
+            "Lia Hansen",
+            "Lisa hansen.",
+            "Lia Hansen art",
+            "Easy drawing idea",
+            "Sketchbook idea",
+            "Watercolour beginner",
+            "Grabie watercolours",
+            "Art videos",
+            "Aesthetic art",
+            "Lettering",
+            "Calligraphy"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-CA",
+          "localized": {
+            "title": "Easy art idea for when you’re bored ✨ #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-CA"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2382871",
+          "likeCount": "76134",
+          "favoriteCount": "0",
+          "commentCount": "355"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TGFZYRphYZ2bmY5gZQOTeLWAipA",
+        "id": "_El_X01ULHE",
+        "snippet": {
+          "publishedAt": "2023-04-26T19:41:42Z",
+          "channelId": "UClJtaL3XijvvMi0_XIenbGg",
+          "title": "Never Draw Your Line Art This Way! 😡 Pt.2 #art #drawing #shorts",
+          "description": "In this video, we're continuing our line art tutorial. In the first part of this series, we learned how to draw a basic rectangle. Today, we're going to learn how to draw a circle!\n\nIf you're new to Drawing Shorts, or just need a refresher, be sure to check out Part 1 of this series. In that video, we covered the basics of line art, including how to draw a basic rectangle. Today, we're going to learn how to draw a circle! Don't forget to subscribe to our channel for more drawing tutorials!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_El_X01ULHE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_El_X01ULHE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_El_X01ULHE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_El_X01ULHE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_El_X01ULHE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Anderson Bluu",
+          "tags": [
+            "line art",
+            "how to draw",
+            "tutorial",
+            "lineart",
+            "drawing",
+            "photoshop",
+            "line art tutorial",
+            "tips",
+            "painting",
+            "digital art",
+            "artist",
+            "clean lines",
+            "how to draw smooth lines",
+            "how to draw line art",
+            "art tutorial",
+            "clip studio",
+            "anime",
+            "art",
+            "manga",
+            "how to draw anime",
+            "speedpaint",
+            "drawing tutorial",
+            "lesson",
+            "clean line art",
+            "how to draw clean lines",
+            "draw",
+            "lineart tips",
+            "timelapse",
+            "art school",
+            "art education",
+            "learn art",
+            "jazza",
+            "line drawing",
+            "digital line art",
+            "digital inking",
+            "how to ink",
+            "stylized art",
+            "anderson bluu"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Never Draw Your Line Art This Way! 😡 Pt.2 #art #drawing #shorts",
+            "description": "In this video, we're continuing our line art tutorial. In the first part of this series, we learned how to draw a basic rectangle. Today, we're going to learn how to draw a circle!\n\nIf you're new to Drawing Shorts, or just need a refresher, be sure to check out Part 1 of this series. In that video, we covered the basics of line art, including how to draw a basic rectangle. Today, we're going to learn how to draw a circle! Don't forget to subscribe to our channel for more drawing tutorials!"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "73580717",
+          "likeCount": "881882",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "C6CHS4WVJo7gt90OcDQCzXdguZ0",
+        "id": "ls7vATt2Q5M",
+        "snippet": {
+          "publishedAt": "2023-03-14T21:00:31Z",
+          "channelId": "UCMMEt0lMPTmSgVu-liIpKkw",
+          "title": "Easiest and fun way to paint cherry blossom wreath with watercolor #watercolortechnique #hobby #art",
+          "description": "Watch the FULL tutorial here\n\nHow to Paint EASIEST Floral Wreath. Day 4/100\nhttps://youtu.be/Lhqj8iE0OZQ\n\n——\n\nJOIN my in-depth Watercolor courses – ENROLL & Start Creating!\nhttps://www.olgakoelschcourses.com/store-page \n\nMaterials I used:\n\nAlizarin Crimson https://amzn.to/3gOk61q\nPhthalo Green https://amzn.to/3TpzqQy \nBurnt Sienna https://amzn.to/3gs5KUf\nCadmium Yellow https://amzn.to/3VfRkWC\nCadmium Orange https://amzn.to/3eLPEV5\nQuinacridone Rose https://amzn.to/3Tmc1iO\nUltramarine Blue https://amzn.to/3yXP25i\n\nPaper Fabriano Artistico (Square)  https://amzn.to/3GrzvOl\nBrushes https://amzn.to/3ucOIgh\n________________________________\nJoin my Skillshare class and learn\nHow to paint 10 popular watercolor flowers  (including cherry blossom!)\nhttps://skl.sh/3EFEbzf\n\n\nConnect with me:\nINSTAGRAM: https://www.instagram.com/olga.koelsch/\nWEB  https://www.olgakoelsch.com\n\n________________________\n\nWhat about some FREEBIES?\n\nWatercolour mixing guide - Dusty Vintage Palette\nhttps://www.olgakoelsch.com/freebie-palette\n\n6 FREE floral wallpapers for your mobiles\nhttps://www.olgakoelsch.com/freebie-lockscreens\n\n__________________________________\n#howtopainteasy#howtopaintflower#watercolortutorial  #howtopaintwatercolour #watercolorflower #OlgaKoelsch #watercolortutorial #howtopaintdaffodil #howtopaintsnowdrops#loosepainting#watercolortechnique#watercolorlesson  #springflowers #watercolorartist #eastercards#easter\n\n__________________________________\n\n*DISCLOSURE: This video and description contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission. This helps support the channel and allows me to continue to make videos like this. Thank you for the support!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ls7vATt2Q5M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ls7vATt2Q5M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ls7vATt2Q5M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ls7vATt2Q5M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ls7vATt2Q5M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Olga Koelsch",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Easiest and fun way to paint cherry blossom wreath with watercolor #watercolortechnique #hobby #art",
+            "description": "Watch the FULL tutorial here\n\nHow to Paint EASIEST Floral Wreath. Day 4/100\nhttps://youtu.be/Lhqj8iE0OZQ\n\n——\n\nJOIN my in-depth Watercolor courses – ENROLL & Start Creating!\nhttps://www.olgakoelschcourses.com/store-page \n\nMaterials I used:\n\nAlizarin Crimson https://amzn.to/3gOk61q\nPhthalo Green https://amzn.to/3TpzqQy \nBurnt Sienna https://amzn.to/3gs5KUf\nCadmium Yellow https://amzn.to/3VfRkWC\nCadmium Orange https://amzn.to/3eLPEV5\nQuinacridone Rose https://amzn.to/3Tmc1iO\nUltramarine Blue https://amzn.to/3yXP25i\n\nPaper Fabriano Artistico (Square)  https://amzn.to/3GrzvOl\nBrushes https://amzn.to/3ucOIgh\n________________________________\nJoin my Skillshare class and learn\nHow to paint 10 popular watercolor flowers  (including cherry blossom!)\nhttps://skl.sh/3EFEbzf\n\n\nConnect with me:\nINSTAGRAM: https://www.instagram.com/olga.koelsch/\nWEB  https://www.olgakoelsch.com\n\n________________________\n\nWhat about some FREEBIES?\n\nWatercolour mixing guide - Dusty Vintage Palette\nhttps://www.olgakoelsch.com/freebie-palette\n\n6 FREE floral wallpapers for your mobiles\nhttps://www.olgakoelsch.com/freebie-lockscreens\n\n__________________________________\n#howtopainteasy#howtopaintflower#watercolortutorial  #howtopaintwatercolour #watercolorflower #OlgaKoelsch #watercolortutorial #howtopaintdaffodil #howtopaintsnowdrops#loosepainting#watercolortechnique#watercolorlesson  #springflowers #watercolorartist #eastercards#easter\n\n__________________________________\n\n*DISCLOSURE: This video and description contains affiliate links, which means that if you click on one of the product links, I’ll receive a small commission. This helps support the channel and allows me to continue to make videos like this. Thank you for the support!"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1322447",
+          "favoriteCount": "0",
+          "commentCount": "180"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qizu88NSuh-A-HdR3XBcvd4ihII",
+        "id": "ZiE0ix-_ZD8",
+        "snippet": {
+          "publishedAt": "2025-04-08T10:34:00Z",
+          "channelId": "UC4k8X_e0VlkuBI68E3huXgg",
+          "title": "Painting a Beautiful flower with a cute Butterfly🦋🦋 / Acrylic painting / Art paintings",
+          "description": "Today, I painted a Beautiful view of Spring Morning...\nBeginners can draw along easily.\nFollow me step by step.\nPlease subscribe and like.\nThank you~~\n\n\nColors listed on the screen\n-Acrylic painting\n-Canvas 30cm*26cm\nBGM uses the YouTube library\n\n#acrylic #art #painting #acrylicpainting #daily #morning #MorningScenary #sunset #spring #flowers #daisy #butterfly",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZiE0ix-_ZD8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZiE0ix-_ZD8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZiE0ix-_ZD8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZiE0ix-_ZD8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZiE0ix-_ZD8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Acrylic Painting Tutorial",
+          "tags": [
+            "painting a Blossom Tree",
+            "painting a sunrise scene",
+            "morning landscape painting in Acrylic",
+            "how to Draw a birch forest by the Lake",
+            "how to Draw sunlight through the trees onto the Lake surface",
+            "how to Draw a Morning Spring Scenary",
+            "draw a Sunset scene",
+            "draw a Morning landscape",
+            "painting a Beautiful apple flower",
+            "spring morning Scenary Acrylic Painting",
+            "relaxing",
+            "Satisfying",
+            "art",
+            "flower acrylic painting",
+            "step by step tutorial for Beginners"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Painting a Beautiful flower with a cute Butterfly🦋🦋 / Acrylic painting / Art paintings",
+            "description": "Today, I painted a Beautiful view of Spring Morning...\nBeginners can draw along easily.\nFollow me step by step.\nPlease subscribe and like.\nThank you~~\n\n\nColors listed on the screen\n-Acrylic painting\n-Canvas 30cm*26cm\nBGM uses the YouTube library\n\n#acrylic #art #painting #acrylicpainting #daily #morning #MorningScenary #sunset #spring #flowers #daisy #butterfly"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT18M40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "490576",
+          "likeCount": "14350",
+          "favoriteCount": "0",
+          "commentCount": "664"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XZTZifDw4ejZTX0iysYrDtMpLGM",
+        "id": "gdsbXSvjmgI",
+        "snippet": {
+          "publishedAt": "2021-11-17T01:35:25Z",
+          "channelId": "UC6QldWSgriDWx3Cw1AfmouQ",
+          "title": "HOW TO IMPRESS ARTISTS #Shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gdsbXSvjmgI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gdsbXSvjmgI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gdsbXSvjmgI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gdsbXSvjmgI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gdsbXSvjmgI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "isabella.drawsss",
+          "tags": [
+            "art",
+            "drawing",
+            "isabella drawsss",
+            "isabella.drawsss",
+            "drawing tutorial",
+            "artist",
+            "artwork",
+            "colored pencil",
+            "art teacher",
+            "isabella obradovich",
+            "isa obradovich",
+            "doodles",
+            "easy drawing ideas"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "HOW TO IMPRESS ARTISTS #Shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "24126105",
+          "likeCount": "1269597",
+          "favoriteCount": "0",
+          "commentCount": "8686"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "iQNEUxQdZWAC50J5hkfI8zUFuQY",
+        "id": "72C5aTMtWZQ",
+        "snippet": {
+          "publishedAt": "2025-02-16T16:05:55Z",
+          "channelId": "UCn852Ix9lzSWfVLkwv4A4Mg",
+          "title": "Rainbow Art Technique #shorts #artshorts #creative #painting",
+          "description": "Rainbow Art Technique\n\n\n #shorts #artshorts #creative #drawing #painting #kidsart #diy #craft #kidsactivities #kidscrafts #howtodraw #artshorts #viralart",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/72C5aTMtWZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/72C5aTMtWZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/72C5aTMtWZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/72C5aTMtWZQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/72C5aTMtWZQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bia Art Drawings",
+          "tags": [
+            "Art for kids",
+            "Rainbow painting",
+            "Art shorts",
+            "Drawing for kids",
+            "Rainbow",
+            "Cute drawings ideas",
+            "искусство для детей",
+            "art pour les enfants",
+            "兒童藝術",
+            "الفن للأطفال",
+            "इंद्रधनुष चित्रण",
+            "dessin arc-en-ciel",
+            "彩虹畫",
+            "радуга",
+            "милые рисунки",
+            "dessins mignons",
+            "वायरल कला",
+            "病毒式短褲",
+            "簡單的圖畫",
+            "легкие рисунки",
+            "dessins faciles",
+            "Coloring pages",
+            "藝術技巧"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Rainbow Art Technique #shorts #artshorts #creative #painting",
+            "description": "Rainbow Art Technique\n\n\n #shorts #artshorts #creative #drawing #painting #kidsart #diy #craft #kidsactivities #kidscrafts #howtodraw #artshorts #viralart"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "601172",
+          "likeCount": "8134",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hrjDiAGMPKvscW28l42sh7DdfQE",
+        "id": "UkJslI0vFF4",
+        "snippet": {
+          "publishedAt": "2022-10-20T16:15:52Z",
+          "channelId": "UCmLNGWvOzUdU4wIzx0BU7yg",
+          "title": "Three more ways to add texture to watercolor paintings",
+          "description": "Here’s three more ways to add texture to your watercolor paintings! Be creative and try out other things as well.\n\n\n ♥️Skillshare classes: 30 days FREE 1st time you join: https://skl.sh/3HkgX3m\n-This class is called Loose 1-Layer Florals: Relax and Find Joy in Your Art\n\n♥️Art Retreat in southern Italy, October 2024 - See more information and register here: https://www.tammykaye.com/art?preview=on\n\n❤️ Feeling stuck or anxious about your art? Take a 1:1 personalized art session with me via video call: https://cal.com/tammy-kaye\n\n❤️Become a Patreon subscriber to receive bonus content: Exclusive tutorials, livestreams, art prints and more! https://www.patreon.com/user/membership?u=81785719\n\n\nRecommended beginner painting supplies:\n\n❤️Watercolor: I spill it all in this video: https://youtu.be/xL5ndKv5lVo\n\n❤️Gouache: I spill it all in this video: https://youtu.be/miGu7iMEQFQ\n\n\nFollow me on social media for more:\n\n❤️TikTok: https://www.tiktok.com/@tammykayeartist\n\n❤️Insta: https://www.instagram.com/tammykayeart/?next=%2F\n\n❤️Pinterest: https://www.pinterest.com/tammykayeart/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UkJslI0vFF4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UkJslI0vFF4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UkJslI0vFF4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UkJslI0vFF4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UkJslI0vFF4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tammy Kaye",
+          "tags": [
+            "Watercolor paintings",
+            "Easy watercolor paintings",
+            "Paint texture with watercolor",
+            "Watercolor painting for beginners",
+            "Painting with watercolor paint",
+            "Painting for beginners",
+            "Adding texture to art",
+            "Adding texture to paintings",
+            "watercolor painting",
+            "watercolor tips",
+            "watercolor tutorial",
+            "painting pretty",
+            "easy painting techniques",
+            "simple painting techniques",
+            "watercolor for beginners",
+            "painting tutorials"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Three more ways to add texture to watercolor paintings",
+            "description": "Here’s three more ways to add texture to your watercolor paintings! Be creative and try out other things as well.\n\n\n ♥️Skillshare classes: 30 days FREE 1st time you join: https://skl.sh/3HkgX3m\n-This class is called Loose 1-Layer Florals: Relax and Find Joy in Your Art\n\n♥️Art Retreat in southern Italy, October 2024 - See more information and register here: https://www.tammykaye.com/art?preview=on\n\n❤️ Feeling stuck or anxious about your art? Take a 1:1 personalized art session with me via video call: https://cal.com/tammy-kaye\n\n❤️Become a Patreon subscriber to receive bonus content: Exclusive tutorials, livestreams, art prints and more! https://www.patreon.com/user/membership?u=81785719\n\n\nRecommended beginner painting supplies:\n\n❤️Watercolor: I spill it all in this video: https://youtu.be/xL5ndKv5lVo\n\n❤️Gouache: I spill it all in this video: https://youtu.be/miGu7iMEQFQ\n\n\nFollow me on social media for more:\n\n❤️TikTok: https://www.tiktok.com/@tammykayeartist\n\n❤️Insta: https://www.instagram.com/tammykayeart/?next=%2F\n\n❤️Pinterest: https://www.pinterest.com/tammykayeart/"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1822792",
+          "likeCount": "53538",
+          "favoriteCount": "0",
+          "commentCount": "170"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LQPRdmd0uhWlw8XV1RNiZnOkYz0",
+        "id": "cwaiar3vBps",
+        "snippet": {
+          "publishedAt": "2022-05-19T22:53:04Z",
+          "channelId": "UCHDUd0K0HojgWl_Rimy0h8w",
+          "title": "Your Next DIY Project? New Mirror Painting! ✨ w/ Crockd Acrylic Paint",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cwaiar3vBps/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cwaiar3vBps/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cwaiar3vBps/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cwaiar3vBps/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cwaiar3vBps/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Crockd",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Your Next DIY Project? New Mirror Painting! ✨ w/ Crockd Acrylic Paint",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "98157703",
+          "likeCount": "3399730",
+          "favoriteCount": "0",
+          "commentCount": "3470"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "H1hMVbk905Of5PiC2PjqjsD7shY",
+        "id": "Qx1kOd46JLo",
+        "snippet": {
+          "publishedAt": "2022-11-19T00:33:27Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "Creative technique! ❤️🖤 #shorts #artist #art #drawing #creative #draw #painting #diy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qx1kOd46JLo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qx1kOd46JLo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qx1kOd46JLo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Qx1kOd46JLo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Qx1kOd46JLo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative technique! ❤️🖤 #shorts #artist #art #drawing #creative #draw #painting #diy",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "334052",
+          "likeCount": "9766",
+          "favoriteCount": "0",
+          "commentCount": "60"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gBdi0byKUvZBiriJ0v7qnSmjDfo",
+        "id": "ie017yx42Y0",
+        "snippet": {
+          "publishedAt": "2022-09-24T22:45:09Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "DIY tiger painting 🧡🐯 #shorts #art #artist #painting #diy #tutorial #drawing #draw #creative",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ie017yx42Y0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ie017yx42Y0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ie017yx42Y0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ie017yx42Y0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ie017yx42Y0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DIY tiger painting 🧡🐯 #shorts #art #artist #painting #diy #tutorial #drawing #draw #creative",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4148729",
+          "likeCount": "56816",
+          "favoriteCount": "0",
+          "commentCount": "144"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-k61dX-RvjqWKEjMborxs2TLa_I",
+        "id": "VOa0cs0o4cU",
+        "snippet": {
+          "publishedAt": "2023-01-16T13:26:57Z",
+          "channelId": "UCfmpfNJVudYyKs57RBWE6cg",
+          "title": "painting on round cardboard painting #shorts #art #creative #explore",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VOa0cs0o4cU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VOa0cs0o4cU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VOa0cs0o4cU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VOa0cs0o4cU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VOa0cs0o4cU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "monika olla arts",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "painting on round cardboard painting #shorts #art #creative #explore",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "237042",
+          "likeCount": "2308",
+          "favoriteCount": "0",
+          "commentCount": "13"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Lcz3_xllwyh4uTLsmJX3wpNy54w",
+        "id": "MU5p6USuHa4",
+        "snippet": {
+          "publishedAt": "2024-11-04T10:02:14Z",
+          "channelId": "UCXhwCsEhhBLhYhiAhKn4t4w",
+          "title": "Tree painting without brush!?😱🌳|| The Art Studio || #art #creative #shorts #easy #tree #trending",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MU5p6USuHa4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MU5p6USuHa4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MU5p6USuHa4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MU5p6USuHa4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MU5p6USuHa4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Art Studio",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Tree painting without brush!?😱🌳|| The Art Studio || #art #creative #shorts #easy #tree #trending",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "260997",
+          "favoriteCount": "0",
+          "commentCount": "10"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3pJ33xzGX4LO_PO5SPTuFL_Ec-Q",
+        "id": "-BOGRlMEXp0",
+        "snippet": {
+          "publishedAt": "2022-10-28T04:30:00Z",
+          "channelId": "UCFX0aAmqHDyHE6ZP-iTe4lw",
+          "title": "DOMS | Fluid Acrylic Vibrant Colours | Rise high towards your colourful vibrant Ambitions",
+          "description": "#DOMS #FluidAcrylic #Beginner\n\nPresenting Doms Fluid Acrylic Vibrant Colours. It Comes With 5 Brilliant Shades. Make your ambitious dreams come true with DOMS Fluid Acrylic Vibrant range of gel paints. Make your art pieces glitter and shine with DOMS.\n\nWatch this space for more DOMS products ► https://bit.ly/33Wa6ux​\n\nSubscribe to DOMS India & Don't forget to press THE BELL ICON to never miss any updates► https://bit.ly/3amQm4o​\n\nOfficial Website - https://www.domsindia.com/​\n\nDOMS India is India’s leading stationery manufacturing and marketing company. Established in 1976, DOMS INDUSTRIES PRIVATE LIMITED (DIPL) is the fastest growing company that combines excellent manufacturing infrastructure, focus on quality, pan-India distribution network and unique global reach. DOMS is uniquely positioned to capture the opportunities in the evolving and growing international stationery industry.\n\nYou can stay connected with DOMS India on -\nFacebook - https://www.facebook.com/domsindia/​\nFollow us on Instagram - https://www.instagram.com/domsindia/​\nOfficial Website - https://www.domsindia.com/​\nBuy from Amazon - https://amzn.to/31fy4yW",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-BOGRlMEXp0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-BOGRlMEXp0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-BOGRlMEXp0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-BOGRlMEXp0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-BOGRlMEXp0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DOMS India",
+          "tags": [
+            "art",
+            "drawing",
+            "paper",
+            "colour",
+            "color",
+            "colourpop",
+            "colourful",
+            "colourpencil",
+            "amazing",
+            "awesome",
+            "montage",
+            "purchase",
+            "viral",
+            "amazon",
+            "photography",
+            "canson paper",
+            "canson",
+            "Acrylic painting",
+            "relaxing",
+            "Abstract",
+            "Abstract painting",
+            "Demonstration",
+            "painting",
+            "palette knife abstract",
+            "How to painting",
+            "How to drawing",
+            "For Beginners",
+            "ASMR",
+            "tutorial",
+            "DOMS",
+            "MYDOMSART",
+            "LEARNWITHDOMS",
+            "Viralvideos",
+            "BallpenArt",
+            "Sharpminds",
+            "DOMSSHARPMINDS",
+            "canvasdrawing",
+            "diwali",
+            "diwalicelebration",
+            "festival",
+            "festive",
+            "celebration",
+            "DOMSWaliDiwali",
+            "DOMSDiwali",
+            "diwalispecial"
+          ],
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DOMS | Fluid Acrylic Vibrant Colours | Rise high towards your colourful vibrant Ambitions",
+            "description": "#DOMS #FluidAcrylic #Beginner\n\nPresenting Doms Fluid Acrylic Vibrant Colours. It Comes With 5 Brilliant Shades. Make your ambitious dreams come true with DOMS Fluid Acrylic Vibrant range of gel paints. Make your art pieces glitter and shine with DOMS.\n\nWatch this space for more DOMS products ► https://bit.ly/33Wa6ux​\n\nSubscribe to DOMS India & Don't forget to press THE BELL ICON to never miss any updates► https://bit.ly/3amQm4o​\n\nOfficial Website - https://www.domsindia.com/​\n\nDOMS India is India’s leading stationery manufacturing and marketing company. Established in 1976, DOMS INDUSTRIES PRIVATE LIMITED (DIPL) is the fastest growing company that combines excellent manufacturing infrastructure, focus on quality, pan-India distribution network and unique global reach. DOMS is uniquely positioned to capture the opportunities in the evolving and growing international stationery industry.\n\nYou can stay connected with DOMS India on -\nFacebook - https://www.facebook.com/domsindia/​\nFollow us on Instagram - https://www.instagram.com/domsindia/​\nOfficial Website - https://www.domsindia.com/​\nBuy from Amazon - https://amzn.to/31fy4yW"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11152343",
+          "likeCount": "271303",
+          "favoriteCount": "0",
+          "commentCount": "715"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CC7tB3IvXgJCMwcYFGBqrxw31tM",
+        "id": "l7XzYz36z5g",
+        "snippet": {
+          "publishedAt": "2025-02-11T19:12:20Z",
+          "channelId": "UCEjUdBRKjhz6ZtpUuwnsPCQ",
+          "title": "From Pastels to Paint!  #watercolor #diy #pastel #creative #colormixing #satisfying #shorts #colors",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l7XzYz36z5g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l7XzYz36z5g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l7XzYz36z5g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l7XzYz36z5g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/l7XzYz36z5g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Miki's Art",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "From Pastels to Paint!  #watercolor #diy #pastel #creative #colormixing #satisfying #shorts #colors",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7593612",
+          "likeCount": "145644",
+          "favoriteCount": "0",
+          "commentCount": "135"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

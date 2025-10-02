@@ -1,0 +1,3736 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "m_ZexWx6iljDeQ82JPiJ51Za43Y",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "sQOzeiBDvIebdoRZ5WnomU4Ahg0",
+      "id": "nJrDostBtXs",
+      "snippet": {
+        "publishedAt": "2025-10-01T16:50:09Z",
+        "channelId": "UCMSooEdloSMWLEPtEgLRpXQ",
+        "title": "FULL FACE OF ALLURE BEST OF BEAUTY WINNERS?!? #sephora #sephorahaul #sephorahauls",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nJrDostBtXs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nJrDostBtXs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nJrDostBtXs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nJrDostBtXs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nJrDostBtXs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Allie Ross",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "FULL FACE OF ALLURE BEST OF BEAUTY WINNERS?!? #sephora #sephorahaul #sephorahauls",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "69160",
+        "likeCount": "4659",
+        "favoriteCount": "0",
+        "commentCount": "55"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "w4MmvfMeeiBMijeDaIqJUvLn61g",
+      "id": "a575q416GfY",
+      "snippet": {
+        "publishedAt": "2024-08-31T15:43:46Z",
+        "channelId": "UCI_OvtzK82eTL8KIRQ8G_EA",
+        "title": "cute makeup tools🛠️ #beauty #beautytips #makeup #haul",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a575q416GfY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a575q416GfY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a575q416GfY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a575q416GfY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a575q416GfY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Candy Superstar",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "cute makeup tools🛠️ #beauty #beautytips #makeup #haul",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "159475265",
+        "likeCount": "2463862",
+        "favoriteCount": "0",
+        "commentCount": "2981"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vaAe9kzrQ9JegRmokVdp5jJ77ZE",
+      "id": "dym5tL4J2vY",
+      "snippet": {
+        "publishedAt": "2025-02-22T13:34:58Z",
+        "channelId": "UCI_OvtzK82eTL8KIRQ8G_EA",
+        "title": "the CUTEST SKINCARE ROUTINE🥰 #beauty #funny #cosmetics #unboxing #skincare #routinevlog",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dym5tL4J2vY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dym5tL4J2vY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dym5tL4J2vY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dym5tL4J2vY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dym5tL4J2vY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Candy Superstar",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "the CUTEST SKINCARE ROUTINE🥰 #beauty #funny #cosmetics #unboxing #skincare #routinevlog",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "57237719",
+        "likeCount": "753153",
+        "favoriteCount": "0",
+        "commentCount": "1484"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "STUugrb5DhVmFFD09yeRJMS3gMY",
+      "id": "L3w7FHq2EYE",
+      "snippet": {
+        "publishedAt": "2018-07-24T18:33:54Z",
+        "channelId": "UCvbDas1mISj1O5rm8GerGUw",
+        "title": "Beauty",
+        "description": "Provided to YouTube by Universal Music Group\n\nBeauty · Dru Hill\n\nEnter The Dru\n\n℗ 1998 The Island Def Jam Music Group\n\nReleased on: 1998-01-01\n\nComposer Lyricist, Producer, Recordingarranger: Guy Roche\nRecordingarranger, Producer: Nokio The N-Tity\nMixing Engineer: Manny Marroquin\nComposer Lyricist: Tamir Ruffin\nComposer Lyricist: Phil Weatherspoon\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L3w7FHq2EYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L3w7FHq2EYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L3w7FHq2EYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L3w7FHq2EYE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L3w7FHq2EYE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dru Hill - Topic",
+        "tags": [
+          "Dru Hill",
+          "ドゥルーヒル",
+          "ドゥルー・ヒル",
+          "Enter The Dru",
+          "Beauty",
+          "ビューティー"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Beauty",
+          "description": "Provided to YouTube by Universal Music Group\n\nBeauty · Dru Hill\n\nEnter The Dru\n\n℗ 1998 The Island Def Jam Music Group\n\nReleased on: 1998-01-01\n\nComposer Lyricist, Producer, Recordingarranger: Guy Roche\nRecordingarranger, Producer: Nokio The N-Tity\nMixing Engineer: Manny Marroquin\nComposer Lyricist: Tamir Ruffin\nComposer Lyricist: Phil Weatherspoon\n\nAuto-generated by YouTube."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT4M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AE",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AZ",
+            "BA",
+            "BD",
+            "BE",
+            "BG",
+            "BH",
+            "BM",
+            "BO",
+            "BR",
+            "BY",
+            "CA",
+            "CH",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DE",
+            "DK",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "ES",
+            "FI",
+            "FR",
+            "GB",
+            "GE",
+            "GF",
+            "GH",
+            "GP",
+            "GR",
+            "GT",
+            "GU",
+            "HK",
+            "HN",
+            "HR",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IN",
+            "IQ",
+            "IS",
+            "IT",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KH",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LI",
+            "LK",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MK",
+            "MP",
+            "MQ",
+            "MT",
+            "MX",
+            "MY",
+            "NC",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PR",
+            "PT",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RU",
+            "SA",
+            "SE",
+            "SG",
+            "SI",
+            "SK",
+            "SN",
+            "SV",
+            "TC",
+            "TH",
+            "TN",
+            "TR",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "US",
+            "UY",
+            "VE",
+            "VI",
+            "VN",
+            "YE",
+            "YT",
+            "ZA",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "76333302",
+        "likeCount": "551897",
+        "favoriteCount": "0",
+        "commentCount": "4393"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "lH2E0By3445b8MuXcT4c_FyL8XM",
+      "id": "K2YWr9RIRhs",
+      "snippet": {
+        "publishedAt": "2025-03-05T21:09:45Z",
+        "channelId": "UC3ocVSGRoapPsbG8QrFX5kA",
+        "title": "💖 The Vaseline Beauty Hacks EVERY Girl Needs! ✨ #shortsviral",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K2YWr9RIRhs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K2YWr9RIRhs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K2YWr9RIRhs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K2YWr9RIRhs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K2YWr9RIRhs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "velvet glow",
+        "tags": [
+          "#makeup tips",
+          "#beauty hacks",
+          "#skincare routine",
+          "#glowing skin",
+          "#budget beauty tips",
+          "#DIY beauty",
+          "#makeup tutorial",
+          "#natural makeup look",
+          "#flawless makeup",
+          "#skincare tips",
+          "#glow up",
+          "#beauty on a budget",
+          "#makeup for beginners",
+          "#makeup hacks",
+          "#flawless skin",
+          "#easy makeup looks",
+          "#beauty routine",
+          "#self-care tips",
+          "#skincare products",
+          "#makeup transformation",
+          "#affordable beauty",
+          "#beauty influencer",
+          "#skincare hacks",
+          "#glowing skin tips",
+          "#makeup tricks",
+          "skin",
+          "#everyday makeup"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "💖 The Vaseline Beauty Hacks EVERY Girl Needs! ✨ #shortsviral",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT31S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11796305",
+        "likeCount": "435534",
+        "favoriteCount": "0",
+        "commentCount": "1177"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zbZ9lDu5HubdxJKNH3idl9DY1H4",
+      "id": "hGV1OVLKXak",
+      "snippet": {
+        "publishedAt": "2025-06-07T11:05:52Z",
+        "channelId": "UCVqcbXHxnIak4hNipy6etOw",
+        "title": "HMT Beauty 😍 : #short #shorts #brookemonk_  #beauty",
+        "description": "HMT Beauty 😍 : #short #shorts #brookemonk_  #beauty",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hGV1OVLKXak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hGV1OVLKXak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hGV1OVLKXak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hGV1OVLKXak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hGV1OVLKXak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HMT Beauty",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HMT Beauty 😍 : #short #shorts #brookemonk_  #beauty",
+          "description": "HMT Beauty 😍 : #short #shorts #brookemonk_  #beauty"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "14104219",
+        "likeCount": "363544",
+        "favoriteCount": "0",
+        "commentCount": "8697"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "R7GAHDHqnf6bmsEGrrb_KtR50N8",
+      "id": "zkwYpPLofQo",
+      "snippet": {
+        "publishedAt": "2024-11-07T19:48:11Z",
+        "channelId": "UCgjlMhsNjSZ9xeCPnn58Zeg",
+        "title": "Beauty Hacks I wish I knew before I was 30",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zkwYpPLofQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zkwYpPLofQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zkwYpPLofQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zkwYpPLofQo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zkwYpPLofQo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nicole Fay",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Beauty Hacks I wish I knew before I was 30",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT39S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4026243",
+        "likeCount": "251095",
+        "favoriteCount": "0",
+        "commentCount": "709"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nWJnxdGuujzviCTDdUbdrxaSOjU",
+      "id": "DSFJg6Axi1s",
+      "snippet": {
+        "publishedAt": "2025-03-08T10:17:24Z",
+        "channelId": "UCHEiXYM8ybFqV_wWI69RjGQ",
+        "title": "Beauty Brands By Indian Women Founders   and My Top Picks",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DSFJg6Axi1s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DSFJg6Axi1s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DSFJg6Axi1s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DSFJg6Axi1s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DSFJg6Axi1s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tarini Peshawaria",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Beauty Brands By Indian Women Founders   and My Top Picks",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1407628",
+        "likeCount": "75261",
+        "favoriteCount": "0",
+        "commentCount": "150"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GNQiG0g0z-gWCMIve4ZFV9K8DbY",
+      "id": "CLVdMBrPraI",
+      "snippet": {
+        "publishedAt": "2024-09-19T01:10:23Z",
+        "channelId": "UCcS0c0Szvz-_eLLMaH_Yfag",
+        "title": "Marilyn Monroe Beauty Tips ❤️ Loved trying these #beautytips #makeup audio: thetruthofmarilynmonroe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CLVdMBrPraI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CLVdMBrPraI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CLVdMBrPraI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CLVdMBrPraI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CLVdMBrPraI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Geena Hunt",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Marilyn Monroe Beauty Tips ❤️ Loved trying these #beautytips #makeup audio: thetruthofmarilynmonroe",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT49S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "11730436",
+        "likeCount": "680117",
+        "favoriteCount": "0",
+        "commentCount": "2380"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TyNDBBqDI6YQSOen8Cqrtn0VyNQ",
+      "id": "vmTQMjI1y4w",
+      "snippet": {
+        "publishedAt": "2025-09-06T12:31:15Z",
+        "channelId": "UCEzPt33mdyhRs3aQPhiN_pA",
+        "title": "10 HIGH MAINTENANCE beauty habits that will make you look LOW MAINTENANCE",
+        "description": "➡️ Here's how I get SMOOTH, hair-free skin with minimal effort: https://us.ulike.com/allison (Code: Allison25)\n↳ Also find it on Amazon: https://amzn.to/4g7NKt7\n\nWith the Ulike IPL Hair Removal Device, you can enjoy professional-level laser hair removal treatments at home—comfortable, painless, and long-lasting. ✨\n\n🌿 shop all my wellness & lifestyle favs: https://bit.ly/4p5bcuS\n↳ my gua sha: https://amzn.to/4naUYP8\n↳ my dry brush: https://amzn.to/46ceXGl\n↳ scalp massager: https://amzn.to/4m5yEpj\n↳ teeth whitening strips: https://amzn.to/4nCijd1\n↳ mouth tape: https://amzn.to/4moHONL\n↳ currentbody led mask: https://go.shopmy.us/p-24653988\n↳ shark cryoglow mask: https://go.shopmy.us/p-24654009\n\nIf you've ever wondered how those \"clean girls\" on Pinterest look that way every day -- this video's for you. \n\nLet’s be real — looking “effortless” actually means being high maintenance. There’s a LOT of prep work every \"clean girl\" does behind the scenes. But here’s the secret: once you set up the right habits, your everyday routine can BECOME low maintenance and easier than ever.\n\nThese are the 10 high maintenance beauty habits that will *secretly* make you look low maintenance. (But tbh, these habits aren't even that time consuming -- maybe 5-10 minutes MAX). These are the little things I do that save me time, make me feel put-together, and keep me from crashing out on the days I’m tired, stressed, or running late.\n\n🌿 In this video I share:\n↳ How to get a *snatched* face in the morning (gua sha)\n↳ Why you should be dry brushing\n↳ How I stay ~hairless~ and smooth all year long\n↳ Why consistent skincare is more important than quantity\n↳ The benefits of scalp massages\n↳ How to get silkier, shinier hair\n↳ The importance of having white teeth\n↳ Why I wear mouth tape to sleep\n↳ What red light therapy is and why you need it\n↳ Why you should have a minimal daily makeup routine\n\n✨ Like and subscribe if you want more lifestyle, wellness, and beauty advice\n\nThank you to Ulike for sponsoring this video!\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n\n💌 let's be friends!\nIG: https://www.instagram.com/allison.baek/\nFor business inquiries: allison.baek@thestation.io\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nMusic by Epidemic Sound\n\n#wellness #highmaintenance #lowmaintenance #beautytips #glowup #cleangirl #ulikehairremoval #ipldevice #ulikeair10",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vmTQMjI1y4w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vmTQMjI1y4w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vmTQMjI1y4w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vmTQMjI1y4w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vmTQMjI1y4w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Allison Baek",
+        "tags": [
+          "self care tips",
+          "beauty maintenance",
+          "beauty tips",
+          "beauty maintenance day"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "10 HIGH MAINTENANCE beauty habits that will make you look LOW MAINTENANCE",
+          "description": "➡️ Here's how I get SMOOTH, hair-free skin with minimal effort: https://us.ulike.com/allison (Code: Allison25)\n↳ Also find it on Amazon: https://amzn.to/4g7NKt7\n\nWith the Ulike IPL Hair Removal Device, you can enjoy professional-level laser hair removal treatments at home—comfortable, painless, and long-lasting. ✨\n\n🌿 shop all my wellness & lifestyle favs: https://bit.ly/4p5bcuS\n↳ my gua sha: https://amzn.to/4naUYP8\n↳ my dry brush: https://amzn.to/46ceXGl\n↳ scalp massager: https://amzn.to/4m5yEpj\n↳ teeth whitening strips: https://amzn.to/4nCijd1\n↳ mouth tape: https://amzn.to/4moHONL\n↳ currentbody led mask: https://go.shopmy.us/p-24653988\n↳ shark cryoglow mask: https://go.shopmy.us/p-24654009\n\nIf you've ever wondered how those \"clean girls\" on Pinterest look that way every day -- this video's for you. \n\nLet’s be real — looking “effortless” actually means being high maintenance. There’s a LOT of prep work every \"clean girl\" does behind the scenes. But here’s the secret: once you set up the right habits, your everyday routine can BECOME low maintenance and easier than ever.\n\nThese are the 10 high maintenance beauty habits that will *secretly* make you look low maintenance. (But tbh, these habits aren't even that time consuming -- maybe 5-10 minutes MAX). These are the little things I do that save me time, make me feel put-together, and keep me from crashing out on the days I’m tired, stressed, or running late.\n\n🌿 In this video I share:\n↳ How to get a *snatched* face in the morning (gua sha)\n↳ Why you should be dry brushing\n↳ How I stay ~hairless~ and smooth all year long\n↳ Why consistent skincare is more important than quantity\n↳ The benefits of scalp massages\n↳ How to get silkier, shinier hair\n↳ The importance of having white teeth\n↳ Why I wear mouth tape to sleep\n↳ What red light therapy is and why you need it\n↳ Why you should have a minimal daily makeup routine\n\n✨ Like and subscribe if you want more lifestyle, wellness, and beauty advice\n\nThank you to Ulike for sponsoring this video!\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \n\n💌 let's be friends!\nIG: https://www.instagram.com/allison.baek/\nFor business inquiries: allison.baek@thestation.io\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nMusic by Epidemic Sound\n\n#wellness #highmaintenance #lowmaintenance #beautytips #glowup #cleangirl #ulikehairremoval #ipldevice #ulikeair10"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13M42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "451998",
+        "likeCount": "17148",
+        "favoriteCount": "0",
+        "commentCount": "278"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "77ohSIr-2IkU1-smQRMYawwZzQU",
+      "id": "_TjsCchqAEM",
+      "snippet": {
+        "publishedAt": "2022-03-17T08:00:10Z",
+        "channelId": "UC295-Dw_tDNtZXFeAPAW6Aw",
+        "title": "TESTING VIRAL BEAUTY HACKS! Brilliant Beauty Tips",
+        "description": "30+ valuable hacks and gadgets for your beauty routine\r\n\r\nHey friends :) Today, we are going to test viral beauty hacks. First of all, we will try to repeat a popular hairstyle. If you want to dye your hair quickly, get a hairbrush and use some dye(or color spray) on it, then just brush your hair :) To do a perfect manicure, use some peel-off mask on your fingers and paint your nails. When you finish, just remove the mask. In this video, we will show you how to organize your makeup brushes on the mirror. \r\nYou will learn a bunch of simple hairstyles and ways to take care of your hair. You will also find different makeup hacks (for example, you can do your makeup without using makeup brushes!).\n\nRead more on our website: https://5minutecrafts.site/improve-beauty/8-viral-beauty-hacks-that-work-like-a-charm-4077/\r\n\r\nTIMESTAMPS:\r\n00:13 - How to dye your hair\r\n01:00 - Lifehack with peel-off mask for your manicure\r\n01:16 - How to organize your makeup brushes\r\n01:36 - Cute and simple hairstyle\r\n\nThis video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\r\n\r\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate.\r\n\r\nAll product and company names shown in the video are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.\r\n\r\n----------------------------------------------------------------------------------------\r\n\r\nOur Social Media:\r\n\r\n \r\n\r\nFacebook: https://www.facebook.com/5min.crafts/\r\n\r\nInstagram: https://www.instagram.com/5.min.crafts/\r\n\r\nTwitter: https://twitter.com/5m_crafts\r\n\r\n \r\n\r\nSubscribe to 5-Minute Crafts DIY: https://goo.gl/fWbJqz\r\n\r\nSubscribe to 5-Minute Crafts PLAY: https://goo.gl/PEuLVt\r\n\r\nSubscribe to 5-Minute Crafts MEN: http://bit.ly/2S69VUG\r\n\r\n \r\n\r\nThe Bright Side of Youtube: https://goo.gl/rQTJZz\r\n----------------------------------------------------------------------------------------\r\n\r\n \r\n\r\nFor more videos and articles visit: http://www.brightside.me\r\n\r\nMusic by Epidemic Sound: https://www.epidemicsound.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_TjsCchqAEM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_TjsCchqAEM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_TjsCchqAEM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_TjsCchqAEM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_TjsCchqAEM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "5-Minute Crafts",
+        "tags": [
+          "5 minute craft",
+          "5 minutes craft",
+          "5-minute crafts",
+          "crafts",
+          "diy",
+          "diy activities",
+          "diy projects",
+          "do it yourself",
+          "handcraft",
+          "howto",
+          "life hacks",
+          "lifehacks",
+          "proyectos faciles",
+          "tips",
+          "tricks",
+          "trucos",
+          "trucos de belliza",
+          "tutorial",
+          "useful things"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "TESTING VIRAL BEAUTY HACKS! Brilliant Beauty Tips",
+          "description": "30+ valuable hacks and gadgets for your beauty routine\r\n\r\nHey friends :) Today, we are going to test viral beauty hacks. First of all, we will try to repeat a popular hairstyle. If you want to dye your hair quickly, get a hairbrush and use some dye(or color spray) on it, then just brush your hair :) To do a perfect manicure, use some peel-off mask on your fingers and paint your nails. When you finish, just remove the mask. In this video, we will show you how to organize your makeup brushes on the mirror. \r\nYou will learn a bunch of simple hairstyles and ways to take care of your hair. You will also find different makeup hacks (for example, you can do your makeup without using makeup brushes!).\n\nRead more on our website: https://5minutecrafts.site/improve-beauty/8-viral-beauty-hacks-that-work-like-a-charm-4077/\r\n\r\nTIMESTAMPS:\r\n00:13 - How to dye your hair\r\n01:00 - Lifehack with peel-off mask for your manicure\r\n01:16 - How to organize your makeup brushes\r\n01:36 - Cute and simple hairstyle\r\n\nThis video is made for entertainment purposes. We do not make any warranties about the completeness, safety and reliability. Any action you take upon the information on this video is strictly at your own risk, and we will not be liable for any damages or losses. It is the viewer's responsibility to use judgment, care and precautions if one plans to replicate.\r\n\r\nThe following video might feature activity performed by our actors within controlled environment- please use judgment, care, and precaution if you plan to replicate.\r\n\r\nAll product and company names shown in the video are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.\r\n\r\n----------------------------------------------------------------------------------------\r\n\r\nOur Social Media:\r\n\r\n \r\n\r\nFacebook: https://www.facebook.com/5min.crafts/\r\n\r\nInstagram: https://www.instagram.com/5.min.crafts/\r\n\r\nTwitter: https://twitter.com/5m_crafts\r\n\r\n \r\n\r\nSubscribe to 5-Minute Crafts DIY: https://goo.gl/fWbJqz\r\n\r\nSubscribe to 5-Minute Crafts PLAY: https://goo.gl/PEuLVt\r\n\r\nSubscribe to 5-Minute Crafts MEN: http://bit.ly/2S69VUG\r\n\r\n \r\n\r\nThe Bright Side of Youtube: https://goo.gl/rQTJZz\r\n----------------------------------------------------------------------------------------\r\n\r\n \r\n\r\nFor more videos and articles visit: http://www.brightside.me\r\n\r\nMusic by Epidemic Sound: https://www.epidemicsound.com/"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT15M5S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5136243",
+        "likeCount": "29347",
+        "favoriteCount": "0",
+        "commentCount": "569"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sCJ4S8bYXYrIoV9EjFhu-dZKeEk",
+      "id": "vA8RLlCUSeg",
+      "snippet": {
+        "publishedAt": "2025-08-25T15:45:17Z",
+        "channelId": "UCQQSDPunQWXojNEp-WOy0Uw",
+        "title": "Blind Girl Accessibility: The Rare Beauty Perfume ?!",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vA8RLlCUSeg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vA8RLlCUSeg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vA8RLlCUSeg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vA8RLlCUSeg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vA8RLlCUSeg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Oceanne Comtois",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Blind Girl Accessibility: The Rare Beauty Perfume ?!",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M17S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1218527",
+        "likeCount": "60420",
+        "favoriteCount": "0",
+        "commentCount": "235"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1UNluxI2AqiuDoPn7CYJ8Sgp-mc",
+      "id": "I_6F1D_W4As",
+      "snippet": {
+        "publishedAt": "2025-07-12T14:00:28Z",
+        "channelId": "UCDqurMciPXiKMPShqrdfbjw",
+        "title": "Korean Beauty Products Living in 2050",
+        "description": "Korean Beauty Products Living in 2050\n\nProduct Info\n\n❤️Returnity- Ear Therapy\n\n❤️WAKEMAKE Real Defining Lash Mascara\nhttps://global.oliveyoung.com/if/rd?su=928OFSEF\n\n❤️Goodinuff-Sunny Blush\n\n❤️too cool for school Artclass By. Rodin Finish Setting Oil Paper\nhttps://global.oliveyoung.com/if/rd?su=QEGUJVHH\n\n#koreanskincare #skincaretips #skincareproducts #fy #fyp #tiktokmademebuyit #skincarehaul #kbeauty #koreanskincareproducts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I_6F1D_W4As/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I_6F1D_W4As/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I_6F1D_W4As/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/I_6F1D_W4As/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/I_6F1D_W4As/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Point of Yu",
+        "tags": [
+          "korean skincare",
+          "korean skincare routine",
+          "skincare routine",
+          "skincare tips",
+          "korean beauty",
+          "glass skin",
+          "glowskin",
+          "oily skin",
+          "acne skin",
+          "sensitive skin",
+          "pore care",
+          "blackhead removal",
+          "skincare hacks",
+          "beauty hack",
+          "double cleansing",
+          "skin hydration",
+          "clear skin",
+          "olive young",
+          "oliveyoung haul",
+          "korean skincare haul",
+          "korean moisturizer",
+          "korean skincare products",
+          "kbeauty",
+          "kbeauty products",
+          "blackheads",
+          "acneskin",
+          "koreanglassskin",
+          "koreanskincareroutine",
+          "koreanskincareproducts",
+          "koreanskincarehaul"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Korean Beauty Products Living in 2050",
+          "description": "Korean Beauty Products Living in 2050\n\nProduct Info\n\n❤️Returnity- Ear Therapy\n\n❤️WAKEMAKE Real Defining Lash Mascara\nhttps://global.oliveyoung.com/if/rd?su=928OFSEF\n\n❤️Goodinuff-Sunny Blush\n\n❤️too cool for school Artclass By. Rodin Finish Setting Oil Paper\nhttps://global.oliveyoung.com/if/rd?su=QEGUJVHH\n\n#koreanskincare #skincaretips #skincareproducts #fy #fyp #tiktokmademebuyit #skincarehaul #kbeauty #koreanskincareproducts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8265450",
+        "likeCount": "369325",
+        "favoriteCount": "0",
+        "commentCount": "1034"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aU1ALQ5Djptz3_LY5YXuXb1RnlI",
+      "id": "XY5JIbw6Unc",
+      "snippet": {
+        "publishedAt": "2025-07-31T14:00:49Z",
+        "channelId": "UCDqurMciPXiKMPShqrdfbjw",
+        "title": "3 Korean Beauty Products Living In 2050",
+        "description": "Korean Beauty Products Living in 2050\n\nProduct Info\n\n❤️ACROPASS-Retinol Microcone Patch\nhttps://www.yesstyle.com/en/acropass-retinol-microcone-patch-slim-type-2-patches-x-3-sets/info.html/pid.1124450862?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\n❤️Etude Sebum Soak Jelly Powder\nhttps://www.yesstyle.com/en/etude-sebum-soak-jelly-powder-8g/info.html/pid.1135118111?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\n#koreanskincare #skincaretips #skincareproducts #fy #fyp #tiktokmademebuyit #skincarehaul #kbeauty #koreanskincareproducts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XY5JIbw6Unc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XY5JIbw6Unc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XY5JIbw6Unc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XY5JIbw6Unc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XY5JIbw6Unc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Point of Yu",
+        "tags": [
+          "korean skincare",
+          "korean skincare routine",
+          "skincare routine",
+          "skincare tips",
+          "korean beauty",
+          "glass skin",
+          "glowskin",
+          "oily skin",
+          "acne skin",
+          "sensitive skin",
+          "pore care",
+          "blackhead removal",
+          "skincare hacks",
+          "beauty hack",
+          "double cleansing",
+          "skin hydration",
+          "clear skin",
+          "olive young",
+          "oliveyoung haul",
+          "korean skincare haul",
+          "korean moisturizer",
+          "korean skincare products",
+          "kbeauty",
+          "kbeauty products",
+          "koreanglassskin",
+          "asmr",
+          "tiktok skincare",
+          "viral skincare",
+          "tiktok beauty"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "3 Korean Beauty Products Living In 2050",
+          "description": "Korean Beauty Products Living in 2050\n\nProduct Info\n\n❤️ACROPASS-Retinol Microcone Patch\nhttps://www.yesstyle.com/en/acropass-retinol-microcone-patch-slim-type-2-patches-x-3-sets/info.html/pid.1124450862?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\n❤️Etude Sebum Soak Jelly Powder\nhttps://www.yesstyle.com/en/etude-sebum-soak-jelly-powder-8g/info.html/pid.1135118111?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\n#koreanskincare #skincaretips #skincareproducts #fy #fyp #tiktokmademebuyit #skincarehaul #kbeauty #koreanskincareproducts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT53S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2751818",
+        "likeCount": "105760",
+        "favoriteCount": "0",
+        "commentCount": "311"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pydpicPQSoIhcr3n3ecVrGdVVJI",
+      "id": "XaEAAfo0938",
+      "snippet": {
+        "publishedAt": "2024-08-02T17:41:14Z",
+        "channelId": "UCTYR-anqHciYd8zx8npmf3g",
+        "title": "Viral beauty products that I did not like💕 (love these brands, the products just weren’t for me🤍)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XaEAAfo0938/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XaEAAfo0938/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XaEAAfo0938/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XaEAAfo0938/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XaEAAfo0938/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "♡ Victoria Emily ♡",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Viral beauty products that I did not like💕 (love these brands, the products just weren’t for me🤍)",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT34S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "546844",
+        "likeCount": "18994",
+        "favoriteCount": "0",
+        "commentCount": "176"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yBKWJZ9cGxP_gWKrI3qyT16Bf2M",
+      "id": "DRftx8h6PYo",
+      "snippet": {
+        "publishedAt": "2024-11-01T14:15:52Z",
+        "channelId": "UC3ocVSGRoapPsbG8QrFX5kA",
+        "title": "7 Vaseline Beauty Hacks You NEED to Try! 💄✨ #BeautyTips  #glowup #skincare #glowupbeauty",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DRftx8h6PYo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DRftx8h6PYo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DRftx8h6PYo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DRftx8h6PYo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DRftx8h6PYo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "velvet glow",
+        "tags": [
+          "#makeup tips",
+          "#beauty hacks",
+          "#skincare routine",
+          "#glowing skin",
+          "#budget beauty tips",
+          "#DIY beauty",
+          "#makeup tutorial",
+          "#natural makeup look",
+          "#flawless makeup",
+          "#skincare tips",
+          "#glow up",
+          "#beauty on a budget",
+          "#makeup for beginners",
+          "#makeup hacks",
+          "#flawless skin",
+          "#easy makeup looks",
+          "#beauty routine",
+          "#self-care tips",
+          "#skincare products",
+          "#makeup transformation",
+          "#affordable beauty",
+          "#beauty influencer",
+          "#skincare hacks",
+          "#glowing skin tips",
+          "#makeup tricks",
+          "#everyday makeup"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "7 Vaseline Beauty Hacks You NEED to Try! 💄✨ #BeautyTips  #glowup #skincare #glowupbeauty",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "378066",
+        "likeCount": "13463",
+        "favoriteCount": "0",
+        "commentCount": "47"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UFdNee2Us2F2RYV9TsyihEOs9aU",
+      "id": "bEKufM_im88",
+      "snippet": {
+        "publishedAt": "2023-04-06T16:00:06Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "Kylie Jenner's New Classic Beauty Routine | Beauty Secrets | Vogue",
+        "description": "\"I've missed you Vogue!\" Kylie Jenner is back to show off her updated beauty routine. Since the last time we saw her, Kylie's changed her look quite a bit. \r\n\r\n\"I wear a lot less but accomplish the same 'snatched' look,\" says Kylie about her more natural approach to makeup. Kylie also talks about using her hands more while applying foundation, entering her experimental era, her makeup inspos, and what Stormi thinks about beauty routines. \r\n\r\n\r\nShop this beauty routine:\r\n\r\nKylie Skin Sugar Lip Scrub: https://bit.ly/436YgK5\r\nKylie Cosmetics Face Moisturizer: https://bit.ly/3nJtg2x\r\nNudestix Tinted Blur Foundation Stick: https://bit.ly/3KdmSbA\r\nKylie Cosmetics Lip & Cheek Glow Balm: https://bit.ly/3K5x064\r\nGivenchy Prisme Libre Loose Setting and Finishing Powder: https://bit.ly/43b6dy4\r\nCharlotte Tilbury Airbrush Flawless Finish Setting Powder: https://bit.ly/3Kgs6mU\r\nKylie Cosmetics Matte Liquid Eyeshadow: https://bit.ly/412NpyX\r\nKylie Cosmetics Pressed Powder Eyeshadow Palettes: https://bit.ly/413Co0p\r\nKylie Cosmetics Kyliner Brush Tip Liquid Eyeliner Pen: https://bit.ly/3Mkx4le\r\nAnastasia Beverly Hills Brow Wiz: https://bit.ly/3Gms0Jb\r\nKosas Air Brow: https://howl.me/cjtxVT5A8kF\r\nNudestix Nudies Glow Highlighter Stick: https://bit.ly/3MlQ02W\r\nKylie Cosmetics Kylash: https://bit.ly/3zxooAe\r\n\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\nDirector: Gabrielle Reich\r\nDirector of Photography: Josh Herzog\r\nEditor: Tajah Smith\r\n\r\nAssociate Producer: Sam Dennis\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\n\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Billy Ward\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bEKufM_im88/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bEKufM_im88/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bEKufM_im88/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bEKufM_im88/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bEKufM_im88/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vogue",
+        "tags": [
+          "beauty",
+          "beauty secrets kylie jenner",
+          "enner",
+          "getting ready with kylie jenner",
+          "grwm",
+          "kylie",
+          "kylie beauty",
+          "kylie jenner",
+          "kylie jenner beauty",
+          "kylie jenner beauty secrets",
+          "kylie jenner fashion",
+          "kylie jenner getting ready",
+          "kylie jenner grwm",
+          "kylie jenner interview",
+          "kylie jenner lips",
+          "kylie jenner makeup",
+          "kylie jenner makeup tutorial",
+          "kylie jenner vogue",
+          "kylie lip",
+          "kylie lip kit",
+          "kylie lips",
+          "kylie make up",
+          "kylie makeup",
+          "kylie style",
+          "kylie vogue",
+          "makeup tutorial",
+          "vogue"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Kylie Jenner's New Classic Beauty Routine | Beauty Secrets | Vogue",
+          "description": "\"I've missed you Vogue!\" Kylie Jenner is back to show off her updated beauty routine. Since the last time we saw her, Kylie's changed her look quite a bit. \r\n\r\n\"I wear a lot less but accomplish the same 'snatched' look,\" says Kylie about her more natural approach to makeup. Kylie also talks about using her hands more while applying foundation, entering her experimental era, her makeup inspos, and what Stormi thinks about beauty routines. \r\n\r\n\r\nShop this beauty routine:\r\n\r\nKylie Skin Sugar Lip Scrub: https://bit.ly/436YgK5\r\nKylie Cosmetics Face Moisturizer: https://bit.ly/3nJtg2x\r\nNudestix Tinted Blur Foundation Stick: https://bit.ly/3KdmSbA\r\nKylie Cosmetics Lip & Cheek Glow Balm: https://bit.ly/3K5x064\r\nGivenchy Prisme Libre Loose Setting and Finishing Powder: https://bit.ly/43b6dy4\r\nCharlotte Tilbury Airbrush Flawless Finish Setting Powder: https://bit.ly/3Kgs6mU\r\nKylie Cosmetics Matte Liquid Eyeshadow: https://bit.ly/412NpyX\r\nKylie Cosmetics Pressed Powder Eyeshadow Palettes: https://bit.ly/413Co0p\r\nKylie Cosmetics Kyliner Brush Tip Liquid Eyeliner Pen: https://bit.ly/3Mkx4le\r\nAnastasia Beverly Hills Brow Wiz: https://bit.ly/3Gms0Jb\r\nKosas Air Brow: https://howl.me/cjtxVT5A8kF\r\nNudestix Nudies Glow Highlighter Stick: https://bit.ly/3MlQ02W\r\nKylie Cosmetics Kylash: https://bit.ly/3zxooAe\r\n\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\nDirector: Gabrielle Reich\r\nDirector of Photography: Josh Herzog\r\nEditor: Tajah Smith\r\n\r\nAssociate Producer: Sam Dennis\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\n\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Billy Ward\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates."
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT8M37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "8714304",
+        "likeCount": "203088",
+        "favoriteCount": "0",
+        "commentCount": "4579"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CM56pZ-MGYlqFzAz92FawiMLiJQ",
+      "id": "VOuKQ1-7_YQ",
+      "snippet": {
+        "publishedAt": "2024-12-25T14:56:35Z",
+        "channelId": "UCVd0r8NG3Q5E9DMppEYBabA",
+        "title": "ULTRA DARK SELF TAN SHADE✨ #cocoandeve #tanning #faketan #selftan",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VOuKQ1-7_YQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VOuKQ1-7_YQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VOuKQ1-7_YQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VOuKQ1-7_YQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VOuKQ1-7_YQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Coco & Eve",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "ULTRA DARK SELF TAN SHADE✨ #cocoandeve #tanning #faketan #selftan",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT22S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5659941",
+        "likeCount": "79489",
+        "favoriteCount": "0",
+        "commentCount": "925"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yPp1emyz1y4n4xTqVwbLDEJn-zY",
+      "id": "PqFTsxMBZ-8",
+      "snippet": {
+        "publishedAt": "2025-05-05T16:15:06Z",
+        "channelId": "UCXXQR48B9pzpCBBeuY-UK_A",
+        "title": "Meet Brazil’s Stunning Tall Beauty – A True Queen! 👑💖 #brazil #tallwoman #motivation #athlete #girl",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PqFTsxMBZ-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PqFTsxMBZ-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PqFTsxMBZ-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PqFTsxMBZ-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PqFTsxMBZ-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sport Fitness Girls",
+        "tags": [
+          "world's tallest fitness female",
+          "fitness",
+          "tall woman",
+          "tallest woman",
+          "fitness motivation",
+          "tall athlete",
+          "athletic woman",
+          "women in fitness",
+          "fitness journey",
+          "fitness inspiration",
+          "tall and fit",
+          "Indian fitness",
+          "women empowerment",
+          "fitness goals",
+          "strength and fitness",
+          "tall body",
+          "fitness enthusiast",
+          "fitness lifestyle",
+          "height difference",
+          "athletic fitness",
+          "tall women empowerment",
+          "professional fitness",
+          "fitness challenge",
+          "women’s health",
+          "brazil",
+          "sportfitnessgirls",
+          "gym",
+          "girl",
+          "taller",
+          "sport"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Meet Brazil’s Stunning Tall Beauty – A True Queen! 👑💖 #brazil #tallwoman #motivation #athlete #girl",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT6S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "131033988",
+        "likeCount": "167613",
+        "favoriteCount": "0",
+        "commentCount": "681"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3WOL2Aw58kM5jlQcxb1cdjtTH6A",
+      "id": "EhGFFBFyJuM",
+      "snippet": {
+        "publishedAt": "2025-02-05T18:00:21Z",
+        "channelId": "UC3ocVSGRoapPsbG8QrFX5kA",
+        "title": "🚨 The Beauty Secrets No One Wants You to Know! 🔥#short",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EhGFFBFyJuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EhGFFBFyJuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EhGFFBFyJuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EhGFFBFyJuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EhGFFBFyJuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "velvet glow",
+        "tags": [
+          "#makeup tips",
+          "#beauty hacks",
+          "#skincare routine",
+          "#glowing skin",
+          "#budget beauty tips",
+          "#DIY beauty",
+          "#makeup tutorial",
+          "#natural makeup look",
+          "#flawless makeup",
+          "#skincare tips",
+          "#glow up",
+          "#beauty on a budget",
+          "#makeup for beginners",
+          "#makeup hacks",
+          "#flawless skin",
+          "#easy makeup looks",
+          "#beauty routine",
+          "#self-care tips",
+          "#skincare products",
+          "#makeup transformation",
+          "#affordable beauty",
+          "#beauty influencer",
+          "#skincare hacks",
+          "#glowing skin tips",
+          "#makeup tricks",
+          "skin",
+          "#everyday makeup"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "🚨 The Beauty Secrets No One Wants You to Know! 🔥#short",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2355748",
+        "likeCount": "93151",
+        "favoriteCount": "0",
+        "commentCount": "145"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "c_7kLMZ1qCPU7fUrYh8RAT9TpVA",
+      "id": "9S230WaW3kY",
+      "snippet": {
+        "publishedAt": "2024-09-09T14:00:07Z",
+        "channelId": "UCK2TyhY1Wtgioz7dNs2QTGw",
+        "title": "STRAY KIDS I.N USES *THIS* LIP BALM?! 😱 #beauty #mixsoon #lipcare #lipproducts",
+        "description": "🔎 1118209039 - mixsoon - Vegan Melting Lip Balm\n\n#yesstyle #beauty #lipcare #lipbalm #straykids #jeongin #straykidsin #celebritymakeup #viralshorts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9S230WaW3kY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9S230WaW3kY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9S230WaW3kY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9S230WaW3kY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9S230WaW3kY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "YesStyle",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "STRAY KIDS I.N USES *THIS* LIP BALM?! 😱 #beauty #mixsoon #lipcare #lipproducts",
+          "description": "🔎 1118209039 - mixsoon - Vegan Melting Lip Balm\n\n#yesstyle #beauty #lipcare #lipbalm #straykids #jeongin #straykidsin #celebritymakeup #viralshorts"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2863430",
+        "likeCount": "148659",
+        "favoriteCount": "0",
+        "commentCount": "468"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EmsM_7fCgo-CVdIQVDh5l5Y0Sj0",
+      "id": "uqcqz4wv79U",
+      "snippet": {
+        "publishedAt": "2025-06-22T19:14:23Z",
+        "channelId": "UCsl2X3lIQuyxcq4ZAnFCX_A",
+        "title": "Testing out the new Huda Beauty lip contour stains! Will it transfer?? 🤔",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uqcqz4wv79U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uqcqz4wv79U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uqcqz4wv79U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uqcqz4wv79U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uqcqz4wv79U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Slaybyjess",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Testing out the new Huda Beauty lip contour stains! Will it transfer?? 🤔",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M33S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4915183",
+        "likeCount": "191979",
+        "favoriteCount": "0",
+        "commentCount": "553"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xBHDU23nXKJ248QT8XNNNG7VUZE",
+      "id": "wKzP8A4U--4",
+      "snippet": {
+        "publishedAt": "2025-03-03T16:23:54Z",
+        "channelId": "UC3ocVSGRoapPsbG8QrFX5kA",
+        "title": "The Baby Oil Beauty Secrets You NEED! 💖✨#shortsviral",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wKzP8A4U--4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wKzP8A4U--4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wKzP8A4U--4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wKzP8A4U--4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wKzP8A4U--4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "velvet glow",
+        "tags": [
+          "#makeup tips",
+          "#beauty hacks",
+          "#skincare routine",
+          "#glowing skin",
+          "#budget beauty tips",
+          "#DIY beauty",
+          "#makeup tutorial",
+          "#natural makeup look",
+          "#flawless makeup",
+          "#skincare tips",
+          "#glow up",
+          "#beauty on a budget",
+          "#makeup for beginners",
+          "#makeup hacks",
+          "#flawless skin",
+          "#easy makeup looks",
+          "#beauty routine",
+          "#self-care tips",
+          "#skincare products",
+          "#makeup transformation",
+          "#affordable beauty",
+          "#beauty influencer",
+          "#skincare hacks",
+          "#glowing skin tips",
+          "#makeup tricks",
+          "skin",
+          "#everyday makeup"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "The Baby Oil Beauty Secrets You NEED! 💖✨#shortsviral",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2992434",
+        "likeCount": "228314",
+        "favoriteCount": "0",
+        "commentCount": "1656"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DdW4iyPXo8vHeFLsy6VtPbTry90",
+      "id": "KDP6CHUFKWE",
+      "snippet": {
+        "publishedAt": "2025-09-27T02:32:30Z",
+        "channelId": "UC4qf7L-haIJXt1cQVMCQ_Qg",
+        "title": "Let’s depot my MAC lip erase shades into a kit ritual palette #makeuptutorial #makeup #beauty #lmua",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KDP6CHUFKWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KDP6CHUFKWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KDP6CHUFKWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KDP6CHUFKWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KDP6CHUFKWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "emily harper",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Let’s depot my MAC lip erase shades into a kit ritual palette #makeuptutorial #makeup #beauty #lmua",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M1S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "205720",
+        "likeCount": "11656",
+        "favoriteCount": "0",
+        "commentCount": "158"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "C7RctiUWmjH_JqNne9q7_a5qJS8",
+      "id": "0wbOsrnhGis",
+      "snippet": {
+        "publishedAt": "2025-08-24T16:47:37Z",
+        "channelId": "UCLlIaEneF4555f--qyqWZRQ",
+        "title": "fenty beauty lip liner + gloss bomb cream lip combo 👄 #fentybeauty #shortsfeed #shortvideo #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0wbOsrnhGis/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0wbOsrnhGis/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0wbOsrnhGis/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0wbOsrnhGis/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0wbOsrnhGis/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ashley Rosales",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "fenty beauty lip liner + gloss bomb cream lip combo 👄 #fentybeauty #shortsfeed #shortvideo #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT9S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "904681",
+        "likeCount": "16949",
+        "favoriteCount": "0",
+        "commentCount": "37"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-rz5woLUv0pc0S4q_9zjTBcMT1E",
+      "id": "rJcC0hdP5Eo",
+      "snippet": {
+        "publishedAt": "2025-07-22T14:01:26Z",
+        "channelId": "UCDqurMciPXiKMPShqrdfbjw",
+        "title": "K-Beauty vs J-Beauty: I Tried Their Viral Rice Mask",
+        "description": "K-Beauty vs J-Beauty: I Tried Their Viral Rice Mask \n\nI’ve linked all the products in my profile bio Linktree❤️\n\n🇰🇷BOJ-Ground Rice and Honey Glow Mask\nhttps://www.yesstyle.com/en/beauty-of-joseon-ground-rice-and-honey-glow-mask-150ml/info.html/pid.1129049997?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\n🇯🇵pdc-Wafood Made Sake Lees Fack\nhttps://www.yesstyle.com/en/pdc-wafood-made-sake-lees-face-pack-170g/info.html/pid.1068760114?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\nEver wondered what the difference is between Korean and Japanese rice masks?\nI compare two viral rice masks and share my honest thoughts after using both.\n\n#KBeauty #JBeauty #ricemask #glassskin #skincarereview #viralskincare #glowuptips #koreanskincare #japaneseskincare #skincaretips #skincareproducts #fy #fyp #tiktokmademebuyit",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rJcC0hdP5Eo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rJcC0hdP5Eo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rJcC0hdP5Eo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rJcC0hdP5Eo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Point of Yu",
+        "tags": [
+          "japaneseskincare",
+          "koreanskincare",
+          "skincareproducts",
+          "skincareroutine",
+          "glowingskin",
+          "glassskin",
+          "dewyskin",
+          "skincaretips",
+          "skincarehaul",
+          "musthaveskincare",
+          "skincarethatworks",
+          "skincarefavorites",
+          "skinbrightening",
+          "hydratingskincare",
+          "skincare",
+          "viralskincare",
+          "jbeauty",
+          "japanbeauty",
+          "japaneseproducts",
+          "japanesehaul",
+          "japanmustbuy",
+          "japanfinds",
+          "aestheticproducts",
+          "tiktoksincare",
+          "skincareinjapan",
+          "rice mask",
+          "rice pack",
+          "beauty of joseon"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "K-Beauty vs J-Beauty: I Tried Their Viral Rice Mask",
+          "description": "K-Beauty vs J-Beauty: I Tried Their Viral Rice Mask \n\nI’ve linked all the products in my profile bio Linktree❤️\n\n🇰🇷BOJ-Ground Rice and Honey Glow Mask\nhttps://www.yesstyle.com/en/beauty-of-joseon-ground-rice-and-honey-glow-mask-150ml/info.html/pid.1129049997?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\n🇯🇵pdc-Wafood Made Sake Lees Fack\nhttps://www.yesstyle.com/en/pdc-wafood-made-sake-lees-face-pack-170g/info.html/pid.1068760114?rco=POYU0330&utm_term=POYU0330&utm_medium=LinkShare&mcg=influencer\n\nEver wondered what the difference is between Korean and Japanese rice masks?\nI compare two viral rice masks and share my honest thoughts after using both.\n\n#KBeauty #JBeauty #ricemask #glassskin #skincarereview #viralskincare #glowuptips #koreanskincare #japaneseskincare #skincaretips #skincareproducts #fy #fyp #tiktokmademebuyit"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT35S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1049923",
+        "likeCount": "39943",
+        "favoriteCount": "0",
+        "commentCount": "161"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xdYy49qHTElfz-8yNf5cAeL1lvQ",
+      "id": "vwcLCPjewuM",
+      "snippet": {
+        "publishedAt": "2024-12-19T17:01:02Z",
+        "channelId": "UCoUv0zkqPOOXzn6MW2yRy5w",
+        "title": "Need tips on how to fit this into my suitcase🥺 I LOVE GIANT SKINCARE",
+        "description": "#arencia #mochicleanser #ricemochicleanser #riceskincare #koreanskincare #ricemochicleanser #cleanser #acne #ricewater #skintok #skincaretip #giantskincare\n\n\nProducts linked here:\nhttps://linktr.ee/Milkydew",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vwcLCPjewuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vwcLCPjewuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vwcLCPjewuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vwcLCPjewuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vwcLCPjewuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "milky🥛",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Need tips on how to fit this into my suitcase🥺 I LOVE GIANT SKINCARE",
+          "description": "#arencia #mochicleanser #ricemochicleanser #riceskincare #koreanskincare #ricemochicleanser #cleanser #acne #ricewater #skintok #skincaretip #giantskincare\n\n\nProducts linked here:\nhttps://linktr.ee/Milkydew"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT20S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "40284959",
+        "likeCount": "1142725",
+        "favoriteCount": "0",
+        "commentCount": "4768"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ftYrgTjSEWEDobUdqhjFr5CH0xE",
+      "id": "-RRrh1uHF5k",
+      "snippet": {
+        "publishedAt": "2023-07-17T21:06:55Z",
+        "channelId": "UCkYTCoRI2zIfKPJAzsExNyg",
+        "title": "CRAZY KBEAUTY SKINCARE ROUTINE!😱(follow for more!💗) #beauty #skincare #skincareroutine #skin #hair",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-RRrh1uHF5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-RRrh1uHF5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RRrh1uHF5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-RRrh1uHF5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-RRrh1uHF5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Matt Randon",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "CRAZY KBEAUTY SKINCARE ROUTINE!😱(follow for more!💗) #beauty #skincare #skincareroutine #skin #hair",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "13182808",
+        "likeCount": "475269",
+        "favoriteCount": "0",
+        "commentCount": "1740"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "pFWvThLDq9Kjo7mD8RVriLbe5LU",
+      "id": "LDsMGXSU1DY",
+      "snippet": {
+        "publishedAt": "2024-12-06T19:24:22Z",
+        "channelId": "UCw6NSoIWDs6iDZYqOTSQt0w",
+        "title": "I FINISHED MY RARE BEAUTY BLUSH???😱",
+        "description": "#makeup #makeupproducts #sephora #beautyproducts #blush #rarebeauty #rarebeautyblush",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LDsMGXSU1DY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LDsMGXSU1DY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LDsMGXSU1DY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LDsMGXSU1DY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LDsMGXSU1DY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sofya",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I FINISHED MY RARE BEAUTY BLUSH???😱",
+          "description": "#makeup #makeupproducts #sephora #beautyproducts #blush #rarebeauty #rarebeautyblush"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT47S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1927173",
+        "likeCount": "88617",
+        "favoriteCount": "0",
+        "commentCount": "354"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D4e64voINrm2EbV8U2P8aPQZlSc",
+      "id": "JdWjndzzFo4",
+      "snippet": {
+        "publishedAt": "2025-09-19T17:51:18Z",
+        "channelId": "UCOal8SYUcsJlMvuaNPrrCBw",
+        "title": "Peach or pink 💕 new Huda Beauty easy bake duo powder #makeup",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JdWjndzzFo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JdWjndzzFo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JdWjndzzFo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JdWjndzzFo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JdWjndzzFo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Taontm",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Peach or pink 💕 new Huda Beauty easy bake duo powder #makeup",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "100013",
+        "likeCount": "3383",
+        "favoriteCount": "0",
+        "commentCount": "31"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uioKZnyoQpZYqlFUBMY8aqY2Hl8",
+      "id": "w0nnIoz9xN4",
+      "snippet": {
+        "publishedAt": "2025-03-14T16:27:57Z",
+        "channelId": "UCvOtsjwO04Seaep0J2clYEw",
+        "title": "RED BLUSH🍒 @selenagomez #rarebeauty #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w0nnIoz9xN4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w0nnIoz9xN4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w0nnIoz9xN4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w0nnIoz9xN4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w0nnIoz9xN4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rare Beauty",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "RED BLUSH🍒 @selenagomez #rarebeauty #shorts",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3798363",
+        "likeCount": "81230",
+        "favoriteCount": "0",
+        "commentCount": "282"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mbXESsD-iVWfSk-7EXq7sJZvjRU",
+      "id": "G0MqUM92oOQ",
+      "snippet": {
+        "publishedAt": "2024-09-24T05:58:12Z",
+        "channelId": "UCzQtGpWcgOyG0iCc-si1MWw",
+        "title": "Korea is living in 2050?!!🤩😱😍 #kbeauty #beauty #korea #koreanskincare",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G0MqUM92oOQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G0MqUM92oOQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G0MqUM92oOQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G0MqUM92oOQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G0MqUM92oOQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Aylen Park",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Korea is living in 2050?!!🤩😱😍 #kbeauty #beauty #korea #koreanskincare",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT59S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9704382",
+        "likeCount": "413317",
+        "favoriteCount": "0",
+        "commentCount": "1114"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JuN4zD_65jy3JiEKgVWrZ9LhDgk",
+      "id": "6t-rOK-2P_A",
+      "snippet": {
+        "publishedAt": "2025-10-02T04:28:01Z",
+        "channelId": "UClhp9r6NXY_OecSPL_AOJcQ",
+        "title": "new at Ulta #ulta #ultabeauty #ultahaul #skincare #makeup #beauty #beautyreview #beautyshorts #haul",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6t-rOK-2P_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6t-rOK-2P_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6t-rOK-2P_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6t-rOK-2P_A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6t-rOK-2P_A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Caitlin Thexton",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "new at Ulta #ulta #ultabeauty #ultahaul #skincare #makeup #beauty #beautyreview #beautyshorts #haul",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT37S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "6082",
+        "likeCount": "253",
+        "favoriteCount": "0",
+        "commentCount": "3"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_Zd5KIku6sK-sG-lAiG3Jh1jqYo",
+      "id": "TiG3T87-k4g",
+      "snippet": {
+        "publishedAt": "2025-09-29T17:00:44Z",
+        "channelId": "UChK6kpyOTrMOJ391JUYBfSw",
+        "title": "BEAUTY ADVENT CALENDARS ARE NOT WORTH IT! Stop Being Scammed by Advent Calendars 2025",
+        "description": "Hi lovelies,\n\nToday I'm going to be sharing all of my thoughts on why I never purchase beauty advent calendars and why I don't think they are worth the huge values that they claim!\n\n***** Ad Info *****\nThis video is NOT sponsored.  Links below to products used/worn in the video are affiliate so if you choose to use them to make a purchase, I will receive a small commission.  I purchase all products myself unless they are clearly marked as GIFTED, in which case the brand has sent them to me with no obligation to post.\n\nMy skincare routine:\nhttps://youtu.be/ols_0P3zq00\n\n***** Products Mentioned *****\nCharlotte Tilbury Advent Calendar\nhttps://go.shopmy.us/p-26500955 (UK)\nhttps://go.shopmy.us/p-26500935 (US)\n\nHarrods 12 days of Fragrance\nSOLD OUT FOR 2025\n\n***** Makeup Worn *****\nRare Beauty brow gel\nhttps://rstyle.me/+DnEAaIsOstaBZQw_IfxM5Q (UK)\nhttps://rstyle.me/+En36fzPc9LfFs9MVA5XOfA (US)\n\nLisa Eldridge brow pencil\nhttps://go.shopmy.us/p-24384022\n\nNars Soft matte concealer (for eye primer)\nhttps://rstyle.me/+lPuAp3y7BVJe2shh9DcOjQ (UK)\nhttps://rstyle.me/+lOemp_PNdCthG5CmhlruEw (US)\n\nPat McGrath Undereye Powder 'light' (to set eye primer)\nhttps://go.magik.ly/ml/xmzf/ (UK) \nhttps://go.magik.ly/ml/xmzs/ (US) \n\nNatasha Denona Eye Sculpt texture and tone eyeshadow palette - Soft\nhttps://rstyle.me/+4aflGceNrdi8IDk96_KcEw (UK)\nhttps://rstyle.me/+fVc2kmV0TfzdtNxjPnJHVw (US)\n\nHourglass Unlocked extensions mascara (Espresso)\nhttps://rstyle.me/+H46hEBe7xwGHNQrDR92KRA (UK)\nhttps://rstyle.me/+yeWv4I2qhjH73qcQn0dlCg (US)\n\nHung Vango Gel Eyeliner \nhttps://rstyle.me/+W9h1J47M2OdSbw9Tss-VzA\n\nTom Ford Shade and Illuminate primer\nhttps://rstyle.me/+_K8QggNqwdEiSHX4quUI2Q (UK) https://rstyle.me/+zPMZLquSIo2S0lCOd0-Geg (US)\n\nMakeup By Mario natural finish foundation\nhttps://rstyle.me/+D7i9JOIfDAvGeUxnebOqgQ (UK)\nhttps://rstyle.me/+R94DzYTu0itTJETywgAMvQ (US)\n\nChanel Ultra Le Teint Le Correcteur concealer \nhttps://rstyle.me/+9hZRMMWQoBjqdVwa24X29Q \n\nGivenchy Loose powder (03 Voile Rose) \nhttps://rstyle.me/+Ai3nGIMWSMLQnJPoeiuoRQ (UK) \nhttps://rstyle.me/+C00PIg53q5wK_o47BuLmXw (US) \n\nHourglass Swan palette\nhttps://rstyle.me/+-_FKybR7IiuiXxJHsxdBew (UK)\nhttps://go.shopmy.us/p-25004727 (US)\n\nLisa Eldridge Velvet Fawn lipstick\nhttps://go.shopmy.us/p-26019981\n\n***** What I'm Wearing *****\nTop: Free People (OLD)\n\nNails: Essie Bling it https://go.shopmy.us/p-18066059\nhttps://rstyle.me/+H7BtthaL5ZBhaZcBZRrBnQ\n\nMy Brushes:\nRephr:\n* https://www.rephr.com/?vr=oereeo\nSonia G:\n* https://go.magik.ly/ml/xpg4/\nBK Beauty \n* https://go.shopmy.us/p-2866001\n\n***** My Foundation Shades *****\nWinter | Summer\nChanel  No1 = BD41 | B50\nDior Stick = 2.5N | 3N\nEstee Lauder Hydra Rescue = Tawny | Shell Beige\nNars Light Reflecting = Patagonia | Aruba\nHourglass Soft Glow = 8 | 10.5\nLisa Eldridge = 9.5 | 19\nCharlotte Tilbury Beautiful Skin = 6N | 8N\nNars Natural Radiant Longwear = Patagonia | Aruba\nTom Ford Shade & Illuminate = Shell Beige | Golden Almond\nShiseido Synchro Skin = Bamboo | Citrine\n\n***** Contacts *****\nInstagram: charlotte_holdcroft\nTiktok: charlotteholdcroft\nBusiness Enquiries: charlotteholdcroft@outlook.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TiG3T87-k4g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TiG3T87-k4g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TiG3T87-k4g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TiG3T87-k4g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TiG3T87-k4g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Charlotte Holdcroft",
+        "tags": [
+          "beauty advent calendars 2025",
+          "beauty advent calendars unboxing",
+          "best beauty advent calendars 2025",
+          "christmas beauty advent calendars",
+          "opening advent calendars beauty",
+          "best beauty advent calendar",
+          "charlotte tilbury advent calendar",
+          "harrods advent calendar",
+          "harrods 12 days of fragrance"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "BEAUTY ADVENT CALENDARS ARE NOT WORTH IT! Stop Being Scammed by Advent Calendars 2025",
+          "description": "Hi lovelies,\n\nToday I'm going to be sharing all of my thoughts on why I never purchase beauty advent calendars and why I don't think they are worth the huge values that they claim!\n\n***** Ad Info *****\nThis video is NOT sponsored.  Links below to products used/worn in the video are affiliate so if you choose to use them to make a purchase, I will receive a small commission.  I purchase all products myself unless they are clearly marked as GIFTED, in which case the brand has sent them to me with no obligation to post.\n\nMy skincare routine:\nhttps://youtu.be/ols_0P3zq00\n\n***** Products Mentioned *****\nCharlotte Tilbury Advent Calendar\nhttps://go.shopmy.us/p-26500955 (UK)\nhttps://go.shopmy.us/p-26500935 (US)\n\nHarrods 12 days of Fragrance\nSOLD OUT FOR 2025\n\n***** Makeup Worn *****\nRare Beauty brow gel\nhttps://rstyle.me/+DnEAaIsOstaBZQw_IfxM5Q (UK)\nhttps://rstyle.me/+En36fzPc9LfFs9MVA5XOfA (US)\n\nLisa Eldridge brow pencil\nhttps://go.shopmy.us/p-24384022\n\nNars Soft matte concealer (for eye primer)\nhttps://rstyle.me/+lPuAp3y7BVJe2shh9DcOjQ (UK)\nhttps://rstyle.me/+lOemp_PNdCthG5CmhlruEw (US)\n\nPat McGrath Undereye Powder 'light' (to set eye primer)\nhttps://go.magik.ly/ml/xmzf/ (UK) \nhttps://go.magik.ly/ml/xmzs/ (US) \n\nNatasha Denona Eye Sculpt texture and tone eyeshadow palette - Soft\nhttps://rstyle.me/+4aflGceNrdi8IDk96_KcEw (UK)\nhttps://rstyle.me/+fVc2kmV0TfzdtNxjPnJHVw (US)\n\nHourglass Unlocked extensions mascara (Espresso)\nhttps://rstyle.me/+H46hEBe7xwGHNQrDR92KRA (UK)\nhttps://rstyle.me/+yeWv4I2qhjH73qcQn0dlCg (US)\n\nHung Vango Gel Eyeliner \nhttps://rstyle.me/+W9h1J47M2OdSbw9Tss-VzA\n\nTom Ford Shade and Illuminate primer\nhttps://rstyle.me/+_K8QggNqwdEiSHX4quUI2Q (UK) https://rstyle.me/+zPMZLquSIo2S0lCOd0-Geg (US)\n\nMakeup By Mario natural finish foundation\nhttps://rstyle.me/+D7i9JOIfDAvGeUxnebOqgQ (UK)\nhttps://rstyle.me/+R94DzYTu0itTJETywgAMvQ (US)\n\nChanel Ultra Le Teint Le Correcteur concealer \nhttps://rstyle.me/+9hZRMMWQoBjqdVwa24X29Q \n\nGivenchy Loose powder (03 Voile Rose) \nhttps://rstyle.me/+Ai3nGIMWSMLQnJPoeiuoRQ (UK) \nhttps://rstyle.me/+C00PIg53q5wK_o47BuLmXw (US) \n\nHourglass Swan palette\nhttps://rstyle.me/+-_FKybR7IiuiXxJHsxdBew (UK)\nhttps://go.shopmy.us/p-25004727 (US)\n\nLisa Eldridge Velvet Fawn lipstick\nhttps://go.shopmy.us/p-26019981\n\n***** What I'm Wearing *****\nTop: Free People (OLD)\n\nNails: Essie Bling it https://go.shopmy.us/p-18066059\nhttps://rstyle.me/+H7BtthaL5ZBhaZcBZRrBnQ\n\nMy Brushes:\nRephr:\n* https://www.rephr.com/?vr=oereeo\nSonia G:\n* https://go.magik.ly/ml/xpg4/\nBK Beauty \n* https://go.shopmy.us/p-2866001\n\n***** My Foundation Shades *****\nWinter | Summer\nChanel  No1 = BD41 | B50\nDior Stick = 2.5N | 3N\nEstee Lauder Hydra Rescue = Tawny | Shell Beige\nNars Light Reflecting = Patagonia | Aruba\nHourglass Soft Glow = 8 | 10.5\nLisa Eldridge = 9.5 | 19\nCharlotte Tilbury Beautiful Skin = 6N | 8N\nNars Natural Radiant Longwear = Patagonia | Aruba\nTom Ford Shade & Illuminate = Shell Beige | Golden Almond\nShiseido Synchro Skin = Bamboo | Citrine\n\n***** Contacts *****\nInstagram: charlotte_holdcroft\nTiktok: charlotteholdcroft\nBusiness Enquiries: charlotteholdcroft@outlook.com"
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT24M25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "19442",
+        "likeCount": "1567",
+        "favoriteCount": "0",
+        "commentCount": "383"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SeVr_KVf6SUHTVpWhrz7W4TA9xY",
+      "id": "1yyBBJrbFk0",
+      "snippet": {
+        "publishedAt": "2024-07-22T12:55:54Z",
+        "channelId": "UCx8AnSKYgKFRjYyS5qzbR8Q",
+        "title": "Unboxing the NEW Rare Beauty True to Myself Pressed Finishing Powder PR Box! 🫶🏼✨",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1yyBBJrbFk0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1yyBBJrbFk0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1yyBBJrbFk0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1yyBBJrbFk0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1yyBBJrbFk0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Amber Marie ",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Unboxing the NEW Rare Beauty True to Myself Pressed Finishing Powder PR Box! 🫶🏼✨",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT26S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "7690879",
+        "likeCount": "310750",
+        "favoriteCount": "0",
+        "commentCount": "270"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RIphHsOh0upTUoo4g0SVMtNKMzw",
+      "id": "PYNNtmo7DSw",
+      "snippet": {
+        "publishedAt": "2025-08-23T22:02:01Z",
+        "channelId": "UCr2RPX6bUMaO68UKWYLvt8g",
+        "title": "Back to School Essentials at Target (Beauty Products & Skin Care) @YoMariah",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PYNNtmo7DSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PYNNtmo7DSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PYNNtmo7DSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PYNNtmo7DSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PYNNtmo7DSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "yoangelolo",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Back to School Essentials at Target (Beauty Products & Skin Care) @YoMariah",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT42S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "5961924",
+        "likeCount": "87278",
+        "favoriteCount": "0",
+        "commentCount": "379"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "79yz9uR4zrma0R2rS3Xk52RWDJY",
+      "id": "NlAN6dMjXIM",
+      "snippet": {
+        "publishedAt": "2025-04-16T04:00:34Z",
+        "channelId": "UC3ocVSGRoapPsbG8QrFX5kA",
+        "title": "Red Blush is Back 🔥🍒  2025 Beauty Trend  #shortsviral #subscribe",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NlAN6dMjXIM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NlAN6dMjXIM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NlAN6dMjXIM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NlAN6dMjXIM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NlAN6dMjXIM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "velvet glow",
+        "tags": [
+          "#makeup tips",
+          "#beauty hacks",
+          "#skincare routine",
+          "#glowing skin",
+          "#budget beauty tips",
+          "#DIY beauty",
+          "#makeup tutorial",
+          "#natural makeup look",
+          "#flawless makeup",
+          "#skincare tips",
+          "#glow up",
+          "#beauty on a budget",
+          "#makeup for beginners",
+          "#makeup hacks",
+          "#flawless skin",
+          "#easy makeup looks",
+          "#beauty routine",
+          "#self-care tips",
+          "#skincare products",
+          "#makeup transformation",
+          "#affordable beauty",
+          "#beauty influencer",
+          "#skincare hacks",
+          "#glowing skin tips",
+          "#makeup tricks",
+          "skin",
+          "#everyday makeup"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Red Blush is Back 🔥🍒  2025 Beauty Trend  #shortsviral #subscribe",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT25S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4064749",
+        "likeCount": "76701",
+        "favoriteCount": "0",
+        "commentCount": "125"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FDYz-EVnmzpgVos6jRkp-sIC4Lk",
+      "id": "L6SMRL6D2rU",
+      "snippet": {
+        "publishedAt": "2025-08-22T19:06:07Z",
+        "channelId": "UCm-CK9Tata57nl6jhPK-hMg",
+        "title": "Why didn't i know this before? #LifeHack #advice #hacks #beauty #fyp",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/L6SMRL6D2rU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/L6SMRL6D2rU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/L6SMRL6D2rU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/L6SMRL6D2rU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/L6SMRL6D2rU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kriss_perfect_mom",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Why didn't i know this before? #LifeHack #advice #hacks #beauty #fyp",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "9143483",
+        "likeCount": "174341",
+        "favoriteCount": "0",
+        "commentCount": "396"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TySoHkDC2VLBQ2p9uHSwkMy3i3o",
+      "id": "CrsiMoceeJY",
+      "snippet": {
+        "publishedAt": "2025-07-24T09:30:06Z",
+        "channelId": "UC3ocVSGRoapPsbG8QrFX5kA",
+        "title": "💧Baby Oil Beauty Hacks You NEED To Try! From Hair to Toes 🔥",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CrsiMoceeJY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CrsiMoceeJY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CrsiMoceeJY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CrsiMoceeJY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CrsiMoceeJY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "velvet glow",
+        "tags": [
+          "#makeup tips",
+          "#beauty hacks",
+          "#skincare routine",
+          "#glowing skin",
+          "#budget beauty tips",
+          "#DIY beauty",
+          "#makeup tutorial",
+          "#natural makeup look",
+          "#flawless makeup",
+          "#skincare tips",
+          "#glow up",
+          "#beauty on a budget",
+          "#makeup for beginners",
+          "#makeup hacks",
+          "#flawless skin",
+          "#easy makeup looks",
+          "#beauty routine",
+          "#self-care tips",
+          "#skincare products",
+          "#makeup transformation",
+          "#affordable beauty",
+          "#beauty influencer",
+          "#skincare hacks",
+          "#glowing skin tips",
+          "#makeup tricks",
+          "skin",
+          "#everyday makeup"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "💧Baby Oil Beauty Hacks You NEED To Try! From Hair to Toes 🔥",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "2131206",
+        "likeCount": "61598",
+        "favoriteCount": "0",
+        "commentCount": "400"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XvZWcxlVzJDBO34y8SXN7OkFoY0",
+      "id": "LOw5-QW4f10",
+      "snippet": {
+        "publishedAt": "2025-08-01T21:05:35Z",
+        "channelId": "UCInSzlia-kS-XTHPaAoBObA",
+        "title": "I got the new Rare Beauty perfume by Selena Gomez! Honest review✨",
+        "description": "@RareBeauty",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LOw5-QW4f10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LOw5-QW4f10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LOw5-QW4f10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LOw5-QW4f10/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LOw5-QW4f10/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Brianna Renee",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I got the new Rare Beauty perfume by Selena Gomez! Honest review✨",
+          "description": "@RareBeauty"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT46S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "538392",
+        "likeCount": "18708",
+        "favoriteCount": "0",
+        "commentCount": "97"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zasyw23nO7QcjFvbYoS3cv67h20",
+      "id": "5dVyhb2zIXk",
+      "snippet": {
+        "publishedAt": "2024-10-29T10:20:16Z",
+        "channelId": "UCI_OvtzK82eTL8KIRQ8G_EA",
+        "title": "BTS skincare routine💜Guess the next color?) #beauty #haul #unboxing #skincare #routinevlog",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5dVyhb2zIXk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5dVyhb2zIXk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5dVyhb2zIXk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5dVyhb2zIXk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5dVyhb2zIXk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Candy Superstar",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "BTS skincare routine💜Guess the next color?) #beauty #haul #unboxing #skincare #routinevlog",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT41S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "50638076",
+        "likeCount": "978114",
+        "favoriteCount": "0",
+        "commentCount": "11316"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "n3juxvQfOc2UhcvyVVCwWRHzVDs",
+      "id": "ZHoSk2w6YEo",
+      "snippet": {
+        "publishedAt": "2025-07-23T17:33:19Z",
+        "channelId": "UCYsQlOOeOCQVdMDqBQE_fAQ",
+        "title": "Natural korean skincare routine for teenagers 🎀💫 #aethetic #skincare #beauty #teen",
+        "description": "Natural korean skincare routine for teenagers \nkorean skincare for teenagers\nnatural skincare for teenagers\nkorean girls skin care routine\nkorean morning skin care routine\nkorean skincare routine for oily skin\nkorean skincare and makeup routines\nkorean skin care routine video\nkorean skin care routine for men\nnatural korean makeup for school\nkorean skincare acne home remedies\nkorean skincare for oily skin at home\nkorean beauty natural glow face cream\nkorean skincare steps morning and night\nskin care routine for teenager girls\nkorean skincare for redness and acne\nkorean skincare for dry skin at home\nkorean skincare for oily acne prone skin\nskincare for teenagers with home remedies\nkorean skincare products for acne prone skin\nmorning skin care routine for teenagers\nbest korean skincare products for glowing skin\nkorean makeup tutorial for beginners natural look\nkorean skincare products for dry acne prone skin\n\nkorean skincare routine,natural skincare for teenagers,korean skincare for teens,korean skincare for oily skin,korean skincare for acne,teenage skincare routine,morning skincare routine,korean skincare steps,korean skincare for dry skin,korean skincare for glowing skin,skincare for teenage girls,korean skincare for acne prone skin,natural korean makeup look,korean beauty routine,skincare for students,glow up tips for 10-15 years old,glow up tips,how to glow up",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZHoSk2w6YEo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZHoSk2w6YEo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZHoSk2w6YEo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZHoSk2w6YEo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZHoSk2w6YEo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Better Health",
+        "tags": [
+          "korean skincare routine",
+          "natural skincare for teenagers",
+          "korean skincare for teens",
+          "korean skincare for oily skin",
+          "korean skincare for acne",
+          "teenage skincare routine",
+          "morning skincare routine",
+          "korean skincare steps",
+          "korean skincare for dry skin",
+          "korean skincare for glowing skin",
+          "skincare for teenage girls",
+          "korean skincare for acne prone skin",
+          "natural korean makeup look",
+          "korean beauty routine",
+          "skincare for students",
+          "glow up tips for 10-15 years old",
+          "glow up tips",
+          "how to glow up"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Natural korean skincare routine for teenagers 🎀💫 #aethetic #skincare #beauty #teen",
+          "description": "Natural korean skincare routine for teenagers \nkorean skincare for teenagers\nnatural skincare for teenagers\nkorean girls skin care routine\nkorean morning skin care routine\nkorean skincare routine for oily skin\nkorean skincare and makeup routines\nkorean skin care routine video\nkorean skin care routine for men\nnatural korean makeup for school\nkorean skincare acne home remedies\nkorean skincare for oily skin at home\nkorean beauty natural glow face cream\nkorean skincare steps morning and night\nskin care routine for teenager girls\nkorean skincare for redness and acne\nkorean skincare for dry skin at home\nkorean skincare for oily acne prone skin\nskincare for teenagers with home remedies\nkorean skincare products for acne prone skin\nmorning skin care routine for teenagers\nbest korean skincare products for glowing skin\nkorean makeup tutorial for beginners natural look\nkorean skincare products for dry acne prone skin\n\nkorean skincare routine,natural skincare for teenagers,korean skincare for teens,korean skincare for oily skin,korean skincare for acne,teenage skincare routine,morning skincare routine,korean skincare steps,korean skincare for dry skin,korean skincare for glowing skin,skincare for teenage girls,korean skincare for acne prone skin,natural korean makeup look,korean beauty routine,skincare for students,glow up tips for 10-15 years old,glow up tips,how to glow up"
+        },
+        "defaultAudioLanguage": "en-US"
+      },
+      "contentDetails": {
+        "duration": "PT14S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "380107",
+        "likeCount": "4322",
+        "favoriteCount": "0",
+        "commentCount": "49"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "OWrSvR1Ra07QSpxYPHxNW0sBTWw",
+      "id": "_VMnTKPXAgk",
+      "snippet": {
+        "publishedAt": "2025-06-30T05:31:22Z",
+        "channelId": "UCY7vNTogG_nIZUsuAcZnwFg",
+        "title": "So what you prefer Kay beauty by katrina or 82° by Deepika #shorts",
+        "description": "Kay Beauty review\n\n82°E by Deepika Padukone\n\nKay Beauty vs 82E\n\nKatrina Kaif beauty brand\n\nDeepika Padukone skincare\n\nCelebrity beauty brands India\n\nBest Indian makeup brand\n\nSkincare vs makeup\n\nKay Beauty lipstick review\n\n82E moisturizer review\n\nIndian beauty brands comparison\n\nKay Beauty Nykaa\n\n82E honest review\n\nKatrina Kaif vs Deepika Padukone\n\nBollywood actress beauty brands\n\nKatrina Kaif ka makeup brand\n\nDeepika Padukone ka skincare brand\n\nKay Beauty kaisa hai\n\n82°E products kaise hain\n\nKatrina vs Deepika beauty brand\nkay beauty review\n82e by deepika\nkay beauty vs 82e\nkatrina kaif makeup brand\ndeepika padukone skincare brand\nkay beauty lipstick\n82e moisturizer review\nindian beauty brand review\ncelebrity beauty brands india\nkay beauty foundation\n82e sunscreen review\nkay beauty nykaa\n82e by deepika honest review\nkatrina vs deepika brand\nbollywood beauty comparison\nkay beauty vs 82 east\nkay beauty product review\n82e product review\nkay beauty makeup test\n82e skincare routine\n\n#KayBeauty\n\n#82E\n\n#KatrinaKaif\n\n#DeepikaPadukone\n\n#KayBeautyByKatrina\n\n#82EByDeepika\n\n#MakeupVsSkincare\n\n#IndianBeautyBrands\n\n#CelebrityBeautyBrands\n\n#BollywoodBeauty\n\n#SkincareRoutine\n\n#MakeupReview\n\n#SkincareReview\n\n#KayVs82E\n\n#BeautyBattle",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_VMnTKPXAgk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_VMnTKPXAgk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_VMnTKPXAgk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_VMnTKPXAgk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_VMnTKPXAgk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FilmyPatsariya",
+        "tags": [
+          "Bollywood",
+          "Deepika padukone",
+          "Entertainment",
+          "Katrina Kaif",
+          "bollywood gossip",
+          "bollywood highlights",
+          "bollywood shorts",
+          "celebrity news",
+          "celebrity shorts",
+          "celebrity updates",
+          "deepika padukone",
+          "entertainment clips",
+          "entertainment news",
+          "film industry",
+          "katrina deepika",
+          "katrina kaif",
+          "katrina kaif songs",
+          "katrina news",
+          "movie highlights",
+          "movie shorts",
+          "movie trailers",
+          "short film clips",
+          "short videos",
+          "shorts",
+          "trending",
+          "trending movies",
+          "trending shorts",
+          "viral moments",
+          "viral videos"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "hi",
+        "localized": {
+          "title": "So what you prefer Kay beauty by katrina or 82° by Deepika #shorts",
+          "description": "Kay Beauty review\n\n82°E by Deepika Padukone\n\nKay Beauty vs 82E\n\nKatrina Kaif beauty brand\n\nDeepika Padukone skincare\n\nCelebrity beauty brands India\n\nBest Indian makeup brand\n\nSkincare vs makeup\n\nKay Beauty lipstick review\n\n82E moisturizer review\n\nIndian beauty brands comparison\n\nKay Beauty Nykaa\n\n82E honest review\n\nKatrina Kaif vs Deepika Padukone\n\nBollywood actress beauty brands\n\nKatrina Kaif ka makeup brand\n\nDeepika Padukone ka skincare brand\n\nKay Beauty kaisa hai\n\n82°E products kaise hain\n\nKatrina vs Deepika beauty brand\nkay beauty review\n82e by deepika\nkay beauty vs 82e\nkatrina kaif makeup brand\ndeepika padukone skincare brand\nkay beauty lipstick\n82e moisturizer review\nindian beauty brand review\ncelebrity beauty brands india\nkay beauty foundation\n82e sunscreen review\nkay beauty nykaa\n82e by deepika honest review\nkatrina vs deepika brand\nbollywood beauty comparison\nkay beauty vs 82 east\nkay beauty product review\n82e product review\nkay beauty makeup test\n82e skincare routine\n\n#KayBeauty\n\n#82E\n\n#KatrinaKaif\n\n#DeepikaPadukone\n\n#KayBeautyByKatrina\n\n#82EByDeepika\n\n#MakeupVsSkincare\n\n#IndianBeautyBrands\n\n#CelebrityBeautyBrands\n\n#BollywoodBeauty\n\n#SkincareRoutine\n\n#MakeupReview\n\n#SkincareReview\n\n#KayVs82E\n\n#BeautyBattle"
+        },
+        "defaultAudioLanguage": "hi-Latn"
+      },
+      "contentDetails": {
+        "duration": "PT24S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "4015176",
+        "likeCount": "34286",
+        "favoriteCount": "0",
+        "commentCount": "134"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Yq3cvP-AVMbCeod3mDY2KQAtMEY",
+      "id": "1EuxZz4j2R4",
+      "snippet": {
+        "publishedAt": "2024-02-09T20:00:00Z",
+        "channelId": "UCGhXgPi0bPzyFNOzE6fkMxg",
+        "title": "$0 Dior Beauty haul🥹🎀✨ the loyalty program is so good! #dior #aesthetic #asmr #unboxing",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1EuxZz4j2R4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1EuxZz4j2R4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1EuxZz4j2R4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1EuxZz4j2R4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1EuxZz4j2R4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lea Felicitas",
+        "tags": [
+          "Dior",
+          "Dior Beauty",
+          "Dior makeup",
+          "Dior perfume",
+          "Miss Dior",
+          "Dior gift with purchase",
+          "Dior loyalty program",
+          "Dior haul",
+          "Aesthetic haul",
+          "Aesthetic unboxing",
+          "Makeup haul",
+          "Beauty haul",
+          "Makeup unboxing",
+          "Preppy",
+          "Preppy aesthetic",
+          "Preppy girl",
+          "Clean girl aesthetic",
+          "Rich girl aesthetic"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "$0 Dior Beauty haul🥹🎀✨ the loyalty program is so good! #dior #aesthetic #asmr #unboxing",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1985149",
+        "likeCount": "108842",
+        "favoriteCount": "0",
+        "commentCount": "269"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hBDCW1zDIfB3QjxEtwOG2IWxr4w",
+      "id": "RTRDAG_EblQ",
+      "snippet": {
+        "publishedAt": "2025-05-17T19:34:56Z",
+        "channelId": "UCPJEDvBPrNFeOwH5e7qlflg",
+        "title": "New gedgets  face mask #skincare #beauty #makeup #skincareroutine #hairstyle",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RTRDAG_EblQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RTRDAG_EblQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RTRDAG_EblQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RTRDAG_EblQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RTRDAG_EblQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Islamic Fresh",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "New gedgets  face mask #skincare #beauty #makeup #skincareroutine #hairstyle",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT10S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "38369063",
+        "likeCount": "151688",
+        "favoriteCount": "0",
+        "commentCount": "71"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wyWbit9zj7n_yn9U37nwWFPUV3s",
+      "id": "vFG3Fmho-yA",
+      "snippet": {
+        "publishedAt": "2025-08-21T15:53:46Z",
+        "channelId": "UCKE36zFaTnX2wNfjDipfPWQ",
+        "title": "Selena Gomez Rare Beauty ✨🤍",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vFG3Fmho-yA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vFG3Fmho-yA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vFG3Fmho-yA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vFG3Fmho-yA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vFG3Fmho-yA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Selenagomez🫀",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "tr",
+        "localized": {
+          "title": "Selena Gomez Rare Beauty ✨🤍",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M18S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": false,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1036527",
+        "likeCount": "22760",
+        "favoriteCount": "0",
+        "commentCount": "185"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "D7yHNeSw2KdTuv9L9a7BpfETevM",
+      "id": "BOPzjnbduak",
+      "snippet": {
+        "publishedAt": "2025-08-24T18:44:02Z",
+        "channelId": "UCoJ4TD44M2SELph9ieYZ4oA",
+        "title": "can Bloodline lipstains DYE HAIR 😱 #makeup #lipstain #cosmetics #beauty #smallbusiness #cosplay",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BOPzjnbduak/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BOPzjnbduak/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BOPzjnbduak/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BOPzjnbduak/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BOPzjnbduak/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nekoyanin",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "can Bloodline lipstains DYE HAIR 😱 #makeup #lipstain #cosmetics #beauty #smallbusiness #cosplay",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT1M",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3367776",
+        "likeCount": "157601",
+        "favoriteCount": "0",
+        "commentCount": "491"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KsGPCcHL1B5E_2nyMkQxr4mxpAg",
+      "id": "DsWg2N6cOn8",
+      "snippet": {
+        "publishedAt": "2025-08-02T11:51:36Z",
+        "channelId": "UCvCgViBhsOFGNpsGvOZVcSA",
+        "title": "Swiss Beauty Pure Lustre Lipstick just For 269 Rs✨🌸 #lipstick #makeup #shorts",
+        "description": "Swiss Beauty Pure Lustre Lipstick just For 269 Rs✨🌸 #lipstick #makeup #shorts \n\n\n\n\nGlossy Balm, Click pen lip balms, Mars cosmetics, New launch, Viral makeup products, Skincare, Trending makeup, affordable makeup, Brown skin makeup, affordable, Lip gloss, Glossy lips, beauty, swiss beauty lustre lipstick\n\n\n#lipswatch #lipstick #brownlipstick\n#glossylips #swissbeauty #brown #indianmakeup #shinylips #affordablemakeup #brownlips #lipstik #explorepage #trendingnow #viral #beautyblog #glamlook #lipstickswatches #marscosmetics #foryoupage #ugc #swatch\n#swatchoftheday #everydaymakeup #makeupreel #shortsfeed #yt #ytshorts #viral #lipsticktutorial #ytviral #explore #fyp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DsWg2N6cOn8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DsWg2N6cOn8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DsWg2N6cOn8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DsWg2N6cOn8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DsWg2N6cOn8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vandana🌷",
+        "tags": [
+          "Swiss beauty pure lustre lipstick",
+          "Lipstick under 300",
+          "True nude Swiss beauty lipstick",
+          "Lipstick swatch",
+          "Yt shorts",
+          "Beauty shorts",
+          "Shortsfeed",
+          "Yt",
+          "New makeup",
+          "Affordable makeup",
+          "Affordable lipstick",
+          "Lipstick shorts",
+          "Viral",
+          "Explore",
+          "Explore page",
+          "Fyp"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-IN",
+        "localized": {
+          "title": "Swiss Beauty Pure Lustre Lipstick just For 269 Rs✨🌸 #lipstick #makeup #shorts",
+          "description": "Swiss Beauty Pure Lustre Lipstick just For 269 Rs✨🌸 #lipstick #makeup #shorts \n\n\n\n\nGlossy Balm, Click pen lip balms, Mars cosmetics, New launch, Viral makeup products, Skincare, Trending makeup, affordable makeup, Brown skin makeup, affordable, Lip gloss, Glossy lips, beauty, swiss beauty lustre lipstick\n\n\n#lipswatch #lipstick #brownlipstick\n#glossylips #swissbeauty #brown #indianmakeup #shinylips #affordablemakeup #brownlips #lipstik #explorepage #trendingnow #viral #beautyblog #glamlook #lipstickswatches #marscosmetics #foryoupage #ugc #swatch\n#swatchoftheday #everydaymakeup #makeupreel #shortsfeed #yt #ytshorts #viral #lipsticktutorial #ytviral #explore #fyp"
+        },
+        "defaultAudioLanguage": "hi"
+      },
+      "contentDetails": {
+        "duration": "PT13S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "578193",
+        "likeCount": "9699",
+        "favoriteCount": "0",
+        "commentCount": "96"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "JaXod6xw4We_EREmNIQLzL1pNNE",
+      "id": "H4Ax4BAEYYw",
+      "snippet": {
+        "publishedAt": "2025-05-21T20:44:05Z",
+        "channelId": "UCHcVHa8W40Hzgq16hsPtSWg",
+        "title": "Fake or Real?🤔🤯💄 #beauty #asmrsounds #skincare #makeup #fake #real #haul",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H4Ax4BAEYYw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H4Ax4BAEYYw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H4Ax4BAEYYw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H4Ax4BAEYYw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H4Ax4BAEYYw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Julia Tiffany",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Fake or Real?🤔🤯💄 #beauty #asmrsounds #skincare #makeup #fake #real #haul",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en-GB"
+      },
+      "contentDetails": {
+        "duration": "PT11S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "31225640",
+        "likeCount": "122428",
+        "favoriteCount": "0",
+        "commentCount": "660"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SFXvvn0ryD9OCc8-KXblEqt-7A0",
+      "id": "LywjLS_T1KY",
+      "snippet": {
+        "publishedAt": "2025-06-30T15:47:54Z",
+        "channelId": "UCK6ESmFnbh4Nj7TjABKHEWQ",
+        "title": "Blue skincare routine 💙 #skincare #skincareroutine #skin #beauty",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LywjLS_T1KY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LywjLS_T1KY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LywjLS_T1KY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LywjLS_T1KY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LywjLS_T1KY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Leanne Page",
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Blue skincare routine 💙 #skincare #skincareroutine #skin #beauty",
+          "description": ""
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT28S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "779602",
+        "likeCount": "14967",
+        "favoriteCount": "0",
+        "commentCount": "533"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}

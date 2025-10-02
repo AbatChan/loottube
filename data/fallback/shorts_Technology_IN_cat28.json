@@ -1,0 +1,3698 @@
+{
+  "timestamp": 1758121426435,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "SZRAs3YIJUSc5bVrEkIGCqR1hP0",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "TC3cT6n87joSThACqe3aA5eQabc",
+        "id": "rbyud9N4zPM",
+        "snippet": {
+          "publishedAt": "2024-01-26T05:45:01Z",
+          "channelId": "UC6EM2H38sX0eXddx05MnOGw",
+          "title": "Revolutionary carseat technology #china #shorts #tech",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rbyud9N4zPM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rbyud9N4zPM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rbyud9N4zPM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rbyud9N4zPM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rbyud9N4zPM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ashley Dudarenok",
+          "tags": [
+            "china",
+            "china digital world",
+            "what can we learn from china",
+            "digital technology china",
+            "china digital growth",
+            "digital china strategy",
+            "china digital future",
+            "digital rise of china",
+            "china digitalization",
+            "china digital marketing",
+            "china marketing trends 2023",
+            "network marketing in china",
+            "chinese consumers",
+            "how to sell on chinese market",
+            "how does marketing work in china",
+            "chinese marketing strategies",
+            "how to attract chinese consumers",
+            "china trends 2023",
+            "china consumer trends"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Revolutionary carseat technology #china #shorts #tech",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "124579785",
+          "likeCount": "1374401",
+          "favoriteCount": "0",
+          "commentCount": "2943"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "tcxFhuyXuOOdXFGL7-JFoa3VWQc",
+        "id": "KCeEjhDMIv4",
+        "snippet": {
+          "publishedAt": "2023-07-15T07:18:44Z",
+          "channelId": "UCbOPjvzbp1Jcybw2xegLxeQ",
+          "title": "Samsung S22Ultra screen quality display. #Samsung #reel #reels #s23ultra",
+          "description": "Instagram - https://www.instagram.com/techcave_\n\nCopyright Disclaimer- Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright status that might otherwise be infringing \n#shorts  #short #tech #phone #techcave tech shorts,\ntech shorts video,\ntech shorts telugu,\ntech shorts channel,\ntech shorts hindi,\ntech shorts english,\ntech shorts creator,\ntech shorts ai\nunboxing shorts,\nunboxing shorts asmr,\nunboxing shorts video,\nunboxing shorts channel,\nunboxing shorts music,\nunboxing shorts song,\nunboxing shorts tamil,\nunboxing shorts mobile,\nunboxing shorts malayalam\ntech,\ntechno gamerz,\ntechnoblade,\ntechnoblade never dies,\ntechno,\ntech burner\ngsmarena,\ngsmarena official,\ngsmarena s23 ultra,\ngsmarena iphone 14,\ngsmarena iphone 14 pro max\n#shorts #shortsfeed #shortsvideo #shortsviral #shortsmaschallenge",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KCeEjhDMIv4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Cave",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Samsung S22Ultra screen quality display. #Samsung #reel #reels #s23ultra",
+            "description": "Instagram - https://www.instagram.com/techcave_\n\nCopyright Disclaimer- Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. Fair use is a use permitted by copyright status that might otherwise be infringing \n#shorts  #short #tech #phone #techcave tech shorts,\ntech shorts video,\ntech shorts telugu,\ntech shorts channel,\ntech shorts hindi,\ntech shorts english,\ntech shorts creator,\ntech shorts ai\nunboxing shorts,\nunboxing shorts asmr,\nunboxing shorts video,\nunboxing shorts channel,\nunboxing shorts music,\nunboxing shorts song,\nunboxing shorts tamil,\nunboxing shorts mobile,\nunboxing shorts malayalam\ntech,\ntechno gamerz,\ntechnoblade,\ntechnoblade never dies,\ntechno,\ntech burner\ngsmarena,\ngsmarena official,\ngsmarena s23 ultra,\ngsmarena iphone 14,\ngsmarena iphone 14 pro max\n#shorts #shortsfeed #shortsvideo #shortsviral #shortsmaschallenge"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "175200762",
+          "likeCount": "1387234",
+          "favoriteCount": "0",
+          "commentCount": "7108"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "r87FwcNCZaMDQOW_jfUHZR0HrhU",
+        "id": "Cn7020nMstc",
+        "snippet": {
+          "publishedAt": "2025-04-08T04:36:25Z",
+          "channelId": "UC3hsgInrT3d9FEYQW82OFTw",
+          "title": "Technology comedy video😅 #shorts #funny #surajpkcomedy #ytshorts",
+          "description": "Technology comedy video😅 #shorts #funny #surajpkcomedy #ytshorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cn7020nMstc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cn7020nMstc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cn7020nMstc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Cn7020nMstc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Cn7020nMstc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Suraj pk comedy",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Technology comedy video😅 #shorts #funny #surajpkcomedy #ytshorts",
+            "description": "Technology comedy video😅 #shorts #funny #surajpkcomedy #ytshorts"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT17S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2690842",
+          "likeCount": "22609",
+          "favoriteCount": "0",
+          "commentCount": "110"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "P6aTs0sAoE8OwXTTHyiNJEXJ3rI",
+        "id": "h0xOdfMJTJI",
+        "snippet": {
+          "publishedAt": "2022-05-27T07:07:04Z",
+          "channelId": "UCOvOXLATfCrOJmAYaO4mRBA",
+          "title": "This is future technology 2d animation #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h0xOdfMJTJI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h0xOdfMJTJI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h0xOdfMJTJI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h0xOdfMJTJI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h0xOdfMJTJI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VFX HD",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This is future technology 2d animation #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "246822722",
+          "likeCount": "2146052",
+          "favoriteCount": "0",
+          "commentCount": "1118"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UR-gu71ED49juqk1rlNW5laRX2k",
+        "id": "sEErbR6J2sk",
+        "snippet": {
+          "publishedAt": "2025-05-26T04:20:32Z",
+          "channelId": "UCVf1xp-6b4iabCQembMf-dg",
+          "title": "#cricket #cricketshorts #technology#viral cricket video#shortvideo cricket viral video#technology #",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sEErbR6J2sk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sEErbR6J2sk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sEErbR6J2sk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sEErbR6J2sk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sEErbR6J2sk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Babu 7CH",
+          "categoryId": "17",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "hi",
+          "localized": {
+            "title": "#cricket #cricketshorts #technology#viral cricket video#shortvideo cricket viral video#technology #",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1770752",
+          "likeCount": "9411",
+          "favoriteCount": "0",
+          "commentCount": "45"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "pJjbY3q4vfc9GxeIhgcwoku8Z4M",
+        "id": "47gDOw_PNrw",
+        "snippet": {
+          "publishedAt": "2025-06-11T12:14:42Z",
+          "channelId": "UCzNl75jitCHmIHVcK9girAQ",
+          "title": "New invention 🇮🇳 #technology #dcmotor #diy #shorts",
+          "description": "New invention 🇮🇳 #technology #dcmotor #diy #shorts\n\n\nother video link 🔗 👇👇\n\n1.https://youtube.com/shorts/1qz6n9N1BWc?si=jdaKuQRXH-BuEl7S\n\n2.https://youtube.com/shorts/nee8zpjcD1U?si=3D0N2sFAoqGtFn3l\n\n3.https://youtube.com/shorts/zcHdvwRcI9g?si=d3Nwgi-hOxGx41TU\n\nKeywords:-\n \nhow to make amazing things with dc motor\nhow to make mini rechargeable fan\nhow to generate electricity with motor\nhow to make a science project with dc motor\nhow to make car at home with dc motor\nhow to make electric hand fan\ncreative electronics projects\nbest out of waste craft ideas for home decoration\ncreative electronic things to make at home\nhow to make electric science project\nhow to make rechargeable Emergency light \nHow to make amazing projects with DC motor\nMini rechargeable fan making at home\nGenerate electricity using a DC motor\nDIY science project using DC motor\nDC motor car project at home\nMake an electric hand fan easily\nhomemade science project \nCreative electronics projects for students\n\n\nTags:-\n\n#DCMotorProjects  \n#MiniFanMaking  \n#GenerateElectricity  \n#DIYScienceProject  \n#ElectricHandFan  \n#CreativeElectronics  \n#BestOutOfWaste  \n#DIYWithMotor  \n#HomeDecorationCraft  \n#ElectronicProjects  \n#ScienceExperiment  \n#DIYElectricFan  \n#DCMotorCar  \n#SchoolProjectIdeas  \n#ElectricityProject \n#mrindeanhacker \n#dcfan\n\nFor Business Enquiry Email: ✉️thanksmdbusiness@gmail.com \n\nDon't Forget To Like, Comment, Share & Subscribe\n\n\nDisclaimer :-\nVideo is for educational purpose only Copyright disclaimer undersection 107 of the copyright act 1976 allowance is made for \"fair use\" for purposes such as criticisms, comment, news, reporting, teaching, scholarship and research. Fair use is a permitted by copyright statute that might otherwise be infringing, non-profit educational or personal use tips the balance in favour of fair us",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/47gDOw_PNrw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/47gDOw_PNrw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/47gDOw_PNrw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/47gDOw_PNrw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/47gDOw_PNrw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Thanks Invention",
+          "tags": [
+            "Thanks Invention",
+            "DC motor",
+            "motor",
+            "Invention"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "New invention 🇮🇳 #technology #dcmotor #diy #shorts",
+            "description": "New invention 🇮🇳 #technology #dcmotor #diy #shorts\n\n\nother video link 🔗 👇👇\n\n1.https://youtube.com/shorts/1qz6n9N1BWc?si=jdaKuQRXH-BuEl7S\n\n2.https://youtube.com/shorts/nee8zpjcD1U?si=3D0N2sFAoqGtFn3l\n\n3.https://youtube.com/shorts/zcHdvwRcI9g?si=d3Nwgi-hOxGx41TU\n\nKeywords:-\n \nhow to make amazing things with dc motor\nhow to make mini rechargeable fan\nhow to generate electricity with motor\nhow to make a science project with dc motor\nhow to make car at home with dc motor\nhow to make electric hand fan\ncreative electronics projects\nbest out of waste craft ideas for home decoration\ncreative electronic things to make at home\nhow to make electric science project\nhow to make rechargeable Emergency light \nHow to make amazing projects with DC motor\nMini rechargeable fan making at home\nGenerate electricity using a DC motor\nDIY science project using DC motor\nDC motor car project at home\nMake an electric hand fan easily\nhomemade science project \nCreative electronics projects for students\n\n\nTags:-\n\n#DCMotorProjects  \n#MiniFanMaking  \n#GenerateElectricity  \n#DIYScienceProject  \n#ElectricHandFan  \n#CreativeElectronics  \n#BestOutOfWaste  \n#DIYWithMotor  \n#HomeDecorationCraft  \n#ElectronicProjects  \n#ScienceExperiment  \n#DIYElectricFan  \n#DCMotorCar  \n#SchoolProjectIdeas  \n#ElectricityProject \n#mrindeanhacker \n#dcfan\n\nFor Business Enquiry Email: ✉️thanksmdbusiness@gmail.com \n\nDon't Forget To Like, Comment, Share & Subscribe\n\n\nDisclaimer :-\nVideo is for educational purpose only Copyright disclaimer undersection 107 of the copyright act 1976 allowance is made for \"fair use\" for purposes such as criticisms, comment, news, reporting, teaching, scholarship and research. Fair use is a permitted by copyright statute that might otherwise be infringing, non-profit educational or personal use tips the balance in favour of fair us"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "30672644",
+          "likeCount": "83779",
+          "favoriteCount": "0",
+          "commentCount": "72"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "lz2XcnSbzk69qtK7UKNpDG4gUQA",
+        "id": "iuLgq7bf6QY",
+        "snippet": {
+          "publishedAt": "2024-05-22T07:16:40Z",
+          "channelId": "UCmnAYZuQh_QEy_B5jtMNeug",
+          "title": "New Innovation - 6 💥 #new #innovation #unique #tech #shorts",
+          "description": "New Innovation - 6 💥 #new #innovation #unique #tech #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iuLgq7bf6QY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iuLgq7bf6QY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iuLgq7bf6QY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iuLgq7bf6QY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iuLgq7bf6QY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Your Mahbub",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New Innovation - 6 💥 #new #innovation #unique #tech #shorts",
+            "description": "New Innovation - 6 💥 #new #innovation #unique #tech #shorts"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34542505",
+          "likeCount": "669620",
+          "favoriteCount": "0",
+          "commentCount": "2007"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NAx-Z9IskkyvtWG_Oj_R9TsH5Vo",
+        "id": "nyjuAqhaPaE",
+        "snippet": {
+          "publishedAt": "2025-03-21T16:01:03Z",
+          "channelId": "UC4b7LRyeMlfVm596Ww0Hf6w",
+          "title": "New Toilet Technology! 🤣😂 (best animation memes) #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nyjuAqhaPaE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Avenu Animations",
+          "tags": [
+            "toilet",
+            "poop",
+            "toilet technology",
+            "automatic poop cleaner",
+            "rico animation",
+            "funny videos",
+            "avenu animation",
+            "funny meme videos"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New Toilet Technology! 🤣😂 (best animation memes) #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7686841",
+          "likeCount": "133840",
+          "favoriteCount": "0",
+          "commentCount": "284"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vEgDxeTipWjbmyIMENmga4mdAsA",
+        "id": "GY9usnmuC0g",
+        "snippet": {
+          "publishedAt": "2025-04-23T15:35:07Z",
+          "channelId": "UCakSAR_crAk4P5DT6FsovwQ",
+          "title": "ATM bike viral technology #viralshorts #bikelover #bikeride #technology #comedy #youtubeshorts #new",
+          "description": "ATM bike viral technology #viralshorts #bikelover #bikeride #technology #comedy #youtubeshorts #new\n\n bike experiment shorts \nbike new technology \ncoins bike rider shorts \nATM bike new feature india \nIndian new bike technology video \n\n#technology #experiment #viralshorts #trendingshorts #youtubeshorts #comedy #bikelover #newvideo",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GY9usnmuC0g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GY9usnmuC0g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GY9usnmuC0g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GY9usnmuC0g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GY9usnmuC0g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mcm sanjay",
+          "tags": [
+            "new bike",
+            "bike technology",
+            "ATM bike",
+            "viral bike",
+            "new ATM",
+            "new indian bike",
+            "bike coins shorts",
+            "ATM tricks",
+            "new ATM video",
+            "viral technology",
+            "new hack",
+            "Tesla bike",
+            "Tesla new technology",
+            "YouTube shorts",
+            "bike experiment"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "ATM bike viral technology #viralshorts #bikelover #bikeride #technology #comedy #youtubeshorts #new",
+            "description": "ATM bike viral technology #viralshorts #bikelover #bikeride #technology #comedy #youtubeshorts #new\n\n bike experiment shorts \nbike new technology \ncoins bike rider shorts \nATM bike new feature india \nIndian new bike technology video \n\n#technology #experiment #viralshorts #trendingshorts #youtubeshorts #comedy #bikelover #newvideo"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "53704786",
+          "likeCount": "548024",
+          "favoriteCount": "0",
+          "commentCount": "773"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "6WTLB5ExPt8RySTfXO7uPb2mXgM",
+        "id": "RHtnrzct2RM",
+        "snippet": {
+          "publishedAt": "2021-10-18T21:51:15Z",
+          "channelId": "UCswhjJmbjCmBOErBUo2NYbg",
+          "title": "The latest Chinese technology trends are amazing",
+          "description": "#techno #short #technology #newphone",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RHtnrzct2RM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "World New News every day",
+          "categoryId": "25",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The latest Chinese technology trends are amazing",
+            "description": "#techno #short #technology #newphone"
+          },
+          "defaultAudioLanguage": "ar"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "963032",
+          "likeCount": "7519",
+          "favoriteCount": "0",
+          "commentCount": "62"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ed5CoIVbG7QP3G6St_lOSV3ldyk",
+        "id": "8jg-zVxSHU0",
+        "snippet": {
+          "publishedAt": "2023-03-31T13:25:00Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "Magical Gadget ft Tech Master #shorts  #youtubeshorts",
+          "description": "How to avoide phone usage! #shorts  #youtubeshorts  #ytshorts  #phone \na phone safety locker with useful quality \n\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8jg-zVxSHU0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8jg-zVxSHU0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8jg-zVxSHU0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8jg-zVxSHU0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8jg-zVxSHU0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "shorts",
+            "viral shorts",
+            "shorts video",
+            "tech",
+            "reaction shorts",
+            "shorts reaction",
+            "comedy",
+            "shorts viral kaise hoga",
+            "youtube shorts",
+            "@shorts",
+            "#shorts",
+            "tech master",
+            "phone",
+            "smartphone",
+            "locker"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Magical Gadget ft Tech Master #shorts  #youtubeshorts",
+            "description": "How to avoide phone usage! #shorts  #youtubeshorts  #ytshorts  #phone \na phone safety locker with useful quality \n\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended...."
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT50S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "33640898",
+          "likeCount": "1562773",
+          "favoriteCount": "0",
+          "commentCount": "1941"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UGpgiJUJvMH5mQWjYO7eBO3Lqhc",
+        "id": "yfjH9sSMESA",
+        "snippet": {
+          "publishedAt": "2024-08-30T17:23:26Z",
+          "channelId": "UCakSAR_crAk4P5DT6FsovwQ",
+          "title": "Shorts video bike technology #shorts #viralshort #newvideo #experiment",
+          "description": "Shorts video bike technology #shorts #viralshort #newvideo #experiment\n #bikelife #bikelover #splendor #technology #new #short #viralvideo #funny #biker #bikeride #biker",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yfjH9sSMESA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yfjH9sSMESA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yfjH9sSMESA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yfjH9sSMESA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yfjH9sSMESA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mcm sanjay",
+          "tags": [
+            "bike",
+            "viral short",
+            "viral bike",
+            "technology",
+            "New shorts",
+            "experiment",
+            "bike lovers",
+            "bike technology",
+            "bikreide",
+            "New trending",
+            "amazing short",
+            "crazy video"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Shorts video bike technology #shorts #viralshort #newvideo #experiment",
+            "description": "Shorts video bike technology #shorts #viralshort #newvideo #experiment\n #bikelife #bikelover #splendor #technology #new #short #viralvideo #funny #biker #bikeride #biker"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "17019199",
+          "likeCount": "129165",
+          "favoriteCount": "0",
+          "commentCount": "123"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FhOQIJ2Z1tfsWjbvdSl4gxEI97M",
+        "id": "zWzF4eQaKYs",
+        "snippet": {
+          "publishedAt": "2024-09-26T13:58:24Z",
+          "channelId": "UCiO3cv9toTRF2cQxHDXZDhQ",
+          "title": "Amazing Technology Of Japanese Engineer's😱||#shorts",
+          "description": "shorts\nfun facts\ninteresting facts\nfacts you didnt know\nyoutube shorts\nfacts that could save your life\nrandom facts\namazing facts\ndaily facts\nlife saving facts\nfacts that can save your life\nfacts that might save your life\nfacts everyone should know \nfacts you should know\nunknown facts that might save your life\nbest facts\nhealth facts\nsafety facts\nlife facts\nmedical facts\nsmart facts\n#shorts\n#viral\n#facts\nrandom facts in hindi\npsychological facts in hindi\nFacts in hindi \nbiggest snake in the world\ncaught on camera\nBiggest \nhuman body\nblack market\nhuman body worth\nHuman body price \ninteresting facts general knowledge\nsrk status\ntop 3 amazing facts best\nthings to do in dubai\nrelaxing music\namazing facts in hindi\nfun facts shorts\nfun facts about the world\ngk questions\ngk in hindi\ndubai travel guide\ndubai mall\nnew video\nunbelievable facts\nfunny facts\ntop enigmatic facts\npsychology facts\n#jsinfoshorts\nphoenician\nፕ15\nflat tyre\nstatic gk for ssc cgl\ngk sciences\ngkpro\ntheory of info\nmr nightmare\nfact shorts\npsychology in hindi\nfacts about love\nbright side\nscary facts\nviral shorts\ntelugu facts\nthe fact\nrobotics excellence, tech mavericks, smart solutions, gadgets, japan tech trends, cool gadgets, inventions, robotics trends, tech breakthroughs, future of ai, robotics innovations, smart home gadgets, future technology, smart home devices, home automation ideas, smart home tech, tech innovations, ai breakthroughs, robotics development, smart home ideas, robotics news, home automation, technology, robotics future, gadget trends, ai future, smart tech solutions, future tech",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zWzF4eQaKYs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zWzF4eQaKYs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zWzF4eQaKYs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zWzF4eQaKYs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zWzF4eQaKYs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jsinfo shorts",
+          "tags": [
+            "ai breakthroughs",
+            "ai future",
+            "cool gadgets",
+            "future of ai",
+            "future tech",
+            "future technology",
+            "gadget trends",
+            "gadgets",
+            "home automation",
+            "home automation ideas",
+            "inventions",
+            "japan tech trends",
+            "robotics development",
+            "robotics excellence",
+            "robotics future",
+            "robotics innovations",
+            "robotics news",
+            "robotics trends",
+            "smart home devices",
+            "smart home gadgets",
+            "smart home ideas",
+            "smart home tech",
+            "smart solutions",
+            "smart tech solutions",
+            "tech breakthroughs",
+            "tech innovations",
+            "tech mavericks",
+            "technology"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Amazing Technology Of Japanese Engineer's😱||#shorts",
+            "description": "shorts\nfun facts\ninteresting facts\nfacts you didnt know\nyoutube shorts\nfacts that could save your life\nrandom facts\namazing facts\ndaily facts\nlife saving facts\nfacts that can save your life\nfacts that might save your life\nfacts everyone should know \nfacts you should know\nunknown facts that might save your life\nbest facts\nhealth facts\nsafety facts\nlife facts\nmedical facts\nsmart facts\n#shorts\n#viral\n#facts\nrandom facts in hindi\npsychological facts in hindi\nFacts in hindi \nbiggest snake in the world\ncaught on camera\nBiggest \nhuman body\nblack market\nhuman body worth\nHuman body price \ninteresting facts general knowledge\nsrk status\ntop 3 amazing facts best\nthings to do in dubai\nrelaxing music\namazing facts in hindi\nfun facts shorts\nfun facts about the world\ngk questions\ngk in hindi\ndubai travel guide\ndubai mall\nnew video\nunbelievable facts\nfunny facts\ntop enigmatic facts\npsychology facts\n#jsinfoshorts\nphoenician\nፕ15\nflat tyre\nstatic gk for ssc cgl\ngk sciences\ngkpro\ntheory of info\nmr nightmare\nfact shorts\npsychology in hindi\nfacts about love\nbright side\nscary facts\nviral shorts\ntelugu facts\nthe fact\nrobotics excellence, tech mavericks, smart solutions, gadgets, japan tech trends, cool gadgets, inventions, robotics trends, tech breakthroughs, future of ai, robotics innovations, smart home gadgets, future technology, smart home devices, home automation ideas, smart home tech, tech innovations, ai breakthroughs, robotics development, smart home ideas, robotics news, home automation, technology, robotics future, gadget trends, ai future, smart tech solutions, future tech"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT22S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3197136",
+          "favoriteCount": "0",
+          "commentCount": "20"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "4TCxgzEN4xjnD5v1twC64sYQkgA",
+        "id": "ZjxiNW-6aPU",
+        "snippet": {
+          "publishedAt": "2023-01-24T13:55:01Z",
+          "channelId": "UCvo2tOQ0yDJLFRi7QAt58yA",
+          "title": "3 Super Unique Gadgets! #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZjxiNW-6aPU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZjxiNW-6aPU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZjxiNW-6aPU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZjxiNW-6aPU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZjxiNW-6aPU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "MostTechy Shorts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "3 Super Unique Gadgets! #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "20866248",
+          "likeCount": "744715",
+          "favoriteCount": "0",
+          "commentCount": "484"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Kgenn-IcNxnoLccc_A6AzrSok1w",
+        "id": "ryGQO8YVVsI",
+        "snippet": {
+          "publishedAt": "2022-12-02T07:15:02Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "ये हैं सबसे सस्ते Cool gadgets...#shorts",
+          "description": "Buy Link - capsule pen - https://amzn.to/45FH672\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ryGQO8YVVsI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ryGQO8YVVsI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ryGQO8YVVsI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ryGQO8YVVsI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ryGQO8YVVsI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "tech master",
+            "shorts",
+            "technology",
+            "facts",
+            "amazingtipsandtricks",
+            "arvind kharra",
+            "gadgets shorts",
+            "coolstuff",
+            "viral video",
+            "capsule",
+            "capsule pen",
+            "sprite key chain",
+            "magic knife"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "ये हैं सबसे सस्ते Cool gadgets...#shorts",
+            "description": "Buy Link - capsule pen - https://amzn.to/45FH672\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended...."
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "true",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34366570",
+          "likeCount": "1671383",
+          "favoriteCount": "0",
+          "commentCount": "1057"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "qFvxwEjYnfY9Xw6R7bdYRA0OygM",
+        "id": "IOVKA9eBzkw",
+        "snippet": {
+          "publishedAt": "2024-09-10T13:23:57Z",
+          "channelId": "UCnrGU9pNN5t7nMdDc2etrRA",
+          "title": "New invention #scienceproject #inventions #technology #tech #shorts",
+          "description": "#scienceproject #schoolproject #technology #inventions #gadgets #ideas #science",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IOVKA9eBzkw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IOVKA9eBzkw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IOVKA9eBzkw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IOVKA9eBzkw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IOVKA9eBzkw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mr. Deshi Inventor ",
+          "tags": [
+            "new invention",
+            "invention",
+            "DIY project",
+            "DIY idea",
+            "homemade invention",
+            "homemade DIY project",
+            "shorts",
+            "youtube shorts",
+            "trending shorts",
+            "science project",
+            "new technology",
+            "smart gadgets",
+            "science",
+            "technology",
+            "gadgets"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New invention #scienceproject #inventions #technology #tech #shorts",
+            "description": "#scienceproject #schoolproject #technology #inventions #gadgets #ideas #science"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "573468",
+          "likeCount": "3790",
+          "favoriteCount": "0",
+          "commentCount": "30"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "vmulf7bw4T0uljjEOmKtarrt6sk",
+        "id": "znMoMAHg9Jo",
+        "snippet": {
+          "publishedAt": "2024-09-23T07:31:18Z",
+          "channelId": "UCnrGU9pNN5t7nMdDc2etrRA",
+          "title": "Smart Invention With Shoes ° DC Motor #dcmotor #inventions #motor #tech #technology #ideas #shorts",
+          "description": "In this video, you can see, smart invention With shoes and DC Motor.. .\n\n\n\nThanks for your support guys 🤗\n\nKeep supporting and enjoy 🤗\n\n\n\nIf you enjoyed our videos please subscribe us and like our videos to support us 🤗\n\n\n\n\nDC motor experiment for beginners, Simple DC motor project tutorial, How to build a DC motor from scratch, Understanding DC motor principles, DC motor basics explained, DIY DC motor project ideas, DC motor speed control experiment, Arduino DC motor project tutorial, Building a small DC motor, Exploring DC motor applications, Working of a DC motor explained, Step-by-step DC motor project guide, DC motor voltage and current experiment, Experimenting with DC motor torque, Simple DC motor circuit demonstration, Enhancing DC motor performance tips, DC motor rotation direction control, Exploring different types of DC motors, Basic principles of DC motor operation, DC motor RPM measurement experiment, Investigating DC motor efficiency, DC motor control using PWM technique, Troubleshooting common DC motor issues, DC motor characteristics and specifications, Understanding DC motor speed-torque curves, DC motor construction materials overview, Introduction to brushless DC motors, Experimenting with gear ratios in DC motors, DIY DC motor controller circuit design, DC motor power consumption analysis, Exploring DC motor commutation methods, How to calculate DC motor parameters, Investigating back EMF in DC motors, Advantages of using DC motors, Disadvantages of DC motors compared to AC motors, DC motor encoder integration tutorial, Applications of DC motors in robotics, DC motor driver selection guide, DC motor overheating prevention techniques, Comparing brushed vs. brushless DC motors, DC motor gearbox design considerations, DC motor speed regulation methods, Understanding DC motor feedback systems, Exploring regenerative braking in DC motors, DC motor position control experiment, DC motor starter circuit design tutorial, How to make a DC motor more efficient, DC motor maintenance tips and tricks, Investigating DC motor noise and vibration, DC motor safety precautions during experiments..😊\n\n#inventions #dcmotor #tech #diyideas #diyprojects #homemade #motor #dcmotorproject #youtubeshorts #trendingshorts #viralshorts #shorts #gadgets #appliances #tools #ytshorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/znMoMAHg9Jo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/znMoMAHg9Jo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/znMoMAHg9Jo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/znMoMAHg9Jo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/znMoMAHg9Jo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mr. Deshi Inventor ",
+          "tags": [
+            "Smart invention",
+            "Smart gadgets",
+            "DIY idea",
+            "homemade invention",
+            "gadgets",
+            "technology",
+            "homemade DIY project",
+            "shorts",
+            "youtube shorts",
+            "viral shorts",
+            "trending shorts",
+            "science and technology",
+            "Mr deshi inventor",
+            "science"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Smart Invention With Shoes ° DC Motor #dcmotor #inventions #motor #tech #technology #ideas #shorts",
+            "description": "In this video, you can see, smart invention With shoes and DC Motor.. .\n\n\n\nThanks for your support guys 🤗\n\nKeep supporting and enjoy 🤗\n\n\n\nIf you enjoyed our videos please subscribe us and like our videos to support us 🤗\n\n\n\n\nDC motor experiment for beginners, Simple DC motor project tutorial, How to build a DC motor from scratch, Understanding DC motor principles, DC motor basics explained, DIY DC motor project ideas, DC motor speed control experiment, Arduino DC motor project tutorial, Building a small DC motor, Exploring DC motor applications, Working of a DC motor explained, Step-by-step DC motor project guide, DC motor voltage and current experiment, Experimenting with DC motor torque, Simple DC motor circuit demonstration, Enhancing DC motor performance tips, DC motor rotation direction control, Exploring different types of DC motors, Basic principles of DC motor operation, DC motor RPM measurement experiment, Investigating DC motor efficiency, DC motor control using PWM technique, Troubleshooting common DC motor issues, DC motor characteristics and specifications, Understanding DC motor speed-torque curves, DC motor construction materials overview, Introduction to brushless DC motors, Experimenting with gear ratios in DC motors, DIY DC motor controller circuit design, DC motor power consumption analysis, Exploring DC motor commutation methods, How to calculate DC motor parameters, Investigating back EMF in DC motors, Advantages of using DC motors, Disadvantages of DC motors compared to AC motors, DC motor encoder integration tutorial, Applications of DC motors in robotics, DC motor driver selection guide, DC motor overheating prevention techniques, Comparing brushed vs. brushless DC motors, DC motor gearbox design considerations, DC motor speed regulation methods, Understanding DC motor feedback systems, Exploring regenerative braking in DC motors, DC motor position control experiment, DC motor starter circuit design tutorial, How to make a DC motor more efficient, DC motor maintenance tips and tricks, Investigating DC motor noise and vibration, DC motor safety precautions during experiments..😊\n\n#inventions #dcmotor #tech #diyideas #diyprojects #homemade #motor #dcmotorproject #youtubeshorts #trendingshorts #viralshorts #shorts #gadgets #appliances #tools #ytshorts"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "21664641",
+          "likeCount": "123822",
+          "favoriteCount": "0",
+          "commentCount": "421"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "A-JK_ywXPpU9Ofi11-c9ZtL3Nto",
+        "id": "0RD0B9_qylk",
+        "snippet": {
+          "publishedAt": "2022-11-10T09:07:02Z",
+          "channelId": "UCBbeXVY55K5estTHrKWJ5Yg",
+          "title": "Rs.99 Gadget Will Make You More Attractive? #shorts #gadgets",
+          "description": "Rs.99 Gadget Will Make You More Attractive? #shorts #gadgets",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0RD0B9_qylk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0RD0B9_qylk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0RD0B9_qylk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0RD0B9_qylk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0RD0B9_qylk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech FC Shorts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Rs.99 Gadget Will Make You More Attractive? #shorts #gadgets",
+            "description": "Rs.99 Gadget Will Make You More Attractive? #shorts #gadgets"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22405899",
+          "likeCount": "1129958",
+          "favoriteCount": "0",
+          "commentCount": "583"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "rBKPxtlJqB-qxutqLWBo2kSexAA",
+        "id": "WUaSvnLpgY0",
+        "snippet": {
+          "publishedAt": "2024-10-08T13:21:04Z",
+          "channelId": "UCVktkp1b1NLkdfjdZIBjIoA",
+          "title": "Chinese Technology 🙉 AdvikJourney #china #technology #viralvideo #trending #travel #shorts",
+          "description": "Instagram : AdvikJourney \nFollow For more videos ❣️\n\nChinese Technology 🙉 AdvikJourney #china #technology #viralvideo #trending #travel #shorts #facts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WUaSvnLpgY0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WUaSvnLpgY0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WUaSvnLpgY0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WUaSvnLpgY0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WUaSvnLpgY0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AdvikJourney",
+          "tags": [
+            "China",
+            "Wuhan",
+            "Technology",
+            "Shorts",
+            "Ytshorts",
+            "Viral video",
+            "Videos",
+            "China shorts",
+            "Ytshort",
+            "Short",
+            "China technology",
+            "Viral shorts",
+            "Insta Reels",
+            "Funny shorts",
+            "Indian in china",
+            "China vlogs",
+            "China hindi vlogs",
+            "Student life in china",
+            "China facts",
+            "Technology shorts",
+            "Chinese technology",
+            "Tech products",
+            "Funny video",
+            "China hindi vlog",
+            "Indian to china",
+            "Travel vlogs china",
+            "Lifestyle vlogs",
+            "Trends",
+            "Trending shorts",
+            "China funny video",
+            "Indian travel vlogger"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Chinese Technology 🙉 AdvikJourney #china #technology #viralvideo #trending #travel #shorts",
+            "description": "Instagram : AdvikJourney \nFollow For more videos ❣️\n\nChinese Technology 🙉 AdvikJourney #china #technology #viralvideo #trending #travel #shorts #facts"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3125754",
+          "likeCount": "65787",
+          "favoriteCount": "0",
+          "commentCount": "216"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "bpuk1nW6XSyAmoleXrfcfyep9ms",
+        "id": "xNU5QRra-3o",
+        "snippet": {
+          "publishedAt": "2025-04-03T06:20:26Z",
+          "channelId": "UCsBL0eE13BdFrVuc0-QmTzw",
+          "title": "Technology ❌ Technologia ✅ #shorts #shortvideo #shortsfeed #technology #viralshort #funnyvideo #meme",
+          "description": "Technology ❌ Technologia ✅ #shorts #shortvideo #shortsfeed #technology #viralshort #funnyvideo #meme\n\nYour Queries: fivengersteam001@gmail.com \n\nshorts,youtube shorts,shorts youtube,youtube short,youtube shorts video,#shorts\n\n#youtubeshortscomedyvideo #youtubeshortscomedyshorts #youtubeshortscomedyvideokaisebanaye #youtubeshortscomedyvideoviralkaisekare #youtubeshortscomedyfunny #youtubeshortscomedybgm #youtubeshortscomedyvideoediting\n#shorts \n#shortsfeed \n#shortvideos\n#uttarpradesh",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xNU5QRra-3o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xNU5QRra-3o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xNU5QRra-3o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xNU5QRra-3o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xNU5QRra-3o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "The Fivengers",
+          "tags": [
+            "shorts",
+            "shortsvideo",
+            "shortsviral",
+            "shortsindia",
+            "ytshorts",
+            "youtubeshorts",
+            "youtube India",
+            "technology",
+            "fyp",
+            "funny",
+            "comedy",
+            "memes",
+            "viral",
+            "uttar pradesh"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Technology ❌ Technologia ✅ #shorts #shortvideo #shortsfeed #technology #viralshort #funnyvideo #meme",
+            "description": "Technology ❌ Technologia ✅ #shorts #shortvideo #shortsfeed #technology #viralshort #funnyvideo #meme\n\nYour Queries: fivengersteam001@gmail.com \n\nshorts,youtube shorts,shorts youtube,youtube short,youtube shorts video,#shorts\n\n#youtubeshortscomedyvideo #youtubeshortscomedyshorts #youtubeshortscomedyvideokaisebanaye #youtubeshortscomedyvideoviralkaisekare #youtubeshortscomedyfunny #youtubeshortscomedybgm #youtubeshortscomedyvideoediting\n#shorts \n#shortsfeed \n#shortvideos\n#uttarpradesh"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT44S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2211929",
+          "likeCount": "25730",
+          "favoriteCount": "0",
+          "commentCount": "277"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "IeQvMrD_9EWCCk2ILethexjjvvc",
+        "id": "PbB5r2p3Sl4",
+        "snippet": {
+          "publishedAt": "2024-05-25T14:43:01Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "This Gadget can ZOOM Upto 200X 🤭",
+          "description": "#shorts #technology #gadgets \ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PbB5r2p3Sl4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PbB5r2p3Sl4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PbB5r2p3Sl4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PbB5r2p3Sl4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PbB5r2p3Sl4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "tech master",
+            "shorts",
+            "technology",
+            "facts",
+            "amazingtipsandtricks",
+            "arvind kharra",
+            "GADGETS",
+            "zoom",
+            "200x zoom",
+            "s24 ultra zoom",
+            "smartphone zoom",
+            "iphone zoom",
+            "gadget",
+            "new product",
+            "master shorts",
+            "400x zoom",
+            "apple zoom",
+            "new videos",
+            "viral trick",
+            "india",
+            "hindi",
+            "latest videos",
+            "most popular gadget",
+            "zoom camera",
+            "smartphone",
+            "zooming gadget",
+            "techmaster"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This Gadget can ZOOM Upto 200X 🤭",
+            "description": "#shorts #technology #gadgets \ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4741022",
+          "likeCount": "303701",
+          "favoriteCount": "0",
+          "commentCount": "2770"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ee-e6PfAFUxWptIIjnnDM_3zgk8",
+        "id": "H1zZMgMOYuU",
+        "snippet": {
+          "publishedAt": "2025-02-05T09:15:01Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "Real ATM vs Gullak ATM कौन किस पर भारी😱#shorts",
+          "description": "#shorts \nReal ATM vs Gullak ATM कौन किस पर भारी😱#shorts \nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H1zZMgMOYuU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H1zZMgMOYuU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H1zZMgMOYuU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H1zZMgMOYuU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H1zZMgMOYuU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "tech master",
+            "shorts",
+            "technology",
+            "facts",
+            "amazingtipsandtricks",
+            "arvind kharra",
+            "gullak",
+            "broken gullak",
+            "gullak broken",
+            "gullak fod diya",
+            "formula 1 news",
+            "anaya kandhal",
+            "f1 silly season",
+            "how do make a atm",
+            "how to make a atm machine",
+            "how much is a personal atm?",
+            "#shorts how to make a atm machine",
+            "#shorts how to make atm with paper",
+            "realistic atm money bank unboxing",
+            "#playset",
+            "giftidea",
+            "#relaxing",
+            "giftideas",
+            "piggy bank machine for real money with card",
+            "atm mal ware"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Real ATM vs Gullak ATM कौन किस पर भारी😱#shorts",
+            "description": "#shorts \nReal ATM vs Gullak ATM कौन किस पर भारी😱#shorts \nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended...."
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT52S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "69566972",
+          "likeCount": "1572164",
+          "favoriteCount": "0",
+          "commentCount": "1399"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TVyVt-dm83L9Qaf5Foe4Ci1q3n4",
+        "id": "U98UIsBAPMA",
+        "snippet": {
+          "publishedAt": "2025-08-26T02:00:34Z",
+          "channelId": "UCMsPm8-25ygqRrRe9_s1WFw",
+          "title": "This is technology 😎😂 LeoNata family #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U98UIsBAPMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U98UIsBAPMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U98UIsBAPMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/U98UIsBAPMA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/U98UIsBAPMA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "LeoNata Family",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This is technology 😎😂 LeoNata family #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT18S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "46200791",
+          "likeCount": "212781",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "MgeVC4mIyULQi4LT0Zdx-zjkN4Q",
+        "id": "o4jEHIGBR_U",
+        "snippet": {
+          "publishedAt": "2025-04-20T06:35:00Z",
+          "channelId": "UCQXG7nBmEbQ6WMc6CIrVtJg",
+          "title": "Technology ❌ Technologia..✅ #shorts #funny #technology #trending",
+          "description": "Technology \n#technology \n#trending \n#funny \n#technologia",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o4jEHIGBR_U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o4jEHIGBR_U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o4jEHIGBR_U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/o4jEHIGBR_U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/o4jEHIGBR_U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jax Zone",
+          "tags": [
+            "Technology",
+            "Trending technologia",
+            "Trending technology",
+            "Technology funny video",
+            "Funny",
+            "Video",
+            "Viral",
+            "Trending memes",
+            "Reels",
+            "Instagram trending video",
+            "Lol",
+            "Haha",
+            "Jaat movie total collection",
+            "Jaat movie action scene",
+            "Ai trending"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Technology ❌ Technologia..✅ #shorts #funny #technology #trending",
+            "description": "Technology \n#technology \n#trending \n#funny \n#technologia"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "646300",
+          "likeCount": "4726",
+          "favoriteCount": "0",
+          "commentCount": "35"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "VlMIGsqOPys-dZnoHrbSCZz0Pwo",
+        "id": "IYLbIbMZ9IQ",
+        "snippet": {
+          "publishedAt": "2024-04-28T09:05:34Z",
+          "channelId": "UCfBq1NGgEepzrSqiJ_OUffQ",
+          "title": "invention",
+          "description": "#led #remote #circuit #shorts #ytshorts #short #youtubeshorts #viral #trending \n\n#inventions \n#electronics #diy #hack #tips #tricks #howto #video #led \n#reels #reelsinstagram  #electrical #experiment #engineering #diy #circuit #technology #science #creative #arduino #project  #fory #circuit  #utsource  #abelectric #ideas #tiktok #howto",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IYLbIbMZ9IQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IYLbIbMZ9IQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IYLbIbMZ9IQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IYLbIbMZ9IQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IYLbIbMZ9IQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AB Electric",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "invention",
+            "description": "#led #remote #circuit #shorts #ytshorts #short #youtubeshorts #viral #trending \n\n#inventions \n#electronics #diy #hack #tips #tricks #howto #video #led \n#reels #reelsinstagram  #electrical #experiment #engineering #diy #circuit #technology #science #creative #arduino #project  #fory #circuit  #utsource  #abelectric #ideas #tiktok #howto"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4113095",
+          "likeCount": "47526",
+          "favoriteCount": "0",
+          "commentCount": "212"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "f7UgiXV9K88ZZ1ZkT_hMdsxBwdU",
+        "id": "07OQ1uQ4-do",
+        "snippet": {
+          "publishedAt": "2024-02-07T13:00:00Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "Apple Vision Pro सबसे महंगा चश्मा 😱 #shorts #apple",
+          "description": "Apple Vision Pro सबसे महंगा चश्मा 😱 #shorts #apple \napple | applevisionpro | VRheadset | mostpopularvideo | trendingshorts\n#techmaster #gadgets #apple #vr #applevisionpro \n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/07OQ1uQ4-do/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/07OQ1uQ4-do/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/07OQ1uQ4-do/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/07OQ1uQ4-do/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/07OQ1uQ4-do/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "tech master",
+            "shorts",
+            "technology",
+            "apple",
+            "visionpro",
+            "expensivegadget",
+            "new apple product",
+            "trending gadget",
+            "dubai",
+            "unboxing",
+            "fun tech",
+            "visionpro2024",
+            "apple product"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Apple Vision Pro सबसे महंगा चश्मा 😱 #shorts #apple",
+            "description": "Apple Vision Pro सबसे महंगा चश्मा 😱 #shorts #apple \napple | applevisionpro | VRheadset | mostpopularvideo | trendingshorts\n#techmaster #gadgets #apple #vr #applevisionpro \n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended...."
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT51S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5918773",
+          "likeCount": "299247",
+          "favoriteCount": "0",
+          "commentCount": "469"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "zUu08UQw8G8YqZeG4AU-24KvHus",
+        "id": "30RpPG8D9c4",
+        "snippet": {
+          "publishedAt": "2025-09-15T12:27:33Z",
+          "channelId": "UCGMcVCg3tHKmy9oaUCIw8xw",
+          "title": "iPhone 17 Pro or iPhone Air? #Shorts",
+          "description": "It’s a win–win whichever you choose: iPhone 17 Pro, our most pro iPhone yet, or iPhone Air, our thinnest iPhone ever. \n\n#GuidedTour #iPhone #iPhone17Pro #iPhoneAir #iPhone17",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/30RpPG8D9c4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/30RpPG8D9c4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/30RpPG8D9c4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/30RpPG8D9c4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/30RpPG8D9c4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Apple India",
+          "tags": [
+            "Apple"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "iPhone 17 Pro or iPhone Air? #Shorts",
+            "description": "It’s a win–win whichever you choose: iPhone 17 Pro, our most pro iPhone yet, or iPhone Air, our thinnest iPhone ever. \n\n#GuidedTour #iPhone #iPhone17Pro #iPhoneAir #iPhone17"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "26933",
+          "likeCount": "1811",
+          "favoriteCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "RZ0PUlMqTp_7VogLkoYqJWptxmE",
+        "id": "72O_2Wid1d8",
+        "snippet": {
+          "publishedAt": "2025-03-29T06:01:05Z",
+          "channelId": "UCQXG7nBmEbQ6WMc6CIrVtJg",
+          "title": "Technology ❌ Technologia ✅🤪#shorts #shortvideos #technology",
+          "description": "Technology\nTechnology video \nTechnologia \nShort video \nComedy \n#technology \n#shortvideos ￼",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/72O_2Wid1d8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/72O_2Wid1d8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/72O_2Wid1d8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/72O_2Wid1d8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/72O_2Wid1d8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jax Zone",
+          "tags": [
+            "Technology",
+            "Technology funny video",
+            "Technologia viral",
+            "Technology viral video",
+            "Short video",
+            "Comedy video",
+            "Trending video",
+            "YouTube trending video",
+            "Instagram trending",
+            "Reels",
+            "Funny video",
+            "Funny",
+            "Facebook funny video",
+            "Sikandar movie trailer",
+            "Sikandar movie song",
+            "Eid Mubarak",
+            "Akka",
+            "Eid Mubara",
+            "Eid Mubarak song",
+            "Mubarak eid mubarak",
+            "Mitha"
+          ],
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Technology ❌ Technologia ✅🤪#shorts #shortvideos #technology",
+            "description": "Technology\nTechnology video \nTechnologia \nShort video \nComedy \n#technology \n#shortvideos ￼"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1815269",
+          "likeCount": "18945",
+          "favoriteCount": "0",
+          "commentCount": "45"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "k8gq-EFxKyrC0IcYmZCQ1gIrK2A",
+        "id": "92QwyJRz9II",
+        "snippet": {
+          "publishedAt": "2023-04-26T13:30:06Z",
+          "channelId": "UCErRiAj1rGIyFqNtQ3INgng",
+          "title": "Japan amazing technology #factsintelugu 😱వావ్ జపాన్😱 #amazingfacts #truefacts #shorts",
+          "description": "Please subscribe to my channel for more interesting and amazing videos.\n\n#truefacts #truefactstelugu #telugutruefacts\n\n#shorts #telugufacts #factsintelugu #interstingfacts #amazingfacts #youtubeshorts #youtubeshortsvideo #telugu #telugufactschannel \n\nThanks for watching\n\nTags : \nfacts, facts in telugu, interesting facts, amazing facts, true facts, true facts telugu, top 10 interesting facts, top 10 amazing facts, latest telugu facts, new telugu facts, latest interesting facts,",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/92QwyJRz9II/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/92QwyJRz9II/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/92QwyJRz9II/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/92QwyJRz9II/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/92QwyJRz9II/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "True Facts Telugu",
+          "tags": [
+            "facts",
+            "facts in telugu",
+            "interesting facts",
+            "amazing facts",
+            "true facts",
+            "true facts telugu",
+            "top 10 interesting facts",
+            "top 10 amazing facts",
+            "latest telugu facts",
+            "new telugu facts",
+            "latest interesting facts"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Japan amazing technology #factsintelugu 😱వావ్ జపాన్😱 #amazingfacts #truefacts #shorts",
+            "description": "Please subscribe to my channel for more interesting and amazing videos.\n\n#truefacts #truefactstelugu #telugutruefacts\n\n#shorts #telugufacts #factsintelugu #interstingfacts #amazingfacts #youtubeshorts #youtubeshortsvideo #telugu #telugufactschannel \n\nThanks for watching\n\nTags : \nfacts, facts in telugu, interesting facts, amazing facts, true facts, true facts telugu, top 10 interesting facts, top 10 amazing facts, latest telugu facts, new telugu facts, latest interesting facts,"
+          },
+          "defaultAudioLanguage": "te"
+        },
+        "contentDetails": {
+          "duration": "PT26S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8091747",
+          "likeCount": "194603",
+          "favoriteCount": "0",
+          "commentCount": "95"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "oQU_5BFNPSgwZAYjTN8C4m2u3rI",
+        "id": "XKdiJInSe78",
+        "snippet": {
+          "publishedAt": "2024-08-11T14:15:02Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "World's smallest gadgets 🤯 #shorts",
+          "description": "SUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....\n#shorts #gadgets",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XKdiJInSe78/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XKdiJInSe78/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XKdiJInSe78/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XKdiJInSe78/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XKdiJInSe78/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "tech master",
+            "shorts",
+            "technology",
+            "facts",
+            "amazingtipsandtricks",
+            "arvind kharra",
+            "world smallest gadgets",
+            "world biggest gadget",
+            "gadgets",
+            "miniature gadgets",
+            "techmaster short",
+            "comedy",
+            "trending shorts",
+            "techy",
+            "brotherhood",
+            "childhood",
+            "unique unique gadgets",
+            "uniqce gadgets",
+            "online gadets",
+            "tech"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "World's smallest gadgets 🤯 #shorts",
+            "description": "SUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....\n#shorts #gadgets"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "50398357",
+          "likeCount": "848142",
+          "favoriteCount": "0",
+          "commentCount": "646"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "xCPNIwFsZxlOghHH410F5K-U2bE",
+        "id": "4wZwXhoxRIA",
+        "snippet": {
+          "publishedAt": "2025-01-04T19:26:39Z",
+          "channelId": "UCKaWD4ZM7ixlot6ysBVKP_g",
+          "title": "15 Tech Gadgets I Use Every Day #shorts #justicebuys #tech",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4wZwXhoxRIA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Justice Buys",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "15 Tech Gadgets I Use Every Day #shorts #justicebuys #tech",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "18769683",
+          "likeCount": "618986",
+          "favoriteCount": "0",
+          "commentCount": "2563"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "d_R9SPFfxY0ov9CNY6L7TwqNpEY",
+        "id": "0zjIQhmPJMA",
+        "snippet": {
+          "publishedAt": "2024-09-23T13:30:02Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "4 School Students Gadgets🤩 #shorts",
+          "description": "SUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....\n#shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0zjIQhmPJMA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0zjIQhmPJMA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0zjIQhmPJMA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0zjIQhmPJMA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0zjIQhmPJMA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "tech master",
+            "shorts",
+            "technology",
+            "facts",
+            "amazingtipsandtricks",
+            "arvind kharra",
+            "gadgets",
+            "cool gadgets",
+            "gadgets for students",
+            "new students gadgets",
+            "latest students gadgets",
+            "student gadgets",
+            "new gadgets",
+            "gadgets for student",
+            "student gadgets on amazon",
+            "best gadgets for students",
+            "amazon gadgets",
+            "amazing students gadgets",
+            "study gadgets",
+            "must have students gadget",
+            "awesome student gadgets",
+            "students gadget innovations",
+            "gadgets on amazon",
+            "techmaster shorts"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "4 School Students Gadgets🤩 #shorts",
+            "description": "SUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....\n#shorts"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT41S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7141974",
+          "likeCount": "279349",
+          "favoriteCount": "0",
+          "commentCount": "875"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "R2DUSPTOcZNBWGMjd7WjvoFQ3z0",
+        "id": "OPLkS9wLhow",
+        "snippet": {
+          "publishedAt": "2023-05-12T01:30:12Z",
+          "channelId": "UChvzFAyWyofbidb7Mh3WMZw",
+          "title": "My Previous Science Experiment #shorts #science #technology #trending",
+          "description": "My Previous Science Experiment #shorts #science #technology #trending",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OPLkS9wLhow/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OPLkS9wLhow/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OPLkS9wLhow/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OPLkS9wLhow/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OPLkS9wLhow/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "VMK Technical Power",
+          "tags": [
+            "shorts",
+            "science",
+            "technology",
+            "trending"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My Previous Science Experiment #shorts #science #technology #trending",
+            "description": "My Previous Science Experiment #shorts #science #technology #trending"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "14028038",
+          "likeCount": "526229",
+          "favoriteCount": "0",
+          "commentCount": "1148"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ct_bkuGHTsvakzIwaqyGjkvN4j0",
+        "id": "g2_3jU7ysdc",
+        "snippet": {
+          "publishedAt": "2024-05-13T16:05:54Z",
+          "channelId": "UC7-PWJBq7yiStftsUqVsSqw",
+          "title": "Unique Technology of Japan 😱 #shorts #science",
+          "description": "Unique Technology of Japan 😱 #shorts #science #technology #facts #hindi \n\namazing facts by yefacts\nviral shorts\nscience facts in hindi\nfacttechz\nfactsmine",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g2_3jU7ysdc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g2_3jU7ysdc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g2_3jU7ysdc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/g2_3jU7ysdc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/g2_3jU7ysdc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "YeFacts",
+          "tags": [
+            "shorts",
+            "amazing facts",
+            "science facts",
+            "shorts hindi",
+            "latest viral shorts"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Unique Technology of Japan 😱 #shorts #science",
+            "description": "Unique Technology of Japan 😱 #shorts #science #technology #facts #hindi \n\namazing facts by yefacts\nviral shorts\nscience facts in hindi\nfacttechz\nfactsmine"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5162838",
+          "likeCount": "66880",
+          "favoriteCount": "0",
+          "commentCount": "102"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "__zcYaQ3mhCymof49AX0ViK3eDw",
+        "id": "R6sWmlyXmys",
+        "snippet": {
+          "publishedAt": "2025-05-31T13:34:13Z",
+          "channelId": "UCYJp64Of-hn-v83fJRy7nig",
+          "title": "china smart roads and technology😲 #china #technology #facts #knowledge #road #hindi #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R6sWmlyXmys/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R6sWmlyXmys/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R6sWmlyXmys/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/R6sWmlyXmys/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/R6sWmlyXmys/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "яємємвєя me ",
+          "categoryId": "23",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "china smart roads and technology😲 #china #technology #facts #knowledge #road #hindi #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3399585",
+          "likeCount": "115943",
+          "favoriteCount": "0",
+          "commentCount": "1961"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "J56VfUjCoD9Wg9uj2f1PcTG-h8M",
+        "id": "ewmRD0MacxI",
+        "snippet": {
+          "publishedAt": "2024-12-10T10:30:15Z",
+          "channelId": "UCcCjXTiKc-0wFKHI035VVzQ",
+          "title": "Top 3 Smartphone gadgets under ₹50||🔥🤯 #shorts #gadgets #viralvideo #ytshorts",
+          "description": "Top 3 Smartphone gadgets under ₹50||🔥🤯 #shorts #gadgets #viralvideo #ytshorts\n\ntop 3 unique gadgets\ncool unique gadgets\nunique useful gadgets\nunique gadgets\nunique tech gadgets\nunique cool gadgets\ntop 3 gadgets\nunique gadget gifts\ncoolest futuristic gadgets\ncoolest magnetic gadgets\ncool gadgets under 30 dollars\nunique devices\nd unique tools\nunique smart gadgets\nfuture cool gadgets\nfuturistic gadgets that don't exist\nfuturistic tools\nhi-tech gadgets\nunique tech items\njapanese cool gadgets\nmost unique kitchen gadgets\nbest unique kitchen gadgets\ntop 3 gadgets of 2024\nunique gadgets in the world\nunique gadgets to buy\nmost useful gadgets\nunique pieces of technology\nunique toys octane\nunique tech products\nunique technology products\nr-t best gadget\nworld's coolest gadgets\nzz top 3 piece band\nzz top gifts\nzz top gnomes\nzz top without hats and glasses\n20 coolest gadgets\n10 coolest gadgets\n3 gadgets\nwhat are the top 5 gadgets\n6 gadgets\n\nGadgets\nTop 3 gadgets\nThis 2 Gadgets will save your Life\nGadgets can save you life\nstudent safety gadgets\nsafety gadgets\nv3 facts\nCool gadgets\niPhone\nreview\ntech\nUnboxing\nunboxing gadgets\namazon\nsmart watch\nsmart phone\nai\n\n#gadgets #tech #amazon #review #ai #iphone #unboxing #youtubeshorts #shortsfeed #gadgetsshorts #iphone15\n#watch #smartwatch #shortsfunny #Godunbox",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ewmRD0MacxI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ewmRD0MacxI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ewmRD0MacxI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ewmRD0MacxI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ewmRD0MacxI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "v3 facts ",
+          "tags": [
+            "shorts",
+            "gadgets",
+            "amazing gadgets",
+            "unique gadgets",
+            "unique cool gadgets",
+            "usefull Gadgets",
+            "Top 3 Smartphone gadgets",
+            "Top 3 Smartphone gadgets under 50",
+            "Top 3 Best Unique Gadgets",
+            "boys gadgets"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Top 3 Smartphone gadgets under ₹50||🔥🤯 #shorts #gadgets #viralvideo #ytshorts",
+            "description": "Top 3 Smartphone gadgets under ₹50||🔥🤯 #shorts #gadgets #viralvideo #ytshorts\n\ntop 3 unique gadgets\ncool unique gadgets\nunique useful gadgets\nunique gadgets\nunique tech gadgets\nunique cool gadgets\ntop 3 gadgets\nunique gadget gifts\ncoolest futuristic gadgets\ncoolest magnetic gadgets\ncool gadgets under 30 dollars\nunique devices\nd unique tools\nunique smart gadgets\nfuture cool gadgets\nfuturistic gadgets that don't exist\nfuturistic tools\nhi-tech gadgets\nunique tech items\njapanese cool gadgets\nmost unique kitchen gadgets\nbest unique kitchen gadgets\ntop 3 gadgets of 2024\nunique gadgets in the world\nunique gadgets to buy\nmost useful gadgets\nunique pieces of technology\nunique toys octane\nunique tech products\nunique technology products\nr-t best gadget\nworld's coolest gadgets\nzz top 3 piece band\nzz top gifts\nzz top gnomes\nzz top without hats and glasses\n20 coolest gadgets\n10 coolest gadgets\n3 gadgets\nwhat are the top 5 gadgets\n6 gadgets\n\nGadgets\nTop 3 gadgets\nThis 2 Gadgets will save your Life\nGadgets can save you life\nstudent safety gadgets\nsafety gadgets\nv3 facts\nCool gadgets\niPhone\nreview\ntech\nUnboxing\nunboxing gadgets\namazon\nsmart watch\nsmart phone\nai\n\n#gadgets #tech #amazon #review #ai #iphone #unboxing #youtubeshorts #shortsfeed #gadgetsshorts #iphone15\n#watch #smartwatch #shortsfunny #Godunbox"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT28S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3695674",
+          "favoriteCount": "0",
+          "commentCount": "30858"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "hzKy3g0NeVBruAB4_IUO2Z7NYAE",
+        "id": "sXGSx6C99GM",
+        "snippet": {
+          "publishedAt": "2025-03-02T12:56:51Z",
+          "channelId": "UCBbeXVY55K5estTHrKWJ5Yg",
+          "title": "4 Satisfying Gadgets #shorts #gadgets",
+          "description": "4 Satisfying Gadgets #shorts #gadgets",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sXGSx6C99GM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sXGSx6C99GM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sXGSx6C99GM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sXGSx6C99GM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sXGSx6C99GM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech FC Shorts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "4 Satisfying Gadgets #shorts #gadgets",
+            "description": "4 Satisfying Gadgets #shorts #gadgets"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8069902",
+          "likeCount": "171538",
+          "favoriteCount": "0",
+          "commentCount": "85"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y3nNmHG7heOEzzgPMVuBK5Pe1Ao",
+        "id": "fjmFCfyn6Zg",
+        "snippet": {
+          "publishedAt": "2025-05-02T09:40:28Z",
+          "channelId": "UCGuieeNbdoWcmKXPDBEwevg",
+          "title": "Japan ki 5 Khatarnak technology #shorts",
+          "description": "Japan ki 5 Khatarnak technology #shorts\n#japan\n#facts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fjmFCfyn6Zg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fjmFCfyn6Zg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fjmFCfyn6Zg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fjmFCfyn6Zg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fjmFCfyn6Zg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ks world facts ",
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Japan ki 5 Khatarnak technology #shorts",
+            "description": "Japan ki 5 Khatarnak technology #shorts\n#japan\n#facts"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT42S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6347789",
+          "favoriteCount": "0",
+          "commentCount": "97"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "AOEqKTFueG0P651NXMW36tjh5XE",
+        "id": "fjo_mb1oSUA",
+        "snippet": {
+          "publishedAt": "2024-08-31T02:45:01Z",
+          "channelId": "UCNUs-Bc-D0cNjvutSX8pxFA",
+          "title": "This Japanese Technology is Amazing😱 | Japan Technology #shorts #viral",
+          "description": "This Japanese Technology is Amazing😱 | Japan Technology\n\nFOLLOW ME ON:\n📘 Facebook:\nhttps://www.facebook.com/edwardfactz8886\n\n📸Instagram:\nhttps://instagram.com/edwardfactz?igshid=MzNlNGNkZWQ4Mg==\n\n💬 Twitter:\n@edward20010797\n\n📌 Pinterest:\nhttps://in.pinterest.com/bali1256/\n\n🔍Tags:\n#edwardfactz #japan #technology #tech #shorts #ytshorts #youtubeshorts  \n\nThank You for watching this video.\nGive Some Love & Support.\n\n* Copyright Disclaimer Under Section 107 of the Copyright Act 1976, Allowance is made for \"Fair Use\" for Purposes such as Criticism, Comment, News Reporting, Teaching, Scholarship, and Research. Fair use is a use Permitted by Copyright Statute that might otherwise be infringing. Non-profit, Educational or Personal use tips the balance in Favour of fair use.\n\nBarjinder Partap SIngh\nFrom: Punjab, India\n\n🌌 Unlock the Secrets of the World with  @EdwardFactz   - Subscribe now and embrace the magic of knowledge! 🌌",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fjo_mb1oSUA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fjo_mb1oSUA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fjo_mb1oSUA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fjo_mb1oSUA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fjo_mb1oSUA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Edward Factz",
+          "tags": [
+            "shorts",
+            "japan technology",
+            "japan technology shorts",
+            "japanese technology",
+            "tech",
+            "This Japanese Technology is Amazing😱",
+            "yt shorts",
+            "youtube shorts",
+            "trending shorts",
+            "short video",
+            "shorts video",
+            "short",
+            "amazing facts",
+            "amazing facts in hindi",
+            "interesting facts",
+            "mind blowing facts",
+            "facts",
+            "facts in hindi",
+            "random facts",
+            "edward factz"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "This Japanese Technology is Amazing😱 | Japan Technology #shorts #viral",
+            "description": "This Japanese Technology is Amazing😱 | Japan Technology\n\nFOLLOW ME ON:\n📘 Facebook:\nhttps://www.facebook.com/edwardfactz8886\n\n📸Instagram:\nhttps://instagram.com/edwardfactz?igshid=MzNlNGNkZWQ4Mg==\n\n💬 Twitter:\n@edward20010797\n\n📌 Pinterest:\nhttps://in.pinterest.com/bali1256/\n\n🔍Tags:\n#edwardfactz #japan #technology #tech #shorts #ytshorts #youtubeshorts  \n\nThank You for watching this video.\nGive Some Love & Support.\n\n* Copyright Disclaimer Under Section 107 of the Copyright Act 1976, Allowance is made for \"Fair Use\" for Purposes such as Criticism, Comment, News Reporting, Teaching, Scholarship, and Research. Fair use is a use Permitted by Copyright Statute that might otherwise be infringing. Non-profit, Educational or Personal use tips the balance in Favour of fair use.\n\nBarjinder Partap SIngh\nFrom: Punjab, India\n\n🌌 Unlock the Secrets of the World with  @EdwardFactz   - Subscribe now and embrace the magic of knowledge! 🌌"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT23S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "197941",
+          "likeCount": "3411",
+          "favoriteCount": "0",
+          "commentCount": "28"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "nXDessTCuAg2Y1GGz2wzC0MhHB4",
+        "id": "rFSVBP-cjzg",
+        "snippet": {
+          "publishedAt": "2025-02-18T06:18:38Z",
+          "channelId": "UCBbeXVY55K5estTHrKWJ5Yg",
+          "title": "4 Pizza Cutter Gadgets #gadgets #shorts",
+          "description": "4 Pizza Cutter Gadgets #gadgets #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rFSVBP-cjzg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rFSVBP-cjzg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rFSVBP-cjzg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rFSVBP-cjzg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rFSVBP-cjzg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech FC Shorts",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "4 Pizza Cutter Gadgets #gadgets #shorts",
+            "description": "4 Pizza Cutter Gadgets #gadgets #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9434732",
+          "likeCount": "226538",
+          "favoriteCount": "0",
+          "commentCount": "77"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kU8hRpdvFoBPkNx6OujZJikFLZs",
+        "id": "_DQfMAnSZ5Y",
+        "snippet": {
+          "publishedAt": "2025-05-20T17:05:06Z",
+          "channelId": "UCakSAR_crAk4P5DT6FsovwQ",
+          "title": "viral ATM bike  security feature shorts #funny #bikeride #bike #youtubeshorts #technology #shorts",
+          "description": "viral ATM bike  security feature shorts #funny #bikeride #bike #youtubeshorts #technology #shorts\n\nbike security feature \nviral bike technology \nsecurity bike hack \nATM bike security short \nviral bike india \nIndian bike tecnology \nmotorcycle shorts \n\n#youtubeshorts #funny #bullet #hacker #technology",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_DQfMAnSZ5Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_DQfMAnSZ5Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_DQfMAnSZ5Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_DQfMAnSZ5Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_DQfMAnSZ5Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mcm sanjay",
+          "tags": [
+            "ATM bike",
+            "bike security feature",
+            "bike security technology",
+            "shorts",
+            "bike shorts",
+            "bike hack",
+            "ATM bike shorts",
+            "motorcycle shorts",
+            "motorcycle technology",
+            "Indian bike",
+            "Indian bike security",
+            "bike security system",
+            "viral bike",
+            "YouTube shorts",
+            "new hack"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "viral ATM bike  security feature shorts #funny #bikeride #bike #youtubeshorts #technology #shorts",
+            "description": "viral ATM bike  security feature shorts #funny #bikeride #bike #youtubeshorts #technology #shorts\n\nbike security feature \nviral bike technology \nsecurity bike hack \nATM bike security short \nviral bike india \nIndian bike tecnology \nmotorcycle shorts \n\n#youtubeshorts #funny #bullet #hacker #technology"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4041492",
+          "favoriteCount": "0",
+          "commentCount": "47"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "v7d_Mgt-N9oae7da6BAc508ZgS4",
+        "id": "cS0hLW8qulk",
+        "snippet": {
+          "publishedAt": "2024-12-22T03:30:14Z",
+          "channelId": "UCcku89bM8Nu8rtAaledTPxg",
+          "title": "The Future of Technology (2025+)",
+          "description": "Future technology part -1\n #technology\n #futuretech\n #shorts\n #ytshorts\n\nfuture technology\ntechnology\nai\nartificial intelligence\nscience\nfuture technologies\nelon musk\nfuture business technologies\nfuture business tech\nfuture of technology\nfuture technology 2050\nfuture gadgets\ntech trends 2024\ntech trends 2025\ninnovation\nfuture technology 60 minutes\nfuture technology 2030\nrobotics\nFuture mobile",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cS0hLW8qulk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rohit Ramani ",
+          "tags": [
+            "Future mobile",
+            "ai",
+            "ai advancements",
+            "ai innovations",
+            "artificial intelligence",
+            "cool gadgets",
+            "elon musk",
+            "elon musk tech",
+            "emerging trends",
+            "future business tech",
+            "future business technologies",
+            "future gadgets",
+            "future of technology",
+            "future tech",
+            "future technology",
+            "future technology 2030",
+            "future technology 60 minutes",
+            "innovation",
+            "next gen",
+            "next-gen technology",
+            "robotics",
+            "robotics trends",
+            "science",
+            "smart gadgets",
+            "tech predictions",
+            "tech trends 2024",
+            "tech trends 2025",
+            "technology",
+            "vr"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Future of Technology (2025+)",
+            "description": "Future technology part -1\n #technology\n #futuretech\n #shorts\n #ytshorts\n\nfuture technology\ntechnology\nai\nartificial intelligence\nscience\nfuture technologies\nelon musk\nfuture business technologies\nfuture business tech\nfuture of technology\nfuture technology 2050\nfuture gadgets\ntech trends 2024\ntech trends 2025\ninnovation\nfuture technology 60 minutes\nfuture technology 2030\nrobotics\nFuture mobile"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT24S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "813257",
+          "likeCount": "9702",
+          "favoriteCount": "0",
+          "commentCount": "217"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wiTeYgvHNLR7w9mwkGEtGqC-ZxI",
+        "id": "jN3f_cq5WQI",
+        "snippet": {
+          "publishedAt": "2024-10-11T08:00:36Z",
+          "channelId": "UCcCjXTiKc-0wFKHI035VVzQ",
+          "title": "Top 3 best amazing cool gadgets 🔥🤯|| #shorts #gadgets #unboxing",
+          "description": "Top 3 best amazing cool gadgets 🔥🤯|| #shorts #gadgets #unboxing\n\ntop 3 unique gadgets\ncool unique gadgets\nunique useful gadgets\nunique gadgets\nunique tech gadgets\nunique cool gadgets\ntop 3 gadgets\nunique gadget gifts\ncoolest futuristic gadgets\ncoolest magnetic gadgets\ncool gadgets under 30 dollars\nunique devices\nd unique tools\nunique smart gadgets\nfuture cool gadgets\nfuturistic gadgets that don't exist\nfuturistic tools\nhi-tech gadgets\nunique tech items\njapanese cool gadgets\nmost unique kitchen gadgets\nbest unique kitchen gadgets\ntop 3 gadgets of 2024\nunique gadgets in the world\nunique gadgets to buy\nmost useful gadgets\nunique pieces of technology\nunique toys octane\nunique tech products\nunique technology products\nr-t best gadget\nworld's coolest gadgets\nzz top 3 piece band\nzz top gifts\nzz top gnomes\nzz top without hats and glasses\n20 coolest gadgets\n10 coolest gadgets\n3 gadgets\nwhat are the top 5 gadgets\n6 gadgets\n\nGadgets\nTop 3 gadgets\nThis 2 Gadgets will save your Life\nTop 2 best unique cool gadgets\nGadgets can save you life\nstudent safety gadgets\nsafety gadgets\nv3 facts\nCool gadgets\niPhone\nreview\ntech\nUnboxing\nunboxing gadgets\namazon\nsmart watch\nsmart phone\nai\n\n#gadgets​​ #tech​​ #amazon​​ #review​​ #ai​​ #iphone​​ #unboxing​​ #youtubeshorts​​ #shortsfeed​​ #gadgetsshorts​​ #iphone15​​\n#watch​​ #smartwatch​​ #shortsfunny​​ #Godunbox",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jN3f_cq5WQI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jN3f_cq5WQI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jN3f_cq5WQI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jN3f_cq5WQI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jN3f_cq5WQI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "v3 facts ",
+          "tags": [
+            "shorts",
+            "gadgets",
+            "Unboxing",
+            "new gadgets",
+            "amazing gadgets",
+            "cool unique gadgets",
+            "Top 3 gadgets",
+            "unboxing gadgets",
+            "unique cool gadgets",
+            "facts"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Top 3 best amazing cool gadgets 🔥🤯|| #shorts #gadgets #unboxing",
+            "description": "Top 3 best amazing cool gadgets 🔥🤯|| #shorts #gadgets #unboxing\n\ntop 3 unique gadgets\ncool unique gadgets\nunique useful gadgets\nunique gadgets\nunique tech gadgets\nunique cool gadgets\ntop 3 gadgets\nunique gadget gifts\ncoolest futuristic gadgets\ncoolest magnetic gadgets\ncool gadgets under 30 dollars\nunique devices\nd unique tools\nunique smart gadgets\nfuture cool gadgets\nfuturistic gadgets that don't exist\nfuturistic tools\nhi-tech gadgets\nunique tech items\njapanese cool gadgets\nmost unique kitchen gadgets\nbest unique kitchen gadgets\ntop 3 gadgets of 2024\nunique gadgets in the world\nunique gadgets to buy\nmost useful gadgets\nunique pieces of technology\nunique toys octane\nunique tech products\nunique technology products\nr-t best gadget\nworld's coolest gadgets\nzz top 3 piece band\nzz top gifts\nzz top gnomes\nzz top without hats and glasses\n20 coolest gadgets\n10 coolest gadgets\n3 gadgets\nwhat are the top 5 gadgets\n6 gadgets\n\nGadgets\nTop 3 gadgets\nThis 2 Gadgets will save your Life\nTop 2 best unique cool gadgets\nGadgets can save you life\nstudent safety gadgets\nsafety gadgets\nv3 facts\nCool gadgets\niPhone\nreview\ntech\nUnboxing\nunboxing gadgets\namazon\nsmart watch\nsmart phone\nai\n\n#gadgets​​ #tech​​ #amazon​​ #review​​ #ai​​ #iphone​​ #unboxing​​ #youtubeshorts​​ #shortsfeed​​ #gadgetsshorts​​ #iphone15​​\n#watch​​ #smartwatch​​ #shortsfunny​​ #Godunbox"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT31S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4315982",
+          "favoriteCount": "0",
+          "commentCount": "37402"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "TkYl9BSDAYtTIXutnzFns3RwF9M",
+        "id": "q5TAMuBh9Lc",
+        "snippet": {
+          "publishedAt": "2023-03-29T07:00:16Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "2 Mini Gadgets Useful Vs Useless #gadgets  #shorts",
+          "description": "2 Mini Gadgets Useful Vs Useless - mini cooler , mini silai machine\n\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q5TAMuBh9Lc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q5TAMuBh9Lc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q5TAMuBh9Lc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/q5TAMuBh9Lc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/q5TAMuBh9Lc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "shorts",
+            "me",
+            "new",
+            "gadgets",
+            "brand",
+            "mini gadgets",
+            "school",
+            "summer",
+            "gadget",
+            "@shorts",
+            "ytshorts",
+            "youtube shorts",
+            "youtube",
+            "tech master",
+            "mini cooler"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "2 Mini Gadgets Useful Vs Useless #gadgets  #shorts",
+            "description": "2 Mini Gadgets Useful Vs Useless - mini cooler , mini silai machine\n\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended...."
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "13524695",
+          "likeCount": "871470",
+          "favoriteCount": "0",
+          "commentCount": "851"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DERtwP3GYroqGQtKGa23JhiwGE4",
+        "id": "oJL9Hhj0O-I",
+        "snippet": {
+          "publishedAt": "2025-09-13T08:14:45Z",
+          "channelId": "UCJshA2ZGbCYtNi9l52gskhQ",
+          "title": "Samsung's technology is truly charming #digitaltechnology #samsung #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oJL9Hhj0O-I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oJL9Hhj0O-I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oJL9Hhj0O-I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oJL9Hhj0O-I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oJL9Hhj0O-I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Zone",
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Samsung's technology is truly charming #digitaltechnology #samsung #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "zxx"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": false,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "26548",
+          "likeCount": "53",
+          "favoriteCount": "0",
+          "commentCount": "1"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Y7h5mV0PSCXjKrHt81bUd2WrcvM",
+        "id": "vA9wWEkSfUA",
+        "snippet": {
+          "publishedAt": "2025-05-01T18:07:06Z",
+          "channelId": "UCnYKRFQRndE3Wq1eLRQLfWw",
+          "title": "China's Technology is Insane 🤯 ( India Want Answers ) | Kuldeep Singhaniaa #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vA9wWEkSfUA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vA9wWEkSfUA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vA9wWEkSfUA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vA9wWEkSfUA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vA9wWEkSfUA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kuldeep Singhania Shorts",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "hi",
+          "localized": {
+            "title": "China's Technology is Insane 🤯 ( India Want Answers ) | Kuldeep Singhaniaa #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8499384",
+          "likeCount": "460866",
+          "favoriteCount": "0",
+          "commentCount": "3756"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "mi-IvCsId2AejwaqDhXcdNzTAtU",
+        "id": "PbZkok32TGA",
+        "snippet": {
+          "publishedAt": "2025-08-31T10:58:26Z",
+          "channelId": "UCXbv3qLKS0B63kakKcc8E0g",
+          "title": "New technology saves Fuel ⛽ #shorts",
+          "description": "New technology saves Fuel ⛽ #facts #youtubeshorts #ytshorts #technology",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PbZkok32TGA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PbZkok32TGA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PbZkok32TGA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/PbZkok32TGA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/PbZkok32TGA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "FactsZilla",
+          "tags": [
+            "amazing information",
+            "unique techniques",
+            "New technology saves Fuel ⛽",
+            "save Fuel",
+            "unique information about petrol pump",
+            "gas station facts"
+          ],
+          "categoryId": "27",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "New technology saves Fuel ⛽ #shorts",
+            "description": "New technology saves Fuel ⛽ #facts #youtubeshorts #ytshorts #technology"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1220025",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OY_XGv4fAqi519VMXNp1qOy1VLA",
+        "id": "8O036eqvpNI",
+        "snippet": {
+          "publishedAt": "2025-05-25T17:19:04Z",
+          "channelId": "UCakSAR_crAk4P5DT6FsovwQ",
+          "title": "ATM coin bike technology shorts #funny #technology #hacker #bike #youtubeshorts #viralshorts",
+          "description": "ATM coin bike technology shorts #funny #technology #hacker #bike #youtubeshorts #viralshorts\n\nnew coins ATM bike \ncoin bike technology \nbike new feature shorts \nmotorcycle new technology \nindian bike new hack shorts \nATM bike viral technology \nATM bike viral video \nmoney bike new shorts \ntechnology bike shorts\nnew hack coin bike \n\n#bikelover #coin #youtubeshorts #funny #viralvideo #bikeride #bikelover #atm #experiment #viralreels",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8O036eqvpNI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8O036eqvpNI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8O036eqvpNI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8O036eqvpNI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8O036eqvpNI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "mcm sanjay",
+          "tags": [
+            "coin ATM",
+            "coin ATM bike",
+            "coin technology",
+            "ATM bike",
+            "new hack",
+            "new bike coin ATM",
+            "bike hacker",
+            "viral bike",
+            "YouTube shorts",
+            "viral technology",
+            "viral bike coin",
+            "coin technology bike",
+            "new feature bike",
+            "bike coin feature"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "ATM coin bike technology shorts #funny #technology #hacker #bike #youtubeshorts #viralshorts",
+            "description": "ATM coin bike technology shorts #funny #technology #hacker #bike #youtubeshorts #viralshorts\n\nnew coins ATM bike \ncoin bike technology \nbike new feature shorts \nmotorcycle new technology \nindian bike new hack shorts \nATM bike viral technology \nATM bike viral video \nmoney bike new shorts \ntechnology bike shorts\nnew hack coin bike \n\n#bikelover #coin #youtubeshorts #funny #viralvideo #bikeride #bikelover #atm #experiment #viralreels"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "5833380",
+          "likeCount": "49056",
+          "favoriteCount": "0",
+          "commentCount": "157"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Huso8JaCz13jMuv3ZRTfw6QyZ5Y",
+        "id": "bWaabrlHjZc",
+        "snippet": {
+          "publishedAt": "2023-11-22T13:30:14Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "दिल्ली चोर बाजार Gadgets 500RS ONLY😱",
+          "description": "#shorts #chorbazar\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended....",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bWaabrlHjZc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bWaabrlHjZc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bWaabrlHjZc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/bWaabrlHjZc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/bWaabrlHjZc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "tech master",
+            "shorts",
+            "technology",
+            "facts",
+            "amazingtipsandtricks",
+            "arvind kharra",
+            "cool gadgets",
+            "gadgets on amazon",
+            "amazon gadgets",
+            "chor bazaar gadgets",
+            "chor bazaar gadgets review",
+            "shopping at real chor bazzar",
+            "buy cheapest iphones",
+            "buy cheapest andriod phones",
+            "chor bazaar items review",
+            "cool gadgets in cheap price",
+            "cool cheap electronics on amazon",
+            "mumbai chor bazar",
+            "chor bazaar mumbai",
+            "chor bazar",
+            "tech",
+            "tech master shorts",
+            "india",
+            "hindi",
+            "500 rs gadgets",
+            "50rs gadgets"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "दिल्ली चोर बाजार Gadgets 500RS ONLY😱",
+            "description": "#shorts #chorbazar\n\nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAK\n\nbusiness inquiry:- itstechmaster@gmail.com\n\nDisclaimer\ncopyright disclaimer under Section 107 of the Copyright Act 1976, allowance is made for fair use for purposes such as criticism,comment, news,reporting teaching, scholarship, and research. fair use is a use permitted by copyright statute that might otherwise be infringing non-profit educational or personal use tips the balance in favor of fair use. No copyright infringement intended...."
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19151985",
+          "likeCount": "871904",
+          "favoriteCount": "0",
+          "commentCount": "3336"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HoS2VWSTqBtGqiSXtUxEGSlhD-o",
+        "id": "b2_rzbGibpo",
+        "snippet": {
+          "publishedAt": "2024-03-12T14:15:02Z",
+          "channelId": "UCglXlpWjIi95auM3umWWLdw",
+          "title": "₹4000000 का Apple Vs Super Clean #shorts  #gadgets",
+          "description": "2000rs. Apple cloth vs 100rs. super clean jelly comparison #techmaster #apple #smartphone \nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAk",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/b2_rzbGibpo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/b2_rzbGibpo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/b2_rzbGibpo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/b2_rzbGibpo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/b2_rzbGibpo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tech Master Shorts",
+          "tags": [
+            "youtube shorts",
+            "youtube shorts video",
+            "best shorts",
+            "#shorts",
+            "shorts",
+            "apple iphone #shorts",
+            "apple #shorts",
+            "dance short video",
+            "super cleaner",
+            "gadgets #short",
+            "shorts video",
+            "comparison",
+            "smartphone short video"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "₹4000000 का Apple Vs Super Clean #shorts  #gadgets",
+            "description": "2000rs. Apple cloth vs 100rs. super clean jelly comparison #techmaster #apple #smartphone \nSUBSCRIBE THE CHANNEL FOR MORE VIDEOS\n\n DON'T FORGET LIKE COMMENT & SHARE\n\ninstagram-👇\n\n https://Instagram.com/tech_masterr\n\nTwitter-👇\n\nhttps://twitter.com/tech_masterr\n\nFacebook-👇\n\nhttps://www.facebook.com/dev.shinghan\n\nMain Channel-👇\n\nhttps://youtube.com/c/TechMasterAk"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT58S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19346950",
+          "likeCount": "735842",
+          "favoriteCount": "0",
+          "commentCount": "6068"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}

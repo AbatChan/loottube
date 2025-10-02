@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "default": {
+    "id": "your-channel",
+    "title": "Your Channel",
+    "handle": "@lootube",
+    "description": "Tell viewers about your channel. This space is perfect for your mission statement or a short bio.",
+    "avatar": "/placeholder.svg",
+    "banner": "/brand/banner.svg",
+    "joinedAt": "2025-09-19T20:15:50.749Z",
+    "subscribers": 0,
+    "totalViews": 0,
+    "themeColor": "#ff0033",
+    "updatedAt": "2025-09-19T20:15:50.749Z"
+  },
+  "profiles": {
+    "user_1758312928183_u3o62gikm": {
+      "id": "your-channel",
+      "title": "Abat Chan",
+      "handle": "@abatchan",
+      "description": "I post video effects",
+      "avatar": "/upload/channel/avatar-a84f7dcd-7e5c-442d-ad01-09a2fadb191f.png",
+      "banner": "/upload/channel/banner-968c539e-71cc-4f18-ba9e-b35957c0a5ff.jpg",
+      "joinedAt": "2025-09-19T20:15:50.749Z",
+      "subscribers": 0,
+      "totalViews": 0,
+      "themeColor": "#ff0033",
+      "updatedAt": "2025-09-19T20:15:50.749Z",
+      "ownerId": "user_1758312928183_u3o62gikm"
+    },
+    "user_1758324526492_gi4iuweu4": {
+      "id": "your-channel",
+      "title": "ALex",
+      "handle": "@alenv",
+      "description": "Alex channel here",
+      "avatar": "/placeholder.svg",
+      "banner": "/brand/banner.svg",
+      "joinedAt": "2025-09-20T15:25:06.306Z",
+      "subscribers": 0,
+      "totalViews": 0,
+      "themeColor": "#ff0033",
+      "updatedAt": "2025-09-20T15:25:06.306Z",
+      "ownerId": "user_1758324526492_gi4iuweu4"
+    },
+    "user_1758384392191_bc0hvpp1y": {
+      "id": "your-channel",
+      "title": "Abat Chan",
+      "handle": "@abat",
+      "description": "Alot going on",
+      "avatar": "/upload/channel/avatar-4e9d918c-a468-4e9a-98bc-ea8484ae81d3.png",
+      "banner": "/upload/channel/banner-e5a45750-5af3-4d03-9c6d-6c80e3846896.jpg",
+      "joinedAt": "2025-09-20T16:09:05.938Z",
+      "subscribers": 0,
+      "totalViews": 0,
+      "themeColor": "#ff0033",
+      "updatedAt": "2025-09-20T16:09:05.938Z",
+      "ownerId": "user_1758384392191_bc0hvpp1y"
+    }
+  }
+}

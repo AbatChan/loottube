@@ -1,0 +1,3446 @@
+{
+  "timestamp": 1758122545069,
+  "value": {
+    "kind": "youtube#videoListResponse",
+    "etag": "x_HCJeKAReuaWHwq6_sxNtpy0nw",
+    "items": [
+      {
+        "kind": "youtube#video",
+        "etag": "s2ENpHOzoDJYeFSOeqreiVV9V04",
+        "id": "07uPz2BgaKA",
+        "snippet": {
+          "publishedAt": "2025-07-09T08:08:01Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "Creative Art 😍✨#shorts #art #painting #muktaeasydrawing #youtubeshortsindia",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/07uPz2BgaKA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "Drawing",
+            "Art",
+            "Painting",
+            "Drawing Tutorials",
+            "Easy Drawing",
+            "Muktaeasydrawing",
+            "Painting hacks",
+            "Pencil sketch"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art 😍✨#shorts #art #painting #muktaeasydrawing #youtubeshortsindia",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "bn"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "22879836",
+          "likeCount": "242512",
+          "favoriteCount": "0",
+          "commentCount": "583"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "DOhk0r0rWbGjtcDEr-8BPSpumx4",
+        "id": "Md49Y0Bt2LU",
+        "snippet": {
+          "publishedAt": "2022-11-25T16:16:35Z",
+          "channelId": "UCWERASjOVKG-DDewoQ_p7Dw",
+          "title": "Get my supply sheet to make your own #shorts #painting #art",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Md49Y0Bt2LU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Md49Y0Bt2LU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Md49Y0Bt2LU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Md49Y0Bt2LU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Md49Y0Bt2LU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Josie Lewis",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Get my supply sheet to make your own #shorts #painting #art",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "45902882",
+          "likeCount": "1452487",
+          "favoriteCount": "0",
+          "commentCount": "5653"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "LwFpaKQLLwqq5WK7xoRHaYn_opg",
+        "id": "O4i-KNUfeFs",
+        "snippet": {
+          "publishedAt": "2022-03-08T15:58:52Z",
+          "channelId": "UCoo2k7__mB4Wwk4HbJ0SwTw",
+          "title": "My art in Class vs At home | Artcoaster #shorts",
+          "description": "My Tiktok- malxikaaa \nInstagram- Artcoaster_\n-\n-\nWebsite for prints and original drawings ⇩✨\n\nhttps://linktr.ee/Malxikaaa\n\nBusiness email: malxikaaa@gmail.com\n\n-\n-\n-\n-\n#shorts #art #tutorial #artist\n\nSound: LatinAutor, eProves",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O4i-KNUfeFs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Artcoaster",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My art in Class vs At home | Artcoaster #shorts",
+            "description": "My Tiktok- malxikaaa \nInstagram- Artcoaster_\n-\n-\nWebsite for prints and original drawings ⇩✨\n\nhttps://linktr.ee/Malxikaaa\n\nBusiness email: malxikaaa@gmail.com\n\n-\n-\n-\n-\n#shorts #art #tutorial #artist\n\nSound: LatinAutor, eProves"
+          },
+          "defaultAudioLanguage": "en-GB"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "34973927",
+          "likeCount": "942329",
+          "favoriteCount": "0",
+          "commentCount": "10085"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "t4C3aecMADWjT9hXMaDd7sK_1NU",
+        "id": "qfg-d9ZG9h0",
+        "snippet": {
+          "publishedAt": "2025-07-18T10:22:41Z",
+          "channelId": "UCGkHbN20JmozG-c8PGTUCFw",
+          "title": "🖤❤️ #art #youtubeshorts #kidstv #ytshorts #diy #kidsart #kidsvideo #kids #shorts #youtube #reels",
+          "description": "how to draw\neasy drawing\neasy drawing for kids\nkids drawing easy\nsimple drawing for kids\neasy scenery drawing for kids\neasy scenery drawing for beginners\nDIY Ideas\nDIY Ideas for kids\ncreative drawing ideas for kids\ncreative art ideas for kids\ncreative DIY ideas for kids\nrainbow drawing for kids\nwhen you are bored\neasy sketching\ntrending shorts\n#youtubeshorts \n#trendingshorts  \n#scenerydrawing \n#ytshortsfeed\n#creativekids \n#diyprojectsforkidsandhome \n#diyideas #for kids\n#kidsdrawing \n#motupatlu \n#chhotabheem \n#nastya \n#acrylic \n#acrylicpainting \n#watercolor \n#satisfying \n#satisfyingvideo \n#kidsvideo \n#howtodraw \n#art \n#coloring \n#kidstv \n#drawing \n#kidsart \n#diy \n#diycraft\n#diycrafts\n#kidslearning \n#yt \n#youtube \n#youtubeshorts \n#youtubeshort \n#youtubevideo \n#colors \n#draw \n#drawingvideo \n#drawingtutorial \n#learning \n#learn \n#kids \n#3d \n#alphabet \n#abc \n#alphabets \n#alphabetlore \n#alphabetsong \n#kidssong \n#kidsvideos \n#kidsfun \n#kidslearningvideos \n#youtubeindia \n#youtubevideos \n#youtubechannel \n#numbers \n#coloringpages \n#colormixing \n#drawingvideo \n#drawingtutorial \n#craft \n#papercraft \n#origami \n#origamicraft \n#origamitutorial \n#origamiart \n#origamicraftwithpaper \n#origamipaper \n#origamieasy \n#papercrafts \n#simple \n#easy \n#easydrawing \n#easydrawings \n#easydiy \n#easydraw \n#easydrawingtutorial \n#easydesign \n#scratch \n#scratchoffs \n#ytshortsindia \n#ytshorts \n#india \n#watercolor \n#finger\n#shorts \n#short \n#shortvideo \n#shortsvideo \n#shortsfeed \n#shortsviral \n#shortfeed \n#shortsyoutube \n#shortsbeta \n#crafts \n#craftideas \n#crafting \n#art \n#artwork \n#artandcraft \n#arts \n#artshorts \n#artshortvideo\n#alphabetdrawing \n#numberdrawing \n#viralvideo \n#viralshorts \n#viralshort \n#viralvideos \n#videos \n#video \n#colour \n#colourshow to draw\neasy drawing\neasy drawing for kids\nkids drawing easy\nsimple drawing for kids\neasy scenery drawing for kids\neasy scenery drawing for beginners\nDIY Ideas\nDIY Ideas for kids\ncreative drawing ideas for kids\ncreative art ideas for kids\ncreative DIY ideas for kids\nrainbow drawing for kids\nwhen you are bored\neasy sketching\ntrending shorts\n#youtubeshorts \n#trendingshorts  \n#scenerydrawing \n#ytshortsfeed d\n#creativekids \n#diyprojectsforkidsandhome \n#diyideas #for kids\n#kidsdrawing \n#motupatlu \n#acrylic \n#acrylicpainting \n#watercolor \n#satisfying \n#satisfyingvideo \n#kidsvideo \n#howtodraw \n#art \n#coloring \n#kidstv \n#drawing \n#kidsart \n#diy \n#diycraft\n#diycrafts\n#kidslearning \n#yt \n#youtube \n#youtubeshorts \n#youtubeshort \n#youtubevideo \n#colors \n#draw \n#drawingvideo \n#drawingtutorial \n#learning \n#learn \n#kids \n#3d \n#alphabet \n#abc \n#alphabets \n#alphabetlore \n#alphabetsong \n#kidssong \n#kidsvideos \n#kidsfun \n#kidslearningvideos \n#youtubeindia \n#youtubevideos \n#youtubechannel \n#numbers \n#coloringpages \n#colormixing \n#drawingvideo \n#drawingtutorial \n#craft \n#papercraft \n#origami \n#origamicraft \n#origamitutorial \n#origamiart \n#origamicraftwithpaper \n#origamipaper \n#origamieasy \n#papercrafts \n#simple \n#easy \n#easydrawing \n#easydrawings \n#easydiy \n#easydraw \n#easydrawingtutorial \n#easydesign \n#scratch \n#scratchoffs \n#ytshortsindia \n#ytshorts \n#india \n#watercolor \n#finger\n#shorts \n#short \n#shortvideo \n#shortsvideo \n#shortsfeed \n#shortsviral \n#shortfeed \n#shortsyoutube \n#shortsbeta \n#crafts \n#craftideas \n#crafting \n#art \n#artwork \n#artandcraft \n#arts \n#artshorts \n#artshortvideo\n#alphabetdrawing \n#numberdrawing \n#viralvideo \n#viralshorts \n#viralshort \n#viralvideos \n#videos \n#video \n#colour \n#colours",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qfg-d9ZG9h0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qfg-d9ZG9h0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qfg-d9ZG9h0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qfg-d9ZG9h0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qfg-d9ZG9h0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kids Corner",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "🖤❤️ #art #youtubeshorts #kidstv #ytshorts #diy #kidsart #kidsvideo #kids #shorts #youtube #reels",
+            "description": "how to draw\neasy drawing\neasy drawing for kids\nkids drawing easy\nsimple drawing for kids\neasy scenery drawing for kids\neasy scenery drawing for beginners\nDIY Ideas\nDIY Ideas for kids\ncreative drawing ideas for kids\ncreative art ideas for kids\ncreative DIY ideas for kids\nrainbow drawing for kids\nwhen you are bored\neasy sketching\ntrending shorts\n#youtubeshorts \n#trendingshorts  \n#scenerydrawing \n#ytshortsfeed\n#creativekids \n#diyprojectsforkidsandhome \n#diyideas #for kids\n#kidsdrawing \n#motupatlu \n#chhotabheem \n#nastya \n#acrylic \n#acrylicpainting \n#watercolor \n#satisfying \n#satisfyingvideo \n#kidsvideo \n#howtodraw \n#art \n#coloring \n#kidstv \n#drawing \n#kidsart \n#diy \n#diycraft\n#diycrafts\n#kidslearning \n#yt \n#youtube \n#youtubeshorts \n#youtubeshort \n#youtubevideo \n#colors \n#draw \n#drawingvideo \n#drawingtutorial \n#learning \n#learn \n#kids \n#3d \n#alphabet \n#abc \n#alphabets \n#alphabetlore \n#alphabetsong \n#kidssong \n#kidsvideos \n#kidsfun \n#kidslearningvideos \n#youtubeindia \n#youtubevideos \n#youtubechannel \n#numbers \n#coloringpages \n#colormixing \n#drawingvideo \n#drawingtutorial \n#craft \n#papercraft \n#origami \n#origamicraft \n#origamitutorial \n#origamiart \n#origamicraftwithpaper \n#origamipaper \n#origamieasy \n#papercrafts \n#simple \n#easy \n#easydrawing \n#easydrawings \n#easydiy \n#easydraw \n#easydrawingtutorial \n#easydesign \n#scratch \n#scratchoffs \n#ytshortsindia \n#ytshorts \n#india \n#watercolor \n#finger\n#shorts \n#short \n#shortvideo \n#shortsvideo \n#shortsfeed \n#shortsviral \n#shortfeed \n#shortsyoutube \n#shortsbeta \n#crafts \n#craftideas \n#crafting \n#art \n#artwork \n#artandcraft \n#arts \n#artshorts \n#artshortvideo\n#alphabetdrawing \n#numberdrawing \n#viralvideo \n#viralshorts \n#viralshort \n#viralvideos \n#videos \n#video \n#colour \n#colourshow to draw\neasy drawing\neasy drawing for kids\nkids drawing easy\nsimple drawing for kids\neasy scenery drawing for kids\neasy scenery drawing for beginners\nDIY Ideas\nDIY Ideas for kids\ncreative drawing ideas for kids\ncreative art ideas for kids\ncreative DIY ideas for kids\nrainbow drawing for kids\nwhen you are bored\neasy sketching\ntrending shorts\n#youtubeshorts \n#trendingshorts  \n#scenerydrawing \n#ytshortsfeed d\n#creativekids \n#diyprojectsforkidsandhome \n#diyideas #for kids\n#kidsdrawing \n#motupatlu \n#acrylic \n#acrylicpainting \n#watercolor \n#satisfying \n#satisfyingvideo \n#kidsvideo \n#howtodraw \n#art \n#coloring \n#kidstv \n#drawing \n#kidsart \n#diy \n#diycraft\n#diycrafts\n#kidslearning \n#yt \n#youtube \n#youtubeshorts \n#youtubeshort \n#youtubevideo \n#colors \n#draw \n#drawingvideo \n#drawingtutorial \n#learning \n#learn \n#kids \n#3d \n#alphabet \n#abc \n#alphabets \n#alphabetlore \n#alphabetsong \n#kidssong \n#kidsvideos \n#kidsfun \n#kidslearningvideos \n#youtubeindia \n#youtubevideos \n#youtubechannel \n#numbers \n#coloringpages \n#colormixing \n#drawingvideo \n#drawingtutorial \n#craft \n#papercraft \n#origami \n#origamicraft \n#origamitutorial \n#origamiart \n#origamicraftwithpaper \n#origamipaper \n#origamieasy \n#papercrafts \n#simple \n#easy \n#easydrawing \n#easydrawings \n#easydiy \n#easydraw \n#easydrawingtutorial \n#easydesign \n#scratch \n#scratchoffs \n#ytshortsindia \n#ytshorts \n#india \n#watercolor \n#finger\n#shorts \n#short \n#shortvideo \n#shortsvideo \n#shortsfeed \n#shortsviral \n#shortfeed \n#shortsyoutube \n#shortsbeta \n#crafts \n#craftideas \n#crafting \n#art \n#artwork \n#artandcraft \n#arts \n#artshorts \n#artshortvideo\n#alphabetdrawing \n#numberdrawing \n#viralvideo \n#viralshorts \n#viralshort \n#viralvideos \n#videos \n#video \n#colour \n#colours"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "446414074",
+          "likeCount": "2393851",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "eErBmfESKVjXUW1Z9Gu3OhBvgLg",
+        "id": "A4T6bI5w8N4",
+        "snippet": {
+          "publishedAt": "2023-09-01T15:00:16Z",
+          "channelId": "UCvQBEMERVWcQv-fq3KefyEw",
+          "title": "CRAZY ART TO PRANK YOUR FRIENDS 😆 #shorts #drawpaw",
+          "description": "CRAZY ART TO PRANK YOUR FRIENDS 😆 #shorts #drawpaw \nSUBSCRIBE to DrawPaw channel🎨 https://www.youtube.com/@Draw-Paw",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/A4T6bI5w8N4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/A4T6bI5w8N4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/A4T6bI5w8N4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/A4T6bI5w8N4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/A4T6bI5w8N4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DrawPaw",
+          "tags": [
+            "123 go",
+            "3d pen",
+            "crafts",
+            "draw",
+            "draw-paw",
+            "drawing",
+            "drawpaw",
+            "epoxy resin",
+            "glue",
+            "go123",
+            "how to draw",
+            "jewelry",
+            "one two three go",
+            "barbie",
+            "doll",
+            "entertainment",
+            "DIY",
+            "makeover",
+            "funny",
+            "in real life",
+            "funny situations",
+            "good vs bad",
+            "rich vs broke",
+            "popular vs nerd",
+            "parenting hacks",
+            "one color challenge",
+            "draw paw",
+            "art",
+            "creative",
+            "hacks",
+            "painting",
+            "school",
+            "tricks",
+            "viral",
+            "challenge",
+            "comedy",
+            "hot glue",
+            "art challenge",
+            "drawing challenge",
+            "drawing hacks",
+            "123go",
+            "123",
+            "painting tricks",
+            "funny video",
+            "beauty",
+            "prank",
+            "pranks"
+          ],
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "CRAZY ART TO PRANK YOUR FRIENDS 😆 #shorts #drawpaw",
+            "description": "CRAZY ART TO PRANK YOUR FRIENDS 😆 #shorts #drawpaw \nSUBSCRIBE to DrawPaw channel🎨 https://www.youtube.com/@Draw-Paw"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "256931561",
+          "likeCount": "3996485",
+          "favoriteCount": "0",
+          "commentCount": "7968"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UUmU6aMH4jQIuMHDkjEohnR_e-4",
+        "id": "UqcQZk_Mgog",
+        "snippet": {
+          "publishedAt": "2024-11-13T13:40:11Z",
+          "channelId": "UCGo-E7bPDjq7VNw34h58mpA",
+          "title": "My 4 famous artworks. Which one best? #shorts #art #craft #drawing",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UqcQZk_Mgog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UqcQZk_Mgog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UqcQZk_Mgog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UqcQZk_Mgog/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UqcQZk_Mgog/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Ayantika Drawing art",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "My 4 famous artworks. Which one best? #shorts #art #craft #drawing",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT9S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "69932209",
+          "likeCount": "575446",
+          "favoriteCount": "0",
+          "commentCount": "1081"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "uaZRS3rpiV7IpVKe0Ph1-THj9KM",
+        "id": "UprluxwRy4k",
+        "snippet": {
+          "publishedAt": "2024-07-01T17:52:19Z",
+          "channelId": "UCyV_r9DymhshtqlCiGjVNDA",
+          "title": "My Art Like A Diamond 💎 😻 #art #short #trending",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UprluxwRy4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UprluxwRy4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UprluxwRy4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UprluxwRy4k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UprluxwRy4k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "My Art",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "My Art Like A Diamond 💎 😻 #art #short #trending",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT35S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1093483",
+          "likeCount": "35106",
+          "favoriteCount": "0",
+          "commentCount": "242"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "a9JyjheNPv-0Ojf3_sWLsiXup28",
+        "id": "asES2LPgZdE",
+        "snippet": {
+          "publishedAt": "2025-04-18T10:00:07Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "#art #painting #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/asES2LPgZdE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/asES2LPgZdE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/asES2LPgZdE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/asES2LPgZdE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/asES2LPgZdE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "Satisfying art",
+            "Easy painting ideas",
+            "art ideas",
+            "Farjana Drawing Academy"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "#art #painting #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1283777",
+          "likeCount": "13327",
+          "favoriteCount": "0",
+          "commentCount": "246"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5mLCcP3nb3utgu84hSvoQcm23m8",
+        "id": "0akGEg6cZfY",
+        "snippet": {
+          "publishedAt": "2024-10-01T10:32:30Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "👗✨Painting Hacks || satisfying art #painting #art #shorts",
+          "description": "Dress colouring",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0akGEg6cZfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0akGEg6cZfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0akGEg6cZfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0akGEg6cZfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0akGEg6cZfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "Painting hacks",
+            "Easy painting ideas",
+            "painting tutorials",
+            "art",
+            "Farjana Drawing Academy",
+            "dress colouring",
+            "satisfying art"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "👗✨Painting Hacks || satisfying art #painting #art #shorts",
+            "description": "Dress colouring"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11125729",
+          "likeCount": "198950",
+          "favoriteCount": "0",
+          "commentCount": "695"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YZoB-fNVvrd0mZmvHLIuHoEOm00",
+        "id": "XYl5vb27G6I",
+        "snippet": {
+          "publishedAt": "2025-02-09T13:05:16Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "Stanley Custom 🎨❤️ Who is the winner? #shorts #painting #custom #stanley #diy #creative #art",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XYl5vb27G6I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XYl5vb27G6I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XYl5vb27G6I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XYl5vb27G6I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XYl5vb27G6I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Stanley Custom 🎨❤️ Who is the winner? #shorts #painting #custom #stanley #diy #creative #art",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT49S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "AE",
+              "AF",
+              "BH",
+              "EG",
+              "EH",
+              "IQ",
+              "IR",
+              "JO",
+              "KW",
+              "LB",
+              "LY",
+              "OM",
+              "PS",
+              "QA",
+              "SA",
+              "SD",
+              "SY",
+              "YE"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7366947",
+          "likeCount": "283907",
+          "favoriteCount": "0",
+          "commentCount": "8488"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "aV-wSHxLvgdWnt684U6zFqfcBko",
+        "id": "Lj86bdp_0vU",
+        "snippet": {
+          "publishedAt": "2025-09-02T01:48:28Z",
+          "channelId": "UCX3irZyWOVkdi7d7uqp38kg",
+          "title": "Art Supplies you didn’t know Existed… (#shorts)",
+          "description": "Art supplies you didn’t know existed! These are art supplies you didn’t know exist! Weird unique art supplies! Drawing art video!\n#artshorts #drawing #art #pen #artsupplies #markers #artist",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Lj86bdp_0vU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Lj86bdp_0vU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Lj86bdp_0vU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Lj86bdp_0vU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Lj86bdp_0vU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NashVibes Art",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Art Supplies you didn’t know Existed… (#shorts)",
+            "description": "Art supplies you didn’t know existed! These are art supplies you didn’t know exist! Weird unique art supplies! Drawing art video!\n#artshorts #drawing #art #pen #artsupplies #markers #artist"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "4099460",
+          "likeCount": "139125",
+          "favoriteCount": "0",
+          "commentCount": "986"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KAGrb3ii3PaddUbKaA8wbFOpW-o",
+        "id": "v96DDWzFP-A",
+        "snippet": {
+          "publishedAt": "2024-01-22T13:46:06Z",
+          "channelId": "UCMXEgKuLHef2T09_kexMz0Q",
+          "title": "Mega Zoom #shorts #art",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v96DDWzFP-A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v96DDWzFP-A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v96DDWzFP-A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v96DDWzFP-A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/v96DDWzFP-A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Jesse Martin",
+          "categoryId": "1",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Mega Zoom #shorts #art",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M1S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19037112",
+          "likeCount": "904690",
+          "favoriteCount": "0",
+          "commentCount": "12385"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "9qgEqKUDSDSF_VA8rN4ahS9t758",
+        "id": "WfiMEXvoc_A",
+        "snippet": {
+          "publishedAt": "2025-07-18T14:09:06Z",
+          "channelId": "UCn852Ix9lzSWfVLkwv4A4Mg",
+          "title": "Creative Seashell Art for Beginners #shorts #creative",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WfiMEXvoc_A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WfiMEXvoc_A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WfiMEXvoc_A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WfiMEXvoc_A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WfiMEXvoc_A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Bia Art Drawings",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Seashell Art for Beginners #shorts #creative",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "164700213",
+          "likeCount": "1248803",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "3iPLBNbfNLeSQPEVbmYjCZcMEkc",
+        "id": "JU1PJJgHunk",
+        "snippet": {
+          "publishedAt": "2024-05-18T11:21:54Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "🍉✨Colorful 2024✨ #shorts #art #painting #youtubeshorts",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n4. Painting color ( HIMI GOUACHE )\n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n\n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JU1PJJgHunk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JU1PJJgHunk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JU1PJJgHunk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JU1PJJgHunk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JU1PJJgHunk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "how to draw",
+            "girl backside drawing",
+            "mukta easy drawing",
+            "drawing videos",
+            "drawing academy",
+            "paint tutorial",
+            "drawing tutorial",
+            "girl",
+            "girl face"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "🍉✨Colorful 2024✨ #shorts #art #painting #youtubeshorts",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n4. Painting color ( HIMI GOUACHE )\n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n\n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "9308874",
+          "likeCount": "328789",
+          "favoriteCount": "0",
+          "commentCount": "1215"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "cgjcMS4AvYfNuZG7bsjM7KvNNls",
+        "id": "4IhuEGSogNQ",
+        "snippet": {
+          "publishedAt": "2024-12-08T17:08:16Z",
+          "channelId": "UCgDXVybABAcbVksw9B8qBog",
+          "title": "POV: ART TEACHER’S CORRECTING YOUR ART #shorts #drawing #pov",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4IhuEGSogNQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4IhuEGSogNQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4IhuEGSogNQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4IhuEGSogNQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4IhuEGSogNQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NekoKaren",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "POV: ART TEACHER’S CORRECTING YOUR ART #shorts #drawing #pov",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT10S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "24601443",
+          "likeCount": "592478",
+          "favoriteCount": "0",
+          "commentCount": "4789"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "D3LcKIxzMc9h0MfMgZ7m0hyicIw",
+        "id": "doSVI9n2_OQ",
+        "snippet": {
+          "publishedAt": "2025-08-18T03:16:25Z",
+          "channelId": "UCX3irZyWOVkdi7d7uqp38kg",
+          "title": "Drawing, But with EVERY Marker size… (#shorts)",
+          "description": "Drawing, But with every marker size! Drawing with Posca markers! Drawing, but I have to use every marker size! Art challenge!\n#artshorts #drawing #art #markers #artchallenge #posca #artist",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/doSVI9n2_OQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/doSVI9n2_OQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/doSVI9n2_OQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/doSVI9n2_OQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/doSVI9n2_OQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NashVibes Art",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Drawing, But with EVERY Marker size… (#shorts)",
+            "description": "Drawing, But with every marker size! Drawing with Posca markers! Drawing, but I have to use every marker size! Art challenge!\n#artshorts #drawing #art #markers #artchallenge #posca #artist"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT59S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "36045750",
+          "likeCount": "939783",
+          "favoriteCount": "0",
+          "commentCount": "8514"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "YtwCYienxTIuhiQKR5O8JnI_rsE",
+        "id": "B44Koy1yQzY",
+        "snippet": {
+          "publishedAt": "2025-03-20T08:34:58Z",
+          "channelId": "UCIwUT7LRhLu-o5Zt9pmBxKA",
+          "title": "Hand Art Corn 🌽 🌽🌈 For Kids #shorts #handart #kidsvideos #kids #kidsdrawingart #craftforkids",
+          "description": "Hand Art Corn 🌽 🌽🌈 For Kids #shorts #handart #kidsvideos #kids #kidsdrawingart #craftforkids",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B44Koy1yQzY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B44Koy1yQzY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B44Koy1yQzY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/B44Koy1yQzY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/B44Koy1yQzY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Drawing Dayss",
+          "tags": [
+            "#shorts",
+            "#kids",
+            "#kids videos",
+            "#kids video",
+            "#kids art",
+            "#art for kids",
+            "#kids drawing",
+            "#easy drawing for kids",
+            "#kids tv",
+            "#student art",
+            "#art for",
+            "#art"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-IN",
+          "localized": {
+            "title": "Hand Art Corn 🌽 🌽🌈 For Kids #shorts #handart #kidsvideos #kids #kidsdrawingart #craftforkids",
+            "description": "Hand Art Corn 🌽 🌽🌈 For Kids #shorts #handart #kidsvideos #kids #kidsdrawingart #craftforkids"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "416860782",
+          "likeCount": "1870637",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "KemxczvB7HmEKoU01JKOnYDbmrU",
+        "id": "wjDWnIhzmy0",
+        "snippet": {
+          "publishedAt": "2024-08-23T00:48:37Z",
+          "channelId": "UCyV_r9DymhshtqlCiGjVNDA",
+          "title": "Markers VS Paint -  👄 drawing💖 #art #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wjDWnIhzmy0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wjDWnIhzmy0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wjDWnIhzmy0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wjDWnIhzmy0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wjDWnIhzmy0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "My Art",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Markers VS Paint -  👄 drawing💖 #art #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "3931396",
+          "likeCount": "52817",
+          "favoriteCount": "0",
+          "commentCount": "388"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "7T12hhI5xM9EHwwQRS9EFS0_8oU",
+        "id": "h5L7AleyM18",
+        "snippet": {
+          "publishedAt": "2025-04-29T18:07:33Z",
+          "channelId": "UCJHM0LdVKi7ou2aM8aVR1gA",
+          "title": "Easy Painting Idea Using a Big Brush! 🫶✨🎨 #artwork #shorts #art",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h5L7AleyM18/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h5L7AleyM18/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h5L7AleyM18/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h5L7AleyM18/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h5L7AleyM18/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Gaspi - Artistomg",
+          "tags": [
+            "Colors",
+            "Acrylic",
+            "Acrylic painting",
+            "painting idea for beginners",
+            "Painting",
+            "Rainbow",
+            "Satisfying Art",
+            "Easy Art"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Easy Painting Idea Using a Big Brush! 🫶✨🎨 #artwork #shorts #art",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1075682",
+          "likeCount": "7775",
+          "favoriteCount": "0",
+          "commentCount": "63"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XZethOF-o8vCUttxHyCIZzJUqdU",
+        "id": "M6RI2eGMv3E",
+        "snippet": {
+          "publishedAt": "2023-02-04T16:49:09Z",
+          "channelId": "UCl_3t3cu9iP3ABgV3ZzzuVQ",
+          "title": "Super Relaxing Art😱 One Stroke Painting 😃🌈                  #shorts #art #drawing",
+          "description": "FOLLOW ME💃 ON INSTAGRAM😊 - https://www.instagram.com/shay_art_2020/\n\n🎉 Head to Temu App Now: https://temu.to/m/uf2zqr52fo4\n🔍 Search code:【dkk6847】to claim $100 coupon bundle\n#temu #TemuCanada #valentinesday #temuart\n\nProducts mentioned:\nGrab our Acrylic Paint Markers at an exclusive price of $1.01 for NEW USERS! 🌟\n🔗Click LINK or Search Code: dkb2249 FOR UP TO 95% OFF!\n\n2pcs White Marker Pen  CA$2.79💰https://temu.to/m/ufwbshk37d6\nPaper Cutter CA$2.49💰https://temu.to/m/unfp530eq5c\n3D Printing Doodle Pens CA$8.99💰https://temu.to/m/uoa9gvl8f9w\nWooden Paint Brush Holder CA$8.79💰https://temu.to/m/us24ub5lyob\nAdhesive Point Transparent Balloon Adhesive CA$0.79💰https://temu.to/m/ugxp9y62xll\n\n\n5 Colors Cute Octopus Highlighter Pen CA$4.69💰https://temu.to/m/umhvq51wdoc\n22pcs Spirograph Design Arts Craft Kit CA$3.33💰https://temu.to/m/uljnsjyo6cu\nSplit Cups  CA$3.99💰https://temu.to/m/udr7kluzzu4\nSuper Cute Animal 3D Shape Long Sleeve Rompe CA$10.99💰https://temu.to/m/ukvqfvyvsar\nBaby Boys Stylish Color Block Matching Set  CA$11.59💰https://temu.to/m/uwxum1cf1z2\n50ml Multifunctional Secure Sew Glue  CA$4.14💰https://temu.to/m/utd8hx4bs6l\n500ml/17oz Clear Leakproof Water Bottle CA$4.59💰https://temu.to/m/urwk5o66mpj\n\n\nTemu offers:\n- FREE shipping +FREE returns for up to 90 days\n- 90% off for all users",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/M6RI2eGMv3E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Shay Art",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Super Relaxing Art😱 One Stroke Painting 😃🌈                  #shorts #art #drawing",
+            "description": "FOLLOW ME💃 ON INSTAGRAM😊 - https://www.instagram.com/shay_art_2020/\n\n🎉 Head to Temu App Now: https://temu.to/m/uf2zqr52fo4\n🔍 Search code:【dkk6847】to claim $100 coupon bundle\n#temu #TemuCanada #valentinesday #temuart\n\nProducts mentioned:\nGrab our Acrylic Paint Markers at an exclusive price of $1.01 for NEW USERS! 🌟\n🔗Click LINK or Search Code: dkb2249 FOR UP TO 95% OFF!\n\n2pcs White Marker Pen  CA$2.79💰https://temu.to/m/ufwbshk37d6\nPaper Cutter CA$2.49💰https://temu.to/m/unfp530eq5c\n3D Printing Doodle Pens CA$8.99💰https://temu.to/m/uoa9gvl8f9w\nWooden Paint Brush Holder CA$8.79💰https://temu.to/m/us24ub5lyob\nAdhesive Point Transparent Balloon Adhesive CA$0.79💰https://temu.to/m/ugxp9y62xll\n\n\n5 Colors Cute Octopus Highlighter Pen CA$4.69💰https://temu.to/m/umhvq51wdoc\n22pcs Spirograph Design Arts Craft Kit CA$3.33💰https://temu.to/m/uljnsjyo6cu\nSplit Cups  CA$3.99💰https://temu.to/m/udr7kluzzu4\nSuper Cute Animal 3D Shape Long Sleeve Rompe CA$10.99💰https://temu.to/m/ukvqfvyvsar\nBaby Boys Stylish Color Block Matching Set  CA$11.59💰https://temu.to/m/uwxum1cf1z2\n50ml Multifunctional Secure Sew Glue  CA$4.14💰https://temu.to/m/utd8hx4bs6l\n500ml/17oz Clear Leakproof Water Bottle CA$4.59💰https://temu.to/m/urwk5o66mpj\n\n\nTemu offers:\n- FREE shipping +FREE returns for up to 90 days\n- 90% off for all users"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT11S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "28054079",
+          "likeCount": "313241",
+          "favoriteCount": "0",
+          "commentCount": "1399"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "05tvDxyAChQuLmhyS9BPwesHGvk",
+        "id": "ZA7V9IAqCV8",
+        "snippet": {
+          "publishedAt": "2025-08-09T09:12:09Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "#art #creativeart #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZA7V9IAqCV8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZA7V9IAqCV8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZA7V9IAqCV8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZA7V9IAqCV8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZA7V9IAqCV8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "Farjana Drawing Academy",
+            "Cool art ideas",
+            "creative art",
+            "satisfying art"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "#art #creativeart #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT21S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "308984",
+          "likeCount": "6373",
+          "favoriteCount": "0",
+          "commentCount": "148"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "K8RE6tLgD9iS53bLDGG79RXlRis",
+        "id": "8-tVlZE_dx4",
+        "snippet": {
+          "publishedAt": "2024-11-08T17:04:28Z",
+          "channelId": "UCzRgLWhPY6Ix4IG9TOoBxqg",
+          "title": "✨Ultimate ASMR💎Diamond Painting😍 #diamondpainting #satisfying #asmr #shorts #diy #art #craft #gift",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8-tVlZE_dx4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8-tVlZE_dx4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8-tVlZE_dx4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8-tVlZE_dx4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8-tVlZE_dx4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kaki Mayhall",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "✨Ultimate ASMR💎Diamond Painting😍 #diamondpainting #satisfying #asmr #shorts #diy #art #craft #gift",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "117246662",
+          "likeCount": "1545753",
+          "favoriteCount": "0",
+          "commentCount": "2412"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OFC164tWbOveJjy0rwKMuq17ywU",
+        "id": "ahMigGfqQzg",
+        "snippet": {
+          "publishedAt": "2025-05-24T15:02:37Z",
+          "channelId": "UCjpSpnp5bodk3PJMgEOeV0w",
+          "title": "DRAWING, BUT I MUST USE 25 COLORS🩷🩵FOR MY 25 BIRTHDAY🎂 DID YOU FIND HIDDEN SHELL?🐚 #art #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ahMigGfqQzg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ahMigGfqQzg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ahMigGfqQzg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ahMigGfqQzg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ahMigGfqQzg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lander Art",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DRAWING, BUT I MUST USE 25 COLORS🩷🩵FOR MY 25 BIRTHDAY🎂 DID YOU FIND HIDDEN SHELL?🐚 #art #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT32S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "19020458",
+          "likeCount": "327541",
+          "favoriteCount": "0",
+          "commentCount": "12653"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Kp89_O8okVcoIg14e9ZEs88_wXo",
+        "id": "2kY5aiC9sq8",
+        "snippet": {
+          "publishedAt": "2025-07-11T13:25:23Z",
+          "channelId": "UCuxjNvOp6tZKrnD0unnwmzQ",
+          "title": "IF Huntrix were in Disney 🤫 #shorts #art #kpopdemonhunters",
+          "description": "Seems like Kpop demon hunter's Huntrix are turning into Disney princess\n#shorts #art #fyp",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2kY5aiC9sq8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2kY5aiC9sq8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2kY5aiC9sq8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2kY5aiC9sq8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2kY5aiC9sq8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "CreativeCat Moms",
+          "tags": [
+            "kpop demon hunters",
+            "kpop demon hunters film",
+            "kpop demon hunters edit",
+            "kpop demon hunters movie",
+            "kpop demon hunters music",
+            "kpop demon hunters songs",
+            "kpop demon hunters clips",
+            "kpop demon hunters scenes",
+            "kpop demon hunters netflix",
+            "kpop demon hunters soda pop",
+            "kpop demon hunters best parts",
+            "k-pop demon hunters",
+            "kpop demon hunters soundtrack",
+            "kpop demon hunters how its done",
+            "jinu",
+            "mozy arts",
+            "jinu and rumi",
+            "huntrix",
+            "zoey and mystery",
+            "mira and abby"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "IF Huntrix were in Disney 🤫 #shorts #art #kpopdemonhunters",
+            "description": "Seems like Kpop demon hunter's Huntrix are turning into Disney princess\n#shorts #art #fyp"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2146828",
+          "likeCount": "21597",
+          "favoriteCount": "0",
+          "commentCount": "144"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "wgSNG7jpVPS9iGl-hm4n0n9N-0E",
+        "id": "gBdxS1qnndY",
+        "snippet": {
+          "publishedAt": "2025-04-13T05:26:02Z",
+          "channelId": "UCX3irZyWOVkdi7d7uqp38kg",
+          "title": "The Weirdest Art Supplies I Own… (#shorts)",
+          "description": "The weirdest art supplies I own! Top 10 weirdest art supplies I own! Weird art supplies! Drawing satisfying art video! Ten weird art products I own! \n#artshorts #drawing #art #artsupplies #pens #painting ￼\n\n❗️New Long Video Out Now!\n\n- New gaming channel ​⁠ ​⁠ ​⁠  ​⁠​⁠ @NashVibesGaming ​⁠ ​⁠​⁠​⁠ ​⁠​⁠ ​⁠ ​⁠ ​⁠ ​⁠ ​⁠​⁠ ​⁠ ​⁠ ​⁠​⁠ ​⁠ ​⁠ ​⁠ ​⁠ ​⁠ ​⁠ \n\nStickers, Prints and more!\n- NashVibes Store \n\n- Checkout my NEW Long Video!!!\n\nDon't forget to Subscribe!\n |\n\\/\nMy Socials:\nIG: NashVibes_Art\nTT: NashVibes",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gBdxS1qnndY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gBdxS1qnndY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gBdxS1qnndY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gBdxS1qnndY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gBdxS1qnndY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NashVibes Art",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "The Weirdest Art Supplies I Own… (#shorts)",
+            "description": "The weirdest art supplies I own! Top 10 weirdest art supplies I own! Weird art supplies! Drawing satisfying art video! Ten weird art products I own! \n#artshorts #drawing #art #artsupplies #pens #painting ￼\n\n❗️New Long Video Out Now!\n\n- New gaming channel ​⁠ ​⁠ ​⁠  ​⁠​⁠ @NashVibesGaming ​⁠ ​⁠​⁠​⁠ ​⁠​⁠ ​⁠ ​⁠ ​⁠ ​⁠ ​⁠​⁠ ​⁠ ​⁠ ​⁠​⁠ ​⁠ ​⁠ ​⁠ ​⁠ ​⁠ ​⁠ \n\nStickers, Prints and more!\n- NashVibes Store \n\n- Checkout my NEW Long Video!!!\n\nDon't forget to Subscribe!\n |\n\\/\nMy Socials:\nIG: NashVibes_Art\nTT: NashVibes"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "29317654",
+          "likeCount": "524655",
+          "favoriteCount": "0",
+          "commentCount": "3749"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "n3CL9g1dz1UchCK2lhElx1mcFIE",
+        "id": "p3hXOwE1mBY",
+        "snippet": {
+          "publishedAt": "2025-02-08T11:42:58Z",
+          "channelId": "UCXWjM0L5apQKHu8-YQoihvA",
+          "title": "Large Lippan Art in 200+ hours 😍 #trending #shorts #viralshort #diycraft #diy #craftideas #mirrors",
+          "description": "Large Lippan art in white\nUsing air dry clay, mirrors, acrylic colors.\n\nTo learn the artform in details.. join my Lippan Art Live Masterclass. \nConnect on whatsapp 6382668709 for more details on all our tutorials \n\n#trending #painting #diyideas",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p3hXOwE1mBY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p3hXOwE1mBY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p3hXOwE1mBY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/p3hXOwE1mBY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/p3hXOwE1mBY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Art o' walls",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Large Lippan Art in 200+ hours 😍 #trending #shorts #viralshort #diycraft #diy #craftideas #mirrors",
+            "description": "Large Lippan art in white\nUsing air dry clay, mirrors, acrylic colors.\n\nTo learn the artform in details.. join my Lippan Art Live Masterclass. \nConnect on whatsapp 6382668709 for more details on all our tutorials \n\n#trending #painting #diyideas"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2535687",
+          "likeCount": "54254",
+          "favoriteCount": "0",
+          "commentCount": "328"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "QgFklbU0y1tdBIuaQwP4_hUehys",
+        "id": "2CsFMpbcMmA",
+        "snippet": {
+          "publishedAt": "2024-10-17T23:55:04Z",
+          "channelId": "UCHLsDgq8Hm5v3_ZCauPdyKQ",
+          "title": "Draw Wednesday! #art #drawing #shorts #wednesday #howtodraw #easydraw",
+          "description": "Easy Wednesday drawing tutorial with pencil #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2CsFMpbcMmA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2CsFMpbcMmA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2CsFMpbcMmA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2CsFMpbcMmA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2CsFMpbcMmA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Howard Lee",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Draw Wednesday! #art #drawing #shorts #wednesday #howtodraw #easydraw",
+            "description": "Easy Wednesday drawing tutorial with pencil #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT56S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "78094067",
+          "likeCount": "1932018",
+          "favoriteCount": "0",
+          "commentCount": "15216"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "CgcuW6losnd9l7vPauOsaKeKFDg",
+        "id": "mSBMAtwMeF4",
+        "snippet": {
+          "publishedAt": "2025-04-26T10:01:17Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "Art hacks #art #painting #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mSBMAtwMeF4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mSBMAtwMeF4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mSBMAtwMeF4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mSBMAtwMeF4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mSBMAtwMeF4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "Art hacks #art #painting #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2058477",
+          "likeCount": "34098",
+          "favoriteCount": "0",
+          "commentCount": "250"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "si5_j0gWc58nqMwxY9rKmnTCV3w",
+        "id": "TIfdfjUsxtM",
+        "snippet": {
+          "publishedAt": "2023-02-08T15:08:47Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "Egg kiss lol 🥚😂 #shorts #artist #art #creative #drawing #draw",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TIfdfjUsxtM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TIfdfjUsxtM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TIfdfjUsxtM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TIfdfjUsxtM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TIfdfjUsxtM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Egg kiss lol 🥚😂 #shorts #artist #art #creative #drawing #draw",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT8S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "10801966",
+          "likeCount": "181125",
+          "favoriteCount": "0",
+          "commentCount": "903"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "NEvmqbQ5-z7RUV_6deN-2xNBPgw",
+        "id": "ma9-8EvNHEk",
+        "snippet": {
+          "publishedAt": "2023-02-16T23:35:48Z",
+          "channelId": "UC1PfMFGws_LVHxoBnxzRj8w",
+          "title": "Painting a Rainbow Paintbrush #paint #painting #art #artwork #rainbow #draw #drawing #paintbrush",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ma9-8EvNHEk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ma9-8EvNHEk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ma9-8EvNHEk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ma9-8EvNHEk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ma9-8EvNHEk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Kelly Edelman",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Painting a Rainbow Paintbrush #paint #painting #art #artwork #rainbow #draw #drawing #paintbrush",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT14S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "131476103",
+          "likeCount": "1877471",
+          "favoriteCount": "0",
+          "commentCount": "4147"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "dWFaHwBk-N67PwhVKemavG5ralQ",
+        "id": "mmhjaZNgYQ4",
+        "snippet": {
+          "publishedAt": "2024-10-01T00:45:33Z",
+          "channelId": "UCX3irZyWOVkdi7d7uqp38kg",
+          "title": "Things ALL Artist HATE… (#shorts)",
+          "description": "Art things all artist hate! Drawing art video! Drawing Art things artist hate. Drawing, painting, art video! \n#artshorts #drawing #art #posca #artist #sketching \n\n- New gaming channel ​⁠  ​⁠ ​⁠@NashVibesGaming ​⁠ ​⁠ ​⁠ ​⁠ \n\nStickers, Prints and more!\n- NashVibes Store \n\n- Checkout my NEW Long Video!!!\n\nDon't forget to Subscribe!\n |\n\\/\nMy Socials:\nIG: NashVibes_Art\nTT: NashVibes",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mmhjaZNgYQ4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mmhjaZNgYQ4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mmhjaZNgYQ4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mmhjaZNgYQ4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mmhjaZNgYQ4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NashVibes Art",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Things ALL Artist HATE… (#shorts)",
+            "description": "Art things all artist hate! Drawing art video! Drawing Art things artist hate. Drawing, painting, art video! \n#artshorts #drawing #art #posca #artist #sketching \n\n- New gaming channel ​⁠  ​⁠ ​⁠@NashVibesGaming ​⁠ ​⁠ ​⁠ ​⁠ \n\nStickers, Prints and more!\n- NashVibes Store \n\n- Checkout my NEW Long Video!!!\n\nDon't forget to Subscribe!\n |\n\\/\nMy Socials:\nIG: NashVibes_Art\nTT: NashVibes"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "23237110",
+          "likeCount": "549840",
+          "favoriteCount": "0",
+          "commentCount": "38662"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "u5vQAczEDHXOOo_9xob40Sz5MUc",
+        "id": "OfsUm9tX7pw",
+        "snippet": {
+          "publishedAt": "2025-06-19T16:08:40Z",
+          "channelId": "UCyV_r9DymhshtqlCiGjVNDA",
+          "title": "One stroke ART♥️ #art #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OfsUm9tX7pw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OfsUm9tX7pw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OfsUm9tX7pw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OfsUm9tX7pw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OfsUm9tX7pw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "My Art",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "One stroke ART♥️ #art #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT34S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "653334",
+          "likeCount": "10476",
+          "favoriteCount": "0",
+          "commentCount": "60"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "XSMN3vEdQkrpMHXkihhaSPBzpxo",
+        "id": "QBTkag0QEw8",
+        "snippet": {
+          "publishedAt": "2025-07-30T08:11:02Z",
+          "channelId": "UCqdh3prF3MqEZ9opJPlbi1g",
+          "title": "Creative Art😍✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+          "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QBTkag0QEw8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Mukta easy drawing",
+          "tags": [
+            "Art",
+            "Drawing",
+            "Painting",
+            "How To Draw",
+            "Muktaeasydrawing",
+            "YouTube",
+            "Drawing hacks",
+            "Painting techniques",
+            "Drawing tutorials",
+            "Shorts",
+            "Pencil sketch"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art😍✨#shorts #art #painting #muktaeasydrawing #youtubeshorts",
+            "description": "Very easy drawing step by step.It is a clear-cut,easily understood detailed method to help you.\n\n► Used things\n▬▬▬▬▬▬▬\n1. Pencil Name : DOMS ( ZOOM ULTIMATE DARK ) \n2. Blending Stump(You can use Paint Brush or Cotton Bud's)\n3. Eraser (Rocket Eraser)                          \n\n▽ Visit to my other channel :\n➞ https://www.youtube.com/channel/UC-K2...\n\nVisit to my channel:\n➞ https://www.youtube.com/channel/UCqdh...\n\n.................... Music ♪♫  ......................\n\n..................... ♪♫ .................................\n\n#PencilDrawing   #GirlDrawing  #FaceDrawing   \n\n\n\nرسم فتاة \nكيفية رسم فتاة\nرسم الشعر\nMaskeli bir kız nasıl çizilir\n\n\nIf you like this video please like share & subscribe. \nThank You"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "33647037",
+          "likeCount": "659039",
+          "favoriteCount": "0",
+          "commentCount": "836"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "kMXlJcwEMFLLcPBfCxTVUsNGfEs",
+        "id": "IV1YDH_wNb0",
+        "snippet": {
+          "publishedAt": "2025-05-27T03:42:44Z",
+          "channelId": "UCE_rL-ZWi2ELietwSaMy0eA",
+          "title": "satisfying art| #shorts #video #drawing #painting #art #colors #satisfying #reels",
+          "description": "satisfying art| #shorts #video #drawing #painting #art #colors #satisfying #reels\n\n#art \n#shorts \n#drawing \n#painting \n#satisfying",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IV1YDH_wNb0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IV1YDH_wNb0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IV1YDH_wNb0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/IV1YDH_wNb0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/IV1YDH_wNb0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Art By Sanaya",
+          "tags": [
+            "art by sanaya",
+            "sanaya art and craft",
+            "shorts video",
+            "satisfying video",
+            "satisfying art",
+            "best art supplies",
+            "art supplies",
+            "water drops art",
+            "water drops painting",
+            "watercolor painting techniques",
+            "easy drawing ideas",
+            "easy painting ideas",
+            "colouring video",
+            "dropping video",
+            "song",
+            "gana",
+            "drawing for beginners",
+            "satisfying drawing for beginners"
+          ],
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "satisfying art| #shorts #video #drawing #painting #art #colors #satisfying #reels",
+            "description": "satisfying art| #shorts #video #drawing #painting #art #colors #satisfying #reels\n\n#art \n#shorts \n#drawing \n#painting \n#satisfying"
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT13S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "483699",
+          "favoriteCount": "0",
+          "commentCount": "12"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "FmxcG5AND3JH8xHDzKIzehhzmlE",
+        "id": "E3lpsIoBVbA",
+        "snippet": {
+          "publishedAt": "2025-05-15T10:11:12Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "3D Art #art #drawing #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E3lpsIoBVbA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E3lpsIoBVbA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E3lpsIoBVbA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E3lpsIoBVbA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E3lpsIoBVbA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "3D water drop",
+            "3D love drawing",
+            "easy Drawing",
+            "Farjana Drawing Academy"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "3D Art #art #drawing #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT27S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "654907",
+          "likeCount": "10301",
+          "favoriteCount": "0",
+          "commentCount": "196"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Mt2bT8gu34ZP16XSq6l7S2MRjMI",
+        "id": "8FA0ZxCPOH4",
+        "snippet": {
+          "publishedAt": "2022-06-18T20:07:27Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "Send this to an artist friend 😂❤️ #shorts #art #drawing #artist #draw #painting",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8FA0ZxCPOH4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8FA0ZxCPOH4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8FA0ZxCPOH4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/8FA0ZxCPOH4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/8FA0ZxCPOH4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Send this to an artist friend 😂❤️ #shorts #art #drawing #artist #draw #painting",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT19S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "38152537",
+          "likeCount": "937868",
+          "favoriteCount": "0",
+          "commentCount": "22884"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "5O771IANN0NbQyIY4rD_bhXKUuI",
+        "id": "UIQgz5SY-co",
+        "snippet": {
+          "publishedAt": "2025-04-14T10:00:43Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "#art #painting #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UIQgz5SY-co/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UIQgz5SY-co/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UIQgz5SY-co/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UIQgz5SY-co/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UIQgz5SY-co/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "Farjana Drawing Academy",
+            "Art ideas",
+            "watercolour painting",
+            "easy painting"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "#art #painting #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT37S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "1813700",
+          "likeCount": "44205",
+          "favoriteCount": "0",
+          "commentCount": "367"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "gHqGJySB8MYJBunkVM6YL6-1YyM",
+        "id": "QjGDg9fZEbY",
+        "snippet": {
+          "publishedAt": "2023-03-10T17:44:02Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "Which is the real one? 🍳🤔 #shorts #artist #drawing #art #painting #creative #draw",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/QjGDg9fZEbY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Which is the real one? 🍳🤔 #shorts #artist #drawing #art #painting #creative #draw",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT16S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "12185784",
+          "likeCount": "241621",
+          "favoriteCount": "0",
+          "commentCount": "128318"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "8u8eB6ZB8D0d7-YB1WPQsSSqWpU",
+        "id": "POXv7QEIimM",
+        "snippet": {
+          "publishedAt": "2023-03-17T22:33:09Z",
+          "channelId": "UCk1HnZpqA3HDHkiAbMnGFaA",
+          "title": "Send this to an artist 🤭❤️ #shorts #art #drawing #artist #painting #draw",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/POXv7QEIimM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/POXv7QEIimM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/POXv7QEIimM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/POXv7QEIimM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/POXv7QEIimM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Yasmin Art Drawing",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Send this to an artist 🤭❤️ #shorts #art #drawing #artist #painting #draw",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT20S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "11063982",
+          "likeCount": "147584",
+          "favoriteCount": "0",
+          "commentCount": "9677"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "ybBOEZFz6dVLtmNuaVW_mY1lCOU",
+        "id": "rJEplYePZng",
+        "snippet": {
+          "publishedAt": "2024-07-31T19:50:33Z",
+          "channelId": "UCstSHxOsrY1jM2Va15fGcmQ",
+          "title": "King Of Illusion 👑",
+          "description": "This guy has a hole in his hand! Well, not really, because he is the king of illusions. He can create art that will make you question your own eyes and brain. For instance, in this clip, he starts painting his hand with pitch-black color, and in just a matter of seconds, it looks like his hand is being squeezed by some threads. His best work till date is this one where he paints his fingers to make them disappear and then adds red paint to make it look like his fingers have been cut. Yet, he still gets only 2 likes.\n\n#shortsfeed #shorts #illusion #art #artwork #satisfying #trending",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rJEplYePZng/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rJEplYePZng/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rJEplYePZng/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rJEplYePZng/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rJEplYePZng/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "DOD Stories",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "King Of Illusion 👑",
+            "description": "This guy has a hole in his hand! Well, not really, because he is the king of illusions. He can create art that will make you question your own eyes and brain. For instance, in this clip, he starts painting his hand with pitch-black color, and in just a matter of seconds, it looks like his hand is being squeezed by some threads. His best work till date is this one where he paints his fingers to make them disappear and then adds red paint to make it look like his fingers have been cut. Yet, he still gets only 2 likes.\n\n#shortsfeed #shorts #illusion #art #artwork #satisfying #trending"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT25S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "25360393",
+          "likeCount": "616113",
+          "favoriteCount": "0",
+          "commentCount": "2634"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Me0FbmqEHwd0r0KNkBbhzPicCT0",
+        "id": "al-GR0WBsWg",
+        "snippet": {
+          "publishedAt": "2025-04-17T23:35:17Z",
+          "channelId": "UCHLsDgq8Hm5v3_ZCauPdyKQ",
+          "title": "Draw a Strawberry #art #drawing #shorts #strawberry #illusion #pencildrawing #howtodraw #easydraw",
+          "description": "Strawberry drawing tutorial with pencil #shorts",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/al-GR0WBsWg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/al-GR0WBsWg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/al-GR0WBsWg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/al-GR0WBsWg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/al-GR0WBsWg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Howard Lee",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-GB",
+          "localized": {
+            "title": "Draw a Strawberry #art #drawing #shorts #strawberry #illusion #pencildrawing #howtodraw #easydraw",
+            "description": "Strawberry drawing tutorial with pencil #shorts"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT40S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "76079955",
+          "likeCount": "570506",
+          "favoriteCount": "0",
+          "commentCount": "3156"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "HpoDjQzzWGe9QaABoROsOgyv4RM",
+        "id": "TyqMrU_hgUY",
+        "snippet": {
+          "publishedAt": "2025-08-13T14:43:50Z",
+          "channelId": "UCjpSpnp5bodk3PJMgEOeV0w",
+          "title": "CAN I DRAW WITH BROKEN HAND?😱 #wednesday #art #short",
+          "description": "- character: wednesday addams //\n- series: wednesday\n\n#jennaortega #emmamyers #wednesday #mtvmovies #Shorts #wednesdaysong #wednesdaymotivation #wednesdaydance #wednesdayshorts #wednesdaywisdom #wednesdayaddamsedit \n\nWednesday season 2 , drawing, art, pencil portrait by Lander Art \n\n#shorts #netflix\n\nAddams family\nLady Gaga song Bloody Mary \nWednesday: Season 2 | Netflix | Dance Scene",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TyqMrU_hgUY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TyqMrU_hgUY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TyqMrU_hgUY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TyqMrU_hgUY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TyqMrU_hgUY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Lander Art",
+          "categoryId": "22",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "CAN I DRAW WITH BROKEN HAND?😱 #wednesday #art #short",
+            "description": "- character: wednesday addams //\n- series: wednesday\n\n#jennaortega #emmamyers #wednesday #mtvmovies #Shorts #wednesdaysong #wednesdaymotivation #wednesdaydance #wednesdayshorts #wednesdaywisdom #wednesdayaddamsedit \n\nWednesday season 2 , drawing, art, pencil portrait by Lander Art \n\n#shorts #netflix\n\nAddams family\nLady Gaga song Bloody Mary \nWednesday: Season 2 | Netflix | Dance Scene"
+          },
+          "defaultAudioLanguage": "en-US"
+        },
+        "contentDetails": {
+          "duration": "PT30S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2904302",
+          "likeCount": "58546",
+          "favoriteCount": "0",
+          "commentCount": "882"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "UOYEsr5WrIqro-4PjxQYL81Usto",
+        "id": "ceUA6OWTLjQ",
+        "snippet": {
+          "publishedAt": "2024-09-29T19:31:24Z",
+          "channelId": "UCyV_r9DymhshtqlCiGjVNDA",
+          "title": "Art for IPhone 16💕💕💕#shorts #trending #painting",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ceUA6OWTLjQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ceUA6OWTLjQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ceUA6OWTLjQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ceUA6OWTLjQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ceUA6OWTLjQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "My Art",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Art for IPhone 16💕💕💕#shorts #trending #painting",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT36S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "regionRestriction": {
+            "blocked": [
+              "BY",
+              "RU"
+            ]
+          },
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "8634556",
+          "likeCount": "209246",
+          "favoriteCount": "0",
+          "commentCount": "669"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "-wviy17CD7qkh5Bqk9s3xD6zBnw",
+        "id": "vk-Wh0hOvEM",
+        "snippet": {
+          "publishedAt": "2025-07-18T04:25:36Z",
+          "channelId": "UC6ARwyr_g2yoErVs3H9FEFw",
+          "title": "Colorful Art Drawing Video | Colorful Magical Art idea #viralshort #shortsfeed #shorts #craft #diy",
+          "description": "Colorful Art Drawing Video | Colorful Magical Art idea #viralshort #shortsfeed #shorts #craft #diy #youtubeshorts #youtubepartner #kidschannel #kidscraft #craftideas #kidsactivities #ytshorts #ytshortsindia #trending #short \n\n\n\n\n\ncolorful art drawing\n\n\ncolorful art world\n\n\ncolorful artwork\n\n\ncolorful art painting\n\n\ncolorful art hub\n\n\ncolorful art and craft\n\n\ncolorful art and rangoli",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vk-Wh0hOvEM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vk-Wh0hOvEM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vk-Wh0hOvEM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vk-Wh0hOvEM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vk-Wh0hOvEM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Tahreen khanam",
+          "tags": [
+            "colorful art drawing",
+            "colorful art world",
+            "colorful artwork",
+            "colorful art painting",
+            "colorful art hub",
+            "colorful art and craft",
+            "colorful art and rangoli"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "hi",
+          "localized": {
+            "title": "Colorful Art Drawing Video | Colorful Magical Art idea #viralshort #shortsfeed #shorts #craft #diy",
+            "description": "Colorful Art Drawing Video | Colorful Magical Art idea #viralshort #shortsfeed #shorts #craft #diy #youtubeshorts #youtubepartner #kidschannel #kidscraft #craftideas #kidsactivities #ytshorts #ytshortsindia #trending #short \n\n\n\n\n\ncolorful art drawing\n\n\ncolorful art world\n\n\ncolorful artwork\n\n\ncolorful art painting\n\n\ncolorful art hub\n\n\ncolorful art and craft\n\n\ncolorful art and rangoli"
+          },
+          "defaultAudioLanguage": "ay"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "244554048",
+          "likeCount": "1115550",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "2TJImJp5Vt34gLGTH7DkdkqZyfo",
+        "id": "q1IkOfRjze4",
+        "snippet": {
+          "publishedAt": "2025-08-13T08:37:11Z",
+          "channelId": "UCt85BA_hmXl2hz6fbYCKMKQ",
+          "title": "Painting Butterfly with Sea Shell🦋😱 #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q1IkOfRjze4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q1IkOfRjze4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q1IkOfRjze4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/q1IkOfRjze4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/q1IkOfRjze4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Paintellectual PriyA",
+          "tags": [
+            "paintellectualpriya",
+            "paintellectual priya",
+            "diy videos",
+            "art videos",
+            "diy craft",
+            "easy art",
+            "easy craft",
+            "Diy home decor",
+            "Home decor diy",
+            "Easy clay craft",
+            "Things to do when bored",
+            "Easy home decor idea with paper",
+            "easy wall hanging idea",
+            "easy craft ideas from paper",
+            "easy felt sheet craft ideas",
+            "how to make butterfly",
+            "how to paint butterfly",
+            "how to do modern art",
+            "diy painting for home"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Painting Butterfly with Sea Shell🦋😱 #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "hi"
+        },
+        "contentDetails": {
+          "duration": "PT39S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "38371320",
+          "likeCount": "469371",
+          "favoriteCount": "0",
+          "commentCount": "988"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "97Z95K5ZObiT5FPd7_UKl_8KZsg",
+        "id": "omok_z8ozyM",
+        "snippet": {
+          "publishedAt": "2025-05-12T16:28:00Z",
+          "channelId": "UCwTRFmO9SMBqfOhT2qR4ljA",
+          "title": "💦 DIY bottle squishy 💖💙 #shorts #youtubeshorts #art #craft",
+          "description": "💦 DIY bottle squishy 💖💙 #shorts #youtubeshorts #art #craft\n\nI am back with a fun DIY. In this video, I am going to show special craft at home. If you like the video please like and share the video for inspiration.\n\nFor more videos please subscribe: https://www.youtube.com/channel/UCwTRFmO9SMBqfOhT2qR4ljA\n\n#diy #diycrafts #crafts #creative #craftideas #satisfying #handmade #howtomake #artandcraft #artist #squishy #artcraft #easycraft #tutorial #cutecraft #papercraft",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/omok_z8ozyM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/omok_z8ozyM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/omok_z8ozyM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/omok_z8ozyM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/omok_z8ozyM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "AR art and craft",
+          "tags": [
+            "shorts",
+            "youtubeshorts",
+            "art",
+            "craft",
+            "love",
+            "satisfying",
+            "creative",
+            "crafts",
+            "craftideas",
+            "handmade",
+            "howtomake",
+            "squishy",
+            "tutorial",
+            "diybottlesquishy",
+            "diywatersquishy",
+            "diysquishy",
+            "diy",
+            "diycrafts",
+            "artist",
+            "artandcraft",
+            "arartandcraft",
+            "artandcraftideas",
+            "easycraft",
+            "craftwithwaterbottle",
+            "diywaterbottlesquishy",
+            "artcraft",
+            "diybubblebottlesquishy",
+            "nopapersquishy",
+            "cutediynopapersquishy",
+            "easydiysquishy",
+            "cutecraft",
+            "papercraft",
+            "funcraft",
+            "stressreliefcraft"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "💦 DIY bottle squishy 💖💙 #shorts #youtubeshorts #art #craft",
+            "description": "💦 DIY bottle squishy 💖💙 #shorts #youtubeshorts #art #craft\n\nI am back with a fun DIY. In this video, I am going to show special craft at home. If you like the video please like and share the video for inspiration.\n\nFor more videos please subscribe: https://www.youtube.com/channel/UCwTRFmO9SMBqfOhT2qR4ljA\n\n#diy #diycrafts #crafts #creative #craftideas #satisfying #handmade #howtomake #artandcraft #artist #squishy #artcraft #easycraft #tutorial #cutecraft #papercraft"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT12S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "2616338",
+          "likeCount": "11521",
+          "favoriteCount": "0",
+          "commentCount": "174"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "OCA2MxNSWSWs00qloZEU74dz9Ps",
+        "id": "Z9CvJ7VNwrA",
+        "snippet": {
+          "publishedAt": "2025-08-31T10:55:34Z",
+          "channelId": "UCd3s7BuoOlu4bRJL6RdGWXw",
+          "title": "#art #painting #shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z9CvJ7VNwrA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z9CvJ7VNwrA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z9CvJ7VNwrA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Z9CvJ7VNwrA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Z9CvJ7VNwrA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Farjana Drawing Academy",
+          "tags": [
+            "Farjana Drawing Academy",
+            "Painting hacks",
+            "easy painting ideas",
+            "cool art ideas"
+          ],
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en-US",
+          "localized": {
+            "title": "#art #painting #shorts",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT15S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "192649",
+          "likeCount": "3729",
+          "favoriteCount": "0",
+          "commentCount": "158"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Ha7khKKw1kTJhX_2_K5oXU2w2tw",
+        "id": "oNJwzhnLGgY",
+        "snippet": {
+          "publishedAt": "2025-05-08T13:01:36Z",
+          "channelId": "UCcVLr2oFhRFSx3mcOlMZRTQ",
+          "title": "Creative Art Hack How to Use Acrylic Markers #shorts #arthacks",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oNJwzhnLGgY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oNJwzhnLGgY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oNJwzhnLGgY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/oNJwzhnLGgY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/oNJwzhnLGgY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Melli Art School",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Creative Art Hack How to Use Acrylic Markers #shorts #arthacks",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT29S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "205051680",
+          "likeCount": "1471510",
+          "favoriteCount": "0",
+          "commentCount": "0"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "Cnucx5zJzk1OisnEmp0fMPuC5tE",
+        "id": "uXaEKga4aIc",
+        "snippet": {
+          "publishedAt": "2024-09-06T02:21:42Z",
+          "channelId": "UCX3irZyWOVkdi7d7uqp38kg",
+          "title": "Drawing, But Cheap VS Expensive… (#shorts)",
+          "description": "Drawing but cheap vs expensive! Drawing with cheap paint markers vs expensive paint markers! Drawing satisfying art video! Cheap vs expensive art! Drawing with Posca paint markers!\n#artshorts #drawing #art #markers #artchallenge #satisfying #artist \n\n- New gaming channel ​⁠  @NashVibesGaming ​⁠ \n\nStickers, Prints and more!\n- NashVibes Store \n\n- Checkout my NEW Long Video!!!\n\nDon't forget to Subscribe!\n |\n\\/\nMy Socials:\nIG: NashVibes_Art\nTT: NashVibes",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uXaEKga4aIc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uXaEKga4aIc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uXaEKga4aIc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uXaEKga4aIc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uXaEKga4aIc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "NashVibes Art",
+          "categoryId": "24",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Drawing, But Cheap VS Expensive… (#shorts)",
+            "description": "Drawing but cheap vs expensive! Drawing with cheap paint markers vs expensive paint markers! Drawing satisfying art video! Cheap vs expensive art! Drawing with Posca paint markers!\n#artshorts #drawing #art #markers #artchallenge #satisfying #artist \n\n- New gaming channel ​⁠  @NashVibesGaming ​⁠ \n\nStickers, Prints and more!\n- NashVibes Store \n\n- Checkout my NEW Long Video!!!\n\nDon't forget to Subscribe!\n |\n\\/\nMy Socials:\nIG: NashVibes_Art\nTT: NashVibes"
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "21541430",
+          "likeCount": "460962",
+          "favoriteCount": "0",
+          "commentCount": "17557"
+        }
+      },
+      {
+        "kind": "youtube#video",
+        "etag": "PYQJ7ry6zw3MhM9VC2hZmuJZnw4",
+        "id": "4nsiNOhP5AI",
+        "snippet": {
+          "publishedAt": "2025-09-02T13:05:36Z",
+          "channelId": "UCr8CGgjyJpgdLVy8Duu2IrA",
+          "title": "DIY Perfume😱 #crafteraditi #handmade #DIY #shorts #diyperfume #craft #artshorts @CrafterAditi",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4nsiNOhP5AI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4nsiNOhP5AI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4nsiNOhP5AI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4nsiNOhP5AI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4nsiNOhP5AI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Crafter Aditi",
+          "categoryId": "26",
+          "liveBroadcastContent": "none",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "DIY Perfume😱 #crafteraditi #handmade #DIY #shorts #diyperfume #craft #artshorts @CrafterAditi",
+            "description": ""
+          },
+          "defaultAudioLanguage": "en-IN"
+        },
+        "contentDetails": {
+          "duration": "PT1M",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "6237103",
+          "likeCount": "204145",
+          "favoriteCount": "0",
+          "commentCount": "1279"
+        }
+      }
+    ],
+    "pageInfo": {
+      "totalResults": 50,
+      "resultsPerPage": 50
+    }
+  }
+}
