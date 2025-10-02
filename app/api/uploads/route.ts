@@ -26,16 +26,19 @@ function parseNumber(value: FormDataEntryValue | null, fallback = 0) {
 }
 
 export async function GET(request: Request) {
-  const { searchParams } = new URL(request.url)
-  const userId = searchParams.get('userId')
-  const channelId = searchParams.get('channelId')
-  const channelName = searchParams.get('channelName')
-  const userRegion = searchParams.get('userRegion') // User's selected region
-  const requestUserId = searchParams.get('requestUserId') // For personalization
-  const feedMode = searchParams.get('feedMode') as keyof typeof FEED_PRESETS // 'balanced', 'trending', etc.
-  const useAlgorithm = searchParams.get('algorithm') !== 'false' // Default to true
+  try {
+    const { searchParams } = new URL(request.url)
+    const userId = searchParams.get('userId')
+    const channelId = searchParams.get('channelId')
+    const channelName = searchParams.get('channelName')
+    const userRegion = searchParams.get('userRegion') // User's selected region
+    const requestUserId = searchParams.get('requestUserId') // For personalization
+    const feedMode = searchParams.get('feedMode') as keyof typeof FEED_PRESETS // 'balanced', 'trending', etc.
+    const useAlgorithm = searchParams.get('algorithm') !== 'false' // Default to true
 
-  const uploads = await readUploads()
+    // For now, return empty arrays on Vercel (file system not available)
+    // TODO: Connect to WordPress API
+    const uploads = []
 
   // Use provided channel info or fallback to default profile
   let channelInfo
@@ -85,6 +88,11 @@ export async function GET(request: Request) {
   const shorts = processedShorts.map((upload) => mapStoredUploadToVideo(upload, channelInfo))
 
   return NextResponse.json({ videos, shorts })
+  } catch (error) {
+    console.error('Error in GET /api/uploads:', error)
+    // Return empty arrays instead of failing
+    return NextResponse.json({ videos: [], shorts: [] })
+  }
 }
 
 export async function POST(request: Request) {
