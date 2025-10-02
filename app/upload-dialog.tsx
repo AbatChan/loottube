@@ -15,6 +15,9 @@ import { YOUTUBE_CATEGORIES, VISIBILITY_OPTIONS } from "@/lib/upload-constants"
 import { getCurrentUser } from "@/lib/userAuth"
 import { notifySubscribersOfNewUpload } from "@/lib/notifications"
 
+// Max file size in MB (should match API route config)
+const MAX_FILE_SIZE_MB = 1024 // 1GB
+
 interface UploadDialogProps {
   open: boolean
   onOpenChange: (open: boolean) => void
@@ -114,7 +117,14 @@ export function UploadDialog({ open, onOpenChange, onUploadComplete }: UploadDia
   const handleFileSelect = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0]
     if (file) {
+      const fileSizeMB = file.size / (1024 * 1024)
+      if (fileSizeMB > MAX_FILE_SIZE_MB) {
+        setErrorMessage(`File size exceeds ${MAX_FILE_SIZE_MB >= 1024 ? MAX_FILE_SIZE_MB / 1024 + 'GB' : MAX_FILE_SIZE_MB + 'MB'} limit`)
+        setSelectedFile(null)
+        return
+      }
       setSelectedFile(file)
+      setErrorMessage(null)
       const detectedDuration = await computeVideoDuration(file)
       setDuration(detectedDuration ?? 0)
     }
@@ -242,9 +252,12 @@ export function UploadDialog({ open, onOpenChange, onUploadComplete }: UploadDia
             </Button>
             {selectedFile && (
               <p className="text-sm text-muted-foreground">
-                Selected: {selectedFile.name}
+                Selected: {selectedFile.name} ({(selectedFile.size / (1024 * 1024)).toFixed(2)} MB)
               </p>
             )}
+            <p className="text-xs text-muted-foreground">
+              Maximum file size: {MAX_FILE_SIZE_MB >= 1024 ? `${MAX_FILE_SIZE_MB / 1024}GB` : `${MAX_FILE_SIZE_MB}MB`}
+            </p>
           </div>
 
           <div className="grid gap-2">
