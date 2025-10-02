@@ -43,9 +43,16 @@ export function Header({
 
   return (
     <header className="sticky top-0 z-50 flex h-14 items-center justify-between bg-background/95 px-4 shadow-[0_1px_0_0_rgba(15,23,42,0.08)] backdrop-blur supports-[backdrop-filter]:backdrop-blur dark:bg-background/80 dark:shadow-[0_1px_0_0_rgba(148,163,184,0.2)]">
-      <Link href="/" className="flex items-center space-x-2">
-        <Logo variant={isMobile ? 'small' : 'default'} linkWrapper={false} />
-      </Link>
+      <div className="flex items-center space-x-3">
+        <Link href="/" className="flex items-center">
+          <Logo variant={isMobile ? 'small' : 'default'} linkWrapper={false} />
+        </Link>
+        {!isMobile && (
+          <span className="text-sm italic text-muted-foreground/70">
+            for my grandparents
+          </span>
+        )}
+      </div>
       
       {isMobile ? (
         <Dialog open={isSearchOpen} onOpenChange={setIsSearchOpen}>
